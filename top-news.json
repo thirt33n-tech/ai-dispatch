@@ -6,7 +6,7 @@
     "lead1": "チーム向け新機能Claude Tagが登場。共有ワークフローとコラボを根本から変革する最大級アップデート。",
     "lead2": "UI/UXの大刷新第3弾。LLMとの関係性を再定義する新時代を象徴。",
     "manga_url": "news/top1_manga.png",
-    "video_url": "https://www.youtube.com/watch?v=eAVW_X_KgTc"
+    "video_url": ""
   },
   "heroVideoUrl": "https://www.youtube.com/shorts/N-YfnTXIEIo",
   "editorsDesk": {
@@ -43,13 +43,34 @@
     }
   ],
   "topList": [
-    {"rank": 4, "title": "中国スーパーコンピューター、世界最速に返り咲き"},
-    {"rank": 5, "title": "AIが焼失パピルスを解読、歴史的発見"},
-    {"rank": 6, "title": "ChatGPTシェア初の50%割れ、競争激化"},
-    {"rank": 7, "title": "Public AI運動が欧州で活発化"},
-    {"rank": 8, "title": "AIデータセンターのエネルギー消費が課題に"},
-    {"rank": 9, "title": "2026年はマルチエージェントAIの本格元年"},
-    {"rank": 10, "title": "NVIDIA×NAIRRで米公的AI研究基盤強化"}
+    {
+      "rank": 4,
+      "title": "中国スーパーコンピューター、世界最速に返り咲き"
+    },
+    {
+      "rank": 5,
+      "title": "AIが焼失パピルスを解読、歴史的発見"
+    },
+    {
+      "rank": 6,
+      "title": "ChatGPTシェア初の50%割れ、競争激化"
+    },
+    {
+      "rank": 7,
+      "title": "Public AI運動が欧州で活発化"
+    },
+    {
+      "rank": 8,
+      "title": "AIデータセンターのエネルギー消費が課題に"
+    },
+    {
+      "rank": 9,
+      "title": "2026年はマルチエージェントAIの本格元年"
+    },
+    {
+      "rank": 10,
+      "title": "NVIDIA×NAIRRで米公的AI研究基盤強化"
+    }
   ],
   "archive": [
     {
