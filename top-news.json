@@ -1,57 +1,63 @@
 {
   "githubUrl": "https://github.com/thirt33n-tech",
-  "dispatchNo": 147,
+  "dispatchNo": 148,
   "dateLabel": "2026.06.24",
-
   "fixedMangaUrl": "news/kof_manga.jpg",
-
   "top1": {
-    "title": "Sakana AI、複数AIを束ねた新モデルの一般提供を開始",
-    "lead1": "Sakana AI（東京・港）が22日、複数のAIを束ねた新モデルの一般提供を発表。",
-    "lead2": "同日、PFN（東京・千代田）も日本語に強い低コストAIの提供を開始した。",
+    "title": "AIエージェントの巨額請求が「絶対的悪夢」に、企業対応急ぐ",
+    "lead1": "The Economistが報じた。AIエージェントの処理能力向上により企業に高額クラウド請求が急増。",
+    "lead2": "幹部「悪夢になる」と警告。使用制限・最適化ツールの導入が加速。",
     "manga_url": "news/top1_manga.png",
-    "video_url": "https://youtube.com/shorts/N-YfnTXIEIo"
+    "video_url": ""
   },
-
-  "heroVideoUrl": "https://youtube.com/shorts/HoT4eWQnuPU",
-
+  "heroVideoUrl": "",
   "editorsDesk": {
     "recImg": "news/kof_manga.jpg",
-    "recTitle": "半導体メモリ戦争、ふたたび",
-    "recNote": "SK HynixがSamsungを逆転。AIメモリ需要の地殻変動を4コマで。",
+    "recTitle": "AIコスト危機の行方",
+    "recNote": "エージェント時代の真のコストを4コマ漫画で解説。",
     "bonusPoster": "news/bonus_anime_thumb.jpg",
     "bonusTitle": "今日のおまけアニメ",
-    "bonusNote": "気分で作った短編アニメ。クリックで再生。"
+    "bonusNote": "AIエージェント暴走ショートアニメをクリックで再生。"
   },
-
   "breaking": [
-    "AIが女性描写でジェンダーバイアスを再現、UN Womenが警告",
-    "NVIDIA、バイオテック向けエージェントAIに注力",
-    "Microsoft、M365向け自律エージェント「Scout」を発表",
-    "OpenAI、Codexに業務プラグインとChatGPT連携を拡張",
-    "SK Hynix、AIメモリ需要でSamsungを逆転",
-    "AIが2026 W杯を巨大ミーム工場に",
-    "国連オープンソース週間2026、持続可能なAIに焦点",
-    "AI投資懸念とハイテク売りで株式市場が下落"
+    "Forbes 2026 AI 50発表　Anthropic3800億ドル評価で急成長",
+    "MetaがOpenAI研究者4名を大量獲得",
+    "VS CodeがGitHub不要の完全オフラインAIモード追加",
+    "中国製低価格AIモデルが米国市場で顧客急増",
+    "AI尿薬物検査システムが臨床効率23%向上（JAMA）",
+    "IBM Research「生成コンピューティング」で次世代AI推進",
+    "LLM高品質データ枯渇「2026年問題」が再燃",
+    "Claude Coworkなど類似AIエージェントが6社乱立"
   ],
-
   "topCards": [
-    { "rank": "2", "category": "IPO", "accent": "#3CE7F2", "title": "Anthropic、IPOへ機密S-1を提出", "summary": "Claude開発元のAnthropicがIPO準備。機密S-1提出で公開市場接近、AI企業の大規模上場ラッシュが加速。", "date": "2026.06.24" },
-    { "rank": "3", "category": "INFRA", "accent": "#FF3D5E", "title": "Googleデータセンター、AIブームの電力需要が顕在化", "summary": "AIデータセンター急拡大で電力・地域課題が顕在化。Google施設内部をNightlineが独占公開。", "date": "2026.06.24" }
+    {
+      "rank": "2",
+      "category": "BUSINESS",
+      "accent": "#3CE7F2",
+      "title": "Forbes AI 50でAnthropic・OpenAIが圧倒",
+      "summary": "両社合計調達額約2430億ドル。Anthropic評価3800億ドル、ClaudeがApp Storeダウンロード1位に。",
+      "date": "2026.06.24"
+    },
+    {
+      "rank": "3",
+      "category": "TECH",
+      "accent": "#FF3D5E",
+      "title": "VS Code、Ollama対応でair-gapped環境を本格支援",
+      "summary": "GitHubサインイン不要のローカルLLMでチャット・ツール・MCP利用可能に。オフライン開発革命。",
+      "date": "2026.06.24"
+    }
   ],
-
   "topList": [
-    { "rank": "4", "title": "NVIDIA、バイオテック向けエージェントAIに本格参入", "date": "06.24" },
-    { "rank": "5", "title": "Microsoft、M365 Copilotに自律エージェント「Scout」を統合", "date": "06.24" },
-    { "rank": "6", "title": "OpenAI、Codexに業務プラグインとChatGPT連携を拡張", "date": "06.23" },
-    { "rank": "7", "title": "SK Hynix、AIメモリ需要でSamsungを逆転", "date": "06.23" },
-    { "rank": "8", "title": "AIが2026 W杯を巨大ミーム工場に", "date": "06.23" },
-    { "rank": "9", "title": "国連オープンソース週間2026、持続可能なAIに焦点", "date": "06.22" },
-    { "rank": "10", "title": "AI投資懸念とハイテク売りで株式市場が下落", "date": "06.22" }
+    { "rank": "4", "title": "中国製安価AIが米国で急拡大「これで状況が変わる」", "date": "06.24" },
+    { "rank": "5", "title": "Meta、OpenAI研究者4名を引き抜き", "date": "06.24" },
+    { "rank": "6", "title": "臨床AIが尿検査サインアウト時間を28.5秒短縮", "date": "06.24" },
+    { "rank": "7", "title": "IBM、次は生成コンピューティングで企業AI革新", "date": "06.23" },
+    { "rank": "8", "title": "2026年問題：LLM学習データ枯渇の危機再燃", "date": "06.23" },
+    { "rank": "9", "title": "AIツール乱立時代「どれを選ぶべきか」議論活発化", "date": "06.23" },
+    { "rank": "10", "title": "Wolters Kluwer、GenAIとAgentic AIを本格展開", "date": "06.22" }
   ],
-
   "archive": [
-    { "no": 147, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png" },
+    { "no": 147, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "Sakana AI、複数AIを束ねた新モデルの一般提供を開始" },
     { "no": 146, "kind": "📖 漫画", "date": "06.23", "img": "news/kof_manga.jpg" },
     { "no": 145, "kind": "▶ アニメ", "date": "06.22", "title": "AIエージェント暴走の回" },
     { "no": 144, "kind": "📖 漫画", "date": "06.21", "title": "半導体戦争、再び" },
