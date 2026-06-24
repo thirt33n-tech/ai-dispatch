@@ -87,19 +87,22 @@
       "no": 145,
       "kind": "▶ アニメ",
       "date": "06.22",
-      "title": "AIエージェント暴走の回"
+      "title": "AIエージェント暴走の回",
+      "video_url": "https://www.youtube.com/shorts/N-YfnTXIEIo"
     },
     {
       "no": 144,
       "kind": "📖 漫画",
       "date": "06.21",
-      "title": "半導体戦争、再び"
+      "title": "Sakana Fugu の衝撃",
+      "img": "news/archive_144.jpg"
     },
     {
       "no": 143,
-      "kind": "▶ アニメ",
+      "kind": "📖 漫画",
       "date": "06.20",
-      "title": "データセンターと電力"
+      "title": "AI新モデル乱立",
+      "img": "news/archive_143.jpg"
     },
     {
       "no": 142,
