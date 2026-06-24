@@ -8,11 +8,14 @@
     "manga_url": "news/top1_manga.png",
     "video_url": "https://youtube.com/shorts/qmxx9QitvuU"
   },
-  "heroVideoUrl": "",
+  "heroVideoUrl": "https://www.youtube.com/shorts/N-YfnTXIEIo",
   "editorsDesk": {
-    "comment": "AIがサイバー脅威を先回りして守る時代へ。OpenAIのDaybreakは防御者優位を確立する転機となる。",
-    "animeTitle": "",
-    "animeUrl": ""
+    "recImg": "news/top1_manga.png",
+    "recTitle": "GPT-5.5-Cyber、防御で85.6%",
+    "recNote": "AIがサイバー脅威を先回りして守る時代へ。OpenAIのDaybreakは防御者優位を確立する転機となる。",
+    "bonusPoster": "news/archive_144.jpg",
+    "bonusTitle": "Sakana Fugu の衝撃",
+    "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
     "Anthropic、Slack内にワークプレイスAIエージェント直接統合",
