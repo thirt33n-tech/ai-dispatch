@@ -1,12 +1,12 @@
 {
-  "dispatchNo": 151,
+  "dispatchNo": "148",
   "dateLabel": "2026.06.24",
   "top1": {
     "title": "OpenAI、GPT-5.5-Cyber強化 サイバー防御85.6%達成",
     "lead1": "Mythos 5超えの性能でDaybreak拡大。オープンソースの脆弱性を自動検知・修正し防御を加速。",
     "lead2": "信頼された防御者に限定提供。コードベース全体を深く解析し実環境でパッチ検証まで自動化。",
     "manga_url": "news/top1_manga.png",
-    "video_url": ""
+    "video_url": "https://youtube.com/shorts/qmxx9QitvuU"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -40,26 +40,85 @@
     }
   ],
   "topList": [
-    {"rank": 4, "title": "Meta、AI学習用従業員行動追跡を一時停止"},
-    {"rank": 5, "title": "OpenAI、共有AI標準構築でAppia Foundation設立支援"},
-    {"rank": 6, "title": "トランプ政権がAIイノベーション・セキュリティ大統領令"},
-    {"rank": 7, "title": "AIデータセンターのエネルギー消費問題が深刻化"},
-    {"rank": 8, "title": "Google SearchがAIエージェントで根本的刷新"},
-    {"rank": 9, "title": "中国スーパーコンピューターが世界最速に返り咲き"},
-    {"rank": 10, "title": "HIMSS AI Leadership Summit Bostonが本日開催"}
+    {
+      "rank": 4,
+      "title": "Meta、AI学習用従業員行動追跡を一時停止"
+    },
+    {
+      "rank": 5,
+      "title": "OpenAI、共有AI標準構築でAppia Foundation設立支援"
+    },
+    {
+      "rank": 6,
+      "title": "トランプ政権がAIイノベーション・セキュリティ大統領令"
+    },
+    {
+      "rank": 7,
+      "title": "AIデータセンターのエネルギー消費問題が深刻化"
+    },
+    {
+      "rank": 8,
+      "title": "Google SearchがAIエージェントで根本的刷新"
+    },
+    {
+      "rank": 9,
+      "title": "中国スーパーコンピューターが世界最速に返り咲き"
+    },
+    {
+      "rank": 10,
+      "title": "HIMSS AI Leadership Summit Bostonが本日開催"
+    }
   ],
   "archive": [
-    { "no": 150, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "ソフトバンク、2027年から国産AIサーバー製造　孫氏「4分野で世界一のAI企業に」" },
-    { "no": 149, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "ソフトバンク、AIサーバー製造事業に参入" },
-    { "no": 148, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "AIエージェントの巨額請求が「絶対的悪夢」に、企業対応急ぐ" },
-    { "no": 147, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "Sakana AI、複数AIを束ねた新モデルの一般提供を開始" },
-    { "no": 146, "kind": "📖 漫画", "date": "06.23", "img": "news/kof_manga.jpg" },
-    { "no": 145, "kind": "▶ アニメ", "date": "06.22", "title": "AIエージェント暴走の回" },
-    { "no": 144, "kind": "📖 漫画", "date": "06.21", "title": "半導体戦争、再び" },
-    { "no": 143, "kind": "▶ アニメ", "date": "06.20", "title": "データセンターと電力" },
-    { "no": 142, "kind": "📖 漫画", "date": "06.19", "title": "オープンソースの夜明け" },
-    { "no": 141, "kind": "📖 漫画", "date": "06.18", "title": "規制とイノベーション" },
-    { "no": 140, "kind": "▶ アニメ", "date": "06.17", "title": "AIバブルは弾けるか" }
+    {
+      "no": 147,
+      "kind": "📖 漫画",
+      "date": "06.24",
+      "img": "news/top1_manga.png",
+      "title": "Sakana AI、複数AIを束ねた新モデルの一般提供を開始"
+    },
+    {
+      "no": 146,
+      "kind": "📖 漫画",
+      "date": "06.23",
+      "img": "news/kof_manga.jpg"
+    },
+    {
+      "no": 145,
+      "kind": "▶ アニメ",
+      "date": "06.22",
+      "title": "AIエージェント暴走の回"
+    },
+    {
+      "no": 144,
+      "kind": "📖 漫画",
+      "date": "06.21",
+      "title": "半導体戦争、再び"
+    },
+    {
+      "no": 143,
+      "kind": "▶ アニメ",
+      "date": "06.20",
+      "title": "データセンターと電力"
+    },
+    {
+      "no": 142,
+      "kind": "📖 漫画",
+      "date": "06.19",
+      "title": "オープンソースの夜明け"
+    },
+    {
+      "no": 141,
+      "kind": "📖 漫画",
+      "date": "06.18",
+      "title": "規制とイノベーション"
+    },
+    {
+      "no": 140,
+      "kind": "▶ アニメ",
+      "date": "06.17",
+      "title": "AIバブルは弾けるか"
+    }
   ],
   "githubUrl": "https://github.com/thirt33n-tech"
 }
