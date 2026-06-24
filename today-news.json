@@ -1,0 +1,15 @@
+{
+  "date": "2026.06.24",
+  "top10": [
+    {"rank": 1, "title": "ソフトバンク、新中期計画発表　AIサーバー製造事業参入で社会インフラ企業へ", "summary": "2030年度営業利益1.7兆円目指し、AI計算基盤・データセンター・HAPS強化。宮川社長『収穫フェーズ』", "source": "SoftBank"},
+    {"rank": 2, "title": "AIデータセンターのエネルギー・水資源消費が深刻化、企業透明性不足を専門家指摘", "summary": "クエリ1回ごとに大量の電力と水を消費。透明性向上と効率化が急務", "source": "US News"},
+    {"rank": 3, "title": "トランプ政権、先端AIイノベーションとセキュリティ推進のための大統領令発令", "summary": "国家AI政策枠組みを整備し、規制過多を避けつつ安全保障を強化", "source": "White House"},
+    {"rank": 4, "title": "AI株急落『Chip-Wreck』、エネルギー懸念でトレーダーに警鐘", "summary": "AI関連半導体株が軟調。データセンター電力消費が市場に影", "source": "Bloomberg"},
+    {"rank": 5, "title": "Google SearchがAIエージェント対応へ、大規模アップデート実施", "summary": "25年ぶりの大刷新。質問するだけでAIエージェントが動作", "source": "Google"},
+    {"rank": 6, "title": "EU AI Act本格適用に向け、オープンソースフロンティアAIモデル開発コンソーシアム選定", "summary": "全24言語対応の欧州独自モデル構築プロジェクトが始動", "source": "European Commission"},
+    {"rank": 7, "title": "Microsoft Fabric 2026年6月更新　gpt-5-miniをデフォルトAIモデルに", "summary": "新AI関数で推論強化。旧モデルは段階的に廃止", "source": "Microsoft"},
+    {"rank": 8, "title": "AMD Advancing AI 2026カンファレンスを7月にサンフランシスコで開催", "summary": "AIインフラとネットワークの最新動向を議論", "source": "AMD"},
+    {"rank": 9, "title": "AAAI Summer Symposium Series 2026がソウルで開催中", "summary": "AIの夏期シンポジウムがアジアで展開", "source": "AAAI"},
+    {"rank": 10, "title": "2026年AI規制アップデート：米州法・EU AI Actの影響を解説", "summary": "企業はコンプライアンス体制の見直しを迫られる", "source": "Gunderson"}
+  ]
+}

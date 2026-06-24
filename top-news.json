@@ -1,62 +1,63 @@
 {
   "githubUrl": "https://github.com/thirt33n-tech",
-  "dispatchNo": 148,
+  "dispatchNo": 149,
   "dateLabel": "2026.06.24",
   "fixedMangaUrl": "news/kof_manga.jpg",
   "top1": {
-    "title": "AIエージェントの巨額請求が「絶対的悪夢」に、企業対応急ぐ",
-    "lead1": "The Economistが報じた。AIエージェントの処理能力向上により企業に高額クラウド請求が急増。",
-    "lead2": "幹部「悪夢になる」と警告。使用制限・最適化ツールの導入が加速。",
+    "title": "ソフトバンク、AI社会実装を加速　AIサーバー製造事業に参入",
+    "lead1": "宮川社長「AI投資の収穫フェーズ」。新中期計画で営業利益1.7兆円目指す。",
+    "lead2": "データセンター・GPUクラウド・HAPSなど次世代インフラ整備も本格化。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
   "heroVideoUrl": "",
   "editorsDesk": {
     "recImg": "news/kof_manga.jpg",
-    "recTitle": "AIコスト危機の行方",
-    "recNote": "エージェント時代の真のコストを4コマ漫画で解説。",
+    "recTitle": "AIインフラ最前線",
+    "recNote": "ソフトバンクのAIサーバー製造参入を漫画で解説。",
     "bonusPoster": "news/bonus_anime_thumb.jpg",
     "bonusTitle": "今日のおまけアニメ",
-    "bonusNote": "AIエージェント暴走ショートアニメをクリックで再生。"
+    "bonusNote": "AIが社会を変える瞬間をショートアニメで。"
   },
   "breaking": [
-    "Forbes 2026 AI 50発表　Anthropic3800億ドル評価で急成長",
-    "MetaがOpenAI研究者4名を大量獲得",
-    "VS CodeがGitHub不要の完全オフラインAIモード追加",
-    "中国製低価格AIモデルが米国市場で顧客急増",
-    "AI尿薬物検査システムが臨床効率23%向上（JAMA）",
-    "IBM Research「生成コンピューティング」で次世代AI推進",
-    "LLM高品質データ枯渇「2026年問題」が再燃",
-    "Claude Coworkなど類似AIエージェントが6社乱立"
+    "AIデータセンターのエネルギー・水消費が深刻化　企業透明性不足を指摘",
+    "トランプ政権が先端AIイノベーション・セキュリティ大統領令を発令",
+    "Google SearchがAIエージェント対応で25年ぶり大刷新",
+    "EUが24言語対応オープンソースフロンティアAIモデル開発へ",
+    "Microsoft Fabric 6月更新　gpt-5-miniをデフォルトAIモデルに",
+    "AMDが7月「Advancing AI 2026」カンファレンスをサンフランシスコで開催",
+    "AAAI Summer Symposium 2026がソウルで開催中",
+    "2026年AI法規制アップデート　企業は州法・EU対応急務"
   ],
   "topCards": [
     {
       "rank": "2",
       "category": "BUSINESS",
       "accent": "#3CE7F2",
-      "title": "Forbes AI 50でAnthropic・OpenAIが圧倒",
-      "summary": "両社合計調達額約2430億ドル。Anthropic評価3800億ドル、ClaudeがApp Storeダウンロード1位に。",
+      "title": "ソフトバンクAIサーバー製造事業参入でインフラ革命",
+      "summary": "2030年度営業利益1.7兆円目標。新中期計画『Activate AI for Society』で社会インフラ企業への進化を加速。",
       "date": "2026.06.24"
     },
     {
       "rank": "3",
-      "category": "TECH",
+      "category": "ENVIRONMENT",
       "accent": "#FF3D5E",
-      "title": "VS Code、Ollama対応でair-gapped環境を本格支援",
-      "summary": "GitHubサインイン不要のローカルLLMでチャット・ツール・MCP利用可能に。オフライン開発革命。",
+      "title": "AIブームが電力・水資源を圧迫　データセンターの持続可能性が課題",
+      "summary": "1回のクエリで大量消費。専門家は企業への透明性要求と効率化技術の開発を提言。",
       "date": "2026.06.24"
     }
   ],
   "topList": [
-    { "rank": "4", "title": "中国製安価AIが米国で急拡大「これで状況が変わる」", "date": "06.24" },
-    { "rank": "5", "title": "Meta、OpenAI研究者4名を引き抜き", "date": "06.24" },
-    { "rank": "6", "title": "臨床AIが尿検査サインアウト時間を28.5秒短縮", "date": "06.24" },
-    { "rank": "7", "title": "IBM、次は生成コンピューティングで企業AI革新", "date": "06.23" },
-    { "rank": "8", "title": "2026年問題：LLM学習データ枯渇の危機再燃", "date": "06.23" },
-    { "rank": "9", "title": "AIツール乱立時代「どれを選ぶべきか」議論活発化", "date": "06.23" },
-    { "rank": "10", "title": "Wolters Kluwer、GenAIとAgentic AIを本格展開", "date": "06.22" }
+    { "rank": "4", "title": "トランプ政権、先端AI推進のための大統領令を発表", "date": "06.24" },
+    { "rank": "5", "title": "Google、AIエージェント搭載Searchを本格展開", "date": "06.24" },
+    { "rank": "6", "title": "EU、フロンティアAIオープンソースモデル開発プロジェクト始動", "date": "06.24" },
+    { "rank": "7", "title": "Microsoft Fabric、gpt-5-miniを標準AI関数に採用", "date": "06.24" },
+    { "rank": "8", "title": "AMD Advancing AI 2026を7月サンフランシスコで開催", "date": "06.24" },
+    { "rank": "9", "title": "AAAI Summer Symposium Seriesが韓国で進行中", "date": "06.24" },
+    { "rank": "10", "title": "2026 AI規制 landscape：米欧州法対応が企業に影響", "date": "06.24" }
   ],
   "archive": [
+    { "no": 148, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "AIエージェントの巨額請求が「絶対的悪夢」に、企業対応急ぐ" },
     { "no": 147, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "Sakana AI、複数AIを束ねた新モデルの一般提供を開始" },
     { "no": 146, "kind": "📖 漫画", "date": "06.23", "img": "news/kof_manga.jpg" },
     { "no": 145, "kind": "▶ アニメ", "date": "06.22", "title": "AIエージェント暴走の回" },
