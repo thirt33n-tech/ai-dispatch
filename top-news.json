@@ -1,62 +1,55 @@
 {
-  "githubUrl": "https://github.com/thirt33n-tech",
-  "dispatchNo": 150,
+  "dispatchNo": 151,
   "dateLabel": "2026.06.24",
-  "fixedMangaUrl": "news/top1_manga.png",
   "top1": {
-    "title": "ソフトバンク、2027年から国産AIサーバー製造　孫氏「4分野で世界一のAI企業に」",
-    "lead1": "株主総会で孫正義会長が音楽・ロボット・フィジカルAI・データセンターの4分野で世界一を目指すと宣言。「あと10〜15年頑張る」と意欲。",
-    "lead2": "堺工場跡地を活用したAIサーバー生産、フランスへの最大14兆円DC投資、北海道新設などインフラ攻勢を本格化。NVIDIA・鴻海と連携。",
+    "title": "OpenAI、GPT-5.5-Cyber強化 サイバー防御85.6%達成",
+    "lead1": "Mythos 5超えの性能でDaybreak拡大。オープンソースの脆弱性を自動検知・修正し防御を加速。",
+    "lead2": "信頼された防御者に限定提供。コードベース全体を深く解析し実環境でパッチ検証まで自動化。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
   "heroVideoUrl": "",
   "editorsDesk": {
-    "recImg": "news/top1_manga.png",
-    "recTitle": "ソフトバンクAI帝国の夜明け",
-    "recNote": "国産AIサーバー製造参入と孫会長のビジョンを漫画で徹底解説。",
-    "bonusPoster": "news/bonus_anime_thumb.jpg",
-    "bonusTitle": "今日のおまけアニメ",
-    "bonusNote": "AIインフラが世界を変える瞬間をショートアニメで。"
+    "comment": "AIがサイバー脅威を先回りして守る時代へ。OpenAIのDaybreakは防御者優位を確立する転機となる。",
+    "animeTitle": "",
+    "animeUrl": ""
   },
   "breaking": [
-    "トランプ政権、先端AIイノベーション・セキュリティ大統領令を発令",
-    "Google SearchがAIエージェント対応で25年ぶり大刷新",
-    "AIデータセンターのエネルギー・水消費深刻化　透明性不足を指摘",
-    "ソフトバンクG、フランスに最大14兆円AIデータセンター投資",
-    "Stanford AI Index 2026：能力加速、米中ギャップほぼ消滅",
-    "AMD「Advancing AI 2026」7月サンフランシスコで開催",
-    "EU、24言語対応オープンソースフロンティアAIモデル開発プロジェクト始動",
-    "Microsoft Fabric更新で先進AIモデルを標準採用"
+    "Anthropic、Slack内にワークプレイスAIエージェント直接統合",
+    "Microsoft、AI教育レポートで採用拡大とサポート需要急増を報告",
+    "Meta、AIトレーニング用従業員トラッカーをプライバシー懸念で停止",
+    "OpenAI、Appia Foundationを通じ先進AI国際標準構築を主導",
+    "トランプ政権、AIイノベーション推進とセキュリティ大統領令を発令",
+    "AIデータセンターの電力・水消費深刻化、透明性不足が課題",
+    "Google Search、AIエージェント対応で25年ぶり大規模刷新"
   ],
   "topCards": [
     {
-      "rank": "2",
-      "category": "POLICY",
-      "accent": "#3CE7F2",
-      "title": "トランプ政権がAI推進・セキュリティ大統領令を発令",
-      "summary": "イノベーション加速と国家安全保障を両立。新たな暗号対策も。企業・研究機関に影響大。",
-      "date": "2026.06.24"
+      "rank": 2,
+      "title": "AnthropicがSlackにAIエージェントを直接展開",
+      "summary": "業務フロー内でAIが自律的にタスク実行。生産性革命の新段階。",
+      "manga_url": "",
+      "video_url": ""
     },
     {
-      "rank": "3",
-      "category": "SEARCH",
-      "accent": "#FF3D5E",
-      "title": "Google SearchがAIエージェントで根本刷新",
-      "summary": "25年ぶりの大規模アップデート。エージェント機能で「質問するだけで」複雑タスク実行可能に。",
-      "date": "2026.06.24"
+      "rank": 3,
+      "title": "Microsoft AI教育レポート：学校・企業での急速採用",
+      "summary": "実務活用が進む一方、教師・管理者向けトレーニング需要が急拡大。",
+      "manga_url": "",
+      "video_url": ""
     }
   ],
   "topList": [
-    { "rank": "4", "title": "AIデータセンターの電力・水消費問題が深刻化", "date": "06.24" },
-    { "rank": "5", "title": "ソフトバンク、フランスに最大14兆円規模AIデータセンター投資", "date": "06.24" },
-    { "rank": "6", "title": "Stanford AI Index 2026：フロンティアモデル性能が加速", "date": "06.24" },
-    { "rank": "7", "title": "AMD Advancing AI 2026カンファレンスを7月開催", "date": "06.24" },
-    { "rank": "8", "title": "EUが多言語オープンソースフロンティアAI開発へ", "date": "06.24" },
-    { "rank": "9", "title": "Microsoft Fabric 6月更新でgpt-5-mini等をデフォルトに", "date": "06.24" },
-    { "rank": "10", "title": "2026年AI規制対応：Colorado法施行まで22日、企業急務", "date": "06.24" }
+    {"rank": 4, "title": "Meta、AI学習用従業員行動追跡を一時停止"},
+    {"rank": 5, "title": "OpenAI、共有AI標準構築でAppia Foundation設立支援"},
+    {"rank": 6, "title": "トランプ政権がAIイノベーション・セキュリティ大統領令"},
+    {"rank": 7, "title": "AIデータセンターのエネルギー消費問題が深刻化"},
+    {"rank": 8, "title": "Google SearchがAIエージェントで根本的刷新"},
+    {"rank": 9, "title": "中国スーパーコンピューターが世界最速に返り咲き"},
+    {"rank": 10, "title": "HIMSS AI Leadership Summit Bostonが本日開催"}
   ],
   "archive": [
+    { "no": 150, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "ソフトバンク、2027年から国産AIサーバー製造　孫氏「4分野で世界一のAI企業に」" },
     { "no": 149, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "ソフトバンク、AIサーバー製造事業に参入" },
     { "no": 148, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "AIエージェントの巨額請求が「絶対的悪夢」に、企業対応急ぐ" },
     { "no": 147, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "Sakana AI、複数AIを束ねた新モデルの一般提供を開始" },
@@ -67,5 +60,6 @@
     { "no": 142, "kind": "📖 漫画", "date": "06.19", "title": "オープンソースの夜明け" },
     { "no": 141, "kind": "📖 漫画", "date": "06.18", "title": "規制とイノベーション" },
     { "no": 140, "kind": "▶ アニメ", "date": "06.17", "title": "AIバブルは弾けるか" }
-  ]
+  ],
+  "githubUrl": "https://github.com/thirt33n-tech"
 }

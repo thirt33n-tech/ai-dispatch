@@ -1,15 +1,15 @@
 {
   "date": "2026.06.24",
   "top10": [
-    {"rank": 1, "title": "ソフトバンク、AIサーバー製造事業に参入　堺工場で国産化加速", "summary": "2027年度から国内製造開始。NVIDIA・鴻海と協議、経済安全保障観点からAIインフラ国産化目指す。", "source": "日経・Yahooニュース"},
-    {"rank": 2, "title": "トランプ政権、先端AIイノベーションとセキュリティに関する大統領令を発令", "summary": "AI推進と国家安全保障を両立する新政策。暗号関連も強化。", "source": "White House"},
-    {"rank": 3, "title": "Google SearchがAIエージェント対応で25年ぶりの大刷新", "summary": "エージェント機能統合で検索体験が根本から進化。", "source": "Google Blog"},
-    {"rank": 4, "title": "AIデータセンターのエネルギー・水消費問題が深刻化", "summary": "企業透明性不足を専門家が指摘。持続可能性が課題に。", "source": "各種レポート"},
-    {"rank": 5, "title": "ソフトバンクG、フランスに最大14兆円規模AIデータセンター投資", "summary": "欧州最大級インフラ整備でAI需要取り込み加速。", "source": "時事・ロイター"},
-    {"rank": 6, "title": "AMDが7月「Advancing AI 2026」カンファレンスをサンフランシスコで開催", "summary": "最新AIコンピュート技術と企業事例を発表予定。", "source": "AMD"},
-    {"rank": 7, "title": "Stanford AI Index 2026発表：能力加速、米中ギャップほぼ解消", "summary": "業界が90%以上のフロンティアモデルを生産。採用拡大も。", "source": "Stanford HAI"},
-    {"rank": 8, "title": "EU、24言語対応オープンソースフロンティアAIモデル開発へ", "summary": "デジタル主権確保に向けた大型プロジェクト始動。", "source": "EU関連"},
-    {"rank": 9, "title": "Microsoft Fabric 6月更新で先進AIモデルをデフォルト採用", "summary": "gpt-5-mini等を標準化し生産性向上。", "source": "Microsoft"},
-    {"rank": 10, "title": "2026年AI法規制アップデート：企業は州法・EU対応を急務", "summary": "Colorado AI Act施行目前。コンプライアンス強化必須。", "source": "各種規制情報"}
+    {"rank": 1, "title": "OpenAI、GPT-5.5-Cyber強化版リリース サイバー防御で85.6%達成", "summary": "Claude Mythos 5を上回る性能。Daybreakイニシアチブでオープンソース脆弱性自動修正を加速。", "source": "The Hacker News / OpenAI"},
+    {"rank": 2, "title": "Anthropic、SlackにワークプレイスAIエージェント直接統合", "summary": "業務効率化のためのAIエージェントをSlack内に展開。", "source": "Artificial Intelligence News"},
+    {"rank": 3, "title": "Microsoft、AI教育レポート公開 採用が急速に拡大", "summary": "学校・企業でのAI活用が進み、サポート需要が増大。", "source": "Microsoft"},
+    {"rank": 4, "title": "Meta、AIトレーニング用従業員行動トラッカーを一時停止", "summary": "プライバシー懸念から決定。", "source": "The Guardian"},
+    {"rank": 5, "title": "OpenAI、先進AIのための共有標準構築を支援", "summary": "Appia Foundationを通じ国際標準化を推進。", "source": "OpenAI"},
+    {"rank": 6, "title": "トランプ政権、AIイノベーションとセキュリティ大統領令を発令", "summary": "イノベーション加速と国家安全保障を両立。", "source": "White House"},
+    {"rank": 7, "title": "AIデータセンターの電力・水消費が深刻化", "summary": "透明性不足が指摘され、持続可能性が課題に。", "source": "Various"},
+    {"rank": 8, "title": "Google Search、AIエージェント対応で25年ぶり大刷新", "summary": "複雑タスクを自動実行可能に。", "source": "Google"},
+    {"rank": 9, "title": "中国スーパーコンピューター、世界最速に 米を逆転", "summary": "AI開発競争で優位性示す。", "source": "The Guardian"},
+    {"rank": 10, "title": "AIリーダーシップサミット Boston開催", "summary": "ヘルスケアAI戦略議論の場に。", "source": "HIMSS"}
   ]
 }
