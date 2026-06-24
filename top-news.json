@@ -1,0 +1,49 @@
+{
+  "fixedMangaUrl": "news/kof_manga.jpg",
+  "heroVideoUrl": "https://youtube.com/shorts/HoT4eWQnuPU",
+  "breakingNews": [
+    "AIが女性描写でジェンダーバイアスを再現、UN Womenが警告",
+    "Anthropic、IPOへ機密S-1を提出",
+    "Google、AIデータセンターの電力需要が地域課題に",
+    "NVIDIA、バイオテック向けエージェントAIに注力",
+    "Microsoft、M365向け自律エージェント「Scout」を発表",
+    "OpenAI、Codexに業務プラグインとChatGPT連携を拡張",
+    "SK Hynix、AIメモリ需要でSamsungを逆転",
+    "AIが2026 W杯を巨大ミーム工場に",
+    "国連オープンソース週間2026、持続可能なAIに焦点",
+    "AI投資懸念とハイテク売りで株式市場が下落"
+  ],
+  "news": [
+    {
+      "rank": 1,
+      "category": "MODEL",
+      "time": "2026.06.23 JST",
+      "title": "Sakana AI、複数AIを束ねた新モデルの一般提供を開始",
+      "summary": "Sakana AI（東京・港）が22日、複数のAIを束ねた新モデルの一般提供を発表。同日、PFN（東京・千代田）も日本語に強い低コストAIの提供を開始した。",
+      "source_url": "",
+      "manga_url": "news/top1_manga.png",
+      "video_url": "https://youtube.com/shorts/N-YfnTXIEIo?feature=share",
+      "poster_url": "news/top1/poster.png"
+    },
+    {
+      "rank": 2,
+      "category": "IPO",
+      "time": "2026.06.24",
+      "title": "Anthropic、IPOへ機密S-1を提出",
+      "summary": "Claude開発元のAnthropicがIPO準備。機密S-1提出で公開市場接近、AI企業の大規模上場ラッシュ加速。",
+      "source_url": "",
+      "manga_url": "",
+      "video_url": ""
+    },
+    {
+      "rank": 3,
+      "category": "INFRA",
+      "time": "2026.06.24",
+      "title": "Googleデータセンター、AIブームの電力需要が顕在化",
+      "summary": "AIデータセンター急拡大で電力・地域課題顕在化。Google施設内部をNightlineが独占公開。",
+      "source_url": "",
+      "manga_url": "",
+      "video_url": ""
+    }
+  ]
+}

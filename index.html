@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI DISPATCH — THE PULSE OF AI. DELIVERED.</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;background:#050810;}
+  body{font-family:'Noto Sans JP',sans-serif;color:#E8EDF4;overflow-x:hidden;}
+  ::selection{background:rgba(0,229,255,0.3);color:#fff;}
+  @keyframes ticker{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+  @keyframes logoPulse{0%,100%{text-shadow:0 0 18px rgba(79,195,247,.65),0 0 46px rgba(0,229,255,.45),0 0 90px rgba(0,229,255,.25)}50%{text-shadow:0 0 26px rgba(79,195,247,.9),0 0 70px rgba(0,229,255,.6),0 0 130px rgba(0,229,255,.4)}}
+  @keyframes barPulse{0%,100%{opacity:.55}50%{opacity:1}}
+  @keyframes floatY{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  input::placeholder{color:rgba(232,237,244,.4);}
+  #threads-cta:hover{
+    border-color:rgba(57,255,20,.95) !important;
+    box-shadow:0 0 55px rgba(57,255,20,.8),0 0 100px rgba(57,255,20,.5),inset 0 0 20px rgba(57,255,20,.3) !important;
+    color:#c6ffae !important;
+  }
+  #threads-cta:hover svg{filter:drop-shadow(0 0 8px rgba(57,255,20,.9));}
+  @media (max-width:820px){
+    #hero-manga{grid-template-columns:1fr !important;justify-items:center !important;}
+    #hero-manga > *, #hero-manga .hero-col{max-width:380px !important;}
+  }
+  @media (prefers-reduced-motion: reduce){*{animation:none !important;}}
+</style>
+</head>
+<body>
+<div style="position:relative;width:100%;min-height:100vh;background:#050810;overflow-x:hidden;">
+
+  <canvas id="dispatch-bg" style="position:fixed;inset:0;width:100%;height:100%;z-index:0;pointer-events:none;display:block;"></canvas>
+  <div style="position:fixed;inset:0;z-index:1;pointer-events:none;background:radial-gradient(120% 70% at 50% 0%, rgba(0,40,70,.35) 0%, rgba(5,8,16,0) 55%), linear-gradient(180deg, rgba(5,8,16,0) 60%, #050810 100%);"></div>
+
+  <div style="position:relative;z-index:10;">
+
+    <!-- ===== HERO ===== -->
+    <section style="position:relative;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;padding:54px 24px 64px;text-align:center;">
+      <div style="display:flex;flex-direction:column;align-items:center;max-width:760px;">
+        <div style="font-family:'IBM Plex Mono',monospace;font-weight:700;letter-spacing:.06em;line-height:.95;background:linear-gradient(90deg,#4FC3F7,#00E5FF);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:#9be8ff;font-size:clamp(44px,9vw,128px);animation:logoPulse 4.5s ease-in-out infinite;">AI&nbsp;DISPATCH</div>
+        <div style="margin-top:22px;font-size:clamp(15px,2.2vw,25px);font-weight:500;letter-spacing:.02em;color:#E8EDF4;">AIの&quot;今&quot;を、深く、速く、美しく。</div>
+        <div style="margin-top:10px;font-family:'IBM Plex Mono',monospace;font-size:clamp(11px,1.5vw,16px);letter-spacing:.42em;color:#4FC3F7;text-shadow:0 0 16px rgba(79,195,247,.6);">THE PULSE OF AI. DELIVERED.</div>
+        <a id="threads-cta" href="https://www.threads.com/@0xashviri" target="_blank" rel="noopener" style="margin-top:22px;display:inline-flex;align-items:center;gap:10px;padding:11px 22px;border-radius:999px;background:rgba(5,8,16,.55);backdrop-filter:blur(20px);border:1px solid rgba(79,195,247,.35);box-shadow:0 0 26px rgba(0,229,255,.18),inset 0 1px 0 rgba(255,255,255,.05);color:#cdeeff;text-decoration:none;font-family:'IBM Plex Mono',monospace;font-size:clamp(13px,1.6vw,15px);font-weight:600;letter-spacing:.06em;transition:border-color .25s,box-shadow .25s,color .25s;">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M16.7 11.2c-.1 0-.2-.1-.2-.1-.2-2.6-1.6-4.1-4-4.1-1.4 0-2.6.6-3.3 1.7l1.3.9c.5-.8 1.3-1 2-1 .8 0 1.4.2 1.8.7.3.3.5.8.6 1.4-.7-.1-1.4-.2-2.2-.1-2.3.1-3.7 1.5-3.6 3.3.1.9.5 1.7 1.3 2.2.6.4 1.4.6 2.3.6 1.1-.1 2-.5 2.6-1.3.5-.6.8-1.3.9-2.3.5.3.9.7 1.1 1.2.4.8.4 2.2-.7 3.3-1 1-2.1 1.4-3.9 1.4-1.9 0-3.4-.6-4.4-1.8-.9-1.1-1.4-2.8-1.4-4.9s.5-3.8 1.4-4.9c1-1.2 2.5-1.8 4.4-1.8 1.9 0 3.4.6 4.5 1.9.5.6.9 1.4 1.2 2.3l1.6-.4c-.3-1.1-.8-2.1-1.5-2.9-1.4-1.6-3.3-2.5-5.7-2.5-2.4 0-4.4.8-5.7 2.4C5.6 6.6 5 8.7 5 11.4v.1c0 2.7.6 4.8 2 6.4 1.4 1.5 3.3 2.4 5.7 2.4 2.1 0 3.7-.5 5-1.8 1.7-1.7 1.6-3.9 1.1-5-.4-.9-1.2-1.6-2.1-2.1zm-3.9 4c-1 .1-2-.4-2.1-1.3-.1-.7.5-1.4 1.9-1.5h.6c.5 0 1 0 1.5.1-.2 1.7-1 2.6-1.9 2.7z"></path></svg>
+          Threads でフォロー
+        </a>
+        <div style="margin-top:30px;display:inline-flex;align-items:center;gap:8px;padding:6px 15px 6px 12px;border-radius:999px;background:linear-gradient(180deg,#FFE9A8,#E9B83C);color:#3a2a00;font-family:'IBM Plex Mono',monospace;font-weight:700;font-size:12px;letter-spacing:.08em;box-shadow:0 0 22px rgba(255,213,79,.45),inset 0 1px 0 rgba(255,255,255,.6);"><span style="width:10px;height:10px;background:#5a4200;transform:rotate(45deg);border-radius:2px;"></span><span id="hero-badge">TOP 1 · 注目記事</span></div>
+        <div id="hero-title" style="margin-top:14px;font-size:clamp(14px,1.8vw,18px);font-weight:700;color:#FFE96B;max-width:520px;line-height:1.5;text-shadow:0 0 8px rgba(255,233,107,.9),0 0 22px rgba(255,200,40,.7),0 0 40px rgba(255,180,0,.45);"></div>
+      </div>
+
+      <div style="margin-top:36px;width:100%;max-width:1040px;display:grid;grid-template-columns:1fr 1fr 1fr;gap:24px;align-items:flex-start;justify-items:center;" id="hero-manga">
+        <!-- 左: KOF漫画 / 中央: TOP1漫画 / 右: アニメ動画 — JSで描画 -->
+      </div>
+
+      <div style="margin-top:30px;font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.3em;color:rgba(232,237,244,.35);animation:floatY 3s ease-in-out infinite;">SCROLL ↓</div>
+    </section>
+
+    <!-- ===== BREAKING TICKER ===== -->
+    <div style="position:relative;width:100%;overflow:hidden;background:linear-gradient(90deg, rgba(255,107,157,.16), rgba(5,8,16,.0));border-top:1px solid rgba(255,107,157,.3);border-bottom:1px solid rgba(255,107,157,.3);backdrop-filter:blur(10px);">
+      <div style="display:flex;align-items:stretch;">
+        <div style="flex:none;display:flex;align-items:center;gap:8px;padding:12px 22px;background:#FF6B9D;color:#0a0410;font-family:'IBM Plex Mono',monospace;font-weight:700;font-size:13px;letter-spacing:.12em;clip-path:polygon(0 0,calc(100% - 16px) 0,100% 50%,calc(100% - 16px) 100%,0 100%);box-shadow:0 0 24px rgba(255,107,157,.5);z-index:2;">BREAKING →</div>
+        <div style="flex:1;overflow:hidden;position:relative;display:flex;align-items:center;">
+          <div id="ticker-track" style="display:flex;white-space:nowrap;animation:ticker 38s linear infinite;font-size:14px;color:rgba(232,237,244,.85);"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== AI NEWS TOP 3 ===== -->
+    <section style="max-width:1180px;margin:0 auto;padding:88px 24px 40px;">
+      <div style="display:flex;align-items:center;gap:16px;margin-bottom:30px;">
+        <h2 style="margin:0;font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:clamp(20px,3vw,30px);letter-spacing:.16em;color:#E8EDF4;">AI NEWS <span style="color:#00E5FF;text-shadow:0 0 20px rgba(0,229,255,.6);">TOP&nbsp;3</span></h2>
+        <div style="flex:1;height:1px;background:linear-gradient(90deg,rgba(79,195,247,.5),rgba(79,195,247,0));"></div>
+      </div>
+
+      <!-- TOP 1 feature -->
+      <article style="position:relative;border-radius:18px;padding:26px;background:rgba(5,8,16,.55);backdrop-filter:blur(20px);border:1px solid rgba(79,195,247,.15);box-shadow:0 30px 80px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.04);overflow:hidden;">
+        <div style="position:absolute;inset:0;pointer-events:none;background:radial-gradient(80% 120% at 0% 0%, rgba(255,213,79,.07), transparent 50%);"></div>
+        <div style="display:flex;align-items:center;gap:14px;margin-bottom:8px;position:relative;">
+          <span style="display:inline-flex;align-items:center;gap:8px;padding:7px 16px 7px 13px;border-radius:999px;background:linear-gradient(180deg,#FFE9A8,#E9B83C);color:#3a2a00;font-family:'IBM Plex Mono',monospace;font-weight:700;font-size:13px;letter-spacing:.08em;box-shadow:0 0 22px rgba(255,213,79,.45),inset 0 1px 0 rgba(255,255,255,.6),inset 0 -2px 2px rgba(120,80,0,.4);border:1px solid rgba(120,80,0,.35);">
+            <span style="width:12px;height:12px;background:#5a4200;transform:rotate(45deg);border-radius:2px;box-shadow:inset 0 0 3px rgba(255,255,255,.5);"></span><span id="top1-rank">TOP 1</span>
+          </span>
+          <span id="top1-time" style="font-family:'IBM Plex Mono',monospace;font-size:12px;color:rgba(232,237,244,.45);letter-spacing:.1em;"></span>
+        </div>
+        <h3 id="top1-title" style="margin:6px 0 4px;font-size:clamp(20px,2.8vw,30px);font-weight:700;line-height:1.35;color:#FFE96B;text-shadow:0 0 8px rgba(255,233,107,.9),0 0 24px rgba(255,200,40,.7),0 0 48px rgba(255,180,0,.45);"></h3>
+        <p id="top1-summary" style="margin:0 0 22px;font-size:clamp(14px,1.7vw,17px);color:#4FC3F7;font-weight:500;"></p>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:22px;align-items:stretch;justify-items:center;" id="top1-grid"></div>
+      </article>
+
+      <!-- TOP 2 / TOP 3 -->
+      <div id="top23" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px;margin-top:20px;"></div>
+    </section>
+
+    <!-- ===== MATRIX ===== -->
+    <section style="max-width:1180px;margin:0 auto;padding:48px 24px;">
+      <div style="display:flex;align-items:center;gap:16px;margin-bottom:8px;">
+        <h2 style="margin:0;font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:clamp(18px,2.6vw,26px);letter-spacing:.2em;color:#E8EDF4;">MATRIX</h2>
+        <div style="flex:1;height:1px;background:linear-gradient(90deg,rgba(79,195,247,.5),rgba(79,195,247,0));"></div>
+      </div>
+      <div style="display:flex;align-items:center;gap:9px;margin-bottom:22px;font-family:'IBM Plex Mono',monospace;font-size:clamp(11px,1.4vw,13px);letter-spacing:.16em;color:rgba(79,195,247,.85);">
+        <span style="width:7px;height:7px;border-radius:50%;background:#00E5FF;box-shadow:0 0 10px rgba(0,229,255,.9);animation:barPulse 1.8s ease-in-out infinite;"></span>
+        24時間AIアクティビティの可視化サイクル
+      </div>
+      <div style="position:relative;border-radius:16px;padding:26px 26px 18px;background:rgba(5,8,16,.55);backdrop-filter:blur(20px);border:1px solid rgba(79,195,247,.15);box-shadow:0 24px 60px rgba(0,0,0,.45);">
+        <h3 style="margin:0 0 22px;font-size:clamp(15px,1.9vw,19px);font-weight:700;color:#fff;">24時間のAIアクティビティを可視化</h3>
+        <div style="display:flex;gap:14px;">
+          <div style="display:flex;flex-direction:column;justify-content:space-between;font-family:'IBM Plex Mono',monospace;font-size:10px;color:rgba(232,237,244,.4);height:200px;padding-bottom:2px;letter-spacing:.1em;">
+            <span>HIGH</span><span>MED</span><span>LOW</span><span>0</span>
+          </div>
+          <div style="flex:1;min-width:0;">
+            <div id="matrix-bars" style="display:flex;align-items:flex-end;gap:3px;height:200px;border-bottom:1px solid rgba(79,195,247,.18);border-left:1px solid rgba(79,195,247,.18);padding:0 2px;"></div>
+            <div style="display:flex;justify-content:space-between;margin-top:8px;font-family:'IBM Plex Mono',monospace;font-size:10px;color:rgba(232,237,244,.4);letter-spacing:.05em;">
+              <span>00:00</span><span>06:00</span><span>12:00</span><span>18:00</span><span>24:00</span>
+            </div>
+          </div>
+        </div>
+        <div style="margin-top:26px;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;">
+          <div style="border-radius:12px;padding:16px 16px 15px;background:rgba(8,14,24,.45);border:1px solid rgba(79,195,247,.12);border-top:2px solid rgba(79,140,247,.55);">
+            <div style="display:flex;align-items:center;gap:8px;margin-bottom:9px;"><span style="font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.08em;color:#7fa8ff;">00:00–06:00</span><span style="font-size:11px;color:rgba(232,237,244,.5);">深夜〜早朝</span></div>
+            <h4 style="margin:0 0 7px;font-size:14px;font-weight:700;color:#fff;">データ処理とモデル学習</h4>
+            <p style="margin:0;font-size:12.5px;line-height:1.65;color:rgba(232,237,244,.62);">アクセスの少ない時間帯に大量データのETL（抽出・変換・読み込み）や生成AIのファインチューニングを実行。インフラのログをAIが監視し、不正アクセスやメモリリークの予兆を静かに解析する。</p>
+          </div>
+          <div style="border-radius:12px;padding:16px 16px 15px;background:rgba(8,14,24,.45);border:1px solid rgba(79,195,247,.12);border-top:2px solid rgba(0,229,255,.6);">
+            <div style="display:flex;align-items:center;gap:8px;margin-bottom:9px;"><span style="font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.08em;color:#00E5FF;">06:00–18:00</span><span style="font-size:11px;color:rgba(232,237,244,.5);">日中</span></div>
+            <h4 style="margin:0 0 7px;font-size:14px;font-weight:700;color:#fff;">リアルタイム推論と業務支援</h4>
+            <p style="margin:0;font-size:12.5px;line-height:1.65;color:rgba(232,237,244,.62);">ユーザーのリクエストや業務クエリが急増しトラフィックがピークに。自然言語処理や画像解析の推論をリアルタイムで実行し、チャットボットやAIエージェントが問い合わせ対応に稼働する。</p>
+          </div>
+          <div style="border-radius:12px;padding:16px 16px 15px;background:rgba(8,14,24,.45);border:1px solid rgba(79,195,247,.12);border-top:2px solid rgba(255,107,157,.5);">
+            <div style="display:flex;align-items:center;gap:8px;margin-bottom:9px;"><span style="font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.08em;color:#FF8FB6;">18:00–24:00</span><span style="font-size:11px;color:rgba(232,237,244,.5);">夕方〜深夜</span></div>
+            <h4 style="margin:0 0 7px;font-size:14px;font-weight:700;color:#fff;">評価とレポート生成</h4>
+            <p style="margin:0;font-size:12.5px;line-height:1.65;color:rgba(232,237,244,.62);">日中の全アクティビティログをAIが要約・分類し、業務効率化やシステムパフォーマンスのインサイトを自動生成。タスクが落ち着く時間帯に向けてリソースを自動最適化（スケーリング）する。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== SUBSCRIBE ===== -->
+    <section style="max-width:760px;margin:0 auto;padding:70px 24px 40px;text-align:center;">
+      <h2 style="margin:0 0 6px;font-family:'IBM Plex Mono',monospace;font-weight:500;font-size:13px;letter-spacing:.3em;color:rgba(79,195,247,.8);">SUBSCRIBE</h2>
+      <h3 style="margin:8px 0 10px;font-size:clamp(24px,4vw,38px);font-weight:700;color:#fff;text-shadow:0 0 30px rgba(0,229,255,.25);">AIの最前線を、逃さない。</h3>
+      <p style="margin:0 0 30px;font-size:15px;color:rgba(232,237,244,.6);">最新ニュースをあなたの inbox に。</p>
+      <form id="sub-form" style="display:flex;align-items:center;gap:0;max-width:520px;margin:0 auto;padding:6px 6px 6px 22px;border-radius:999px;background:rgba(8,14,24,.7);backdrop-filter:blur(20px);border:1px solid rgba(79,195,247,.2);box-shadow:0 14px 44px rgba(0,0,0,.5),inset 0 0 0 1px rgba(255,255,255,.02);">
+        <input id="sub-email" type="email" placeholder="you@example.com" style="flex:1;min-width:0;background:transparent;border:none;outline:none;color:#E8EDF4;font-family:'IBM Plex Mono',monospace;font-size:16px;padding:12px 8px;">
+        <button type="submit" aria-label="登録" style="flex:none;width:48px;height:48px;border:none;border-radius:50%;cursor:pointer;background:radial-gradient(circle at 50% 40%, #4FC3F7, #00b4d8);box-shadow:0 0 22px rgba(0,229,255,.6);display:flex;align-items:center;justify-content:center;color:#04222e;font-size:20px;transition:transform .15s;">→</button>
+      </form>
+      <p id="sub-msg" style="margin:16px 0 0;font-size:12px;color:rgba(232,237,244,.4);">いつでも解約できます。スパムは送信しません。</p>
+    </section>
+
+    <!-- ===== FOOTER ===== -->
+    <footer style="max-width:1180px;margin:30px auto 0;padding:30px 24px 50px;border-top:1px solid rgba(79,195,247,.12);display:flex;flex-direction:column;align-items:center;gap:22px;">
+      <div style="display:flex;align-items:center;gap:10px;font-family:'IBM Plex Mono',monospace;font-size:14px;color:rgba(232,237,244,.7);letter-spacing:.05em;">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#4FC3F7" stroke-width="1.6"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c2.5 2.6 2.5 15.4 0 18M12 3c-2.5 2.6-2.5 15.4 0 18"></path></svg>
+        samsyart.com
+      </div>
+      <div style="display:flex;align-items:center;gap:26px;">
+        <a href="https://www.threads.com/@0xashviri" target="_blank" rel="noopener" aria-label="Threads" style="color:rgba(232,237,244,.6);transition:color .2s;display:flex;"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M16.7 11.2c-.1 0-.2-.1-.2-.1-.2-2.6-1.6-4.1-4-4.1-1.4 0-2.6.6-3.3 1.7l1.3.9c.5-.8 1.3-1 2-1 .8 0 1.4.2 1.8.7.3.3.5.8.6 1.4-.7-.1-1.4-.2-2.2-.1-2.3.1-3.7 1.5-3.6 3.3.1.9.5 1.7 1.3 2.2.6.4 1.4.6 2.3.6 1.1-.1 2-.5 2.6-1.3.5-.6.8-1.3.9-2.3.5.3.9.7 1.1 1.2.4.8.4 2.2-.7 3.3-1 1-2.1 1.4-3.9 1.4-1.9 0-3.4-.6-4.4-1.8-.9-1.1-1.4-2.8-1.4-4.9s.5-3.8 1.4-4.9c1-1.2 2.5-1.8 4.4-1.8 1.9 0 3.4.6 4.5 1.9.5.6.9 1.4 1.2 2.3l1.6-.4c-.3-1.1-.8-2.1-1.5-2.9-1.4-1.6-3.3-2.5-5.7-2.5-2.4 0-4.4.8-5.7 2.4C5.6 6.6 5 8.7 5 11.4v.1c0 2.7.6 4.8 2 6.4 1.4 1.5 3.3 2.4 5.7 2.4 2.1 0 3.7-.5 5-1.8 1.7-1.7 1.6-3.9 1.1-5-.4-.9-1.2-1.6-2.1-2.1zm-3.9 4c-1 .1-2-.4-2.1-1.3-.1-.7.5-1.4 1.9-1.5h.6c.5 0 1 0 1.5.1-.2 1.7-1 2.6-1.9 2.7z"></path></svg></a>
+        <a href="#" aria-label="GitHub" style="color:rgba(232,237,244,.6);transition:color .2s;display:flex;"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M12 1.5A10.5 10.5 0 0 0 8.7 22c.5.1.7-.2.7-.5v-1.7c-2.9.6-3.5-1.4-3.5-1.4-.5-1.2-1.1-1.5-1.1-1.5-1-.6 0-.6 0-.6 1 .1 1.6 1 1.6 1 .9 1.6 2.4 1.1 3 .9.1-.7.4-1.1.7-1.4-2.3-.3-4.7-1.2-4.7-5.2 0-1.1.4-2 1-2.8-.1-.3-.5-1.3.1-2.7 0 0 .9-.3 2.8 1a9.6 9.6 0 0 1 5 0c1.9-1.3 2.8-1 2.8-1 .6 1.4.2 2.4.1 2.7.6.8 1 1.7 1 2.8 0 4-2.4 4.9-4.7 5.2.4.3.7 1 .7 2v2.9c0 .3.2.6.7.5A10.5 10.5 0 0 0 12 1.5z"></path></svg></a>
+        <a href="#" aria-label="Web" style="color:rgba(232,237,244,.6);transition:color .2s;display:flex;"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c2.5 2.6 2.5 15.4 0 18M12 3c-2.5 2.6-2.5 15.4 0 18"></path></svg></a>
+      </div>
+      <div style="font-family:'IBM Plex Mono',monospace;font-size:10px;color:rgba(232,237,244,.25);letter-spacing:.15em;">© 2026 AI DISPATCH · THE PULSE OF AI. DELIVERED.</div>
+    </footer>
+
+  </div>
+</div>
+
+<!-- 動画モーダル -->
+<div id="modal" style="display:none;position:fixed;inset:0;z-index:60;align-items:center;justify-content:center;padding:24px;background:rgba(2,4,10,.84);backdrop-filter:blur(8px);">
+  <div id="modal-box" style="position:relative;width:min(900px,94vw);aspect-ratio:16/9;border-radius:14px;overflow:hidden;background:#000;border:1px solid rgba(79,195,247,.25);box-shadow:0 40px 120px rgba(0,0,0,.7),0 0 50px rgba(0,229,255,.15);">
+    <button id="modal-close" aria-label="閉じる" style="position:absolute;top:10px;right:10px;z-index:2;width:38px;height:38px;border-radius:50%;border:1px solid rgba(255,255,255,.25);background:rgba(8,14,24,.7);color:#dff3ff;font-size:18px;cursor:pointer;display:flex;align-items:center;justify-content:center;">✕</button>
+    <div id="modal-content" style="position:absolute;inset:0;"></div>
+  </div>
+</div>
+
+<script>
+const esc = (s) => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const has = (v) => !!(v && String(v).trim());
+
+// 通常URL → 埋め込みURL 自動変換
+function toEmbed(url){
+  const u = (url||'').trim();
+  if(!u) return {url:'', iframe:false, vertical:false};
+  let m = u.match(/youtube\.com\/shorts\/([\w-]{6,})/);
+  if(m) return {url:'https://www.youtube.com/embed/'+m[1]+'?autoplay=1&rel=0&playsinline=1', iframe:true, vertical:true};
+  m = u.match(/(?:youtube\.com\/(?:watch\?v=|embed\/)|youtu\.be\/)([\w-]{6,})/);
+  if(m) return {url:'https://www.youtube.com/embed/'+m[1]+'?autoplay=1&rel=0', iframe:true, vertical:false};
+  m = u.match(/vimeo\.com\/(?:video\/)?(\d+)/);
+  if(m) return {url:'https://player.vimeo.com/video/'+m[1]+'?autoplay=1', iframe:true, vertical:false};
+  return {url:u, iframe:false, vertical:false};
+}
+const IFRAME_ATTRS = 'title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen';
+
+// ===== モーダル =====
+const modal = document.getElementById('modal');
+const modalBox = document.getElementById('modal-box');
+const modalContent = document.getElementById('modal-content');
+function openModal(videoUrl){
+  const e = toEmbed(videoUrl);
+  if(!e.url) return;
+  modalBox.style.aspectRatio = e.vertical ? '9/16' : '16/9';
+  modalBox.style.width = e.vertical ? 'min(420px,90vw)' : 'min(900px,94vw)';
+  modalContent.innerHTML = e.iframe
+    ? '<iframe src="'+esc(e.url)+'" '+IFRAME_ATTRS+' style="position:absolute;inset:0;width:100%;height:100%;border:0;"></iframe>'
+    : '<video src="'+esc(e.url)+'" autoplay controls playsinline style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;"></video>';
+  modal.style.display = 'flex';
+}
+function closeModal(){ modal.style.display='none'; modalContent.innerHTML=''; }
+document.getElementById('modal-close').addEventListener('click', closeModal);
+modal.addEventListener('click', (e)=>{ if(e.target===modal) closeModal(); });
+
+// ===== レンダリング =====
+function render(data){
+  const news = data.news || [];
+  const n1 = news[0]||{}, n2 = news[1]||{}, n3 = news[2]||{};
+
+  // --- HERO テキスト ---
+  document.getElementById('hero-badge').textContent = 'TOP '+(n1.rank||1)+' · 注目記事';
+  document.getElementById('hero-title').textContent = n1.title||'';
+
+  // --- HERO 3カラム ---
+  const colWrap = 'width:100%;max-width:300px;aspect-ratio:9/16;border-radius:14px;overflow:hidden;border:1px solid rgba(79,195,247,.22);background:#0b0f18;box-shadow:0 30px 80px rgba(0,0,0,.55),0 0 40px rgba(0,229,255,.12);';
+  const imgS = 'display:block;width:100%;height:100%;object-fit:cover;object-position:top;background:#0b0f18;';
+  let heroHTML = '';
+  if(has(data.fixedMangaUrl)) heroHTML += '<div class="hero-col" style="'+colWrap+'"><img src="'+esc(data.fixedMangaUrl)+'" alt="固定漫画" style="'+imgS+'"></div>';
+  if(has(n1.manga_url)) heroHTML += '<div class="hero-col" style="'+colWrap+'"><img src="'+esc(n1.manga_url)+'" alt="TOP1 漫画" style="'+imgS+'"></div>';
+  // 動画カラム
+  const heroVid = toEmbed(data.heroVideoUrl);
+  heroHTML += '<div class="hero-col" style="width:100%;max-width:300px;">'
+    + '<div style="position:relative;width:100%;aspect-ratio:9/16;border-radius:14px;overflow:hidden;border:1px solid rgba(79,195,247,.22);background:#000;box-shadow:0 30px 80px rgba(0,0,0,.55),0 0 40px rgba(0,229,255,.12);">'
+    + (has(data.heroVideoUrl)
+        ? '<button data-herovid="1" aria-label="動画を見る" style="position:absolute;inset:0;width:100%;height:100%;padding:0;border:none;cursor:pointer;background:radial-gradient(120% 80% at 50% 30%, rgba(0,60,90,.5), #000);">'
+          + '<span style="position:absolute;inset:0;margin:auto;width:60px;height:60px;border-radius:50%;background:radial-gradient(circle at 50% 40%, rgba(120,225,255,.95), rgba(0,160,220,.85));box-shadow:0 0 30px rgba(0,229,255,.7),inset 0 0 0 2px rgba(255,255,255,.5);display:flex;align-items:center;justify-content:center;"><span style="width:0;height:0;margin-left:5px;border-left:17px solid #04222e;border-top:11px solid transparent;border-bottom:11px solid transparent;"></span></span>'
+          + '<span style="position:absolute;left:0;right:0;bottom:12px;text-align:center;font-family:\'IBM Plex Mono\',monospace;font-size:12px;letter-spacing:.1em;color:#dff3ff;text-shadow:0 1px 4px rgba(0,0,0,.85);">▶ 動画を見る</span></button>'
+        : '')
+    + '</div></div>';
+  const heroManga = document.getElementById('hero-manga');
+  heroManga.innerHTML = heroHTML;
+  const hb = heroManga.querySelector('[data-herovid]');
+  if(hb) hb.addEventListener('click', function(){
+    this.parentElement.innerHTML = '<iframe src="'+esc(heroVid.url)+'" '+IFRAME_ATTRS+' style="position:absolute;inset:0;width:100%;height:100%;border:0;"></iframe>';
+  });
+
+  // --- BREAKING ticker ---
+  const items = (data.breakingNews||[]);
+  const loop = items.concat(items);
+  document.getElementById('ticker-track').innerHTML = loop.map(t =>
+    '<span style="padding:0 30px;">'+esc(t)+'</span><span style="color:#FF6B9D;">●</span>'
+  ).join('');
+
+  // --- TOP1 feature ---
+  document.getElementById('top1-rank').textContent = 'TOP '+(n1.rank||1);
+  document.getElementById('top1-time').textContent = n1.time||'';
+  document.getElementById('top1-title').textContent = n1.title||'';
+  document.getElementById('top1-summary').textContent = n1.summary||'';
+  const grid = document.getElementById('top1-grid');
+  let g = '';
+  if(has(n1.manga_url)){
+    g += '<div style="width:100%;aspect-ratio:9/16;border-radius:12px;overflow:hidden;border:1px solid rgba(79,195,247,.18);background:#0b0f18;box-shadow:0 0 0 1px rgba(0,0,0,.4);"><img src="'+esc(n1.manga_url)+'" alt="TOP1 漫画" style="'+imgS+'"></div>';
+  }
+  if(has(n1.manga_url) || has(n1.video_url)){
+    g += '<div style="position:relative;width:100%;aspect-ratio:9/16;border-radius:12px;overflow:hidden;border:1px solid rgba(79,195,247,.18);background:#000;">';
+    if(has(n1.manga_url)) g += '<img src="'+esc(n1.manga_url)+'" alt="TOP1 漫画" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top;">';
+    if(has(n1.video_url)) g += '<button data-top1vid="1" aria-label="動画を見る" style="position:absolute;inset:0;width:100%;height:100%;padding:0;border:none;cursor:pointer;background:transparent;">'
+      + '<span style="position:absolute;inset:0;margin:auto;width:64px;height:64px;border-radius:50%;background:radial-gradient(circle at 50% 40%, rgba(120,225,255,.95), rgba(0,160,220,.85));box-shadow:0 0 30px rgba(0,229,255,.7),inset 0 0 0 2px rgba(255,255,255,.5);display:flex;align-items:center;justify-content:center;"><span style="width:0;height:0;margin-left:5px;border-left:18px solid #04222e;border-top:12px solid transparent;border-bottom:12px solid transparent;"></span></span>'
+      + '<span style="position:absolute;left:0;right:0;bottom:12px;text-align:center;font-family:\'IBM Plex Mono\',monospace;font-size:12px;letter-spacing:.1em;color:#dff3ff;text-shadow:0 1px 4px rgba(0,0,0,.85);">▶ 動画を見る</span></button>';
+    g += '</div>';
+  }
+  grid.innerHTML = g;
+  const t1b = grid.querySelector('[data-top1vid]');
+  if(t1b) t1b.addEventListener('click', function(){
+    const e = toEmbed(n1.video_url);
+    this.parentElement.innerHTML = e.iframe
+      ? '<iframe src="'+esc(e.url)+'" '+IFRAME_ATTRS+' style="position:absolute;inset:0;width:100%;height:100%;border:0;"></iframe>'
+      : '<video src="'+esc(e.url)+'" autoplay loop playsinline controls preload="metadata" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;background:#000;"></video>';
+  });
+
+  // --- TOP2 / TOP3 ---
+  const cards = [
+    {n:n2, titleColor:'#00E5FF', titleGlow:'rgba(0,229,255,.45)', sumColor:'#bfeeff', thumb:'radial-gradient(circle at 50% 50%, #00E5FF 0%, #1170c4 26%, #0a1830 70%)', thumbShadow:'rgba(0,229,255,.35)', dot:'radial-gradient(circle at 50% 50%, rgba(255,255,255,.9) 0%, transparent 9%)'},
+    {n:n3, titleColor:'#FF6B9D', titleGlow:'rgba(255,107,157,.45)', sumColor:'#ffc8dd', thumb:'radial-gradient(circle at 50% 50%, #FF6B9D 0%, #7a3a8c 30%, #0a1830 72%)', thumbShadow:'rgba(255,107,157,.3)', dot:'radial-gradient(circle at 38% 42%, rgba(120,225,255,.9) 0%, transparent 7%),radial-gradient(circle at 62% 58%, rgba(255,180,220,.9) 0%, transparent 6%)'}
+  ];
+  document.getElementById('top23').innerHTML = cards.map((c,idx) => {
+    const n = c.n;
+    return '<article style="display:flex;gap:16px;padding:16px;border-radius:14px;background:rgba(5,8,16,.55);backdrop-filter:blur(20px);border:1px solid rgba(79,195,247,.15);box-shadow:0 20px 50px rgba(0,0,0,.4);">'
+      + '<div style="flex:1;min-width:0;">'
+      + '<span style="display:inline-flex;align-items:center;gap:7px;padding:5px 13px 5px 10px;border-radius:999px;background:linear-gradient(180deg,#FFE9A8,#E9B83C);color:#3a2a00;font-family:\'IBM Plex Mono\',monospace;font-weight:700;font-size:11px;letter-spacing:.06em;box-shadow:inset 0 1px 0 rgba(255,255,255,.6);"><span style="width:9px;height:9px;background:#5a4200;transform:rotate(45deg);border-radius:1px;"></span>TOP '+esc(n.rank||idx+2)+'</span>'
+      + '<h4 style="margin:12px 0 3px;font-size:17px;font-weight:700;color:'+c.titleColor+';line-height:1.4;text-shadow:0 0 18px '+c.titleGlow+';">'+esc(n.title)+'</h4>'
+      + '<p style="margin:0 0 8px;font-size:13.5px;color:'+c.sumColor+';line-height:1.6;">'+esc(n.summary)+'</p>'
+      + '<span style="font-family:\'IBM Plex Mono\',monospace;font-size:11px;color:rgba(79,195,247,.7);letter-spacing:.06em;">'+esc(n.time)+'</span>'
+      + (has(n.video_url) ? '<button data-vid="'+esc(n.video_url)+'" style="display:block;margin-top:12px;padding:7px 14px;border-radius:999px;border:1px solid rgba(0,229,255,.4);background:rgba(0,229,255,.08);color:#9be8ff;font-family:\'IBM Plex Mono\',monospace;font-size:12px;letter-spacing:.04em;cursor:pointer;">▶ 動画を見る</button>' : '')
+      + '</div>'
+      + '<div style="flex:none;width:128px;border-radius:10px;background:'+c.thumb+';box-shadow:0 0 22px '+c.thumbShadow+',inset 0 0 30px rgba(0,0,0,.5);position:relative;overflow:hidden;">'
+      + '<div style="position:absolute;inset:0;background:'+c.dot+';"></div>'
+      + (has(n.manga_url) ? '<img src="'+esc(n.manga_url)+'" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">' : '')
+      + '</div></article>';
+  }).join('');
+  document.querySelectorAll('#top23 [data-vid]').forEach(b => b.addEventListener('click', () => openModal(b.getAttribute('data-vid'))));
+}
+
+// ===== Matrix bars =====
+function buildMatrix(){
+  const wrap = document.getElementById('matrix-bars');
+  let html='';
+  const N=64;
+  for(let i=0;i<N;i++){
+    let h = 22 + 30*Math.abs(Math.sin(i*0.71)) + 22*Math.abs(Math.sin(i*0.23+1.3)) + 14*Math.abs(Math.sin(i*1.9+0.4));
+    if(i%11===5) h+=28;
+    h = Math.max(10, Math.min(100, h));
+    html += '<div style="flex:1 1 0;min-width:0;height:'+h.toFixed(1)+'%;border-radius:2px 2px 0 0;background:linear-gradient(to top,#0a3550 0%,#1f8fc4 45%,#4FC3F7 78%,#00E5FF 100%);box-shadow:0 0 6px rgba(0,229,255,.45);animation:barPulse '+(1.8+(i%5)*0.35).toFixed(2)+'s ease-in-out '+(i*0.045).toFixed(2)+'s infinite;"></div>';
+  }
+  wrap.innerHTML = html;
+}
+
+// ===== Subscribe form =====
+function wireForm(){
+  const form=document.getElementById('sub-form'), msg=document.getElementById('sub-msg'), input=document.getElementById('sub-email');
+  form.addEventListener('submit', e=>{
+    e.preventDefault();
+    const v=(input.value||'').trim();
+    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(v)){ msg.textContent='有効なメールアドレスを入力してください。'; msg.style.color='#FF6B9D'; return; }
+    msg.textContent='登録ありがとうございます。最新のAIニュースをお届けします。'; msg.style.color='#00E5FF'; input.value='';
+  });
+}
+
+// ===== 粒子背景 =====
+function initParticles(){
+  const canvas=document.getElementById('dispatch-bg'); if(!canvas) return;
+  const ctx=canvas.getContext('2d');
+  const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const sprite=document.createElement('canvas'); sprite.width=sprite.height=32;
+  const sctx=sprite.getContext('2d');
+  const g=sctx.createRadialGradient(16,16,0,16,16,16);
+  g.addColorStop(0,'rgba(255,255,255,1)'); g.addColorStop(0.25,'rgba(190,238,255,0.85)');
+  g.addColorStop(0.6,'rgba(79,195,247,0.35)'); g.addColorStop(1,'rgba(79,195,247,0)');
+  sctx.fillStyle=g; sctx.fillRect(0,0,32,32);
+  let W=0,H=0,DPR=1,cx=0,cy=0,maxR=1,raf=null;
+  const mobile=window.innerWidth<768; const N=mobile?520:1100;
+  const parts=[]; const arms=3, spins=2.4;
+  for(let i=0;i<N;i++){
+    const branch=i%arms; const dist=Math.pow(Math.random(),0.62);
+    let ang=dist*spins*Math.PI*2 + branch*(Math.PI*2/arms);
+    ang += (Math.random()-0.5)*0.5*(1-dist*0.6);
+    parts.push({ang,dist,size:(0.5+Math.random()*1.7)*(1-dist*0.35),tw:Math.random()*Math.PI*2,tws:0.6+Math.random()*1.6,warm:Math.random()<0.08,ox:0,oy:0});
+  }
+  const mouse={x:-9999,y:-9999};
+  window.addEventListener('pointermove', e=>{mouse.x=e.clientX;mouse.y=e.clientY;}, {passive:true});
+  function resize(){ DPR=Math.min(window.devicePixelRatio||1, window.innerWidth<768?1.4:2); W=window.innerWidth; H=window.innerHeight; canvas.width=W*DPR; canvas.height=H*DPR; ctx.setTransform(DPR,0,0,DPR,0,0); cx=W*0.5; cy=H*0.36; maxR=Math.max(W,H)*0.62; }
+  window.addEventListener('resize', resize); resize();
+  function draw(t){
+    ctx.clearRect(0,0,W,H); ctx.globalCompositeOperation='lighter';
+    const rot=t*0.00004;
+    const core=ctx.createRadialGradient(cx,cy,0,cx,cy,maxR*0.5);
+    core.addColorStop(0,'rgba(0,150,210,0.20)'); core.addColorStop(1,'rgba(0,150,210,0)');
+    ctx.fillStyle=core; ctx.fillRect(0,0,W,H);
+    for(let i=0;i<N;i++){
+      const p=parts[i]; const r=p.dist*maxR; const a=p.ang+rot*(1.6-p.dist);
+      let x=cx+Math.cos(a)*r; let y=cy+Math.sin(a)*r*0.62;
+      const dx=x-mouse.x, dy=y-mouse.y; const d2=dx*dx+dy*dy;
+      if(d2<26000){ const f=(26000-d2)/26000; const d=Math.sqrt(d2)||1; p.ox+=(dx/d)*f*6; p.oy+=(dy/d)*f*6; }
+      p.ox*=0.9; p.oy*=0.9; x+=p.ox; y+=p.oy;
+      const tw=0.55+0.45*Math.sin(p.tw+t*0.001*p.tws);
+      const alpha=tw*(0.35+(1-p.dist)*0.65); const s=p.size*(3.2+(1-p.dist)*2.4);
+      ctx.globalAlpha=p.warm?alpha*0.8:alpha;
+      ctx.drawImage(sprite,x-s,y-s,s*2,s*2);
+    }
+    ctx.globalAlpha=1; ctx.globalCompositeOperation='source-over';
+    if(!reduce) raf=requestAnimationFrame(draw);
+  }
+  if(reduce) draw(0); else raf=requestAnimationFrame(draw);
+}
+
+// ===== 起動 =====
+buildMatrix();
+wireForm();
+initParticles();
+fetch('top-news.json', {cache:'no-store'})
+  .then(r => { if(!r.ok) throw new Error('top-news.json '+r.status); return r.json(); })
+  .then(render)
+  .catch(err => {
+    console.error('ニュースデータの読み込みに失敗:', err);
+    document.getElementById('hero-title').textContent = 'ニュースデータを読み込めませんでした（top-news.json を確認してください）';
+  });
+</script>
+</body>
+</html>
