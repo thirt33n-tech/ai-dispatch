@@ -1,78 +1,64 @@
 {
-  "dispatchNo": "148",
-  "dateLabel": "2026.06.24",
+  "dispatchNo": "149",
+  "dateLabel": "2026.06.25",
   "top1": {
-    "title": "OpenAI、GPT-5.5-Cyber強化 サイバー防御85.6%達成",
-    "lead1": "Mythos 5超えの性能でDaybreak拡大。オープンソースの脆弱性を自動検知・修正し防御を加速。",
-    "lead2": "信頼された防御者に限定提供。コードベース全体を深く解析し実環境でパッチ検証まで自動化。",
+    "title": "Anthropic、Claude Tag発表でチームAIが革命",
+    "lead1": "チーム向け新機能Claude Tagが登場。共有ワークフローとコラボを根本から変革する最大級アップデート。",
+    "lead2": "UI/UXの大刷新第3弾。LLMとの関係性を再定義する新時代を象徴。",
     "manga_url": "news/top1_manga.png",
-    "video_url": "https://youtube.com/shorts/qmxx9QitvuU"
+    "video_url": "https://www.youtube.com/watch?v=eAVW_X_KgTc"
   },
   "heroVideoUrl": "https://www.youtube.com/shorts/N-YfnTXIEIo",
   "editorsDesk": {
     "recImg": "news/top1_manga.png",
-    "recTitle": "GPT-5.5-Cyber、防御で85.6%",
-    "recNote": "AIがサイバー脅威を先回りして守る時代へ。OpenAIのDaybreakは防御者優位を確立する転機となる。",
+    "recTitle": "Claude Tag：チームAIの本格始動",
+    "recNote": "個人ユースからチーム共有知能へ。Claude Tagは2026年のビジネスコラボレーションを劇的に進化させる転換点となる。",
     "bonusPoster": "news/archive_144.jpg",
-    "bonusTitle": "Sakana Fugu の衝撃",
+    "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "Anthropic、Slack内にワークプレイスAIエージェント直接統合",
-    "Microsoft、AI教育レポートで採用拡大とサポート需要急増を報告",
-    "Meta、AIトレーニング用従業員トラッカーをプライバシー懸念で停止",
-    "OpenAI、Appia Foundationを通じ先進AI国際標準構築を主導",
-    "トランプ政権、AIイノベーション推進とセキュリティ大統領令を発令",
-    "AIデータセンターの電力・水消費深刻化、透明性不足が課題",
-    "Google Search、AIエージェント対応で25年ぶり大規模刷新"
+    "Forbes 2026 AI 50でOpenAIとAnthropicが圧倒的1位",
+    "AIチャットボットの政治的バイアスをWPが徹底検証",
+    "中国スーパーコンピューターが世界最速に返り咲き",
+    "AIがヴェスヴィオ噴火で焼失した古代パピルスを解読",
+    "ChatGPTシェアが初の50%割れ、Gemini・Claudeが急伸",
+    "欧州でPublic AI運動が文化遺産セクター主導で活発化",
+    "AIデータセンターの電力・水消費問題が深刻化"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "AnthropicがSlackにAIエージェントを直接展開",
-      "summary": "業務フロー内でAIが自律的にタスク実行。生産性革命の新段階。",
+      "title": "Forbes 2026 AI 50発表 OpenAI・Anthropic独走",
+      "summary": "両社で調達額の80%を占め、CodexとClaude Codeがコーディング市場を支配。巨額資金と収益成長が続く。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Microsoft AI教育レポート：学校・企業での急速採用",
-      "summary": "実務活用が進む一方、教師・管理者向けトレーニング需要が急拡大。",
+      "title": "AIチャットボットの政治バイアスを検証",
+      "summary": "Grokは明確に右寄り、Claudeは中立、ChatGPT/Geminiの傾向をWashington Postが詳細に分析。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {
-      "rank": 4,
-      "title": "Meta、AI学習用従業員行動追跡を一時停止"
-    },
-    {
-      "rank": 5,
-      "title": "OpenAI、共有AI標準構築でAppia Foundation設立支援"
-    },
-    {
-      "rank": 6,
-      "title": "トランプ政権がAIイノベーション・セキュリティ大統領令"
-    },
-    {
-      "rank": 7,
-      "title": "AIデータセンターのエネルギー消費問題が深刻化"
-    },
-    {
-      "rank": 8,
-      "title": "Google SearchがAIエージェントで根本的刷新"
-    },
-    {
-      "rank": 9,
-      "title": "中国スーパーコンピューターが世界最速に返り咲き"
-    },
-    {
-      "rank": 10,
-      "title": "HIMSS AI Leadership Summit Bostonが本日開催"
-    }
+    {"rank": 4, "title": "中国スーパーコンピューター、世界最速に返り咲き"},
+    {"rank": 5, "title": "AIが焼失パピルスを解読、歴史的発見"},
+    {"rank": 6, "title": "ChatGPTシェア初の50%割れ、競争激化"},
+    {"rank": 7, "title": "Public AI運動が欧州で活発化"},
+    {"rank": 8, "title": "AIデータセンターのエネルギー消費が課題に"},
+    {"rank": 9, "title": "2026年はマルチエージェントAIの本格元年"},
+    {"rank": 10, "title": "NVIDIA×NAIRRで米公的AI研究基盤強化"}
   ],
   "archive": [
+    {
+      "no": 148,
+      "kind": "📖 漫画",
+      "date": "06.24",
+      "img": "news/top1_manga.png",
+      "title": "OpenAI、GPT-5.5-Cyber強化 サイバー防御85.6%達成"
+    },
     {
       "no": 147,
       "kind": "📖 漫画",

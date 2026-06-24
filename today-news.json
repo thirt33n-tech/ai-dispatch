@@ -1,15 +1,15 @@
 {
   "date": "2026.06.24",
   "top10": [
-    {"rank": 1, "title": "OpenAI、GPT-5.5-Cyber強化版リリース サイバー防御で85.6%達成", "summary": "Claude Mythos 5を上回る性能。Daybreakイニシアチブでオープンソース脆弱性自動修正を加速。", "source": "The Hacker News / OpenAI"},
-    {"rank": 2, "title": "Anthropic、SlackにワークプレイスAIエージェント直接統合", "summary": "業務効率化のためのAIエージェントをSlack内に展開。", "source": "Artificial Intelligence News"},
-    {"rank": 3, "title": "Microsoft、AI教育レポート公開 採用が急速に拡大", "summary": "学校・企業でのAI活用が進み、サポート需要が増大。", "source": "Microsoft"},
-    {"rank": 4, "title": "Meta、AIトレーニング用従業員行動トラッカーを一時停止", "summary": "プライバシー懸念から決定。", "source": "The Guardian"},
-    {"rank": 5, "title": "OpenAI、先進AIのための共有標準構築を支援", "summary": "Appia Foundationを通じ国際標準化を推進。", "source": "OpenAI"},
-    {"rank": 6, "title": "トランプ政権、AIイノベーションとセキュリティ大統領令を発令", "summary": "イノベーション加速と国家安全保障を両立。", "source": "White House"},
-    {"rank": 7, "title": "AIデータセンターの電力・水消費が深刻化", "summary": "透明性不足が指摘され、持続可能性が課題に。", "source": "Various"},
-    {"rank": 8, "title": "Google Search、AIエージェント対応で25年ぶり大刷新", "summary": "複雑タスクを自動実行可能に。", "source": "Google"},
-    {"rank": 9, "title": "中国スーパーコンピューター、世界最速に 米を逆転", "summary": "AI開発競争で優位性示す。", "source": "The Guardian"},
-    {"rank": 10, "title": "AIリーダーシップサミット Boston開催", "summary": "ヘルスケアAI戦略議論の場に。", "source": "HIMSS"}
+    {"rank": 1, "title": "Anthropic、Claude Tag発表でチームAIコラボ革命", "summary": "Claudeをチームで活用する新機能。ワークフローを根本変革する最大級アップデート。", "source": "YouTube/Anthropic"},
+    {"rank": 2, "title": "Forbes 2026 AI 50発表 OpenAI・Anthropic独走", "summary": "両社で総調達額80%超。Codex/Claude Codeがコーディング市場も席巻。", "source": "Forbes"},
+    {"rank": 3, "title": "WP検証：AIチャットボットの政治的バイアス", "summary": "Grokは右寄り、Claudeは中立寄り。ChatGPT/Geminiの傾向を詳細分析。", "source": "Washington Post"},
+    {"rank": 4, "title": "中国スーパーコンピューターが世界最速に", "summary": "米国を抜いて再びトップ。AI開発競争で中国の巻き返し鮮明に。", "source": "The Guardian"},
+    {"rank": 5, "title": "AIがヴェスヴィオ噴火で焼失したパピルス解読", "summary": "Herculaneumの炭化した巻物をAIで読み解く歴史的成果。", "source": "The Guardian"},
+    {"rank": 6, "title": "ChatGPTシェア初の50%割れ Gemini・Claude台頭", "summary": "生成AIアシスタント市場に大きな変化。競争激化の兆し。", "source": "Ledge.ai"},
+    {"rank": 7, "title": "欧州でPublic AI運動が活発化 文化遺産セクター主導", "summary": "企業依存から脱却し、公共利益のためのAI基盤構築を提言。", "source": "OpenFuture"},
+    {"rank": 8, "title": "AIデータセンターの電力・水消費が深刻化", "summary": "透明性不足が課題。持続可能性への懸念が高まる。", "source": "Multiple"},
+    {"rank": 9, "title": "2026年はマルチエージェントAIの本格元年", "summary": "自律エージェント同士が協働する新パラダイムがビジネスを変える。", "source": "Various"},
+    {"rank": 10, "title": "NVIDIA×NAIRRで米国公的AI研究基盤強化", "summary": "Walrus・MIST・BEACONなど最先端プロジェクトが進行中。", "source": "Innovatopia"}
   ]
 }
