@@ -1,15 +1,15 @@
 {
   "date": "2026.06.24",
   "top10": [
-    {"rank": 1, "title": "ソフトバンク、新中期計画発表　AIサーバー製造事業参入で社会インフラ企業へ", "summary": "2030年度営業利益1.7兆円目指し、AI計算基盤・データセンター・HAPS強化。宮川社長『収穫フェーズ』", "source": "SoftBank"},
-    {"rank": 2, "title": "AIデータセンターのエネルギー・水資源消費が深刻化、企業透明性不足を専門家指摘", "summary": "クエリ1回ごとに大量の電力と水を消費。透明性向上と効率化が急務", "source": "US News"},
-    {"rank": 3, "title": "トランプ政権、先端AIイノベーションとセキュリティ推進のための大統領令発令", "summary": "国家AI政策枠組みを整備し、規制過多を避けつつ安全保障を強化", "source": "White House"},
-    {"rank": 4, "title": "AI株急落『Chip-Wreck』、エネルギー懸念でトレーダーに警鐘", "summary": "AI関連半導体株が軟調。データセンター電力消費が市場に影", "source": "Bloomberg"},
-    {"rank": 5, "title": "Google SearchがAIエージェント対応へ、大規模アップデート実施", "summary": "25年ぶりの大刷新。質問するだけでAIエージェントが動作", "source": "Google"},
-    {"rank": 6, "title": "EU AI Act本格適用に向け、オープンソースフロンティアAIモデル開発コンソーシアム選定", "summary": "全24言語対応の欧州独自モデル構築プロジェクトが始動", "source": "European Commission"},
-    {"rank": 7, "title": "Microsoft Fabric 2026年6月更新　gpt-5-miniをデフォルトAIモデルに", "summary": "新AI関数で推論強化。旧モデルは段階的に廃止", "source": "Microsoft"},
-    {"rank": 8, "title": "AMD Advancing AI 2026カンファレンスを7月にサンフランシスコで開催", "summary": "AIインフラとネットワークの最新動向を議論", "source": "AMD"},
-    {"rank": 9, "title": "AAAI Summer Symposium Series 2026がソウルで開催中", "summary": "AIの夏期シンポジウムがアジアで展開", "source": "AAAI"},
-    {"rank": 10, "title": "2026年AI規制アップデート：米州法・EU AI Actの影響を解説", "summary": "企業はコンプライアンス体制の見直しを迫られる", "source": "Gunderson"}
+    {"rank": 1, "title": "ソフトバンク、AIサーバー製造事業に参入　堺工場で国産化加速", "summary": "2027年度から国内製造開始。NVIDIA・鴻海と協議、経済安全保障観点からAIインフラ国産化目指す。", "source": "日経・Yahooニュース"},
+    {"rank": 2, "title": "トランプ政権、先端AIイノベーションとセキュリティに関する大統領令を発令", "summary": "AI推進と国家安全保障を両立する新政策。暗号関連も強化。", "source": "White House"},
+    {"rank": 3, "title": "Google SearchがAIエージェント対応で25年ぶりの大刷新", "summary": "エージェント機能統合で検索体験が根本から進化。", "source": "Google Blog"},
+    {"rank": 4, "title": "AIデータセンターのエネルギー・水消費問題が深刻化", "summary": "企業透明性不足を専門家が指摘。持続可能性が課題に。", "source": "各種レポート"},
+    {"rank": 5, "title": "ソフトバンクG、フランスに最大14兆円規模AIデータセンター投資", "summary": "欧州最大級インフラ整備でAI需要取り込み加速。", "source": "時事・ロイター"},
+    {"rank": 6, "title": "AMDが7月「Advancing AI 2026」カンファレンスをサンフランシスコで開催", "summary": "最新AIコンピュート技術と企業事例を発表予定。", "source": "AMD"},
+    {"rank": 7, "title": "Stanford AI Index 2026発表：能力加速、米中ギャップほぼ解消", "summary": "業界が90%以上のフロンティアモデルを生産。採用拡大も。", "source": "Stanford HAI"},
+    {"rank": 8, "title": "EU、24言語対応オープンソースフロンティアAIモデル開発へ", "summary": "デジタル主権確保に向けた大型プロジェクト始動。", "source": "EU関連"},
+    {"rank": 9, "title": "Microsoft Fabric 6月更新で先進AIモデルをデフォルト採用", "summary": "gpt-5-mini等を標準化し生産性向上。", "source": "Microsoft"},
+    {"rank": 10, "title": "2026年AI法規制アップデート：企業は州法・EU対応を急務", "summary": "Colorado AI Act施行目前。コンプライアンス強化必須。", "source": "各種規制情報"}
   ]
 }

@@ -1,62 +1,63 @@
 {
   "githubUrl": "https://github.com/thirt33n-tech",
-  "dispatchNo": 149,
+  "dispatchNo": 150,
   "dateLabel": "2026.06.24",
-  "fixedMangaUrl": "news/kof_manga.jpg",
+  "fixedMangaUrl": "news/top1_manga.png",
   "top1": {
-    "title": "ソフトバンク、AI社会実装を加速　AIサーバー製造事業に参入",
-    "lead1": "宮川社長「AI投資の収穫フェーズ」。新中期計画で営業利益1.7兆円目指す。",
-    "lead2": "データセンター・GPUクラウド・HAPSなど次世代インフラ整備も本格化。",
+    "title": "ソフトバンク、2027年から国産AIサーバー製造　孫氏「4分野で世界一のAI企業に」",
+    "lead1": "株主総会で孫正義会長が音楽・ロボット・フィジカルAI・データセンターの4分野で世界一を目指すと宣言。「あと10〜15年頑張る」と意欲。",
+    "lead2": "堺工場跡地を活用したAIサーバー生産、フランスへの最大14兆円DC投資、北海道新設などインフラ攻勢を本格化。NVIDIA・鴻海と連携。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
   "heroVideoUrl": "",
   "editorsDesk": {
-    "recImg": "news/kof_manga.jpg",
-    "recTitle": "AIインフラ最前線",
-    "recNote": "ソフトバンクのAIサーバー製造参入を漫画で解説。",
+    "recImg": "news/top1_manga.png",
+    "recTitle": "ソフトバンクAI帝国の夜明け",
+    "recNote": "国産AIサーバー製造参入と孫会長のビジョンを漫画で徹底解説。",
     "bonusPoster": "news/bonus_anime_thumb.jpg",
     "bonusTitle": "今日のおまけアニメ",
-    "bonusNote": "AIが社会を変える瞬間をショートアニメで。"
+    "bonusNote": "AIインフラが世界を変える瞬間をショートアニメで。"
   },
   "breaking": [
-    "AIデータセンターのエネルギー・水消費が深刻化　企業透明性不足を指摘",
-    "トランプ政権が先端AIイノベーション・セキュリティ大統領令を発令",
+    "トランプ政権、先端AIイノベーション・セキュリティ大統領令を発令",
     "Google SearchがAIエージェント対応で25年ぶり大刷新",
-    "EUが24言語対応オープンソースフロンティアAIモデル開発へ",
-    "Microsoft Fabric 6月更新　gpt-5-miniをデフォルトAIモデルに",
-    "AMDが7月「Advancing AI 2026」カンファレンスをサンフランシスコで開催",
-    "AAAI Summer Symposium 2026がソウルで開催中",
-    "2026年AI法規制アップデート　企業は州法・EU対応急務"
+    "AIデータセンターのエネルギー・水消費深刻化　透明性不足を指摘",
+    "ソフトバンクG、フランスに最大14兆円AIデータセンター投資",
+    "Stanford AI Index 2026：能力加速、米中ギャップほぼ消滅",
+    "AMD「Advancing AI 2026」7月サンフランシスコで開催",
+    "EU、24言語対応オープンソースフロンティアAIモデル開発プロジェクト始動",
+    "Microsoft Fabric更新で先進AIモデルを標準採用"
   ],
   "topCards": [
     {
       "rank": "2",
-      "category": "BUSINESS",
+      "category": "POLICY",
       "accent": "#3CE7F2",
-      "title": "ソフトバンクAIサーバー製造事業参入でインフラ革命",
-      "summary": "2030年度営業利益1.7兆円目標。新中期計画『Activate AI for Society』で社会インフラ企業への進化を加速。",
+      "title": "トランプ政権がAI推進・セキュリティ大統領令を発令",
+      "summary": "イノベーション加速と国家安全保障を両立。新たな暗号対策も。企業・研究機関に影響大。",
       "date": "2026.06.24"
     },
     {
       "rank": "3",
-      "category": "ENVIRONMENT",
+      "category": "SEARCH",
       "accent": "#FF3D5E",
-      "title": "AIブームが電力・水資源を圧迫　データセンターの持続可能性が課題",
-      "summary": "1回のクエリで大量消費。専門家は企業への透明性要求と効率化技術の開発を提言。",
+      "title": "Google SearchがAIエージェントで根本刷新",
+      "summary": "25年ぶりの大規模アップデート。エージェント機能で「質問するだけで」複雑タスク実行可能に。",
       "date": "2026.06.24"
     }
   ],
   "topList": [
-    { "rank": "4", "title": "トランプ政権、先端AI推進のための大統領令を発表", "date": "06.24" },
-    { "rank": "5", "title": "Google、AIエージェント搭載Searchを本格展開", "date": "06.24" },
-    { "rank": "6", "title": "EU、フロンティアAIオープンソースモデル開発プロジェクト始動", "date": "06.24" },
-    { "rank": "7", "title": "Microsoft Fabric、gpt-5-miniを標準AI関数に採用", "date": "06.24" },
-    { "rank": "8", "title": "AMD Advancing AI 2026を7月サンフランシスコで開催", "date": "06.24" },
-    { "rank": "9", "title": "AAAI Summer Symposium Seriesが韓国で進行中", "date": "06.24" },
-    { "rank": "10", "title": "2026 AI規制 landscape：米欧州法対応が企業に影響", "date": "06.24" }
+    { "rank": "4", "title": "AIデータセンターの電力・水消費問題が深刻化", "date": "06.24" },
+    { "rank": "5", "title": "ソフトバンク、フランスに最大14兆円規模AIデータセンター投資", "date": "06.24" },
+    { "rank": "6", "title": "Stanford AI Index 2026：フロンティアモデル性能が加速", "date": "06.24" },
+    { "rank": "7", "title": "AMD Advancing AI 2026カンファレンスを7月開催", "date": "06.24" },
+    { "rank": "8", "title": "EUが多言語オープンソースフロンティアAI開発へ", "date": "06.24" },
+    { "rank": "9", "title": "Microsoft Fabric 6月更新でgpt-5-mini等をデフォルトに", "date": "06.24" },
+    { "rank": "10", "title": "2026年AI規制対応：Colorado法施行まで22日、企業急務", "date": "06.24" }
   ],
   "archive": [
+    { "no": 149, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "ソフトバンク、AIサーバー製造事業に参入" },
     { "no": 148, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "AIエージェントの巨額請求が「絶対的悪夢」に、企業対応急ぐ" },
     { "no": 147, "kind": "📖 漫画", "date": "06.24", "img": "news/top1_manga.png", "title": "Sakana AI、複数AIを束ねた新モデルの一般提供を開始" },
     { "no": 146, "kind": "📖 漫画", "date": "06.23", "img": "news/kof_manga.jpg" },
