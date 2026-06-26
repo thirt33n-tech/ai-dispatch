@@ -6,8 +6,8 @@ video/
 manga_i2v/
 i2v_test/
 
-# --- 入力リファレンス画像（バイナリ）。必要なら git add -f で個別追加可 ---
-reference/
+# --- 入力リファレンス: 配下を既定除外し、固定入力のみ末尾の否定で追跡（毎日の一時画像は除外のまま） ---
+reference/*
 
 # --- 念のため拡張子でも除外（_pipeline 内に紛れ込む生成物対策） ---
 *.mp4
@@ -22,3 +22,8 @@ reference/
 .claude/
 __pycache__/
 *.pyc
+
+# --- 固定入力（毎日不変・gen_manga の必須固定入力＝藍みなみ同一性の基盤）。 ---
+# 上の reference/* と *.png の除外を打ち消して追跡する（last-match-wins）。
+# reference/ に他の固定素材（表情差分など毎日不変のもの）を足したら、ここに !行 を追加する。
+!reference/minami_fullbody.png
