@@ -11,3 +11,13 @@
 .claude/
 __pycache__/
 *.pyc
+
+# --- 内部実装（公開サイトrepoには含めない・選択肢A）---
+/bin/
+/ref/
+/config/
+/assets/minami/_pipeline/
+*.orig
+*.seed.json
+/PHASE1_INSTRUCTIONS.md
+/TASK_C_INSTRUCTIONS.md
