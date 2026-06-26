@@ -1,15 +1,86 @@
 {
   "date": "2026.06.26",
   "top10": [
-    {"rank": 1, "title": "OpenAI、Broadcomと初のカスタムAIチップ「Jalapeno」発表", "summary": "計算コストと供給課題解決に向けた戦略的提携。AIインフラの新時代。", "source": "Bloomberg"},
-    {"rank": 2, "title": "Anthropic・DeepMind CEOがG7で米国主導AI連合を提唱", "summary": "AIルール策定で国際協力の必要性を強調。地政学的動き加速。", "source": "CNBC"},
-    {"rank": 3, "title": "Microsoft、2026 AI教育レポート公開 採用加速と実装課題を指摘", "summary": "学校でのAI活用が広がる中、責任ある実装への支援需要高まる。", "source": "Microsoft"},
-    {"rank": 4, "title": "AIの環境負荷が深刻化 水消費が13億人分に達する可能性", "summary": "データセンターの電力・水・土地使用が急増、持続可能性が課題に。", "source": "UN News"},
-    {"rank": 5, "title": "Oracle、OCI AIにCohere Rerank 4など6月アップデート", "summary": "マルチモーダル強化と新リージョン対応で企業AIを強化。", "source": "Oracle"},
-    {"rank": 6, "title": "Google DeepMind、AGIからASIへの移行に関する研究報告", "summary": "スケーリングや再帰的改善など4つのパスを分析。", "source": "DeepMind"},
-    {"rank": 7, "title": "Qualcomm、Tenstorrent買収協議で80-100億ドル規模", "summary": "AIインフラ競争で半導体大手が動き出す。", "source": "Industry News"},
-    {"rank": 8, "title": "OECD、学校向けAIリテラシーフレームワーク発表", "summary": "世界の初等中等教育でAI理解を促進する指針を提供。", "source": "OECD"},
-    {"rank": 9, "title": "HPE、NVIDIAとAI Factory拡張でAgentic AI推進", "summary": "自律ワークフロー実現に向けたインフラ強化。", "source": "HPE"},
-    {"rank": 10, "title": "DeepMind、Gemini Omniとcomputer use新機能リリース", "summary": "エージェント機能の進化が目覚ましい。", "source": "DeepMind"}
+    {
+      "rank": 1,
+      "title": "OpenAI、Broadcomと初のカスタムAIチップ「Jalapeno」発表",
+      "summary": "計算コストと供給課題解決に向けた戦略的提携。AIインフラの新時代。",
+      "source": "Bloomberg",
+      "script": {
+        "panels": [
+          {
+            "speech": "みなみ、速報！OpenAIが自社チップ発表！",
+            "narration": ""
+          },
+          {
+            "speech": "BroadcomとJalapeno！？ 衝撃！",
+            "narration": ""
+          },
+          {
+            "speech": "性能/ワットが大幅向上するよ",
+            "narration": "計算コストと供給課題解決へ"
+          },
+          {
+            "speech": "AIインフラが変わるかも…",
+            "narration": "…来週に続く"
+          }
+        ],
+        "telop_text": "OpenAI×Broadcom 初カスタムAIチップ「Jalapeno」発表"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic・DeepMind CEOがG7で米国主導AI連合を提唱",
+      "summary": "AIルール策定で国際協力の必要性を強調。地政学的動き加速。",
+      "source": "CNBC"
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft、2026 AI教育レポート公開 採用加速と実装課題を指摘",
+      "summary": "学校でのAI活用が広がる中、責任ある実装への支援需要高まる。",
+      "source": "Microsoft"
+    },
+    {
+      "rank": 4,
+      "title": "AIの環境負荷が深刻化 水消費が13億人分に達する可能性",
+      "summary": "データセンターの電力・水・土地使用が急増、持続可能性が課題に。",
+      "source": "UN News"
+    },
+    {
+      "rank": 5,
+      "title": "Oracle、OCI AIにCohere Rerank 4など6月アップデート",
+      "summary": "マルチモーダル強化と新リージョン対応で企業AIを強化。",
+      "source": "Oracle"
+    },
+    {
+      "rank": 6,
+      "title": "Google DeepMind、AGIからASIへの移行に関する研究報告",
+      "summary": "スケーリングや再帰的改善など4つのパスを分析。",
+      "source": "DeepMind"
+    },
+    {
+      "rank": 7,
+      "title": "Qualcomm、Tenstorrent買収協議で80-100億ドル規模",
+      "summary": "AIインフラ競争で半導体大手が動き出す。",
+      "source": "Industry News"
+    },
+    {
+      "rank": 8,
+      "title": "OECD、学校向けAIリテラシーフレームワーク発表",
+      "summary": "世界の初等中等教育でAI理解を促進する指針を提供。",
+      "source": "OECD"
+    },
+    {
+      "rank": 9,
+      "title": "HPE、NVIDIAとAI Factory拡張でAgentic AI推進",
+      "summary": "自律ワークフロー実現に向けたインフラ強化。",
+      "source": "HPE"
+    },
+    {
+      "rank": 10,
+      "title": "DeepMind、Gemini Omniとcomputer use新機能リリース",
+      "summary": "エージェント機能の進化が目覚ましい。",
+      "source": "DeepMind"
+    }
   ]
 }

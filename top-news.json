@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "150",
-  "dateLabel": "2026.06.26",
+  "dispatchNo": "151",
+  "dateLabel": "2026.06.27",
   "top1": {
     "title": "OpenAI、Broadcomと初のカスタムAIチップ「Jalapeno」発表",
-    "lead1": "OpenAIがBroadcomと共同開発した初の自社AIチップを公開。",
-    "lead2": "計算コストと供給 chainの課題解決に向け業界に衝撃。",
+    "lead1": "OpenAIがBroadcomと共同で初の自社AI推論チップを発表。",
+    "lead2": "性能効率向上でコスト削減とスケール実現へ。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -19,39 +19,67 @@
   },
   "breaking": [
     "Anthropic・DeepMind CEOがG7で米国主導AI連合を提唱",
-    "Microsoft、2026 AI教育レポート公開で実装支援を強調",
-    "AI環境負荷が深刻、水・土地消費が急拡大",
-    "Oracle、6月AIアップデートでマルチモーダル強化",
-    "DeepMindがAGIからASI移行の4パスを分析",
-    "QualcommがTenstorrent買収協議、80-100億ドル規模",
-    "OECDが学校向けAIリテラシーフレームワーク発表"
+    "Microsoft、2026 AI教育レポート公開 採用加速と実装課題を指摘",
+    "AIの環境負荷が深刻化 水消費が13億人分に達する可能性",
+    "Oracle、OCI AIにCohere Rerank 4など6月アップデート",
+    "Google DeepMind、AGIからASIへの移行に関する研究報告",
+    "Qualcomm、Tenstorrent買収協議で80-100億ドル規模",
+    "OECD、学校向けAIリテラシーフレームワーク発表"
   ],
   "topCards": [
     {
       "rank": 2,
       "title": "Anthropic・DeepMind CEOがG7で米国主導AI連合を提唱",
-      "summary": "Amodei氏とHassabis氏が国際ルール策定での米国主導を主張。AIガバナンスの新局面。",
+      "summary": "AIルール策定で国際協力の必要性を強調。地政学的動き加速。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Microsoft、2026 AI in Education Reportを公開",
-      "summary": "教育現場でのAI採用が加速する一方、責任ある実装支援の需要が急増している。",
+      "title": "Microsoft、2026 AI教育レポート公開 採用加速と実装課題を指摘",
+      "summary": "学校でのAI活用が広がる中、責任ある実装への支援需要高まる。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {"rank": 4, "title": "AIの環境負荷深刻化、水消費が13億人分に"},
-    {"rank": 5, "title": "Oracle OCI AI、Cohere Rerank 4など6月更新"},
-    {"rank": 6, "title": "DeepMind、AGIからASIへの移行パスを報告"},
-    {"rank": 7, "title": "Qualcomm、Tenstorrent買収でAI半導体強化"},
-    {"rank": 8, "title": "OECD、学校AIリテラシー枠組みを公開"},
-    {"rank": 9, "title": "HPEがNVIDIAとAgentic AI Factoryを拡張"},
-    {"rank": 10, "title": "Gemini OmniなどDeepMindの新機能リリース"}
+    {
+      "rank": 7,
+      "title": "AIの環境負荷が深刻化 水消費が13億人分に達する可能性"
+    },
+    {
+      "rank": 8,
+      "title": "Oracle、OCI AIにCohere Rerank 4など6月アップデート"
+    },
+    {
+      "rank": 9,
+      "title": "Google DeepMind、AGIからASIへの移行に関する研究報告"
+    },
+    {
+      "rank": 10,
+      "title": "Qualcomm、Tenstorrent買収協議で80-100億ドル規模"
+    },
+    {
+      "rank": 11,
+      "title": "OECD、学校向けAIリテラシーフレームワーク発表"
+    },
+    {
+      "rank": 12,
+      "title": "HPE、NVIDIAとAI Factory拡張でAgentic AI推進"
+    },
+    {
+      "rank": 13,
+      "title": "DeepMind、Gemini Omniとcomputer use新機能リリース"
+    }
   ],
   "archive": [
+    {
+      "no": 150,
+      "kind": "📖 漫画",
+      "date": "06.26",
+      "img": "news/top1_manga.png",
+      "title": "OpenAI、Broadcomと初のカスタムAIチップ「Jalapeno」発表"
+    },
     {
       "no": 149,
       "kind": "📖 漫画",
