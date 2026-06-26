@@ -1,0 +1,171 @@
+#!/usr/bin/env python3
+"""AI DISPATCH 4コマ漫画 生成スクリプト（確定引数・ログ保存・hermes -z非経由）。
+
+正本テンプレ（日本語/英語）を一字一句固定で埋め込み、{NEWS} のみ差し替えて
+XAIImageGenProvider.generate() を確定引数で直接呼ぶ。Hermes(Grok頭脳)による
+テンプレ微修正を排除し、渡したプロンプト全文・引数・モデル名・時刻をログ保存する。
+
+実行例:
+  HERMES=/home/ashviri/.hermes/hermes-agent
+  $HERMES/venv/bin/python gen_manga.py --lang ja \
+     --news "OpenAIがBroadcomとカスタムAIチップ「Jalapeno」を発表。計算コストと供給難の解決を狙う。"
+
+必ず hermes venv の python で実行すること（requests / hermes モジュール解決のため）。
+"""
+import argparse
+import datetime
+import json
+import os
+import shutil
+import sys
+
+HERMES_ROOT = "/home/ashviri/.hermes/hermes-agent"
+if HERMES_ROOT not in sys.path:
+    sys.path.insert(0, HERMES_ROOT)
+
+DEFAULT_REF = os.path.expanduser(
+    "~/ai-dispatch/assets/minami/reference/minami_fullbody.png"
+)
+
+# ── 正本テンプレ（日本語・一字一句固定。{NEWS} のみ差し替え。改変禁止）──
+TEMPLATE_JA = """【画風】 フルカラー漫画、アニメ塗り、鮮やかな配色、セル画風、繊細な線画、週刊少年漫画の演出。
+【主人公（最重要）】 添付キャラクター画像の人物を主人公として全コマで使用。 顔・髪型・髪色・瞳の色・服装・体型を完全に維持。再設計・年齢・性別の変更は不可。
+【言語ルール（最重要）】 画像内の全文字は日本語（会話・ナレーション・見出し・効果音）。 固有名詞のみアルファベット可（AI, G7, Pentagon, Anthropic, OpenAI 等）。 吹き出しは1つにつき全角20字以内。長文は使わない。
+【形式】 縦長4コマ漫画ページ（アスペクト比 9:16）。 黒い枠線で区切った独立した4コマ。上から下へ読む。各コマに吹き出し。 4コマすべてを使用し、空白コマを作らない。
+【ストーリー】 1コマ目：主人公がスマホでニュースを知る（驚いた表情）。 2コマ目：主人公が大きく驚く（顔のアップ、効果線）。 3コマ目：ニュースの状況説明（ナレーション枠＋背景）。 4コマ目：主人公の考察・オチ。「来週に続く」で締める。 各コマでカメラアングルと表情を必ず変える。
+【ニュース】 {NEWS}
+【除外】 サムネイル・ポスター・広告・1枚絵・単一シーン・ニュース番組風レイアウトにしない。 コマを融合しない。"""
+
+# ── 正本テンプレ（英語・忠実英訳＋実証済み最小対策3点。{NEWS} のみ差し替え）──
+TEMPLATE_EN = """【Art style】 Full-color manga, anime cel shading, vivid palette, fine linework, weekly shonen manga direction.
+【Protagonist (top priority)】 Use the person in the attached character image as the protagonist in all panels. Keep face, hairstyle, hair color, eye color, clothing, and body type completely consistent. No redesign, no age or gender change.
+【Language rule (top priority)】 All in-image text is ENGLISH (dialogue, narration, headings, effect words). Keep proper-noun spelling exact (AI, G7, Pentagon, Anthropic, OpenAI, etc.). Use a clean comic font where capital "I" and lowercase "l" are clearly distinct (so OpenAI never looks like OpenAl). Keep each bubble short; no long sentences.
+【Format】 Vertical 4-panel manga page (aspect ratio 9:16). Four independent panels divided by black borders, read top to bottom, one bubble per panel. Use all four panels; no empty panel. Keep every bubble fully inside its panel.
+【Story】 Panel 1: protagonist learns the news on a smartphone (surprised). Panel 2: protagonist is shocked (face close-up, speed lines). Panel 3: situation explanation (narration box + background). Panel 4: protagonist's take / punchline; close with "To be continued". Vary camera angle and expression in every panel.
+【News】 {NEWS}
+【Exclude】 Do NOT make a thumbnail, poster, ad, single illustration, single scene, or news-broadcast layout. Do NOT merge panels."""
+
+
+def build_prompt(lang: str, news: str, script=None) -> str:
+    """テンプレに {NEWS} を差し替え。script(panels)があれば各コマ指定セリフを注入。
+
+    script=None なら従来通り {NEWS} 単独差し替えのみ（後方互換）。
+    参照実装 ref/build_prompt_ref.py と同一ロジック（自己テスト済）。
+    """
+    tpl = TEMPLATE_JA if lang == "ja" else TEMPLATE_EN
+    prompt = tpl.replace("{NEWS}", news)
+
+    if not script:
+        return prompt
+
+    panels = script.get("panels", [])
+    if not panels:
+        return prompt
+
+    # 各コマの指定セリフ/ナレを明示ブロックとして追記し、Grokに即興でなく指定文言を描かせる。
+    lines = ["", "【各コマの吹き出しセリフ（必ずこの文言を日本語で描く・全角20字以内）】"]
+    for i, p in enumerate(panels, start=1):
+        speech = (p.get("speech") or "").strip()
+        narration = (p.get("narration") or "").strip()
+        if speech:
+            lines.append(f"{i}コマ目 セリフ：「{speech}」")
+        if narration:
+            lines.append(f"{i}コマ目 ナレーション：「{narration}」")
+    lines.append("上記セリフ・ナレーションを即興で変更せず、指定どおり吹き出し/ナレ枠に描くこと。")
+
+    return prompt + "\n" + "\n".join(lines)
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description="AI DISPATCH 4コマ漫画生成（確定引数）")
+    ap.add_argument("--news", required=True, help="ニュース要約（{NEWS}に挿入）")
+    ap.add_argument("--lang", choices=["ja", "en"], default="ja")
+    ap.add_argument("--ref", default=DEFAULT_REF, help="参照画像パス")
+    ap.add_argument("--aspect", default="9:16", help="aspect_ratio（編集経路では非送信の点に注意）")
+    ap.add_argument("--outdir", default=None, help="出力先（既定: manga/<YYYYMMDD>）")
+    ap.add_argument("--script-json", dest="script_json", default=None,
+                    help="script.json（panels等）。指定時は各コマ指定セリフを注入。無指定は従来{NEWS}のみ＝後方互換")
+    args = ap.parse_args()
+
+    if not os.path.isfile(args.ref):
+        print(f"ERROR: reference image not found: {args.ref}", file=sys.stderr)
+        return 2
+
+    now = datetime.datetime.now()
+    date = now.strftime("%Y%m%d")
+    ts = now.strftime("%Y%m%d_%H%M%S")
+    outdir = args.outdir or os.path.expanduser(
+        f"~/ai-dispatch/assets/minami/manga/{date}"
+    )
+    os.makedirs(outdir, exist_ok=True)
+
+    script = None
+    if args.script_json:
+        if not os.path.isfile(args.script_json):
+            print(f"ERROR: script-json not found: {args.script_json}", file=sys.stderr)
+            return 2
+        with open(args.script_json, encoding="utf-8") as f:
+            script = json.load(f)
+
+    prompt = build_prompt(args.lang, args.news, script)
+
+    # active provider（image_gen.provider: xai）を確定取得して直接呼ぶ
+    from hermes_cli.plugins import _ensure_plugins_discovered
+    _ensure_plugins_discovered(force=True)
+    from agent.image_gen_registry import get_active_provider
+    prov = get_active_provider()
+    if prov is None:
+        print("ERROR: no active image provider (check image_gen.provider)", file=sys.stderr)
+        return 3
+    provider_name = getattr(prov, "name", "?")
+
+    call_args = {"prompt": prompt, "aspect_ratio": args.aspect, "image_url": args.ref}
+    print(f"[gen_manga] provider={provider_name} lang={args.lang} ref={args.ref}", file=sys.stderr)
+
+    result = prov.generate(**call_args)
+    if isinstance(result, str):
+        try:
+            result = json.loads(result)
+        except Exception:
+            result = {"raw": result}
+
+    model = result.get("model", "?")
+    ok = bool(result.get("success", result.get("image")))
+    img_src = result.get("image")
+
+    out_img = None
+    if ok and img_src and os.path.isfile(str(img_src)):
+        ext = os.path.splitext(str(img_src))[1] or ".png"
+        out_img = os.path.join(outdir, f"manga_{args.lang}_{date}{ext}")
+        shutil.copy(str(img_src), out_img)
+
+    # ── ログ保存（プロンプト全文・引数・モデル・時刻）──
+    logpath = os.path.join(outdir, f"log_{args.lang}_{ts}.txt")
+    with open(logpath, "w", encoding="utf-8") as f:
+        f.write("=== AI DISPATCH manga generation log ===\n")
+        f.write(f"timestamp : {now.isoformat()}\n")
+        f.write(f"lang      : {args.lang}\n")
+        f.write(f"provider  : {provider_name}\n")
+        f.write(f"model     : {model}\n")
+        f.write(f"aspect    : {args.aspect}  (注: xAI編集経路では非送信)\n")
+        f.write(f"ref       : {args.ref}\n")
+        f.write(f"news      : {args.news}\n")
+        f.write(f"script    : {args.script_json}  (None=後方互換/{{NEWS}}のみ)\n")
+        f.write(f"image_src : {img_src}\n")
+        f.write(f"image_out : {out_img}\n")
+        f.write(f"success   : {ok}\n")
+        if not ok:
+            f.write(f"error     : {result.get('error')}\n")
+            f.write(f"error_type: {result.get('error_type')}\n")
+        f.write("\n--- PROMPT (verbatim, sent to image_generate) ---\n")
+        f.write(prompt + "\n")
+        f.write("\n--- RAW RESULT ---\n")
+        f.write(json.dumps(result, ensure_ascii=False, indent=2) + "\n")
+
+    print(json.dumps({"success": ok, "image_out": out_img, "model": model,
+                      "log": logpath}, ensure_ascii=False))
+    return 0 if ok else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

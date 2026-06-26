@@ -1,0 +1,24 @@
+# assets/minami: _pipeline スクリプトのみ追跡。課金生成物・中間生成物は除外。
+
+# --- 生成物ディレクトリ（漫画/動画/i2v/フレーム/ログ/stills） ---
+manga/
+video/
+manga_i2v/
+i2v_test/
+
+# --- 入力リファレンス画像（バイナリ）。必要なら git add -f で個別追加可 ---
+reference/
+
+# --- 念のため拡張子でも除外（_pipeline 内に紛れ込む生成物対策） ---
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.txt
+
+# --- 内部状態・キャッシュ ---
+.omc/
+.claude/
+__pycache__/
+*.pyc
