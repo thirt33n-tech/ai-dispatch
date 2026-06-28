@@ -3,47 +3,82 @@
   "top10": [
     {
       "rank": 1,
-      "title": "米国政府、AnthropicのClaude Mythos 5に部分リリース許可",
-      "summary": "一部信頼できる米サイバー企業への限定公開を承認。輸出規制が緩和され、AI安全基準の進展を示す。",
-      "source": "Tempo.co",
-      "source_url": "https://en.tempo.co/read/2110736/us-allows-partial-release-of-anthropics-mythos-ai-model",
+      "title": "米政府、AnthropicのClaude Mythos 5に部分リリース許可",
+      "summary": "一部信頼できる米企業への限定提供を承認。AI安全基準の進展を示す。",
+      "source": "Reuters / ITmedia",
+      "source_url": "https://www.reuters.com/technology/artificial-intelligence/",
       "script": {
         "panels": [
-          {"speech": "みなみ、Mythos 5の部分解禁！", "narration": ""},
-          {"speech": "米国政府が信頼企業限定でOK！", "narration": ""},
-          {"speech": "安全基準をクリアした証拠だね", "narration": "輸出規制の一部緩和"},
-          {"speech": "AI地政学がまた動いた…", "narration": "…来週に続く"}
+          {"speech": "みなみ、速報見た！？", "narration": ""},
+          {"speech": "Mythos 5が一部復活！", "narration": ""},
+          {"speech": "", "narration": "政府が選定企業に限定で提供再開"},
+          {"speech": "安全第一で前進かな", "narration": "…来週に続く"}
         ],
-        "telop_text": "Anthropic Mythos 5 米国政府が部分リリースを許可"
+        "telop_text": "Mythos 5 部分リリース！政府が一部企業に解禁"
       }
     },
     {
       "rank": 2,
-      "title": "OpenAI・Anthropic、新AIモデルをTrump承認企業に限定",
-      "summary": "サイバーセキュリティ審査のため新モデル公開を制限。政府のAI統制が強まる動き。",
-      "source": "Hot Springs Sentinel Record",
-      "source_url": "https://www.hotsr.com/news/2026/jun/27/openai-and-anthropic-limit-new-ai-models-to-trump/"
+      "title": "OpenAI、GPT-5.6を限定プレビュー発表",
+      "summary": "Sol/Terra/Lunaの3モデルを政府承認企業向けに公開。",
+      "source": "Ledge.ai",
+      "source_url": "https://ledge.ai/"
     },
     {
       "rank": 3,
-      "title": "Forbes 2026 AI 50リスト発表 OpenAIとAnthropicが圧倒",
-      "summary": "両社だけで総資金調達の8割近くを占める。IPOに向けた巨額資金流入が続く。",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com/lists/ai50/"
+      "title": "NVIDIA、Halos for Robotics安全システム発表",
+      "summary": "物理AIとロボット向け包括的安全システムをリリース。",
+      "source": "NVIDIA Newsroom",
+      "source_url": "https://nvidianews.nvidia.com/news/latest"
     },
     {
       "rank": 4,
-      "title": "AIトークン使用で1週間8万ドル超の事故発生",
-      "summary": "フィンテック企業社員がClaudeでゲーム開発中、大量トークン消費。AI開発コストの高さが露呈。",
-      "source": "Instagram / Various",
-      "source_url": ""
+      "title": "Stanford AI Index 2026報告書公開",
+      "summary": "AI能力加速、米中ギャップほぼ解消。業界が90%超の先端モデル生産。",
+      "source": "Stanford HAI",
+      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
     },
     {
       "rank": 5,
-      "title": "EU AI Act 透明性ルールに関する相談開始",
-      "summary": "2026年6月28日からEUでAI Actの透明性規定に関するパブリックコンサルテーションが開始。",
-      "source": "YouTube / The State of Tech",
-      "source_url": "https://www.youtube.com/watch?v=BTK3m4yTdWk"
+      "title": "AI計算コスト高騰で使用量課金へ移行",
+      "summary": "企業がAI予算を早期に消化。ROI検証のフェーズへ。",
+      "source": "MarketingProfs / Instagram",
+      "source_url": "https://www.marketingprofs.com/opinions/2026/55130/ai-update-june-26-2026-ai-news-and-views-from-the-past-week"
+    },
+    {
+      "rank": 6,
+      "title": "OECD、学校向けAIリテラシー枠組み発表",
+      "summary": "初等中等教育でのAI教育指針を全世界向けに公開。",
+      "source": "Crescendo.ai",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+    },
+    {
+      "rank": 7,
+      "title": "Morgan Stanley、2026年にAIブレークスルー警告",
+      "summary": "変革的飛躍が目前。大半の世界が準備不足。",
+      "source": "Reddit / Fortune",
+      "source_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rsrji4/morgan_stanley_warns_an_ai_breakthrough_is_coming/"
+    },
+    {
+      "rank": 8,
+      "title": "HPE、NVIDIAとAI Factory拡張でAgentic AI支援",
+      "summary": "自律ワークフロー向けインフラ強化。",
+      "source": "Crescendo.ai",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+    },
+    {
+      "rank": 9,
+      "title": "Qualcomm、Tenstorrent買収協議報道",
+      "summary": "80-100億ドル規模でAIチップ強化狙う。",
+      "source": "Crescendo.ai",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+    },
+    {
+      "rank": 10,
+      "title": "White House、AIイノベーションとセキュリティ推進EO",
+      "summary": "先進AI開発促進と国家安全保障を両立する大統領令。",
+      "source": "Whitehouse.gov",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "dispatchNo": "152",
+  "dispatchNo": "153",
   "dateLabel": "2026.06.28",
   "top1": {
-    "title": "米国政府、AnthropicのClaude Mythos 5に部分リリース許可",
-    "lead1": "一部信頼できる米企業への限定公開を承認。",
-    "lead2": "AI安全基準の進展と地政学的緩和の象徴。",
-    "manga_url": "news/top1_manga_2026-06-28.png",
-    "video_url": "https://www.youtube.com/watch?v=_oj0K9Nszg8",
-    "summary": "一部信頼できる米サイバー企業への限定公開を承認。輸出規制が緩和され、AI安全基準の進展を示す。",
+    "title": "米政府、AnthropicのClaude Mythos 5に部分リリース許可",
+    "lead1": "一部信頼できる米企業への限定提供を承認。",
+    "lead2": "AI安全基準の進展と規制緩和の象徴。",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "一部信頼できる米企業への限定提供を承認。輸出規制が緩和され、AI安全基準の進展を示す。",
     "media_updated_at": "2026-06-28"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
@@ -20,51 +20,47 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "OpenAI・Anthropic、新AIモデルをTrump承認企業に限定",
-    "Forbes 2026 AI 50リスト発表 OpenAI/Anthropic圧倒",
-    "AIトークン使用で1週間8万ドル超の事故",
-    "EU AI Act 透明性ルール相談開始",
-    "AI環境負荷の深刻化が再び指摘される"
+    "OpenAI、GPT-5.6限定プレビュー発表（Sol/Terra/Luna）",
+    "NVIDIA、Halos for Robotics安全システム発表",
+    "Stanford AI Index 2026：能力加速・米中ほぼ互角",
+    "AI計算コスト高騰で使用量課金シフト加速",
+    "OECDが学校向けAIリテラシー枠組み公開",
+    "Morgan Stanley「2026年AIブレークスルー警告」",
+    "Qualcomm、Tenstorrent買収協議報道"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "OpenAI・Anthropic、新AIモデルをTrump承認企業に限定",
-      "summary": "サイバーセキュリティ審査のため公開制限。政府統制強化の動き。",
+      "title": "OpenAI、GPT-5.6を限定プレビュー発表",
+      "summary": "Sol/Terra/Lunaの3モデルを政府承認企業向け公開。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Forbes 2026 AI 50リスト発表 OpenAI/Anthropic圧倒",
-      "summary": "両社だけで資金調達の8割近く。IPOに向けた巨額流入続く。",
+      "title": "NVIDIA、Halos for Robotics安全システム発表",
+      "summary": "物理AI・ロボット向け包括的安全システムを初リリース。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {
-      "rank": 4,
-      "title": "AIトークン使用で1週間8万ドル超の事故"
-    },
-    {
-      "rank": 5,
-      "title": "EU AI Act 透明性ルール相談開始"
-    },
-    {
-      "rank": 6,
-      "title": "AI環境負荷の深刻化が再び指摘される"
-    },
-    {
-      "rank": 7,
-      "title": "OpenAIがBroadcomとカスタムチップ開発継続"
-    },
-    {
-      "rank": 8,
-      "title": "Qualcomm、AIチップ買収協議の報道"
-    }
+    {"rank": 4, "title": "Stanford AI Index 2026：能力加速・米中ほぼ互角"},
+    {"rank": 5, "title": "AI計算コスト高騰で使用量課金シフト加速"},
+    {"rank": 6, "title": "OECDが学校向けAIリテラシー枠組み公開"},
+    {"rank": 7, "title": "Morgan Stanley「2026年AIブレークスルー警告」"},
+    {"rank": 8, "title": "HPE、NVIDIAとAI Factory拡張でAgentic AI支援"},
+    {"rank": 9, "title": "Qualcomm、Tenstorrent買収協議報道"},
+    {"rank": 10, "title": "White House、AIイノベーション推進EO発令"}
   ],
   "archive": [
+    {
+      "no": 152,
+      "kind": "📖 漫画",
+      "date": "06.28",
+      "img": "news/top1_manga.png",
+      "title": "米政府、AnthropicのClaude Mythos 5に部分リリース許可"
+    },
     {
       "no": 151,
       "kind": "📖 漫画",
