@@ -1,86 +1,49 @@
 {
-  "date": "2026.06.26",
+  "date": "2026.06.28",
   "top10": [
     {
       "rank": 1,
-      "title": "OpenAI、Broadcomと初のカスタムAIチップ「Jalapeno」発表",
-      "summary": "計算コストと供給課題解決に向けた戦略的提携。AIインフラの新時代。",
-      "source": "Bloomberg",
+      "title": "米国政府、AnthropicのClaude Mythos 5に部分リリース許可",
+      "summary": "一部信頼できる米サイバー企業への限定公開を承認。輸出規制が緩和され、AI安全基準の進展を示す。",
+      "source": "Tempo.co",
+      "source_url": "https://en.tempo.co/read/2110736/us-allows-partial-release-of-anthropics-mythos-ai-model",
       "script": {
         "panels": [
-          {
-            "speech": "みなみ、速報！OpenAIが自社チップ発表！",
-            "narration": ""
-          },
-          {
-            "speech": "BroadcomとJalapeno！？ 衝撃！",
-            "narration": ""
-          },
-          {
-            "speech": "性能/ワットが大幅向上するよ",
-            "narration": "計算コストと供給課題解決へ"
-          },
-          {
-            "speech": "AIインフラが変わるかも…",
-            "narration": "…来週に続く"
-          }
+          {"speech": "みなみ、Mythos 5の部分解禁！", "narration": ""},
+          {"speech": "米国政府が信頼企業限定でOK！", "narration": ""},
+          {"speech": "安全基準をクリアした証拠だね", "narration": "輸出規制の一部緩和"},
+          {"speech": "AI地政学がまた動いた…", "narration": "…来週に続く"}
         ],
-        "telop_text": "OpenAI×Broadcom 初カスタムAIチップ「Jalapeno」発表"
+        "telop_text": "Anthropic Mythos 5 米国政府が部分リリースを許可"
       }
     },
     {
       "rank": 2,
-      "title": "Anthropic・DeepMind CEOがG7で米国主導AI連合を提唱",
-      "summary": "AIルール策定で国際協力の必要性を強調。地政学的動き加速。",
-      "source": "CNBC"
+      "title": "OpenAI・Anthropic、新AIモデルをTrump承認企業に限定",
+      "summary": "サイバーセキュリティ審査のため新モデル公開を制限。政府のAI統制が強まる動き。",
+      "source": "Hot Springs Sentinel Record",
+      "source_url": "https://www.hotsr.com/news/2026/jun/27/openai-and-anthropic-limit-new-ai-models-to-trump/"
     },
     {
       "rank": 3,
-      "title": "Microsoft、2026 AI教育レポート公開 採用加速と実装課題を指摘",
-      "summary": "学校でのAI活用が広がる中、責任ある実装への支援需要高まる。",
-      "source": "Microsoft"
+      "title": "Forbes 2026 AI 50リスト発表 OpenAIとAnthropicが圧倒",
+      "summary": "両社だけで総資金調達の8割近くを占める。IPOに向けた巨額資金流入が続く。",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com/lists/ai50/"
     },
     {
       "rank": 4,
-      "title": "AIの環境負荷が深刻化 水消費が13億人分に達する可能性",
-      "summary": "データセンターの電力・水・土地使用が急増、持続可能性が課題に。",
-      "source": "UN News"
+      "title": "AIトークン使用で1週間8万ドル超の事故発生",
+      "summary": "フィンテック企業社員がClaudeでゲーム開発中、大量トークン消費。AI開発コストの高さが露呈。",
+      "source": "Instagram / Various",
+      "source_url": ""
     },
     {
       "rank": 5,
-      "title": "Oracle、OCI AIにCohere Rerank 4など6月アップデート",
-      "summary": "マルチモーダル強化と新リージョン対応で企業AIを強化。",
-      "source": "Oracle"
-    },
-    {
-      "rank": 6,
-      "title": "Google DeepMind、AGIからASIへの移行に関する研究報告",
-      "summary": "スケーリングや再帰的改善など4つのパスを分析。",
-      "source": "DeepMind"
-    },
-    {
-      "rank": 7,
-      "title": "Qualcomm、Tenstorrent買収協議で80-100億ドル規模",
-      "summary": "AIインフラ競争で半導体大手が動き出す。",
-      "source": "Industry News"
-    },
-    {
-      "rank": 8,
-      "title": "OECD、学校向けAIリテラシーフレームワーク発表",
-      "summary": "世界の初等中等教育でAI理解を促進する指針を提供。",
-      "source": "OECD"
-    },
-    {
-      "rank": 9,
-      "title": "HPE、NVIDIAとAI Factory拡張でAgentic AI推進",
-      "summary": "自律ワークフロー実現に向けたインフラ強化。",
-      "source": "HPE"
-    },
-    {
-      "rank": 10,
-      "title": "DeepMind、Gemini Omniとcomputer use新機能リリース",
-      "summary": "エージェント機能の進化が目覚ましい。",
-      "source": "DeepMind"
+      "title": "EU AI Act 透明性ルールに関する相談開始",
+      "summary": "2026年6月28日からEUでAI Actの透明性規定に関するパブリックコンサルテーションが開始。",
+      "source": "YouTube / The State of Tech",
+      "source_url": "https://www.youtube.com/watch?v=BTK3m4yTdWk"
     }
   ]
 }

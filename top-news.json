@@ -1,14 +1,14 @@
 {
-  "dispatchNo": "151",
-  "dateLabel": "2026.06.27",
+  "dispatchNo": "152",
+  "dateLabel": "2026.06.28",
   "top1": {
-    "title": "OpenAI、Broadcomと初のカスタムAIチップ「Jalapeno」発表",
-    "lead1": "OpenAIがBroadcomと共同で初の自社AI推論チップを発表。",
-    "lead2": "性能効率向上でコスト削減とスケール実現へ。",
-    "manga_url": "news/top1_manga_2026-06-27.jpg",
-    "video_url": "https://www.youtube.com/watch?v=W12OfLbdevk",
-    "summary": "計算コストと供給課題解決に向けた戦略的提携。AIインフラの新時代。",
-    "media_updated_at": "2026-06-27"
+    "title": "米国政府、AnthropicのClaude Mythos 5に部分リリース許可",
+    "lead1": "一部信頼できる米企業への限定公開を承認。",
+    "lead2": "AI安全基準の進展と地政学的緩和の象徴。",
+    "manga_url": "news/top1_manga_2026-06-28.jpg",
+    "video_url": "",
+    "summary": "Mythos 5の部分解禁。輸出規制緩和の第一歩。",
+    "media_updated_at": "2026.06.28"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,61 +20,58 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "Anthropic・DeepMind CEOがG7で米国主導AI連合を提唱",
-    "Microsoft、2026 AI教育レポート公開 採用加速と実装課題を指摘",
-    "AIの環境負荷が深刻化 水消費が13億人分に達する可能性",
-    "Oracle、OCI AIにCohere Rerank 4など6月アップデート",
-    "Google DeepMind、AGIからASIへの移行に関する研究報告",
-    "Qualcomm、Tenstorrent買収協議で80-100億ドル規模",
-    "OECD、学校向けAIリテラシーフレームワーク発表"
+    "OpenAI・Anthropic、新AIモデルをTrump承認企業に限定",
+    "Forbes 2026 AI 50リスト発表 OpenAI/Anthropic圧倒",
+    "AIトークン使用で1週間8万ドル超の事故",
+    "EU AI Act 透明性ルール相談開始",
+    "AI環境負荷の深刻化が再び指摘される"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Anthropic・DeepMind CEOがG7で米国主導AI連合を提唱",
-      "summary": "AIルール策定で国際協力の必要性を強調。地政学的動き加速。",
+      "title": "OpenAI・Anthropic、新AIモデルをTrump承認企業に限定",
+      "summary": "サイバーセキュリティ審査のため公開制限。政府統制強化の動き。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Microsoft、2026 AI教育レポート公開 採用加速と実装課題を指摘",
-      "summary": "学校でのAI活用が広がる中、責任ある実装への支援需要高まる。",
+      "title": "Forbes 2026 AI 50リスト発表 OpenAI/Anthropic圧倒",
+      "summary": "両社だけで資金調達の8割近く。IPOに向けた巨額流入続く。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
     {
+      "rank": 4,
+      "title": "AIトークン使用で1週間8万ドル超の事故"
+    },
+    {
+      "rank": 5,
+      "title": "EU AI Act 透明性ルール相談開始"
+    },
+    {
+      "rank": 6,
+      "title": "AI環境負荷の深刻化が再び指摘される"
+    },
+    {
       "rank": 7,
-      "title": "AIの環境負荷が深刻化 水消費が13億人分に達する可能性"
+      "title": "OpenAIがBroadcomとカスタムチップ開発継続"
     },
     {
       "rank": 8,
-      "title": "Oracle、OCI AIにCohere Rerank 4など6月アップデート"
-    },
-    {
-      "rank": 9,
-      "title": "Google DeepMind、AGIからASIへの移行に関する研究報告"
-    },
-    {
-      "rank": 10,
-      "title": "Qualcomm、Tenstorrent買収協議で80-100億ドル規模"
-    },
-    {
-      "rank": 11,
-      "title": "OECD、学校向けAIリテラシーフレームワーク発表"
-    },
-    {
-      "rank": 12,
-      "title": "HPE、NVIDIAとAI Factory拡張でAgentic AI推進"
-    },
-    {
-      "rank": 13,
-      "title": "DeepMind、Gemini Omniとcomputer use新機能リリース"
+      "title": "Qualcomm、AIチップ買収協議の報道"
     }
   ],
   "archive": [
+    {
+      "no": 151,
+      "kind": "📖 漫画",
+      "date": "06.27",
+      "img": "news/top1_manga.png",
+      "title": "OpenAI、Broadcomと初のカスタムAIチップ「Jalapeno」発表"
+    },
     {
       "no": 150,
       "kind": "📖 漫画",
