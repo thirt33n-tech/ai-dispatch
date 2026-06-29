@@ -1,84 +1,96 @@
 {
-  "date": "2026.06.28",
+  "date": "2026.06.30",
   "top10": [
     {
       "rank": 1,
-      "title": "米政府、AnthropicのClaude Mythos 5に部分リリース許可",
-      "summary": "一部信頼できる米企業への限定提供を承認。AI安全基準の進展を示す。",
-      "source": "Reuters / ITmedia",
-      "source_url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "title": "OpenAI、GPT-5.6を発表 最上位「Sol」、低価格「Terra」、高速「Luna」の3モデルを限定プレビュー",
+      "summary": "OpenAIがGPT-5.6を限定プレビュー。Sol/Terra/Lunaの3専門モデルを政府承認企業向け公開。2026年AI競争加速の象徴。",
+      "source": "Ledge.ai",
+      "source_url": "https://ledge.ai/",
       "script": {
         "panels": [
-          {"speech": "みなみ、速報見た！？", "narration": ""},
-          {"speech": "Mythos 5が一部復活！", "narration": ""},
-          {"speech": "", "narration": "政府が選定企業に限定で提供再開"},
-          {"speech": "安全第一で前進かな", "narration": "…来週に続く"}
+          {
+            "speech": "みんな！OpenAIがGPT-5.6発表！",
+            "narration": ""
+          },
+          {
+            "speech": "Sol、Terra、Lunaの3つだよ！",
+            "narration": ""
+          },
+          {
+            "speech": "企業向け限定プレビュー",
+            "narration": "最上位・低価格・高速の専門モデル"
+          },
+          {
+            "speech": "2026年AI戦熱くなりそう！",
+            "narration": "…来週に続く"
+          }
         ],
-        "telop_text": "Mythos 5 部分リリース！政府が一部企業に解禁"
+        "telop_text": "OpenAI GPT-5.6限定プレビュー発表！"
       }
     },
     {
       "rank": 2,
-      "title": "OpenAI、GPT-5.6を限定プレビュー発表",
-      "summary": "Sol/Terra/Lunaの3モデルを政府承認企業向けに公開。",
+      "title": "AIの2026年問題：高品質学習データ枯渇の予測",
+      "summary": "EPOCH AI予測で2026年頃に高品質テキストデータが枯渇。LLM進化に影響か。",
+      "source": "Rentec Insight",
+      "source_url": "https://go.orixrentec.jp/rentecinsight/it/article-775"
+    },
+    {
+      "rank": 3,
+      "title": "2026年のAIトレンド10選：AIエージェントとマルチエージェントが主流に",
+      "summary": "AIネイティブ開発、フィジカルAI、ロボティクスなどビジネス変革トレンド。",
+      "source": "Sotatek",
+      "source_url": "https://www.sotatek.com/jp/blogs/ai-trends-2026/"
+    },
+    {
+      "rank": 4,
+      "title": "Stanford AI Index 2026：生成AI普及加速も管理仕組み追いつかず",
+      "summary": "能力向上著しい一方、安全性・バイアス評価が発展途上。",
+      "source": "Think IT",
+      "source_url": "https://thinkit.co.jp/article/38912"
+    },
+    {
+      "rank": 5,
+      "title": "生成AIランキング：LM Arenaスコアで2026年最新比較",
+      "summary": "指示待ちから自律型パートナーへ進化。GPT-5.4など新モデル登場。",
+      "source": "OptiMax",
+      "source_url": "https://www.optimax.co.jp/ai-information/genai-comparison-2026/"
+    },
+    {
+      "rank": 6,
+      "title": "Claude Tag新登場：SlackのAIエージェント機能解説",
+      "summary": "チームAI革命を象徴する新機能が登場。",
+      "source": "uravation",
+      "source_url": "https://uravation.com/media-category/generative-ai-news/"
+    },
+    {
+      "rank": 7,
+      "title": "Sakana Fuguなどアジア勢が米AI統制の空白を埋める",
+      "summary": "複数AI束ねる集合知でFable超えの可能性。",
+      "source": "uravation",
+      "source_url": "https://uravation.com/media-category/generative-ai-news/"
+    },
+    {
+      "rank": 8,
+      "title": "NVIDIA、Halos for Robotics安全システム発表",
+      "summary": "物理AI・ロボット向け包括的安全システムをリリース。",
       "source": "Ledge.ai",
       "source_url": "https://ledge.ai/"
     },
     {
-      "rank": 3,
-      "title": "NVIDIA、Halos for Robotics安全システム発表",
-      "summary": "物理AIとロボット向け包括的安全システムをリリース。",
-      "source": "NVIDIA Newsroom",
-      "source_url": "https://nvidianews.nvidia.com/news/latest"
-    },
-    {
-      "rank": 4,
-      "title": "Stanford AI Index 2026報告書公開",
-      "summary": "AI能力加速、米中ギャップほぼ解消。業界が90%超の先端モデル生産。",
-      "source": "Stanford HAI",
-      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
-    },
-    {
-      "rank": 5,
-      "title": "AI計算コスト高騰で使用量課金へ移行",
-      "summary": "企業がAI予算を早期に消化。ROI検証のフェーズへ。",
-      "source": "MarketingProfs / Instagram",
-      "source_url": "https://www.marketingprofs.com/opinions/2026/55130/ai-update-june-26-2026-ai-news-and-views-from-the-past-week"
-    },
-    {
-      "rank": 6,
-      "title": "OECD、学校向けAIリテラシー枠組み発表",
-      "summary": "初等中等教育でのAI教育指針を全世界向けに公開。",
-      "source": "Crescendo.ai",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
-    },
-    {
-      "rank": 7,
-      "title": "Morgan Stanley、2026年にAIブレークスルー警告",
-      "summary": "変革的飛躍が目前。大半の世界が準備不足。",
-      "source": "Reddit / Fortune",
-      "source_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rsrji4/morgan_stanley_warns_an_ai_breakthrough_is_coming/"
-    },
-    {
-      "rank": 8,
-      "title": "HPE、NVIDIAとAI Factory拡張でAgentic AI支援",
-      "summary": "自律ワークフロー向けインフラ強化。",
-      "source": "Crescendo.ai",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
-    },
-    {
       "rank": 9,
-      "title": "Qualcomm、Tenstorrent買収協議報道",
-      "summary": "80-100億ドル規模でAIチップ強化狙う。",
-      "source": "Crescendo.ai",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+      "title": "OECDが学校向けAIリテラシー枠組み公開",
+      "summary": "教育現場でのAI活用指針を策定。",
+      "source": "Various",
+      "source_url": ""
     },
     {
       "rank": 10,
-      "title": "White House、AIイノベーションとセキュリティ推進EO",
-      "summary": "先進AI開発促進と国家安全保障を両立する大統領令。",
-      "source": "Whitehouse.gov",
-      "source_url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+      "title": "Morgan Stanley「2026年AIブレークスルー警告」",
+      "summary": "計算コスト高騰で使用量課金シフト加速の予測。",
+      "source": "Various",
+      "source_url": ""
     }
   ]
 }
