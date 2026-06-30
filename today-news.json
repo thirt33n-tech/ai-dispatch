@@ -1,94 +1,94 @@
 {
-  "date": "2026.06.30",
+  "date": "2026.07.01",
   "top10": [
     {
       "rank": 1,
-      "title": "OpenAI、GPT-5.6を発表 最上位「Sol」、低価格「Terra」、高速「Luna」の3モデルを限定プレビュー",
-      "summary": "OpenAIがGPT-5.6を限定プレビュー。Sol/Terra/Lunaの3専門モデルを政府承認企業向け公開。2026年AI競争加速の象徴。",
-      "source": "Ledge.ai",
-      "source_url": "https://ledge.ai/",
+      "title": "韓国、大規模AIチップ投資計画を発表",
+      "summary": "数兆円規模で次世代メモリ技術開発と650億ドル超のAIデータセンター建設を推進。AI大国化戦略。",
+      "source": "East Asia Tonight",
+      "source_url": "https://www.youtube.com/watch?v=YDNUYyBvE0I",
       "script": {
         "panels": [
           {
-            "speech": "みんな！OpenAIがGPT-5.6発表！",
+            "speech": "韓国がAIチップに大投資！",
             "narration": ""
           },
           {
-            "speech": "Sol、Terra、Lunaの3つだよ！",
+            "speech": "データセンター大量建設！",
             "narration": ""
           },
           {
-            "speech": "企業向け限定プレビュー",
-            "narration": "最上位・低価格・高速の専門モデル"
+            "speech": "次世代メモリ技術開発",
+            "narration": "政府主導のAI大国化"
           },
           {
-            "speech": "2026年AI戦熱くなりそう！",
+            "speech": "2026年AI競争激化だね",
             "narration": "…来週に続く"
           }
         ],
-        "telop_text": "OpenAI GPT-5.6限定プレビュー発表！"
+        "telop_text": "韓国 AIチップ巨額投資発表！"
       }
     },
     {
       "rank": 2,
-      "title": "AIの2026年問題：高品質学習データ枯渇の予測",
-      "summary": "EPOCH AI予測で2026年頃に高品質テキストデータが枯渇。LLM進化に影響か。",
+      "title": "AI業界、2026-2027年に大幅遅延の可能性",
+      "summary": "Applied Digital CEOがデータセンター建設遅延を警告。供給 chain問題が影響。",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/video/2026/06/29/applied-digital-ceo-the-ai-industry-will-see-pretty-significant-delays-through-2026-and-2027.html"
+    },
+    {
+      "rank": 3,
+      "title": "トランプ大統領、6/29に複数執行命令に署名",
+      "summary": "AI関連を含む政策推進か。詳細はホワイトハウス動画で確認。",
+      "source": "White House",
+      "source_url": "https://www.whitehouse.gov/videos/president-trump-signs-executive-orders-jun-29-2026/"
+    },
+    {
+      "rank": 4,
+      "title": "Claude Fable 5、今週復活の期待",
+      "summary": "Anthropicの最新モデルが制限付きでリリースの可能性。",
+      "source": "Instagram/evolving.ai",
+      "source_url": "https://www.instagram.com/p/DaKnGChANPm/"
+    },
+    {
+      "rank": 5,
+      "title": "AIの2026年問題：高品質データ枯渇予測",
+      "summary": "EPOCH AIの予測通り、LLM学習データが2026年に不足する可能性。",
       "source": "Rentec Insight",
       "source_url": "https://go.orixrentec.jp/rentecinsight/it/article-775"
     },
     {
-      "rank": 3,
-      "title": "2026年のAIトレンド10選：AIエージェントとマルチエージェントが主流に",
-      "summary": "AIネイティブ開発、フィジカルAI、ロボティクスなどビジネス変革トレンド。",
-      "source": "Sotatek",
-      "source_url": "https://www.sotatek.com/jp/blogs/ai-trends-2026/"
-    },
-    {
-      "rank": 4,
-      "title": "Stanford AI Index 2026：生成AI普及加速も管理仕組み追いつかず",
-      "summary": "能力向上著しい一方、安全性・バイアス評価が発展途上。",
-      "source": "Think IT",
-      "source_url": "https://thinkit.co.jp/article/38912"
-    },
-    {
-      "rank": 5,
-      "title": "生成AIランキング：LM Arenaスコアで2026年最新比較",
-      "summary": "指示待ちから自律型パートナーへ進化。GPT-5.4など新モデル登場。",
-      "source": "OptiMax",
-      "source_url": "https://www.optimax.co.jp/ai-information/genai-comparison-2026/"
-    },
-    {
       "rank": 6,
-      "title": "Claude Tag新登場：SlackのAIエージェント機能解説",
-      "summary": "チームAI革命を象徴する新機能が登場。",
-      "source": "uravation",
-      "source_url": "https://uravation.com/media-category/generative-ai-news/"
+      "title": "Stanford AI Index 2026発表",
+      "summary": "生成AI普及加速も安全性管理が追いつかない状況を指摘。",
+      "source": "Various",
+      "source_url": ""
     },
     {
       "rank": 7,
-      "title": "Sakana Fuguなどアジア勢が米AI統制の空白を埋める",
-      "summary": "複数AI束ねる集合知でFable超えの可能性。",
-      "source": "uravation",
-      "source_url": "https://uravation.com/media-category/generative-ai-news/"
+      "title": "生成AIランキング2026最新比較",
+      "summary": "LM ArenaなどでClaude、GPT新モデルを徹底比較。",
+      "source": "Various",
+      "source_url": ""
     },
     {
       "rank": 8,
-      "title": "NVIDIA、Halos for Robotics安全システム発表",
-      "summary": "物理AI・ロボット向け包括的安全システムをリリース。",
-      "source": "Ledge.ai",
-      "source_url": "https://ledge.ai/"
+      "title": "Claude TagでSlack AIエージェント革命",
+      "summary": "チームコラボレーションを変える新機能登場。",
+      "source": "Various",
+      "source_url": ""
     },
     {
       "rank": 9,
-      "title": "OECDが学校向けAIリテラシー枠組み公開",
-      "summary": "教育現場でのAI活用指針を策定。",
+      "title": "Sakana Fuguが米AI空白を埋める",
+      "summary": "アジアAI勢の台頭が目立つ2026年。",
       "source": "Various",
       "source_url": ""
     },
     {
       "rank": 10,
-      "title": "Morgan Stanley「2026年AIブレークスルー警告」",
-      "summary": "計算コスト高騰で使用量課金シフト加速の予測。",
+      "title": "Morgan Stanley、2026年AIブレークスルー警告",
+      "summary": "計算コスト高騰でビジネスモデル変化の予測。",
       "source": "Various",
       "source_url": ""
     }

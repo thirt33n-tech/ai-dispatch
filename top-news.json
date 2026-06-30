@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 154,
-  "dateLabel": "2026.06.30",
+  "dispatchNo": 155,
+  "dateLabel": "2026.07.01",
   "top1": {
-    "title": "OpenAI、GPT-5.6を発表 最上位「Sol」、低価格「Terra」、高速「Luna」の3モデルを限定プレビュー",
-    "lead1": "OpenAIがGPT-5.6を限定プレビューリリース。",
-    "lead2": "Sol/Terra/Lunaの3モデルで企業特化型進化。",
-    "manga_url": "news/top1_manga_2026-06-30.png",
-    "video_url": "https://www.youtube.com/watch?v=zwaBEDH4n58",
-    "summary": "OpenAIがGPT-5.6を限定プレビュー。Sol/Terra/Lunaの3専門モデルを政府承認企業向け公開。2026年AI競争加速の象徴。",
-    "media_updated_at": "2026-06-30"
+    "title": "韓国、大規模AIチップ投資計画を発表",
+    "lead1": "数兆円規模の政府投資でAI大国化へ。",
+    "lead2": "次世代メモリとデータセンター建設を加速。",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "韓国がAIチップ駆動計画を発表。650億ドル超のデータセンターとメモリ技術開発。",
+    "media_updated_at": "2026-07-01"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,61 +20,47 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "OpenAI、GPT-5.6限定プレビュー発表（Sol/Terra/Luna）",
-    "AIの2026年問題：学習データ枯渇予測",
-    "2026 AIトレンド：マルチエージェントとフィジカルAI",
+    "AI業界、2026-2027年に大幅遅延の可能性",
+    "トランプ大統領が執行命令に署名",
+    "Claude Fable 5復活の期待",
+    "AIの2026年問題：データ枯渇",
     "Stanford AI Index 2026発表",
     "生成AIランキング最新比較",
-    "Claude TagでSlack AIエージェント革命",
-    "Sakana Fuguが米AI空白を埋める"
+    "Claude TagでSlack革命"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "OpenAI、GPT-5.6を限定プレビュー発表",
-      "summary": "Sol/Terra/Lunaの3モデルを政府承認企業向け公開。",
+      "title": "AI業界、2026-2027年に大幅遅延の可能性",
+      "summary": "データセンター建設の遅れをCEOが警告。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "AIの2026年問題：高品質データ枯渇の危機",
-      "summary": "EPOCH AI予測更新でLLMスケーリングに影響。",
+      "title": "トランプ大統領、執行命令に署名",
+      "summary": "AI関連政策を含む複数命令。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {
-      "rank": 4,
-      "title": "Stanford AI Index 2026：能力加速も管理追いつかず"
-    },
-    {
-      "rank": 5,
-      "title": "生成AIランキング10選をLM Arenaで徹底比較"
-    },
-    {
-      "rank": 6,
-      "title": "Claude Tag新登場でチームAI革命"
-    },
-    {
-      "rank": 7,
-      "title": "Sakana FuguなどアジアAI勢の台頭"
-    },
-    {
-      "rank": 8,
-      "title": "NVIDIA Halos for Robotics安全システム発表"
-    },
-    {
-      "rank": 9,
-      "title": "OECD学校向けAIリテラシー枠組み公開"
-    },
-    {
-      "rank": 10,
-      "title": "Morgan Stanley 2026年AIブレークスルー警告"
-    }
+    {"rank": 4, "title": "Claude Fable 5、今週復活の期待"},
+    {"rank": 5, "title": "AIの2026年問題：学習データ枯渇"},
+    {"rank": 6, "title": "Stanford AI Index 2026発表"},
+    {"rank": 7, "title": "生成AIランキング2026最新"},
+    {"rank": 8, "title": "Claude TagでSlack AI革命"},
+    {"rank": 9, "title": "Sakana Fuguが米AI空白を埋める"},
+    {"rank": 10, "title": "Morgan Stanley 2026 AI警告"}
   ],
   "archive": [
+    {
+      "no": 154,
+      "kind": "📖 漫画",
+      "date": "06.30",
+      "img": "news/top1_manga_2026-06-30.png",
+      "title": "OpenAI、GPT-5.6を発表 最上位「Sol」、低価格「Terra」、高速「Luna」の3モデルを限定プレビュー"
+    },
     {
       "no": 153,
       "kind": "📖 漫画",
