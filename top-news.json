@@ -5,9 +5,9 @@
     "title": "韓国、大規模AIチップ投資計画を発表",
     "lead1": "数兆円規模の政府投資でAI大国化へ。",
     "lead2": "次世代メモリとデータセンター建設を加速。",
-    "manga_url": "news/top1_manga.png",
-    "video_url": "",
-    "summary": "韓国がAIチップ駆動計画を発表。650億ドル超のデータセンターとメモリ技術開発。",
+    "manga_url": "news/top1_manga_2026-07-01.png",
+    "video_url": "https://www.youtube.com/watch?v=_e4LmYLlsD4",
+    "summary": "数兆円規模で次世代メモリ技術開発と650億ドル超のAIデータセンター建設を推進。AI大国化戦略。",
     "media_updated_at": "2026-07-01"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
@@ -45,13 +45,34 @@
     }
   ],
   "topList": [
-    {"rank": 4, "title": "Claude Fable 5、今週復活の期待"},
-    {"rank": 5, "title": "AIの2026年問題：学習データ枯渇"},
-    {"rank": 6, "title": "Stanford AI Index 2026発表"},
-    {"rank": 7, "title": "生成AIランキング2026最新"},
-    {"rank": 8, "title": "Claude TagでSlack AI革命"},
-    {"rank": 9, "title": "Sakana Fuguが米AI空白を埋める"},
-    {"rank": 10, "title": "Morgan Stanley 2026 AI警告"}
+    {
+      "rank": 4,
+      "title": "Claude Fable 5、今週復活の期待"
+    },
+    {
+      "rank": 5,
+      "title": "AIの2026年問題：学習データ枯渇"
+    },
+    {
+      "rank": 6,
+      "title": "Stanford AI Index 2026発表"
+    },
+    {
+      "rank": 7,
+      "title": "生成AIランキング2026最新"
+    },
+    {
+      "rank": 8,
+      "title": "Claude TagでSlack AI革命"
+    },
+    {
+      "rank": 9,
+      "title": "Sakana Fuguが米AI空白を埋める"
+    },
+    {
+      "rank": 10,
+      "title": "Morgan Stanley 2026 AI警告"
+    }
   ],
   "archive": [
     {
