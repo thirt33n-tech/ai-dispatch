@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 155,
-  "dateLabel": "2026.07.01",
+  "dispatchNo": 156,
+  "dateLabel": "2026.07.02",
   "top1": {
-    "title": "韓国、大規模AIチップ投資計画を発表",
-    "lead1": "数兆円規模の政府投資でAI大国化へ。",
-    "lead2": "次世代メモリとデータセンター建設を加速。",
-    "manga_url": "news/top1_manga_2026-07-01.png",
-    "video_url": "https://www.youtube.com/watch?v=_e4LmYLlsD4",
-    "summary": "数兆円規模で次世代メモリ技術開発と650億ドル超のAIデータセンター建設を推進。AI大国化戦略。",
-    "media_updated_at": "2026-07-01"
+    "title": "Stanford AI Index 2026発表 AI能力加速",
+    "lead1": "AI能力は停滞せず加速中。",
+    "lead2": "多くのモデルが人間ベースライン超え。",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "業界90%超のフロンティアモデル生産。SWE-bench性能が1年で60%→ほぼ100%。US-Chinaギャップほぼ解消。",
+    "media_updated_at": "2026-07-02"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,61 +20,47 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "AI業界、2026-2027年に大幅遅延の可能性",
-    "トランプ大統領が執行命令に署名",
-    "Claude Fable 5復活の期待",
-    "AIの2026年問題：データ枯渇",
-    "Stanford AI Index 2026発表",
-    "生成AIランキング最新比較",
-    "Claude TagでSlack革命"
+    "米政府 先進AIイノベーション推進令",
+    "AI for Good Global Summit 2026開催",
+    "Google SearchにAIエージェント機能",
+    "AMD Advancing AI 2026カンファレンス",
+    "RAISE Summit 2026 Paris",
+    "FTC、AIバイアス対策に警告",
+    "AIの2026年問題：データ枯渇"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "AI業界、2026-2027年に大幅遅延の可能性",
-      "summary": "データセンター建設の遅れをCEOが警告。",
+      "title": "米政府 先進AIイノベーション推進令",
+      "summary": "Trump大統領がEO 14409を発行。イノベーションとセキュリティ促進。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "トランプ大統領、執行命令に署名",
-      "summary": "AI関連政策を含む複数命令。",
+      "title": "AI for Good Global Summit 2026開催",
+      "summary": "7月7-10日ジュネーブ。AIが人類に奉仕する可能性を探る。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {
-      "rank": 4,
-      "title": "Claude Fable 5、今週復活の期待"
-    },
-    {
-      "rank": 5,
-      "title": "AIの2026年問題：学習データ枯渇"
-    },
-    {
-      "rank": 6,
-      "title": "Stanford AI Index 2026発表"
-    },
-    {
-      "rank": 7,
-      "title": "生成AIランキング2026最新"
-    },
-    {
-      "rank": 8,
-      "title": "Claude TagでSlack AI革命"
-    },
-    {
-      "rank": 9,
-      "title": "Sakana Fuguが米AI空白を埋める"
-    },
-    {
-      "rank": 10,
-      "title": "Morgan Stanley 2026 AI警告"
-    }
+    {"rank": 4, "title": "Google SearchにAIエージェント機能"},
+    {"rank": 5, "title": "AMD Advancing AI 2026カンファレンス"},
+    {"rank": 6, "title": "RAISE Summit 2026 Paris"},
+    {"rank": 7, "title": "FTC、AIバイアス対策に警告"},
+    {"rank": 8, "title": "AIの2026年問題：データ枯渇"},
+    {"rank": 9, "title": "Anthropic Claudeモデル更新"},
+    {"rank": 10, "title": "AI Trends 2026報告書"}
   ],
   "archive": [
+    {
+      "no": 155,
+      "kind": "📖 漫画",
+      "date": "07.01",
+      "img": "news/top1_manga_2026-07-01.png",
+      "title": "韓国、大規模AIチップ投資計画を発表"
+    },
     {
       "no": 154,
       "kind": "📖 漫画",

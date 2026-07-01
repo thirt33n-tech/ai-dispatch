@@ -1,96 +1,84 @@
 {
-  "date": "2026.07.01",
+  "date": "2026.07.02",
   "top10": [
     {
       "rank": 1,
-      "title": "韓国、大規模AIチップ投資計画を発表",
-      "summary": "数兆円規模で次世代メモリ技術開発と650億ドル超のAIデータセンター建設を推進。AI大国化戦略。",
-      "source": "East Asia Tonight",
-      "source_url": "https://www.youtube.com/watch?v=YDNUYyBvE0I",
+      "title": "Stanford AI Index 2026発表 AI能力加速",
+      "summary": "AI能力は停滞せず加速。業界90%超のフロンティアモデル生産、多くのモデルが人間ベースライン超え。SWE-benchほぼ100%。",
+      "source": "Stanford HAI",
+      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
       "script": {
         "panels": [
-          {
-            "speech": "韓国がAIチップに大投資！",
-            "narration": ""
-          },
-          {
-            "speech": "データセンター大量建設！",
-            "narration": ""
-          },
-          {
-            "speech": "次世代メモリ技術開発",
-            "narration": "政府主導のAI大国化"
-          },
-          {
-            "speech": "2026年AI競争激化だね",
-            "narration": "…来週に続く"
-          }
+          {"speech": "わあ！Stanford AI Index 2026！", "narration": ""},
+          {"speech": "能力加速しすぎてる！", "narration": ""},
+          {"speech": "人間超えモデル続出！", "narration": "業界90%超モデル生産。SWE-benchほぼ100%達成。US-China差縮小"},
+          {"speech": "2026はAIがもっと身近に！", "narration": "…来週に続く"}
         ],
-        "telop_text": "韓国 AIチップ巨額投資発表！"
+        "telop_text": "Stanford AI Index 2026：AI加速・人間超え続出"
       }
     },
     {
       "rank": 2,
-      "title": "AI業界、2026-2027年に大幅遅延の可能性",
-      "summary": "Applied Digital CEOがデータセンター建設遅延を警告。供給 chain問題が影響。",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/video/2026/06/29/applied-digital-ceo-the-ai-industry-will-see-pretty-significant-delays-through-2026-and-2027.html"
+      "title": "米政府 先進AIイノベーション推進令",
+      "summary": "Trump大統領がEO 14409を発行。AIイノベーションとセキュリティを促進。",
+      "source": "White House",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
     },
     {
       "rank": 3,
-      "title": "トランプ大統領、6/29に複数執行命令に署名",
-      "summary": "AI関連を含む政策推進か。詳細はホワイトハウス動画で確認。",
-      "source": "White House",
-      "source_url": "https://www.whitehouse.gov/videos/president-trump-signs-executive-orders-jun-29-2026/"
+      "title": "AI for Good Global Summit 2026開催",
+      "summary": "7月7-10日ジュネーブで開催。AIが人類に奉仕する可能性を解き放つ。",
+      "source": "ITU",
+      "source_url": "https://aiforgood.itu.int/summit26/"
     },
     {
       "rank": 4,
-      "title": "Claude Fable 5、今週復活の期待",
-      "summary": "Anthropicの最新モデルが制限付きでリリースの可能性。",
-      "source": "Instagram/evolving.ai",
-      "source_url": "https://www.instagram.com/p/DaKnGChANPm/"
+      "title": "Google SearchにAIエージェント機能",
+      "summary": "Search I/O 2026で先進モデルを統合。質問するだけでエージェント利用可能に。",
+      "source": "Google",
+      "source_url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
     },
     {
       "rank": 5,
-      "title": "AIの2026年問題：高品質データ枯渇予測",
-      "summary": "EPOCH AIの予測通り、LLM学習データが2026年に不足する可能性。",
+      "title": "AMD Advancing AI 2026カンファレンス",
+      "summary": "7月22-23日サンフランシスコ開催。次世代AIインフラ議論。",
+      "source": "AMD",
+      "source_url": "https://www.amd.com/en/corporate/events/advancing-ai.html"
+    },
+    {
+      "rank": 6,
+      "title": "RAISE Summit 2026 Paris",
+      "summary": "7月8-9日パリでAIリーダーシップサミット。マクロン大統領登壇予定。",
+      "source": "RAISE",
+      "source_url": "https://www.raisesummit.com/"
+    },
+    {
+      "rank": 7,
+      "title": "FTC、AIバイアス対策に警告",
+      "summary": "AIチャットボットがイデオロギー反映する場合、連邦法違反の可能性。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/artificial-intelligence/"
+    },
+    {
+      "rank": 8,
+      "title": "AIの2026年問題：データ枯渇",
+      "summary": "高品質学習データが2026年に枯渇予測。低品質データへの移行必要。",
       "source": "Rentec Insight",
       "source_url": "https://go.orixrentec.jp/rentecinsight/it/article-775"
     },
     {
-      "rank": 6,
-      "title": "Stanford AI Index 2026発表",
-      "summary": "生成AI普及加速も安全性管理が追いつかない状況を指摘。",
-      "source": "Various",
-      "source_url": ""
-    },
-    {
-      "rank": 7,
-      "title": "生成AIランキング2026最新比較",
-      "summary": "LM ArenaなどでClaude、GPT新モデルを徹底比較。",
-      "source": "Various",
-      "source_url": ""
-    },
-    {
-      "rank": 8,
-      "title": "Claude TagでSlack AIエージェント革命",
-      "summary": "チームコラボレーションを変える新機能登場。",
-      "source": "Various",
-      "source_url": ""
-    },
-    {
       "rank": 9,
-      "title": "Sakana Fuguが米AI空白を埋める",
-      "summary": "アジアAI勢の台頭が目立つ2026年。",
-      "source": "Various",
-      "source_url": ""
+      "title": "Anthropic Claudeモデル更新",
+      "summary": "Mythos 5一部企業への提供再開や規制関連動向。",
+      "source": "NHK",
+      "source_url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-0000010"
     },
     {
       "rank": 10,
-      "title": "Morgan Stanley、2026年AIブレークスルー警告",
-      "summary": "計算コスト高騰でビジネスモデル変化の予測。",
-      "source": "Various",
-      "source_url": ""
+      "title": "AI Trends 2026報告書",
+      "summary": "Agentic AIの本格化、vibe coding、組織DNAの書き換え予測。",
+      "source": "Info-Tech",
+      "source_url": "https://www.infotech.com/research/ss/ai-trends-2026"
     }
   ]
 }
