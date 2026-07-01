@@ -5,9 +5,9 @@
     "title": "Stanford AI Index 2026発表 AI能力加速",
     "lead1": "AI能力は停滞せず加速中。",
     "lead2": "多くのモデルが人間ベースライン超え。",
-    "manga_url": "news/top1_manga.png",
-    "video_url": "",
-    "summary": "業界90%超のフロンティアモデル生産。SWE-bench性能が1年で60%→ほぼ100%。US-Chinaギャップほぼ解消。",
+    "manga_url": "news/top1_manga_2026-07-02.png",
+    "video_url": "https://www.youtube.com/watch?v=yyR1iUSSMOY",
+    "summary": "AI能力は停滞せず加速。業界90%超のフロンティアモデル生産、多くのモデルが人間ベースライン超え。SWE-benchほぼ100%。",
     "media_updated_at": "2026-07-02"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
@@ -45,13 +45,34 @@
     }
   ],
   "topList": [
-    {"rank": 4, "title": "Google SearchにAIエージェント機能"},
-    {"rank": 5, "title": "AMD Advancing AI 2026カンファレンス"},
-    {"rank": 6, "title": "RAISE Summit 2026 Paris"},
-    {"rank": 7, "title": "FTC、AIバイアス対策に警告"},
-    {"rank": 8, "title": "AIの2026年問題：データ枯渇"},
-    {"rank": 9, "title": "Anthropic Claudeモデル更新"},
-    {"rank": 10, "title": "AI Trends 2026報告書"}
+    {
+      "rank": 4,
+      "title": "Google SearchにAIエージェント機能"
+    },
+    {
+      "rank": 5,
+      "title": "AMD Advancing AI 2026カンファレンス"
+    },
+    {
+      "rank": 6,
+      "title": "RAISE Summit 2026 Paris"
+    },
+    {
+      "rank": 7,
+      "title": "FTC、AIバイアス対策に警告"
+    },
+    {
+      "rank": 8,
+      "title": "AIの2026年問題：データ枯渇"
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic Claudeモデル更新"
+    },
+    {
+      "rank": 10,
+      "title": "AI Trends 2026報告書"
+    }
   ],
   "archive": [
     {
