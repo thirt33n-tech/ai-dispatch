@@ -9,10 +9,10 @@
       "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
       "script": {
         "panels": [
-          {"speech": "わあ！Stanford AI Index 2026！", "narration": ""},
-          {"speech": "能力加速しすぎてる！", "narration": ""},
-          {"speech": "人間超えモデル続出！", "narration": "業界90%超モデル生産。SWE-benchほぼ100%達成。US-China差縮小"},
-          {"speech": "2026はAIがもっと身近に！", "narration": "…来週に続く"}
+          {"speech": "Stanford Index出た！", "narration": ""},
+          {"speech": "能力が加速中！", "narration": ""},
+          {"speech": "人間超えモデル多数", "narration": "業界90%超生産。SWE-bench100%近く。US-China差縮小"},
+          {"speech": "みなみワクワク！", "narration": "…来週に続く"}
         ],
         "telop_text": "Stanford AI Index 2026：AI加速・人間超え続出"
       }
