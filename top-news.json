@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 156,
-  "dateLabel": "2026.07.02",
+  "dispatchNo": 157,
+  "dateLabel": "2026.07.03",
   "top1": {
-    "title": "Stanford AI Index 2026発表 AI能力加速",
-    "lead1": "AI能力は停滞せず加速中。",
-    "lead2": "多くのモデルが人間ベースライン超え。",
-    "manga_url": "news/top1_manga_2026-07-02.png",
-    "video_url": "https://www.youtube.com/watch?v=g5Q2ilkutxs",
-    "summary": "AI能力は停滞せず加速。業界90%超のフロンティアモデル生産、多くのモデルが人間ベースライン超え。SWE-benchほぼ100%。",
-    "media_updated_at": "2026-07-02"
+    "title": "国連、AIの巨大利益と深刻リスクを警告",
+    "lead1": "潜在利益は計り知れず",
+    "lead2": "制御困難や精神衛生リスクも",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "国連独立科学パネルが初のAIグローバル報告書。利益は巨大だが精神健康被害、破壊利用、社会経済環境影響、技術制御の難しさなどのリスクを警告。7月6-7日のAIガバナンス対話で提示。",
+    "media_updated_at": "2026.07.03"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,26 +20,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "米政府 先進AIイノベーション推進令",
-    "AI for Good Global Summit 2026開催",
-    "Google SearchにAIエージェント機能",
-    "AMD Advancing AI 2026カンファレンス",
-    "RAISE Summit 2026 Paris",
-    "FTC、AIバイアス対策に警告",
-    "AIの2026年問題：データ枯渇"
+    "国連AI報告書発表",
+    "Stanford AI Index 2026",
+    "AI for Good Summit 2026",
+    "AMD Advancing AI 2026",
+    "Google AI Search agents",
+    "Microsoft 7 new MAI models",
+    "AI governance dialogue"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "米政府 先進AIイノベーション推進令",
-      "summary": "Trump大統領がEO 14409を発行。イノベーションとセキュリティ促進。",
+      "title": "Stanford 2026 AI Index Report発表",
+      "summary": "AI能力加速継続。多くのモデルが人間超え。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
       "title": "AI for Good Global Summit 2026開催",
-      "summary": "7月7-10日ジュネーブ。AIが人類に奉仕する可能性を探る。",
+      "summary": "7月7-10日ジュネーブでAI人類奉仕を議論。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,34 +47,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "Google SearchにAIエージェント機能"
-    },
-    {
-      "rank": 5,
       "title": "AMD Advancing AI 2026カンファレンス"
     },
     {
+      "rank": 5,
+      "title": "Google SearchにAIエージェント機能"
+    },
+    {
       "rank": 6,
-      "title": "RAISE Summit 2026 Paris"
+      "title": "Microsoft 7つの新MAIモデル発表"
     },
     {
       "rank": 7,
-      "title": "FTC、AIバイアス対策に警告"
+      "title": "UN AI governance dialogue"
     },
     {
       "rank": 8,
-      "title": "AIの2026年問題：データ枯渇"
+      "title": "AI Trends 2026報告"
     },
     {
       "rank": 9,
-      "title": "Anthropic Claudeモデル更新"
+      "title": "NVIDIA State of AI Report"
     },
     {
       "rank": 10,
-      "title": "AI Trends 2026報告書"
+      "title": "Ipsos AI Monitor 2026"
     }
   ],
   "archive": [
+    {
+      "no": 156,
+      "kind": "📖 漫画",
+      "date": "07.02",
+      "img": "news/top1_manga_2026-07-02.png",
+      "title": "Stanford AI Index 2026発表 AI能力加速"
+    },
     {
       "no": 155,
       "kind": "📖 漫画",
@@ -88,100 +95,6 @@
       "date": "06.30",
       "img": "news/top1_manga_2026-06-30.png",
       "title": "OpenAI、GPT-5.6を発表 最上位「Sol」、低価格「Terra」、高速「Luna」の3モデルを限定プレビュー"
-    },
-    {
-      "no": 153,
-      "kind": "📖 漫画",
-      "date": "06.29",
-      "img": "news/top1_manga_2026-06-29.png",
-      "title": "米政府、AnthropicのClaude Mythos 5に部分リリース許可"
-    },
-    {
-      "no": 152,
-      "kind": "📖 漫画",
-      "date": "06.28",
-      "img": "news/top1_manga.png",
-      "title": "米政府、AnthropicのClaude Mythos 5に部分リリース許可"
-    },
-    {
-      "no": 151,
-      "kind": "📖 漫画",
-      "date": "06.27",
-      "img": "news/top1_manga.png",
-      "title": "OpenAI、Broadcomと初のカスタムAIチップ「Jalapeno」発表"
-    },
-    {
-      "no": 150,
-      "kind": "📖 漫画",
-      "date": "06.26",
-      "img": "news/top1_manga.png",
-      "title": "OpenAI、Broadcomと初のカスタムAIチップ「Jalapeno」発表"
-    },
-    {
-      "no": 149,
-      "kind": "📖 漫画",
-      "date": "06.25",
-      "img": "news/top1_manga.png",
-      "title": "Anthropic、Claude Tag発表でチームAIが革命"
-    },
-    {
-      "no": 148,
-      "kind": "📖 漫画",
-      "date": "06.24",
-      "img": "news/top1_manga.png",
-      "title": "OpenAI、GPT-5.5-Cyber強化 サイバー防御85.6%達成"
-    },
-    {
-      "no": 147,
-      "kind": "📖 漫画",
-      "date": "06.24",
-      "img": "news/top1_manga.png",
-      "title": "Sakana AI、複数AIを束ねた新モデルの一般提供を開始"
-    },
-    {
-      "no": 146,
-      "kind": "📖 漫画",
-      "date": "06.23",
-      "img": "news/kof_manga.jpg"
-    },
-    {
-      "no": 145,
-      "kind": "▶ アニメ",
-      "date": "06.22",
-      "title": "AIエージェント暴走の回",
-      "video_url": "https://www.youtube.com/shorts/N-YfnTXIEIo"
-    },
-    {
-      "no": 144,
-      "kind": "📖 漫画",
-      "date": "06.21",
-      "title": "Sakana Fugu の衝撃",
-      "img": "news/archive_144.jpg"
-    },
-    {
-      "no": 143,
-      "kind": "📖 漫画",
-      "date": "06.20",
-      "title": "AI新モデル乱立",
-      "img": "news/archive_143.jpg"
-    },
-    {
-      "no": 142,
-      "kind": "📖 漫画",
-      "date": "06.19",
-      "title": "オープンソースの夜明け"
-    },
-    {
-      "no": 141,
-      "kind": "📖 漫画",
-      "date": "06.18",
-      "title": "規制とイノベーション"
-    },
-    {
-      "no": 140,
-      "kind": "▶ アニメ",
-      "date": "06.17",
-      "title": "AIバブルは弾けるか"
     }
   ],
   "githubUrl": "https://github.com/thirt33n-tech"

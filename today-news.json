@@ -1,84 +1,101 @@
 {
-  "date": "2026.07.02",
+  "date": "2026.07.03",
   "top10": [
     {
+      "title": "国連、AIの巨大利益と深刻リスクを警告",
+      "lead1": "潜在利益は計り知れず",
+      "lead2": "制御困難や精神衛生リスクも",
+      "manga_url": "news/top1_manga.png",
+      "video_url": "",
+      "summary": "国連独立科学パネルが初のAIグローバル報告書。利益は巨大だが精神健康被害、破壊利用、社会経済環境影響、技術制御の難しさなどのリスクを警告。7月6-7日のAIガバナンス対話で提示。",
+      "media_updated_at": "2026.07.03",
       "rank": 1,
-      "title": "Stanford AI Index 2026発表 AI能力加速",
-      "summary": "AI能力は停滞せず加速。業界90%超のフロンティアモデル生産、多くのモデルが人間ベースライン超え。SWE-benchほぼ100%。",
-      "source": "Stanford HAI",
-      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
       "script": {
         "panels": [
-          {"speech": "Stanford Index出た！", "narration": ""},
-          {"speech": "能力が加速中！", "narration": ""},
-          {"speech": "人間超えモデル多数", "narration": "業界90%超生産。SWE-bench100%近く。US-China差縮小"},
-          {"speech": "みなみワクワク！", "narration": "…来週に続く"}
+          {
+            "speech": "みなみ、スマホで国連のAI報告見たよ！",
+            "narration": ""
+          },
+          {
+            "speech": "わあっ！リスクがそんなに！？",
+            "narration": ""
+          },
+          {
+            "speech": "利益もすごいけど",
+            "narration": "潜在利益巨大だが精神衛生・制御リスク大と警告"
+          },
+          {
+            "speech": "賢く使おうねみんな！",
+            "narration": "…来週に続く"
+          }
         ],
-        "telop_text": "Stanford AI Index 2026：AI加速・人間超え続出"
-      }
+        "telop_text": "国連AI報告：利益巨大だがリスク深刻"
+      },
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/un-report-sees-enormous-potential-benefits-big-risks-ai-2026-07-01/"
     },
     {
       "rank": 2,
-      "title": "米政府 先進AIイノベーション推進令",
-      "summary": "Trump大統領がEO 14409を発行。AIイノベーションとセキュリティを促進。",
-      "source": "White House",
-      "source_url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+      "title": "Stanford 2026 AI Index Report発表",
+      "summary": "AI能力加速継続、多くのモデルが人間ベースライン超え。SWE-benchほぼ100%。",
+      "source": "Stanford HAI",
+      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
     },
     {
       "rank": 3,
       "title": "AI for Good Global Summit 2026開催",
-      "summary": "7月7-10日ジュネーブで開催。AIが人類に奉仕する可能性を解き放つ。",
+      "summary": "7月7-10日ジュネーブ。AIが人類に奉仕する可能性を探る国際会議。",
       "source": "ITU",
       "source_url": "https://aiforgood.itu.int/summit26/"
     },
     {
       "rank": 4,
-      "title": "Google SearchにAIエージェント機能",
-      "summary": "Search I/O 2026で先進モデルを統合。質問するだけでエージェント利用可能に。",
-      "source": "Google",
-      "source_url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
-    },
-    {
-      "rank": 5,
       "title": "AMD Advancing AI 2026カンファレンス",
-      "summary": "7月22-23日サンフランシスコ開催。次世代AIインフラ議論。",
+      "summary": "7月22-23日サンフランシスコ。次世代AIインフラ議論。",
       "source": "AMD",
       "source_url": "https://www.amd.com/en/corporate/events/advancing-ai.html"
     },
     {
+      "rank": 5,
+      "title": "Google SearchにAIエージェント機能追加",
+      "summary": "Search I/O 2026で発表。質問するだけでエージェント利用可能に。",
+      "source": "Google",
+      "source_url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
+    },
+    {
       "rank": 6,
-      "title": "RAISE Summit 2026 Paris",
-      "summary": "7月8-9日パリでAIリーダーシップサミット。マクロン大統領登壇予定。",
-      "source": "RAISE",
-      "source_url": "https://www.raisesummit.com/"
+      "title": "Microsoftが7つの新MAI AIモデル発表",
+      "summary": "Mustafa SuleymanがBuild 2026でImage, Voice, Codeなど7モデル公開。",
+      "source": "Microsoft",
+      "source_url": "https://www.youtube.com/watch?v=OvLIae4HCeM"
     },
     {
       "rank": 7,
-      "title": "FTC、AIバイアス対策に警告",
-      "summary": "AIチャットボットがイデオロギー反映する場合、連邦法違反の可能性。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/technology/artificial-intelligence/"
+      "title": "UN AI governance dialogue準備",
+      "summary": "国連がAIガバナンス初のグローバル対話を7月に開催。",
+      "source": "UN",
+      "source_url": "https://www.reuters.com/legal/litigation/un-report-sees-enormous-potential-benefits-big-risks-ai-2026-07-01/"
     },
     {
       "rank": 8,
-      "title": "AIの2026年問題：データ枯渇",
-      "summary": "高品質学習データが2026年に枯渇予測。低品質データへの移行必要。",
-      "source": "Rentec Insight",
-      "source_url": "https://go.orixrentec.jp/rentecinsight/it/article-775"
+      "title": "AI Trends 2026報告",
+      "summary": "組織DNA書き換える基礎AI原則、vibe coding、エージェントAI成熟。",
+      "source": "Info-Tech",
+      "source_url": "https://www.infotech.com/research/ss/ai-trends-2026"
     },
     {
       "rank": 9,
-      "title": "Anthropic Claudeモデル更新",
-      "summary": "Mythos 5一部企業への提供再開や規制関連動向。",
-      "source": "NHK",
-      "source_url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-0000010"
+      "title": "NVIDIA State of AI Report 2026",
+      "summary": "全業界でAIが収益向上・コスト削減・生産性向上に寄与。予算増加継続。",
+      "source": "NVIDIA",
+      "source_url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/"
     },
     {
       "rank": 10,
-      "title": "AI Trends 2026報告書",
-      "summary": "Agentic AIの本格化、vibe coding、組織DNAの書き換え予測。",
-      "source": "Info-Tech",
-      "source_url": "https://www.infotech.com/research/ss/ai-trends-2026"
+      "title": "Ipsos AI Monitor 2026",
+      "summary": "AI使用増加もデータセンター反対意見多く、地域による楽観・懸念の差大。",
+      "source": "Ipsos",
+      "source_url": "https://www.ipsos.com/en-us/artificial-intelligence-key-insights-data-and-tables"
     }
   ]
 }
