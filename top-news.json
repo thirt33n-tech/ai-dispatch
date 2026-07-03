@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 157,
-  "dateLabel": "2026.07.03",
+  "dispatchNo": 158,
+  "dateLabel": "2026.07.04",
   "top1": {
-    "title": "国連、AIの巨大利益と深刻リスクを警告",
-    "lead1": "潜在利益は計り知れず",
-    "lead2": "制御困難や精神衛生リスクも",
-    "manga_url": "news/top1_manga_2026-07-03.png",
-    "video_url": "https://www.youtube.com/watch?v=QdYV6IYNA1w",
-    "summary": "国連独立科学パネルが初のAIグローバル報告書。利益は巨大だが精神健康被害、破壊利用、社会経済環境影響、技術制御の難しさなどのリスクを警告。7月6-7日のAIガバナンス対話で提示。",
-    "media_updated_at": "2026-07-03"
+    "title": "韓国、AIチップブームで富の分配に課題",
+    "lead1": "Samsung・SK Hynixがけん引",
+    "lead2": "3000%ボーナスも格差拡大の懸念",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "韓国でAI半導体ブーム。SamsungとSK Hynixが急成長も、富が誰に分配されるかの議論が活発化。Guardian報道。",
+    "media_updated_at": "2026-07-04"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,26 +20,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "国連AI報告書発表",
-    "Stanford AI Index 2026",
-    "AI for Good Summit 2026",
-    "AMD Advancing AI 2026",
-    "Google AI Search agents",
-    "Microsoft 7 new MAI models",
-    "AI governance dialogue"
+    "UN AIガバナンス対話開始準備",
+    "Kling AIが28億ドル調達",
+    "AnthropicがFable 5アクセス回復",
+    "Microsoft Frontier Company設立",
+    "日本フィジカルAI国家戦略",
+    "Latin America AI Roadmap採択",
+    "AIデータセンター水使用量問題"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Stanford 2026 AI Index Report発表",
-      "summary": "AI能力加速継続。多くのモデルが人間超え。",
+      "title": "UN AI報告書：利益とリスクの両面警告",
+      "summary": "国連パネルが初のグローバル報告。制御困難と精神健康リスクを強調。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "AI for Good Global Summit 2026開催",
-      "summary": "7月7-10日ジュネーブでAI人類奉仕を議論。",
+      "title": "Klingが28億ドル調達、Kuaishouからスピンオフ",
+      "summary": "AI動画生成Klingが巨額資金調達。短動画企業からの独立計画。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,34 +47,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "AMD Advancing AI 2026カンファレンス"
+      "title": "Anthropic、Trump政権とFable 5で合意"
     },
     {
       "rank": 5,
-      "title": "Google SearchにAIエージェント機能"
+      "title": "MicrosoftがAI実装専門会社を25億ドルで設立"
     },
     {
       "rank": 6,
-      "title": "Microsoft 7つの新MAIモデル発表"
+      "title": "日本、2040年までにAIロボット1000万台目標"
     },
     {
       "rank": 7,
-      "title": "UN AI governance dialogue"
+      "title": "Latin AmericaがAI倫理ロードマップ採択"
     },
     {
       "rank": 8,
-      "title": "AI Trends 2026報告"
+      "title": "AIデータセンターの水使用量が報告以上"
     },
     {
       "rank": 9,
-      "title": "NVIDIA State of AI Report"
+      "title": "Stanford AI Index 2026更新"
     },
     {
       "rank": 10,
-      "title": "Ipsos AI Monitor 2026"
+      "title": "AI for Good Summit 2026開催中"
     }
   ],
   "archive": [
+    {
+      "no": 157,
+      "kind": "📖 漫画",
+      "date": "07.03",
+      "img": "news/top1_manga_2026-07-03.png",
+      "title": "国連、AIの巨大利益と深刻リスクを警告"
+    },
     {
       "no": 156,
       "kind": "📖 漫画",
