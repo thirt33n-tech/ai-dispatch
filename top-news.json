@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 158,
-  "dateLabel": "2026.07.04",
+  "dispatchNo": 159,
+  "dateLabel": "2026.07.05",
   "top1": {
-    "title": "韓国、AIチップブームで富の分配に課題",
-    "lead1": "Samsung・SK Hynixがけん引",
-    "lead2": "3000%ボーナスも格差拡大の懸念",
-    "manga_url": "news/top1_manga_2026-07-04.png",
-    "video_url": "https://www.youtube.com/watch?v=rTeRO0gfnZs",
-    "summary": "国連独立科学パネルが初のAIグローバル報告書。利益は巨大だが精神健康被害、破壊利用、社会経済環境影響、技術制御の難しさなどのリスクを警告。7月6-7日のAIガバナンス対話で提示。",
-    "media_updated_at": "2026-07-04"
+    "title": "Anthropic、Fable 5提供再開へ Trump政権と合意",
+    "lead1": "Trump政権と合意",
+    "lead2": "2.5週間停止から復旧開始",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "セキュリティレビューで2.5週間停止していたFable 5。Trump政権との合意により復旧開始。AI業界に安堵。",
+    "media_updated_at": "2026-07-05"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,61 +20,68 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "UN AIガバナンス対話開始準備",
-    "Kling AIが28億ドル調達",
-    "AnthropicがFable 5アクセス回復",
-    "Microsoft Frontier Company設立",
-    "日本フィジカルAI国家戦略",
-    "Latin America AI Roadmap採択",
-    "AIデータセンター水使用量問題"
+    "Kling AIが28億ドル調達 Kuaishouからスピンオフ",
+    "AIデータセンターの水使用量が報告値の数倍",
+    "Yann LeCunがより柔軟なAIシステム開発",
+    "xAIがGrok Buildをβ公開",
+    "韓国AIチップブームで富の分配に課題",
+    "国連AIガバナンス対話が7月に開催",
+    "Stanford AI Index 2026更新"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "UN AI報告書：利益とリスクの両面警告",
-      "summary": "国連パネルが初のグローバル報告。制御困難と精神健康リスクを強調。",
+      "title": "Kling AIが28億ドル調達 Kuaishouからスピンオフ",
+      "summary": "短動画企業KuaishouのAI動画ユニットKlingが巨額資金調達。独立上場計画を加速。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Klingが28億ドル調達、Kuaishouからスピンオフ",
-      "summary": "AI動画生成Klingが巨額資金調達。短動画企業からの独立計画。",
+      "title": "AIデータセンターの水使用量が報告値の数倍",
+      "summary": "発電所を含む実態は報告より遥かに多く、資源負荷が深刻化。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
     {
-      "rank": 4,
-      "title": "Anthropic、Trump政権とFable 5で合意"
-    },
-    {
-      "rank": 5,
-      "title": "MicrosoftがAI実装専門会社を25億ドルで設立"
-    },
-    {
-      "rank": 6,
-      "title": "日本、2040年までにAIロボット1000万台目標"
-    },
-    {
       "rank": 7,
-      "title": "Latin AmericaがAI倫理ロードマップ採択"
+      "title": "Yann LeCunがより柔軟なAIシステム開発"
     },
     {
       "rank": 8,
-      "title": "AIデータセンターの水使用量が報告以上"
+      "title": "xAIがGrok Buildをβ公開"
     },
     {
       "rank": 9,
-      "title": "Stanford AI Index 2026更新"
+      "title": "韓国AIチップブームで富の分配に課題"
     },
     {
       "rank": 10,
-      "title": "AI for Good Summit 2026開催中"
+      "title": "国連AIガバナンス対話が7月に開催"
+    },
+    {
+      "rank": 11,
+      "title": "Stanford AI Index 2026更新"
+    },
+    {
+      "rank": 12,
+      "title": "Ledge.aiが最新AIニュースまとめ配信"
+    },
+    {
+      "rank": 13,
+      "title": "AI企業がデータセンター水資源問題で注目"
     }
   ],
   "archive": [
+    {
+      "no": 158,
+      "kind": "📖 漫画",
+      "date": "07.04",
+      "img": "news/top1_manga_2026-07-04.png",
+      "title": "韓国、AIチップブームで富の分配に課題"
+    },
     {
       "no": 157,
       "kind": "📖 漫画",

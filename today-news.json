@@ -1,101 +1,96 @@
 {
-  "date": "2026.07.03",
+  "date": "2026.07.05",
   "top10": [
     {
-      "title": "国連、AIの巨大利益と深刻リスクを警告",
-      "lead1": "潜在利益は計り知れず",
-      "lead2": "制御困難や精神衛生リスクも",
-      "manga_url": "news/top1_manga.png",
-      "video_url": "",
-      "summary": "国連独立科学パネルが初のAIグローバル報告書。利益は巨大だが精神健康被害、破壊利用、社会経済環境影響、技術制御の難しさなどのリスクを警告。7月6-7日のAIガバナンス対話で提示。",
-      "media_updated_at": "2026.07.03",
       "rank": 1,
+      "title": "Anthropic、Fable 5提供再開へ Trump政権と合意",
+      "summary": "セキュリティレビューで2.5週間停止していたFable 5。Trump政権との合意により復旧開始。AI業界に安堵。",
+      "source": "Wall Street Journal",
+      "source_url": "https://www.wsj.com/tech/ai",
       "script": {
         "panels": [
           {
-            "speech": "みなみ、スマホで国連のAI報告見たよ！",
+            "speech": "みなみ、Fable 5復活だって！",
             "narration": ""
           },
           {
-            "speech": "わあっ！リスクがそんなに！？",
+            "speech": "わあっ！やっとだー！",
             "narration": ""
           },
           {
-            "speech": "利益もすごいけど",
-            "narration": "潜在利益巨大だが精神衛生・制御リスク大と警告"
+            "speech": "政権と合意したよ",
+            "narration": "Trump政権合意で2.5週間停止からFable 5再開"
           },
           {
-            "speech": "賢く使おうねみんな！",
+            "speech": "最強AIが帰ってきたね",
             "narration": "…来週に続く"
           }
         ],
-        "telop_text": "国連AI報告：利益巨大だがリスク深刻"
-      },
+        "telop_text": "Fable 5再開 Anthropic・政権合意"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Kling AIが28億ドル調達 Kuaishouからスピンオフ",
+      "summary": "短動画企業KuaishouのAI動画ユニットKlingが巨額資金調達。独立上場計画を加速。",
+      "source": "Wall Street Journal",
+      "source_url": "https://www.wsj.com/tech/ai"
+    },
+    {
+      "rank": 3,
+      "title": "AIデータセンターの水使用量が報告値の数倍",
+      "summary": "発電所を含む実態は報告より遥かに多く、資源負荷が深刻化。",
+      "source": "Wall Street Journal",
+      "source_url": "https://www.wsj.com/tech/ai"
+    },
+    {
+      "rank": 4,
+      "title": "Yann LeCunがより柔軟なAIシステム開発",
+      "summary": "現行のChatGPT等を超える実世界対応可能なAIを目指す新スタートアップ。",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o"
+    },
+    {
+      "rank": 5,
+      "title": "xAIがGrok Buildをβ公開",
+      "summary": "SuperGrokユーザー向け端末内コーディングエージェントとして提供開始。",
+      "source": "xAI",
+      "source_url": "https://x.ai/news"
+    },
+    {
+      "rank": 6,
+      "title": "韓国AIチップブームで富の分配に課題",
+      "summary": "Samsung・SK Hynix主導で3000%ボーナスも、格差拡大の懸念。",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/artificialintelligenceai"
+    },
+    {
+      "rank": 7,
+      "title": "国連AIガバナンス対話が7月に開催",
+      "summary": "初のグローバル報告書で利益とリスク両面を警告。制御困難性を強調。",
       "source": "Reuters",
       "source_url": "https://www.reuters.com/legal/litigation/un-report-sees-enormous-potential-benefits-big-risks-ai-2026-07-01/"
     },
     {
-      "rank": 2,
-      "title": "Stanford 2026 AI Index Report発表",
-      "summary": "AI能力加速継続、多くのモデルが人間ベースライン超え。SWE-benchほぼ100%。",
+      "rank": 8,
+      "title": "Stanford AI Index 2026更新",
+      "summary": "多くのモデルが人間ベンチマーク超え。SWE-benchほぼ100%達成。",
       "source": "Stanford HAI",
       "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
     },
     {
-      "rank": 3,
-      "title": "AI for Good Global Summit 2026開催",
-      "summary": "7月7-10日ジュネーブ。AIが人類に奉仕する可能性を探る国際会議。",
-      "source": "ITU",
-      "source_url": "https://aiforgood.itu.int/summit26/"
-    },
-    {
-      "rank": 4,
-      "title": "AMD Advancing AI 2026カンファレンス",
-      "summary": "7月22-23日サンフランシスコ。次世代AIインフラ議論。",
-      "source": "AMD",
-      "source_url": "https://www.amd.com/en/corporate/events/advancing-ai.html"
-    },
-    {
-      "rank": 5,
-      "title": "Google SearchにAIエージェント機能追加",
-      "summary": "Search I/O 2026で発表。質問するだけでエージェント利用可能に。",
-      "source": "Google",
-      "source_url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
-    },
-    {
-      "rank": 6,
-      "title": "Microsoftが7つの新MAI AIモデル発表",
-      "summary": "Mustafa SuleymanがBuild 2026でImage, Voice, Codeなど7モデル公開。",
-      "source": "Microsoft",
-      "source_url": "https://www.youtube.com/watch?v=OvLIae4HCeM"
-    },
-    {
-      "rank": 7,
-      "title": "UN AI governance dialogue準備",
-      "summary": "国連がAIガバナンス初のグローバル対話を7月に開催。",
-      "source": "UN",
-      "source_url": "https://www.reuters.com/legal/litigation/un-report-sees-enormous-potential-benefits-big-risks-ai-2026-07-01/"
-    },
-    {
-      "rank": 8,
-      "title": "AI Trends 2026報告",
-      "summary": "組織DNA書き換える基礎AI原則、vibe coding、エージェントAI成熟。",
-      "source": "Info-Tech",
-      "source_url": "https://www.infotech.com/research/ss/ai-trends-2026"
-    },
-    {
       "rank": 9,
-      "title": "NVIDIA State of AI Report 2026",
-      "summary": "全業界でAIが収益向上・コスト削減・生産性向上に寄与。予算増加継続。",
-      "source": "NVIDIA",
-      "source_url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/"
+      "title": "Ledge.aiが最新AIニュースまとめ配信",
+      "summary": "Anthropic Fable 5再開やOpenAI新モデルなど高頻度で報道。",
+      "source": "Ledge.ai",
+      "source_url": "https://ledge.ai/"
     },
     {
       "rank": 10,
-      "title": "Ipsos AI Monitor 2026",
-      "summary": "AI使用増加もデータセンター反対意見多く、地域による楽観・懸念の差大。",
-      "source": "Ipsos",
-      "source_url": "https://www.ipsos.com/en-us/artificial-intelligence-key-insights-data-and-tables"
+      "title": "AI企業がデータセンター水資源問題で注目",
+      "summary": "電力だけでなく冷却水使用が環境負荷大。地域反対運動も。",
+      "source": "WSJ / Guardian",
+      "source_url": "https://www.wsj.com/tech/ai"
     }
   ]
 }
