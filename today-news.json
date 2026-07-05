@@ -1,96 +1,84 @@
 {
-  "date": "2026.07.05",
+  "date": "2026.07.06",
   "top10": [
     {
       "rank": 1,
-      "title": "Anthropic、Fable 5提供再開へ Trump政権と合意",
-      "summary": "セキュリティレビューで2.5週間停止していたFable 5。Trump政権との合意により復旧開始。AI業界に安堵。",
-      "source": "Wall Street Journal",
-      "source_url": "https://www.wsj.com/tech/ai",
+      "title": "Anthropic Fable 5、Trump政権と合意で提供再開",
+      "summary": "2.5週間制限後、輸出規制解除。Fable 5とMythos 5がグローバル復旧開始。AI業界に安堵。",
+      "source": "Anthropic / CNBC",
+      "source_url": "https://www.anthropic.com/news/redeploying-fable-5",
       "script": {
         "panels": [
-          {
-            "speech": "みなみ、Fable 5復活だって！",
-            "narration": ""
-          },
-          {
-            "speech": "わあっ！やっとだー！",
-            "narration": ""
-          },
-          {
-            "speech": "政権と合意したよ",
-            "narration": "Trump政権合意で2.5週間停止からFable 5再開"
-          },
-          {
-            "speech": "最強AIが帰ってきたね",
-            "narration": "…来週に続く"
-          }
+          {"speech": "みなみ、緊急ニュース！", "narration": ""},
+          {"speech": "Fable 5が復活するって！", "narration": ""},
+          {"speech": "政府と合意で制限解除", "narration": "2.5週間ぶり。サイバーセキュリティ強化も"},
+          {"speech": "開発が加速しそうね", "narration": "…来週に続く"}
         ],
-        "telop_text": "Fable 5再開 Anthropic・政権合意"
+        "telop_text": "Anthropic Fable 5 提供再開！Trump政権と合意"
       }
     },
     {
       "rank": 2,
-      "title": "Kling AIが28億ドル調達 Kuaishouからスピンオフ",
-      "summary": "短動画企業KuaishouのAI動画ユニットKlingが巨額資金調達。独立上場計画を加速。",
-      "source": "Wall Street Journal",
-      "source_url": "https://www.wsj.com/tech/ai"
+      "title": "Kling AIが28億ドル調達",
+      "summary": "Kuaishouからスピンオフ。AlibabaとTencentがバックアップし独立上場加速。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/artificial-intelligence/"
     },
     {
       "rank": 3,
-      "title": "AIデータセンターの水使用量が報告値の数倍",
-      "summary": "発電所を含む実態は報告より遥かに多く、資源負荷が深刻化。",
-      "source": "Wall Street Journal",
-      "source_url": "https://www.wsj.com/tech/ai"
+      "title": "中国の低価格AIがClaude・GPTに迫る",
+      "summary": "オープンソースGLMなど無料モデルが急速に性能向上。西側モデルに挑戦。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/artificial-intelligence/"
     },
     {
       "rank": 4,
-      "title": "Yann LeCunがより柔軟なAIシステム開発",
-      "summary": "現行のChatGPT等を超える実世界対応可能なAIを目指す新スタートアップ。",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o"
+      "title": "Alibaba、社員にClaude Code使用禁止",
+      "summary": "自社AI優先のためMeta同様の制限を導入か。内部ポリシー変更。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
     },
     {
       "rank": 5,
-      "title": "xAIがGrok Buildをβ公開",
-      "summary": "SuperGrokユーザー向け端末内コーディングエージェントとして提供開始。",
-      "source": "xAI",
-      "source_url": "https://x.ai/news"
+      "title": "AIデータセンターの水使用量が報告の数倍",
+      "summary": "発電所含む実態が深刻。資源負荷が社会問題化。",
+      "source": "Various reports",
+      "source_url": ""
     },
     {
       "rank": 6,
-      "title": "韓国AIチップブームで富の分配に課題",
-      "summary": "Samsung・SK Hynix主導で3000%ボーナスも、格差拡大の懸念。",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/artificialintelligenceai"
+      "title": "Google、AI生成Declaration of Independence CM公開",
+      "summary": "AIが独立宣言を書くというコンセプトの新CMを展開。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
     },
     {
       "rank": 7,
-      "title": "国連AIガバナンス対話が7月に開催",
-      "summary": "初のグローバル報告書で利益とリスク両面を警告。制御困難性を強調。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/un-report-sees-enormous-potential-benefits-big-risks-ai-2026-07-01/"
+      "title": "2026 AIトレンド：Agenticシステム本格化",
+      "summary": "ガバナンス強化と知識レイヤーの重要性が高まる予測多数。",
+      "source": "IBM / Microsoft",
+      "source_url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
     },
     {
       "rank": 8,
-      "title": "Stanford AI Index 2026更新",
-      "summary": "多くのモデルが人間ベンチマーク超え。SWE-benchほぼ100%達成。",
-      "source": "Stanford HAI",
-      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
+      "title": "xAI、Voice Agent Builderを発表",
+      "summary": "コード不要で2分以内にパーソナライズド音声エージェント作成可能。",
+      "source": "x.ai",
+      "source_url": "https://x.ai/news"
     },
     {
       "rank": 9,
-      "title": "Ledge.aiが最新AIニュースまとめ配信",
-      "summary": "Anthropic Fable 5再開やOpenAI新モデルなど高頻度で報道。",
-      "source": "Ledge.ai",
-      "source_url": "https://ledge.ai/"
+      "title": "Midjourney、ハリウッドにAI使用開示要求",
+      "summary": "スタジオに対しAI生成コンテンツの詳細報告を求める動き。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
     },
     {
       "rank": 10,
-      "title": "AI企業がデータセンター水資源問題で注目",
-      "summary": "電力だけでなく冷却水使用が環境負荷大。地域反対運動も。",
-      "source": "WSJ / Guardian",
-      "source_url": "https://www.wsj.com/tech/ai"
+      "title": "AI採用がIT求人を上回る",
+      "summary": "インドなどでAI人材需要が急拡大。企業が積極投資。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/artificial-intelligence/"
     }
   ]
 }

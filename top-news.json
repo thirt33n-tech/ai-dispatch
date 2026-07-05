@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 159,
-  "dateLabel": "2026.07.05",
+  "dispatchNo": 160,
+  "dateLabel": "2026.07.06",
   "top1": {
-    "title": "Anthropic、Fable 5提供再開へ Trump政権と合意",
-    "lead1": "Trump政権と合意",
-    "lead2": "2.5週間停止から復旧開始",
-    "manga_url": "news/top1_manga_2026-07-05.png",
-    "video_url": "https://www.youtube.com/watch?v=flSbpHbXmBU",
-    "summary": "セキュリティレビューで2.5週間停止していたFable 5。Trump政権との合意により復旧開始。AI業界に安堵。",
-    "media_updated_at": "2026-07-05"
+    "title": "Anthropic Fable 5、Trump政権と合意で提供再開",
+    "lead1": "2.5週間制限から復旧",
+    "lead2": "グローバルユーザーへ即時開放",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "セキュリティ懸念で停止していたFable 5とMythos 5。Trump政権との合意で輸出規制解除され再展開開始。",
+    "media_updated_at": "2026-07-06"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -21,60 +21,46 @@
   },
   "breaking": [
     "Kling AIが28億ドル調達 Kuaishouからスピンオフ",
-    "AIデータセンターの水使用量が報告値の数倍",
-    "Yann LeCunがより柔軟なAIシステム開発",
-    "xAIがGrok Buildをβ公開",
-    "韓国AIチップブームで富の分配に課題",
-    "国連AIガバナンス対話が7月に開催",
-    "Stanford AI Index 2026更新"
+    "中国低価格AIがClaude・GPTに急接近",
+    "Alibabaが社員のClaude Code使用を禁止",
+    "AIデータセンター水使用量が報告値の数倍",
+    "GoogleがAI生成独立宣言CMを公開",
+    "2026 AIトレンドでAgenticシステム本格化",
+    "xAIがVoice Agent Builder発表"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Kling AIが28億ドル調達 Kuaishouからスピンオフ",
-      "summary": "短動画企業KuaishouのAI動画ユニットKlingが巨額資金調達。独立上場計画を加速。",
+      "title": "Kling AIが28億ドル調達",
+      "summary": "Kuaishouからスピンオフ。Alibaba、Tencentが支援し独立上場加速。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "AIデータセンターの水使用量が報告値の数倍",
-      "summary": "発電所を含む実態は報告より遥かに多く、資源負荷が深刻化。",
+      "title": "中国低価格AIがClaude・GPTに急接近",
+      "summary": "無料オープンソースGLMモデルが西側主力モデルに性能で迫る。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {
-      "rank": 7,
-      "title": "Yann LeCunがより柔軟なAIシステム開発"
-    },
-    {
-      "rank": 8,
-      "title": "xAIがGrok Buildをβ公開"
-    },
-    {
-      "rank": 9,
-      "title": "韓国AIチップブームで富の分配に課題"
-    },
-    {
-      "rank": 10,
-      "title": "国連AIガバナンス対話が7月に開催"
-    },
-    {
-      "rank": 11,
-      "title": "Stanford AI Index 2026更新"
-    },
-    {
-      "rank": 12,
-      "title": "Ledge.aiが最新AIニュースまとめ配信"
-    },
-    {
-      "rank": 13,
-      "title": "AI企業がデータセンター水資源問題で注目"
-    }
+    {"rank": 4, "title": "Alibabaが社員のClaude Code使用を禁止"},
+    {"rank": 5, "title": "AIデータセンター水使用量が報告値の数倍"},
+    {"rank": 6, "title": "GoogleがAI生成独立宣言CMを公開"},
+    {"rank": 7, "title": "2026 AIトレンドでAgenticシステム本格化"},
+    {"rank": 8, "title": "xAIがVoice Agent Builder発表"},
+    {"rank": 9, "title": "MidjourneyがハリウッドにAI使用開示要求"},
+    {"rank": 10, "title": "AI採用がインドでIT求人を上回る"}
   ],
   "archive": [
+    {
+      "no": 159,
+      "kind": "📖 漫画",
+      "date": "07.05",
+      "img": "news/top1_manga_2026-07-05.png",
+      "title": "Anthropic、Fable 5提供再開へ Trump政権と合意"
+    },
     {
       "no": 158,
       "kind": "📖 漫画",
