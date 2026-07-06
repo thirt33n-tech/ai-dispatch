@@ -5,9 +5,9 @@
     "title": "Anthropic Fable 5、Trump政権と合意で提供再開",
     "lead1": "2.5週間制限から復旧",
     "lead2": "グローバルユーザーへ即時開放",
-    "manga_url": "news/top1_manga.png",
-    "video_url": "",
-    "summary": "セキュリティ懸念で停止していたFable 5とMythos 5。Trump政権との合意で輸出規制解除され再展開開始。",
+    "manga_url": "news/top1_manga_2026-07-06.png",
+    "video_url": "https://www.youtube.com/watch?v=SCWHxHnc24A",
+    "summary": "2.5週間制限後、輸出規制解除。Fable 5とMythos 5がグローバル復旧開始。AI業界に安堵。",
     "media_updated_at": "2026-07-06"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
@@ -45,13 +45,34 @@
     }
   ],
   "topList": [
-    {"rank": 4, "title": "Alibabaが社員のClaude Code使用を禁止"},
-    {"rank": 5, "title": "AIデータセンター水使用量が報告値の数倍"},
-    {"rank": 6, "title": "GoogleがAI生成独立宣言CMを公開"},
-    {"rank": 7, "title": "2026 AIトレンドでAgenticシステム本格化"},
-    {"rank": 8, "title": "xAIがVoice Agent Builder発表"},
-    {"rank": 9, "title": "MidjourneyがハリウッドにAI使用開示要求"},
-    {"rank": 10, "title": "AI採用がインドでIT求人を上回る"}
+    {
+      "rank": 4,
+      "title": "Alibabaが社員のClaude Code使用を禁止"
+    },
+    {
+      "rank": 5,
+      "title": "AIデータセンター水使用量が報告値の数倍"
+    },
+    {
+      "rank": 6,
+      "title": "GoogleがAI生成独立宣言CMを公開"
+    },
+    {
+      "rank": 7,
+      "title": "2026 AIトレンドでAgenticシステム本格化"
+    },
+    {
+      "rank": 8,
+      "title": "xAIがVoice Agent Builder発表"
+    },
+    {
+      "rank": 9,
+      "title": "MidjourneyがハリウッドにAI使用開示要求"
+    },
+    {
+      "rank": 10,
+      "title": "AI採用がインドでIT求人を上回る"
+    }
   ],
   "archive": [
     {
