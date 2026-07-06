@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 160,
-  "dateLabel": "2026.07.06",
+  "dispatchNo": 161,
+  "dateLabel": "2026.07.07",
   "top1": {
-    "title": "Anthropic Fable 5、Trump政権と合意で提供再開",
-    "lead1": "2.5週間制限から復旧",
-    "lead2": "グローバルユーザーへ即時開放",
-    "manga_url": "news/top1_manga_2026-07-06.png",
-    "video_url": "https://www.youtube.com/watch?v=SCWHxHnc24A",
-    "summary": "2.5週間制限後、輸出規制解除。Fable 5とMythos 5がグローバル復旧開始。AI業界に安堵。",
-    "media_updated_at": "2026-07-06"
+    "title": "Meta、非侵襲型Brain2Qwerty v2発表",
+    "lead1": "脳波から文章をリアルタイム復元",
+    "lead2": "手術不要で61%精度達成",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "Meta AI、非侵襲MEGで脳活動からテキストを61%精度で復元。Brain2Qwerty v2が実用化に一歩近づく。",
+    "media_updated_at": "2026-07-07"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,26 +20,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "Kling AIが28億ドル調達 Kuaishouからスピンオフ",
-    "中国低価格AIがClaude・GPTに急接近",
-    "Alibabaが社員のClaude Code使用を禁止",
-    "AIデータセンター水使用量が報告値の数倍",
-    "GoogleがAI生成独立宣言CMを公開",
-    "2026 AIトレンドでAgenticシステム本格化",
-    "xAIがVoice Agent Builder発表"
+    "MACHINA Summit 2026がパリで開催",
+    "UN、AIガバナンス国際対話をジュネーブで開催",
+    "Visa、AIエージェントの買い物代行を実取引開始",
+    "経産省、国産フィジカルAI基盤モデル開発事業採択",
+    "RAISE Summit 2026がパリで開催",
+    "パナソニック、Bistroアシスタントが自動調理鍋に対応",
+    "北海道エアポート、ApronAIターンアラウンド管理を導入"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Kling AIが28億ドル調達",
-      "summary": "Kuaishouからスピンオフ。Alibaba、Tencentが支援し独立上場加速。",
+      "title": "MACHINA Summit 2026がパリで開催",
+      "summary": "Physical AI・人型ロボット専門サミット。欧州のロボット開発加速の場に。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "中国低価格AIがClaude・GPTに急接近",
-      "summary": "無料オープンソースGLMモデルが西側主力モデルに性能で迫る。",
+      "title": "UN、AIガバナンス国際対話をジュネーブで開催",
+      "summary": "catastrophic harm警告を受け、グローバルなAI規制枠組み議論。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,34 +47,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "Alibabaが社員のClaude Code使用を禁止"
+      "title": "Visa、AIエージェントの買い物代行を実取引開始"
     },
     {
       "rank": 5,
-      "title": "AIデータセンター水使用量が報告値の数倍"
+      "title": "経産省、国産フィジカルAI基盤モデル開発事業採択"
     },
     {
       "rank": 6,
-      "title": "GoogleがAI生成独立宣言CMを公開"
+      "title": "RAISE Summit 2026がパリで開催"
     },
     {
       "rank": 7,
-      "title": "2026 AIトレンドでAgenticシステム本格化"
+      "title": "パナソニック、Bistroアシスタントが自動調理鍋に対応"
     },
     {
       "rank": 8,
-      "title": "xAIがVoice Agent Builder発表"
+      "title": "北海道エアポート、ApronAIターンアラウンド管理を導入"
     },
     {
       "rank": 9,
-      "title": "MidjourneyがハリウッドにAI使用開示要求"
+      "title": "Microsoft、AIイニシアチブに25億ドル投資"
     },
     {
       "rank": 10,
-      "title": "AI採用がインドでIT求人を上回る"
+      "title": "AIデータセンター水使用量が報告の数倍と判明"
     }
   ],
   "archive": [
+    {
+      "no": 160,
+      "kind": "📖 漫画",
+      "date": "07.06",
+      "img": "news/top1_manga_2026-07-06.png",
+      "title": "Anthropic Fable 5、Trump政権と合意で提供再開"
+    },
     {
       "no": 159,
       "kind": "📖 漫画",

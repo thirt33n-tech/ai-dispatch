@@ -1,84 +1,85 @@
 {
-  "date": "2026.07.06",
+  "date": "2026.07.07",
+  "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Anthropic Fable 5、Trump政権と合意で提供再開",
-      "summary": "2.5週間制限後、輸出規制解除。Fable 5とMythos 5がグローバル復旧開始。AI業界に安堵。",
-      "source": "Anthropic / CNBC",
-      "source_url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "title": "Meta、非侵襲型Brain2Qwerty v2発表",
+      "summary": "脳波からリアルタイム文章復元、MEGで平均61%単語精度。手術不要で実用レベルに接近。",
+      "source": "Meta AI",
+      "source_url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
       "script": {
         "panels": [
-          {"speech": "みなみ、緊急ニュース！", "narration": ""},
-          {"speech": "Fable 5が復活するって！", "narration": ""},
-          {"speech": "政府と合意で制限解除", "narration": "2.5週間ぶり。サイバーセキュリティ強化も"},
-          {"speech": "開発が加速しそうね", "narration": "…来週に続く"}
+          {"speech": "みなみ、すごいニュース！", "narration": ""},
+          {"speech": "脳から文字が打てるよ！", "narration": ""},
+          {"speech": "手術なしで61%精度", "narration": "MetaのBrain2Qwerty v2"},
+          {"speech": "未来の入力が変わるね", "narration": "…来週に続く"}
         ],
-        "telop_text": "Anthropic Fable 5 提供再開！Trump政権と合意"
+        "telop_text": "Meta Brain2Qwerty v2 非侵襲で脳波→テキスト61%精度"
       }
     },
     {
       "rank": 2,
-      "title": "Kling AIが28億ドル調達",
-      "summary": "Kuaishouからスピンオフ。AlibabaとTencentがバックアップし独立上場加速。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/technology/artificial-intelligence/"
+      "title": "MACHINA Summit 2026がパリで開催",
+      "summary": "Physical AI・人型ロボット専門サミット。欧州のロボット開発加速の場に。",
+      "source": "MACHINA Summit",
+      "source_url": "https://machinasummit.com/"
     },
     {
       "rank": 3,
-      "title": "中国の低価格AIがClaude・GPTに迫る",
-      "summary": "オープンソースGLMなど無料モデルが急速に性能向上。西側モデルに挑戦。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/technology/artificial-intelligence/"
+      "title": "UN、AIガバナンス国際対話をジュネーブで開催",
+      "summary": "catastrophic harm警告を受け、グローバルなAI規制枠組み議論。",
+      "source": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/07/1167862"
     },
     {
       "rank": 4,
-      "title": "Alibaba、社員にClaude Code使用禁止",
-      "summary": "自社AI優先のためMeta同様の制限を導入か。内部ポリシー変更。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
+      "title": "Visa、AIエージェントの買い物代行を実取引開始",
+      "summary": "欧州の独立加盟店でAIが完全購入処理。実用化加速。",
+      "source": "Ledge.ai",
+      "source_url": "https://ledge.ai/"
     },
     {
       "rank": 5,
-      "title": "AIデータセンターの水使用量が報告の数倍",
-      "summary": "発電所含む実態が深刻。資源負荷が社会問題化。",
-      "source": "Various reports",
-      "source_url": ""
+      "title": "経産省、国産フィジカルAI基盤モデル開発事業採択",
+      "summary": "Noetra(旧日本AI基盤モデル開発)と産総研を採択。実世界AI強化。",
+      "source": "Ledge.ai",
+      "source_url": "https://ledge.ai/"
     },
     {
       "rank": 6,
-      "title": "Google、AI生成Declaration of Independence CM公開",
-      "summary": "AIが独立宣言を書くというコンセプトの新CMを展開。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
+      "title": "RAISE Summit 2026がパリで開催",
+      "summary": "AIリーダーシップを議論するグローバルサミット。7/8-9本会。",
+      "source": "RAISE Summit",
+      "source_url": "https://www.raisesummit.com/"
     },
     {
       "rank": 7,
-      "title": "2026 AIトレンド：Agenticシステム本格化",
-      "summary": "ガバナンス強化と知識レイヤーの重要性が高まる予測多数。",
-      "source": "IBM / Microsoft",
-      "source_url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
+      "title": "パナソニック、Bistroアシスタントが自動調理鍋に対応",
+      "summary": "業界初のAI料理パートナーが調理家電と連携開始。",
+      "source": "AIsmiley",
+      "source_url": "https://aismiley.co.jp/ai_news/"
     },
     {
       "rank": 8,
-      "title": "xAI、Voice Agent Builderを発表",
-      "summary": "コード不要で2分以内にパーソナライズド音声エージェント作成可能。",
-      "source": "x.ai",
-      "source_url": "https://x.ai/news"
+      "title": "北海道エアポート、ApronAIターンアラウンド管理を導入",
+      "summary": "新千歳空港国際線でAIがスポット運用を最適化。",
+      "source": "AIsmiley",
+      "source_url": "https://aismiley.co.jp/ai_news/"
     },
     {
       "rank": 9,
-      "title": "Midjourney、ハリウッドにAI使用開示要求",
-      "summary": "スタジオに対しAI生成コンテンツの詳細報告を求める動き。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
+      "title": "Microsoft、AIイニシアチブに25億ドル投資",
+      "summary": "6000人の専門家を投入し企業向けAI展開を支援。",
+      "source": "Various",
+      "source_url": ""
     },
     {
       "rank": 10,
-      "title": "AI採用がIT求人を上回る",
-      "summary": "インドなどでAI人材需要が急拡大。企業が積極投資。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/technology/artificial-intelligence/"
+      "title": "AIデータセンター水使用量が報告の数倍と判明",
+      "summary": "発電所含む実態が深刻化、社会的議論を呼ぶ。",
+      "source": "Various reports",
+      "source_url": ""
     }
   ]
 }
