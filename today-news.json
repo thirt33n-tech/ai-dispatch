@@ -1,83 +1,83 @@
 {
-  "date": "2026.07.07",
+  "date": "2026.07.08",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Meta、非侵襲型Brain2Qwerty v2発表",
-      "summary": "脳波からリアルタイム文章復元、MEGで平均61%単語精度。手術不要で実用レベルに接近。",
-      "source": "Meta AI",
-      "source_url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+      "title": "国連、AIガバナンス国際対話がジュネーブで開幕",
+      "summary": "169カ国1.1万人参加。AIリスク・ガバナンス枠組み・アクセス格差を議論。AI for Good Summitも同時。",
+      "source": "ITU / UN News",
+      "source_url": "https://aiforgood.itu.int/",
       "script": {
         "panels": [
-          {"speech": "みなみ、すごいニュース！", "narration": ""},
-          {"speech": "脳から文字が打てるよ！", "narration": ""},
-          {"speech": "手術なしで61%精度", "narration": "MetaのBrain2Qwerty v2"},
-          {"speech": "未来の入力が変わるね", "narration": "…来週に続く"}
+          {"speech": "みなみ、大きなニュース！", "narration": ""},
+          {"speech": "国連でAI規制議論！", "narration": ""},
+          {"speech": "169カ国が集結したよ", "narration": "ガバナンス枠組み構築へ"},
+          {"speech": "人類の未来がかかわるね", "narration": "次回に続く"}
         ],
-        "telop_text": "Meta Brain2Qwerty v2 非侵襲で脳波→テキスト61%精度"
+        "telop_text": "国連AIガバナンス対話開幕 169カ国でルール作り"
       }
     },
     {
       "rank": 2,
-      "title": "MACHINA Summit 2026がパリで開催",
-      "summary": "Physical AI・人型ロボット専門サミット。欧州のロボット開発加速の場に。",
+      "title": "RAISE Summit 2026がパリで開催",
+      "summary": "欧州のAIリーダーシップを議論するグローバルサミット。7/8-9本会。",
+      "source": "RAISE Summit",
+      "source_url": "https://www.raisesummit.com/"
+    },
+    {
+      "rank": 3,
+      "title": "Claude Fable 5、7/8から課金体系変更",
+      "summary": "サブスク超過分はクレジット購入必要。性能と価格の攻防激化。",
+      "source": "Anthropic / Various",
+      "source_url": ""
+    },
+    {
+      "rank": 4,
+      "title": "MACHINA Summit 2026パリ開催",
+      "summary": "Physical AI・人型ロボット専門サミット。欧州開発加速の場に。",
       "source": "MACHINA Summit",
       "source_url": "https://machinasummit.com/"
     },
     {
-      "rank": 3,
-      "title": "UN、AIガバナンス国際対話をジュネーブで開催",
-      "summary": "catastrophic harm警告を受け、グローバルなAI規制枠組み議論。",
-      "source": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/07/1167862"
-    },
-    {
-      "rank": 4,
-      "title": "Visa、AIエージェントの買い物代行を実取引開始",
-      "summary": "欧州の独立加盟店でAIが完全購入処理。実用化加速。",
-      "source": "Ledge.ai",
-      "source_url": "https://ledge.ai/"
-    },
-    {
       "rank": 5,
-      "title": "経産省、国産フィジカルAI基盤モデル開発事業採択",
-      "summary": "Noetra(旧日本AI基盤モデル開発)と産総研を採択。実世界AI強化。",
+      "title": "Visa、AIエージェント買い物代行を実取引開始",
+      "summary": "欧州独立加盟店でAIが完全購入処理。実用化加速。",
       "source": "Ledge.ai",
       "source_url": "https://ledge.ai/"
     },
     {
       "rank": 6,
-      "title": "RAISE Summit 2026がパリで開催",
-      "summary": "AIリーダーシップを議論するグローバルサミット。7/8-9本会。",
-      "source": "RAISE Summit",
-      "source_url": "https://www.raisesummit.com/"
+      "title": "経産省、国産フィジカルAI基盤モデル開発採択",
+      "summary": "Noetraと産総研を採択。実世界AI強化へ。",
+      "source": "Ledge.ai",
+      "source_url": "https://ledge.ai/"
     },
     {
       "rank": 7,
-      "title": "パナソニック、Bistroアシスタントが自動調理鍋に対応",
-      "summary": "業界初のAI料理パートナーが調理家電と連携開始。",
+      "title": "パナソニック、Bistroアシスタントが自動調理鍋対応",
+      "summary": "業界初のAI料理パートナーが家電連携開始。",
       "source": "AIsmiley",
       "source_url": "https://aismiley.co.jp/ai_news/"
     },
     {
       "rank": 8,
-      "title": "北海道エアポート、ApronAIターンアラウンド管理を導入",
-      "summary": "新千歳空港国際線でAIがスポット運用を最適化。",
+      "title": "北海道エアポート、ApronAIターンアラウンド管理導入",
+      "summary": "新千歳空港でAIがスポット運用を最適化。",
       "source": "AIsmiley",
       "source_url": "https://aismiley.co.jp/ai_news/"
     },
     {
       "rank": 9,
       "title": "Microsoft、AIイニシアチブに25億ドル投資",
-      "summary": "6000人の専門家を投入し企業向けAI展開を支援。",
+      "summary": "6000人の専門家投入で企業向けAI展開支援。",
       "source": "Various",
       "source_url": ""
     },
     {
       "rank": 10,
-      "title": "AIデータセンター水使用量が報告の数倍と判明",
-      "summary": "発電所含む実態が深刻化、社会的議論を呼ぶ。",
+      "title": "AIデータセンターの水使用量が深刻化",
+      "summary": "報告の数倍の実態が判明、社会的議論を呼ぶ。",
       "source": "Various reports",
       "source_url": ""
     }
