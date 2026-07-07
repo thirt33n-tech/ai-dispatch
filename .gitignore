@@ -31,3 +31,7 @@ __pycache__/
 /PHASE1_INSTRUCTIONS.md
 /TASK_C_INSTRUCTIONS.md
 /PHASE0_SURVEY.md
+/PHASE1_DESIGN.md
+
+# --- パイプライン実行時ロック（resolve_news_source.sh が管理） ---
+/.locks/
