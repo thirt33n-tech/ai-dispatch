@@ -5,8 +5,8 @@
     "title": "国連、AIガバナンス国際対話がジュネーブで開幕",
     "lead1": "169カ国参加の歴史的議論",
     "lead2": "AIの国際ルール作りが本格化",
-    "manga_url": "news/top1_manga.png",
-    "video_url": "",
+    "manga_url": "news/top1_manga_2026-07-08.png",
+    "video_url": "https://www.youtube.com/watch?v=Z2vmPO0Ko2Y",
     "summary": "169カ国1.1万人参加。AIリスク・ガバナンス枠組み・アクセス格差を議論。AI for Good Summitも同時。",
     "media_updated_at": "2026-07-08"
   },
@@ -45,13 +45,34 @@
     }
   ],
   "topList": [
-    {"rank": 4, "title": "MACHINA Summit 2026パリ開催"},
-    {"rank": 5, "title": "Visa、AIエージェント買い物代行を実取引開始"},
-    {"rank": 6, "title": "経産省、国産フィジカルAI基盤モデル開発採択"},
-    {"rank": 7, "title": "パナソニック、Bistroアシスタントが自動調理鍋対応"},
-    {"rank": 8, "title": "北海道エアポート、ApronAIターンアラウンド管理導入"},
-    {"rank": 9, "title": "Microsoft、AIイニシアチブに25億ドル投資"},
-    {"rank": 10, "title": "AIデータセンターの水使用量が深刻化"}
+    {
+      "rank": 4,
+      "title": "MACHINA Summit 2026パリ開催"
+    },
+    {
+      "rank": 5,
+      "title": "Visa、AIエージェント買い物代行を実取引開始"
+    },
+    {
+      "rank": 6,
+      "title": "経産省、国産フィジカルAI基盤モデル開発採択"
+    },
+    {
+      "rank": 7,
+      "title": "パナソニック、Bistroアシスタントが自動調理鍋対応"
+    },
+    {
+      "rank": 8,
+      "title": "北海道エアポート、ApronAIターンアラウンド管理導入"
+    },
+    {
+      "rank": 9,
+      "title": "Microsoft、AIイニシアチブに25億ドル投資"
+    },
+    {
+      "rank": 10,
+      "title": "AIデータセンターの水使用量が深刻化"
+    }
   ],
   "archive": [
     {
