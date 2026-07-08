@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 162,
-  "dateLabel": "2026.07.08",
+  "dispatchNo": 163,
+  "dateLabel": "2026.07.09",
   "top1": {
     "title": "国連、AIガバナンス国際対話がジュネーブで開幕",
     "lead1": "169カ国参加の歴史的議論",
     "lead2": "AIの国際ルール作りが本格化",
-    "manga_url": "news/top1_manga_2026-07-08.png",
-    "video_url": "https://www.youtube.com/watch?v=Z2vmPO0Ko2Y",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
     "summary": "169カ国1.1万人参加。AIリスク・ガバナンス枠組み・アクセス格差を議論。AI for Good Summitも同時。",
-    "media_updated_at": "2026-07-08"
+    "media_updated_at": "2026-07-09"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -75,6 +75,13 @@
     }
   ],
   "archive": [
+    {
+      "no": 162,
+      "kind": "📖 漫画",
+      "date": "07.08",
+      "img": "news/top1_manga_2026-07-08.png",
+      "title": "国連、AIガバナンス国際対話がジュネーブで開幕"
+    },
     {
       "no": 161,
       "kind": "📖 漫画",

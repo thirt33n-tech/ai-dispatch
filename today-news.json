@@ -1,5 +1,5 @@
 {
-  "date": "2026.07.08",
+  "date": "2026.07.09",
   "fetched_via": "web_search",
   "top10": [
     {
@@ -10,10 +10,22 @@
       "source_url": "https://aiforgood.itu.int/",
       "script": {
         "panels": [
-          {"speech": "みなみ、大きなニュース！", "narration": ""},
-          {"speech": "国連でAI規制議論！", "narration": ""},
-          {"speech": "169カ国が集結したよ", "narration": "ガバナンス枠組み構築へ"},
-          {"speech": "人類の未来がかかわるね", "narration": "次回に続く"}
+          {
+            "speech": "みなみ、大きなニュース！",
+            "narration": ""
+          },
+          {
+            "speech": "国連でAI規制議論！",
+            "narration": ""
+          },
+          {
+            "speech": "169カ国が集結したよ",
+            "narration": "ガバナンス枠組み構築へ"
+          },
+          {
+            "speech": "人類の未来がかかわるね",
+            "narration": "次回に続く"
+          }
         ],
         "telop_text": "国連AIガバナンス対話開幕 169カ国でルール作り"
       }
