@@ -4,94 +4,94 @@
   "top10": [
     {
       "rank": 1,
-      "title": "国連、AIガバナンス国際対話がジュネーブで開幕",
-      "summary": "169カ国1.1万人参加。AIリスク・ガバナンス枠組み・アクセス格差を議論。AI for Good Summitも同時。",
-      "source": "ITU / UN News",
-      "source_url": "https://aiforgood.itu.int/",
+      "title": "OpenAI、GPT-5.6を本日一般公開　Sol/Terra/Luna始動",
+      "summary": "6/26から限定プレビューの3モデルを7/9に全面開放。旗艦Sol・標準Terra・軽量Luna。米政府レビューを経た段階公開。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "script": {
         "panels": [
           {
-            "speech": "みなみ、大きなニュース！",
+            "speech": "みなみ、朝から速報！",
             "narration": ""
           },
           {
-            "speech": "国連でAI規制議論！",
+            "speech": "GPT-5.6、今日解禁！",
             "narration": ""
           },
           {
-            "speech": "169カ国が集結したよ",
-            "narration": "ガバナンス枠組み構築へ"
+            "speech": "3モデル同時公開だよ",
+            "narration": "旗艦Sol・標準Terra・軽量Luna"
           },
           {
-            "speech": "人類の未来がかかわるね",
+            "speech": "AI競争、新章突入だね",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "国連AIガバナンス対話開幕 169カ国でルール作り"
+        "telop_text": "OpenAI GPT-5.6一般公開 Sol/Terra/Luna始動"
       }
     },
     {
       "rank": 2,
-      "title": "RAISE Summit 2026がパリで開催",
-      "summary": "欧州のAIリーダーシップを議論するグローバルサミット。7/8-9本会。",
-      "source": "RAISE Summit",
-      "source_url": "https://www.raisesummit.com/"
+      "title": "韓国、10年8800億ドルの半導体・AI・ロボット投資計画",
+      "summary": "1350兆ウォン規模。サムスン・SKが光州・全羅道に新工場。ヒト型ロボ2028年商用化目標。電力・水の確保が課題。",
+      "source": "Tom's Hardware",
+      "source_url": "https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan"
     },
     {
       "rank": 3,
-      "title": "Claude Fable 5、7/8から課金体系変更",
-      "summary": "サブスク超過分はクレジット購入必要。性能と価格の攻防激化。",
-      "source": "Anthropic / Various",
-      "source_url": ""
+      "title": "国連AIガバナンス対話閉幕、ベンジオ氏が破滅的リスク警告",
+      "summary": "193カ国参加。ベンジオ氏「破滅的害を防ぐ保証は現状ない」。グテーレス氏は安全基準など4優先課題を提示。",
+      "source": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/07/1167862"
     },
     {
       "rank": 4,
-      "title": "MACHINA Summit 2026パリ開催",
-      "summary": "Physical AI・人型ロボット専門サミット。欧州開発加速の場に。",
-      "source": "MACHINA Summit",
-      "source_url": "https://machinasummit.com/"
+      "title": "ホワイトハウス、AI自主基準を今週発表へ",
+      "summary": "OpenAI・Anthropic・Googleと協議大詰め。ベンチマークや公開時期、内外アクセスの枠組みを想定。",
+      "source": "Crescendo AI News",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
     },
     {
       "rank": 5,
-      "title": "Visa、AIエージェント買い物代行を実取引開始",
-      "summary": "欧州独立加盟店でAIが完全購入処理。実用化加速。",
-      "source": "Ledge.ai",
-      "source_url": "https://ledge.ai/"
+      "title": "中国AIコンパニオン規制、7/15施行迫る",
+      "summary": "Doubaoの3.45億ユーザーが対象のAIエージェント停止期限が7/15に。業界が対応を急ぐ。",
+      "source": "AIToolsRecap",
+      "source_url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
     },
     {
       "rank": 6,
-      "title": "経産省、国産フィジカルAI基盤モデル開発採択",
-      "summary": "Noetraと産総研を採択。実世界AI強化へ。",
-      "source": "Ledge.ai",
-      "source_url": "https://ledge.ai/"
+      "title": "OpenAI、音声向けgpt-realtime-2.1を公開",
+      "summary": "低遅延音声・マルチモーダル向け新版。キャッシュ改善でp95遅延を25%以上低減。miniも同時提供。",
+      "source": "LLM Stats",
+      "source_url": "https://llm-stats.com/llm-updates"
     },
     {
       "rank": 7,
-      "title": "パナソニック、Bistroアシスタントが自動調理鍋対応",
-      "summary": "業界初のAI料理パートナーが家電連携開始。",
-      "source": "AIsmiley",
-      "source_url": "https://aismiley.co.jp/ai_news/"
+      "title": "NVIDIA、拡散型LM「Nemotron TwoTower」公開",
+      "summary": "オープンウェイトの並列テキスト生成モデル。品質98.7%維持でスループット2.42倍と発表。",
+      "source": "AIapps",
+      "source_url": "https://www.aiapps.com/blog/top-ai-news-july-breakthroughs-launches-trends/"
     },
     {
       "rank": 8,
-      "title": "北海道エアポート、ApronAIターンアラウンド管理導入",
-      "summary": "新千歳空港でAIがスポット運用を最適化。",
-      "source": "AIsmiley",
-      "source_url": "https://aismiley.co.jp/ai_news/"
+      "title": "Agility Robotics、SPAC合併で上場へ",
+      "summary": "ヒト型ロボのAgilityがChurchill Capital XIとの合併で上場合意。家庭用投入には慎重姿勢。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/"
     },
     {
       "rank": 9,
-      "title": "Microsoft、AIイニシアチブに25億ドル投資",
-      "summary": "6000人の専門家投入で企業向けAI展開支援。",
-      "source": "Various",
-      "source_url": ""
+      "title": "深圳AI2 Robotics、7.35億ドル調達",
+      "summary": "車輪型ヒト型ロボ開発企業が約30億ドル評価で大型調達。ロボ投資は過去最高ペース。",
+      "source": "Crescendo AI News",
+      "source_url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups"
     },
     {
       "rank": 10,
-      "title": "AIデータセンターの水使用量が深刻化",
-      "summary": "報告の数倍の実態が判明、社会的議論を呼ぶ。",
-      "source": "Various reports",
-      "source_url": ""
+      "title": "UBTECH、AIロボ「UWORLD U1」発表",
+      "summary": "中国UBTECHが新型AIロボットを公開。ヒト型ロボットの商用化競争がさらに加速。",
+      "source": "innovaTopia",
+      "source_url": "https://innovatopia.jp/ai/ai-news/"
     }
   ]
 }
