@@ -1,14 +1,13 @@
 {
-  "dispatchNo": 165,
-  "dateLabel": "2026.07.11",
+  "dispatchNo": 166,
+  "dateLabel": "2026.07.12",
   "top1": {
-    "title": "Anthropic、AI指数的進化への政策提言を発表",
-    "lead1": "政策立案がAIの爆発的進化に追いついていないと警告。",
-    "lead2": "安全フレームワーク強化と透明性向上を緊急提言。",
-    "manga_url": "news/top1_manga_2026-07-11.png",
-    "video_url": "https://www.youtube.com/watch?v=mRtk6k514lY",
-    "summary": "政策立案プロセスがAIの指数的進化速度に追いついていないと指摘。先進AI安全フレームワークと透明性強化を提案。",
-    "media_updated_at": "2026-07-11"
+    "title": "Lucydスマートグラス、全機種にClaude AI搭載",
+    "lead1": "視界にAIアシスタントが常駐する時代へ。",
+    "lead2": "Lucyd全スマートグラスでClaude直接動作。",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "ウェアラブルAI革命。Lucydの全スマートグラスでClaude AIが直接動作可能に。日常の視界にAIアシスタント常駐。"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,26 +19,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "Best AI Models in July 2026: Claude Fable 5 back online",
+    "SK Hynix、265億ドル規模でNasdaq上場",
+    "Meta、Muse Image & Muse Video正式発表",
+    "数学者、AIでフェルマーの最終定理に挑む",
+    "Anthropic Economic Index：AI利用実態調査",
+    "OpenAI、新モデルを近日公開へ",
     "AMD Advancing AI 2026イベント開催決定",
-    "EU and Apple clash over delayed Siri AI",
-    "Morgan Stanley warns AI breakthrough coming in 2026",
-    "The 2026 AI Index Report released by Stanford HAI",
-    "RAISE Summit: AI Summit 2026 Paris",
-    "OpenAI to release GPT-5.6 after hold"
+    "UN AI for Good Summitで59プロジェクト表彰"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Best AI Models in July 2026: Claude Fable 5 back online",
-      "summary": "7月1日にAnthropicがMythos-class flagshipを再展開。政府制限解除後、標準機能に。",
+      "title": "SK Hynix、265億ドル規模でNasdaq上場",
+      "summary": "AIメモリ世界トップのSK Hynixが史上最大級ADR上場。株価650%上昇、Nvidia需要で新工場建設へ。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "AMD Advancing AI 2026イベント開催決定",
-      "summary": "7月22-23日にサンフランシスコで開催。AIトレーニング向けネットワーク技術を議論。",
+      "title": "Meta、Muse Image & Muse Video正式発表",
+      "summary": "高精度画像・動画生成モデル。Instagram文脈理解とネイティブオーディオ対応で注目。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,34 +46,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "EU and Apple clash over delayed Siri AI"
+      "title": "数学者、AIでフェルマーの最終定理に挑む"
     },
     {
       "rank": 5,
-      "title": "Morgan Stanley warns AI breakthrough coming in 2026"
+      "title": "Anthropic Economic Index：AI利用実態調査"
     },
     {
       "rank": 6,
-      "title": "The 2026 AI Index Report released by Stanford HAI"
+      "title": "OpenAI、新モデルを近日公開へ"
     },
     {
       "rank": 7,
-      "title": "RAISE Summit: AI Summit 2026 Paris"
+      "title": "AMD Advancing AI 2026イベント開催決定"
     },
     {
       "rank": 8,
-      "title": "OpenAI to release GPT-5.6 after hold"
+      "title": "UN AI for Good Summitで59プロジェクト表彰"
     },
     {
       "rank": 9,
-      "title": "LongCat-2.0 Chinese open-source model tops charts"
+      "title": "Biomni：マルチスキルAIエージェント"
     },
     {
       "rank": 10,
-      "title": "AI for Good Summit honours 59 projects"
+      "title": "Stanford AI Index 2026最新動向"
     }
   ],
   "archive": [
+    {
+      "no": 165,
+      "kind": "📖 漫画",
+      "date": "07.11",
+      "img": "news/top1_manga_2026-07-11.png",
+      "title": "Anthropic、AI指数的進化への政策提言を発表"
+    },
     {
       "no": 164,
       "kind": "📖 漫画",

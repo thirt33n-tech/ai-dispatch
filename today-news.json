@@ -1,97 +1,97 @@
 {
-  "date": "2026.07.11",
+  "date": "2026.07.12",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Anthropic、AI指数的進化への政策提言を発表",
-      "summary": "政策立案プロセスがAIの指数的進化速度に追いついていないと指摘。先進AI安全フレームワークと透明性強化を提案。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/policy-on-the-ai-exponential",
+      "title": "Lucydスマートグラス、全機種にClaude AI搭載",
+      "summary": "ウェアラブルAI革命。Lucydの全スマートグラスでClaudeが直接動作可能に。日常の視界にAIアシスタント常駐。",
+      "source": "Crescendo.ai",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "script": {
         "panels": [
           {
-            "speech": "みなみ、Anthropicの提言すごい！",
+            "speech": "みなみ、すごいニュース！",
             "narration": ""
           },
           {
-            "speech": "AIが指数関数的に進化してる！",
+            "speech": "Claudeが眼鏡に！？",
             "narration": ""
           },
           {
-            "speech": "政策が間に合わないの？",
-            "narration": "政策の遅れを警告、先手対応を提言"
+            "speech": "視界でAI相談だよ",
+            "narration": "Lucyd全機種にClaude統合、リアルタイム支援"
           },
           {
-            "speech": "安全第一で未来へ！",
+            "speech": "未来の眼鏡きたー！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "AnthropicがAI指数的進化への政策提言発表"
+        "telop_text": "LucydスマートグラスにClaude AI完全統合"
       }
     },
     {
       "rank": 2,
-      "title": "Best AI Models in July 2026: Claude Fable 5 back online",
-      "summary": "7月1日にAnthropicがMythos-class flagshipを再展開。政府制限解除後、標準機能に。",
-      "source": "FelloAI",
-      "source_url": "https://felloai.com/best-ai-models/"
+      "title": "SK Hynix、265億ドル規模でNasdaq上場",
+      "summary": "AIメモリ世界トップのSK Hynixが史上最大級ADR上場。株価650%上昇、Nvidia需要で新工場建設へ。",
+      "source": "Crescendo.ai",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
     },
     {
       "rank": 3,
+      "title": "Meta、Muse Image & Muse Video正式発表",
+      "summary": "高精度画像・動画生成モデル。Instagram文脈理解とネイティブオーディオ対応で注目。",
+      "source": "Meta AI Blog",
+      "source_url": "https://ai.meta.com/blog/"
+    },
+    {
+      "rank": 4,
+      "title": "数学者、AIでフェルマーの最終定理に挑む",
+      "summary": "AIが難問解決に貢献。数学界の古典的未解決問題に機械学習アプローチ。",
+      "source": "Crescendo.ai",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic Economic Index：AI利用実態調査",
+      "summary": "Claudeユーザーの生産性・利用パターン分析。仕事でのAI活用頻度と満足度を報告。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/research/economic-index-june-2026-report"
+    },
+    {
+      "rank": 6,
+      "title": "OpenAI、新モデルを近日公開へ",
+      "summary": "米国政府凍結解除後、最強モデルを一般公開。国家安全保障審査を通過。",
+      "source": "TechXplore",
+      "source_url": "https://techxplore.com/machine-learning-ai-news/"
+    },
+    {
+      "rank": 7,
       "title": "AMD Advancing AI 2026イベント開催決定",
-      "summary": "7月22-23日にサンフランシスコで開催。AIトレーニング向けネットワーク技術を議論。",
+      "summary": "7月22-23日サンフランシスコ。vLLMなどAI推論・トレーニングの最新技術議論。",
       "source": "AMD",
       "source_url": "https://www.amd.com/en/corporate/events/advancing-ai.html"
     },
     {
-      "rank": 4,
-      "title": "EU and Apple clash over delayed Siri AI",
-      "summary": "2026年7月7日のSiri AI遅延を巡りEUとAppleが対立。規制遵守が焦点。",
-      "source": "YouTube",
-      "source_url": "https://www.youtube.com/watch?v=F0Tmae4c23o"
-    },
-    {
-      "rank": 5,
-      "title": "Morgan Stanley warns AI breakthrough coming in 2026",
-      "summary": "投資銀行が2026年前半の変革的AIブレークスルーを警告。世界の準備不足を指摘。",
-      "source": "Fortune",
-      "source_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rsrji4/morgan_stanley_warns_an_ai_breakthrough_is_coming/"
-    },
-    {
-      "rank": 6,
-      "title": "The 2026 AI Index Report released by Stanford HAI",
-      "summary": "U.S.-China AI performance gap closed. China leads in publications and patents.",
-      "source": "Stanford HAI",
-      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
-    },
-    {
-      "rank": 7,
-      "title": "RAISE Summit: AI Summit 2026 Paris",
-      "summary": "7月8-9日にパリでハッカソンとスタートアップコンテスト開催。",
-      "source": "RAISE Summit",
-      "source_url": "https://www.raisesummit.com/"
-    },
-    {
       "rank": 8,
-      "title": "OpenAI to release GPT-5.6 after hold",
-      "summary": "米国政府の国家安全保障懸念で遅延後、強力モデルをリリース。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08/"
+      "title": "UN AI for Good Summitで59プロジェクト表彰",
+      "summary": "ITU主催でAIを活用した社会課題解決プロジェクト59件を表彰。7月開催。",
+      "source": "ITU",
+      "source_url": "https://aiforgood.itu.int/"
     },
     {
       "rank": 9,
-      "title": "LongCat-2.0 Chinese open-source model tops charts",
-      "summary": "国内チップのみで訓練。SWE-bench ProでGPT-5.5を上回る性能、MITライセンス。",
-      "source": "Analysis",
-      "source_url": ""
+      "title": "Biomni：マルチスキルAIエージェント",
+      "summary": "多様なタスクをこなすAI。研究で高い汎用性を示す。",
+      "source": "TechXplore",
+      "source_url": "https://techxplore.com/machine-learning-ai-news/"
     },
     {
       "rank": 10,
-      "title": "AI for Good Summit honours 59 projects",
-      "summary": "ITU主催で59のAIプロジェクトが表彰。7月7日開始。",
-      "source": "ITU",
-      "source_url": "https://aiforgood.itu.int/"
+      "title": "Stanford AI Index 2026最新動向",
+      "summary": "米中AI格差縮小。中国が論文・特許でリード。全体能力が加速。",
+      "source": "Stanford HAI",
+      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
     }
   ]
 }
