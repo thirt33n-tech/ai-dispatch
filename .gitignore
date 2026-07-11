@@ -15,6 +15,7 @@
 # --- 内部状態・キャッシュ ---
 .omc/
 .claude/
+.vscode/
 __pycache__/
 *.pyc
 
