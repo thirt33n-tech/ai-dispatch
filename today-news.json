@@ -1,97 +1,97 @@
 {
-  "date": "2026.07.09",
+  "date": "2026.07.11",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "OpenAI、GPT-5.6を本日一般公開　Sol/Terra/Luna始動",
-      "summary": "6/26から限定プレビューの3モデルを7/9に全面開放。旗艦Sol・標準Terra・軽量Luna。米政府レビューを経た段階公開。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "title": "Anthropic、AI指数的進化への政策提言を発表",
+      "summary": "政策立案プロセスがAIの指数的進化速度に追いついていないと指摘。先進AI安全フレームワークと透明性強化を提案。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/policy-on-the-ai-exponential",
       "script": {
         "panels": [
           {
-            "speech": "みなみ、朝から速報！",
+            "speech": "みなみ、Anthropicの提言すごい！",
             "narration": ""
           },
           {
-            "speech": "GPT-5.6、今日解禁！",
+            "speech": "AIが指数関数的に進化してる！",
             "narration": ""
           },
           {
-            "speech": "3モデル同時公開だよ",
-            "narration": "旗艦Sol・標準Terra・軽量Luna"
+            "speech": "政策が間に合わないの？",
+            "narration": "政策の遅れを警告、先手対応を提言"
           },
           {
-            "speech": "AI競争、新章突入だね",
+            "speech": "安全第一で未来へ！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "OpenAI GPT-5.6一般公開 Sol/Terra/Luna始動"
+        "telop_text": "AnthropicがAI指数的進化への政策提言発表"
       }
     },
     {
       "rank": 2,
-      "title": "韓国、10年8800億ドルの半導体・AI・ロボット投資計画",
-      "summary": "1350兆ウォン規模。サムスン・SKが光州・全羅道に新工場。ヒト型ロボ2028年商用化目標。電力・水の確保が課題。",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan"
+      "title": "Best AI Models in July 2026: Claude Fable 5 back online",
+      "summary": "7月1日にAnthropicがMythos-class flagshipを再展開。政府制限解除後、標準機能に。",
+      "source": "FelloAI",
+      "source_url": "https://felloai.com/best-ai-models/"
     },
     {
       "rank": 3,
-      "title": "国連AIガバナンス対話閉幕、ベンジオ氏が破滅的リスク警告",
-      "summary": "193カ国参加。ベンジオ氏「破滅的害を防ぐ保証は現状ない」。グテーレス氏は安全基準など4優先課題を提示。",
-      "source": "UN News",
-      "source_url": "https://news.un.org/en/story/2026/07/1167862"
+      "title": "AMD Advancing AI 2026イベント開催決定",
+      "summary": "7月22-23日にサンフランシスコで開催。AIトレーニング向けネットワーク技術を議論。",
+      "source": "AMD",
+      "source_url": "https://www.amd.com/en/corporate/events/advancing-ai.html"
     },
     {
       "rank": 4,
-      "title": "ホワイトハウス、AI自主基準を今週発表へ",
-      "summary": "OpenAI・Anthropic・Googleと協議大詰め。ベンチマークや公開時期、内外アクセスの枠組みを想定。",
-      "source": "Crescendo AI News",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+      "title": "EU and Apple clash over delayed Siri AI",
+      "summary": "2026年7月7日のSiri AI遅延を巡りEUとAppleが対立。規制遵守が焦点。",
+      "source": "YouTube",
+      "source_url": "https://www.youtube.com/watch?v=F0Tmae4c23o"
     },
     {
       "rank": 5,
-      "title": "中国AIコンパニオン規制、7/15施行迫る",
-      "summary": "Doubaoの3.45億ユーザーが対象のAIエージェント停止期限が7/15に。業界が対応を急ぐ。",
-      "source": "AIToolsRecap",
-      "source_url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
+      "title": "Morgan Stanley warns AI breakthrough coming in 2026",
+      "summary": "投資銀行が2026年前半の変革的AIブレークスルーを警告。世界の準備不足を指摘。",
+      "source": "Fortune",
+      "source_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rsrji4/morgan_stanley_warns_an_ai_breakthrough_is_coming/"
     },
     {
       "rank": 6,
-      "title": "OpenAI、音声向けgpt-realtime-2.1を公開",
-      "summary": "低遅延音声・マルチモーダル向け新版。キャッシュ改善でp95遅延を25%以上低減。miniも同時提供。",
-      "source": "LLM Stats",
-      "source_url": "https://llm-stats.com/llm-updates"
+      "title": "The 2026 AI Index Report released by Stanford HAI",
+      "summary": "U.S.-China AI performance gap closed. China leads in publications and patents.",
+      "source": "Stanford HAI",
+      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
     },
     {
       "rank": 7,
-      "title": "NVIDIA、拡散型LM「Nemotron TwoTower」公開",
-      "summary": "オープンウェイトの並列テキスト生成モデル。品質98.7%維持でスループット2.42倍と発表。",
-      "source": "AIapps",
-      "source_url": "https://www.aiapps.com/blog/top-ai-news-july-breakthroughs-launches-trends/"
+      "title": "RAISE Summit: AI Summit 2026 Paris",
+      "summary": "7月8-9日にパリでハッカソンとスタートアップコンテスト開催。",
+      "source": "RAISE Summit",
+      "source_url": "https://www.raisesummit.com/"
     },
     {
       "rank": 8,
-      "title": "Agility Robotics、SPAC合併で上場へ",
-      "summary": "ヒト型ロボのAgilityがChurchill Capital XIとの合併で上場合意。家庭用投入には慎重姿勢。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/"
+      "title": "OpenAI to release GPT-5.6 after hold",
+      "summary": "米国政府の国家安全保障懸念で遅延後、強力モデルをリリース。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08/"
     },
     {
       "rank": 9,
-      "title": "深圳AI2 Robotics、7.35億ドル調達",
-      "summary": "車輪型ヒト型ロボ開発企業が約30億ドル評価で大型調達。ロボ投資は過去最高ペース。",
-      "source": "Crescendo AI News",
-      "source_url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups"
+      "title": "LongCat-2.0 Chinese open-source model tops charts",
+      "summary": "国内チップのみで訓練。SWE-bench ProでGPT-5.5を上回る性能、MITライセンス。",
+      "source": "Analysis",
+      "source_url": ""
     },
     {
       "rank": 10,
-      "title": "UBTECH、AIロボ「UWORLD U1」発表",
-      "summary": "中国UBTECHが新型AIロボットを公開。ヒト型ロボットの商用化競争がさらに加速。",
-      "source": "innovaTopia",
-      "source_url": "https://innovatopia.jp/ai/ai-news/"
+      "title": "AI for Good Summit honours 59 projects",
+      "summary": "ITU主催で59のAIプロジェクトが表彰。7月7日開始。",
+      "source": "ITU",
+      "source_url": "https://aiforgood.itu.int/"
     }
   ]
 }

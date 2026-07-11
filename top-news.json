@@ -1,13 +1,12 @@
 {
-  "dispatchNo": 163,
-  "dateLabel": "2026.07.09",
+  "dispatchNo": 165,
+  "dateLabel": "2026.07.11",
   "top1": {
-    "title": "OpenAI、GPT-5.6を本日一般公開　Sol/Terra/Luna始動",
-    "lead1": "6月末から限定プレビューだったGPT-5.6系3モデルが7月9日に全ユーザーへ開放。",
-    "lead2": "旗艦Sol・標準Terra・軽量Lunaの3構成。米政府レビューを経た段階的公開となる。",
-    "manga_url": "news/top1_manga_2026-07-09.png",
-    "video_url": "",
-    "media_updated_at": "2026-07-09"
+    "title": "Anthropic、AI指数的進化への政策提言を発表",
+    "lead1": "政策立案がAIの爆発的進化に追いついていないと警告。",
+    "lead2": "安全フレームワーク強化と透明性向上を緊急提言。",
+    "manga_url": "news/top1_manga.png",
+    "video_url": ""
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -19,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "韓国、10年8800億ドルの半導体・AI・ロボット投資計画",
-    "国連AIガバナンス対話閉幕、ベンジオ氏が破滅的リスク警告",
-    "ホワイトハウス、AI自主基準を今週発表へ",
-    "中国AIコンパニオン規制、7/15施行迫る",
-    "OpenAI、音声向けgpt-realtime-2.1を公開",
-    "NVIDIA、拡散型LM「Nemotron TwoTower」公開",
-    "Agility Robotics、SPAC合併で上場へ"
+    "Best AI Models in July 2026: Claude Fable 5 back online",
+    "AMD Advancing AI 2026イベント開催決定",
+    "EU and Apple clash over delayed Siri AI",
+    "Morgan Stanley warns AI breakthrough coming in 2026",
+    "The 2026 AI Index Report released by Stanford HAI",
+    "RAISE Summit: AI Summit 2026 Paris",
+    "OpenAI to release GPT-5.6 after hold"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "韓国、10年8800億ドルの半導体・AI・ロボット投資計画",
-      "summary": "サムスン・SKが光州・全羅道に新工場。ヒト型ロボ2028年商用化目標も掲げる。",
+      "title": "Best AI Models in July 2026: Claude Fable 5 back online",
+      "summary": "7月1日にAnthropicがMythos-class flagshipを再展開。政府制限解除後、標準機能に。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "国連AIガバナンス対話閉幕、ベンジオ氏が破滅的リスク警告",
-      "summary": "193カ国参加。ベンジオ氏が破滅的リスクを警告、4優先課題を提示して閉幕。",
+      "title": "AMD Advancing AI 2026イベント開催決定",
+      "summary": "7月22-23日にサンフランシスコで開催。AIトレーニング向けネットワーク技術を議論。",
       "manga_url": "",
       "video_url": ""
     }
@@ -46,34 +45,48 @@
   "topList": [
     {
       "rank": 4,
-      "title": "ホワイトハウス、AI自主基準を今週発表へ"
+      "title": "EU and Apple clash over delayed Siri AI"
     },
     {
       "rank": 5,
-      "title": "中国AIコンパニオン規制、7/15施行迫る"
+      "title": "Morgan Stanley warns AI breakthrough coming in 2026"
     },
     {
       "rank": 6,
-      "title": "OpenAI、音声向けgpt-realtime-2.1を公開"
+      "title": "The 2026 AI Index Report released by Stanford HAI"
     },
     {
       "rank": 7,
-      "title": "NVIDIA、拡散型LM「Nemotron TwoTower」公開"
+      "title": "RAISE Summit: AI Summit 2026 Paris"
     },
     {
       "rank": 8,
-      "title": "Agility Robotics、SPAC合併で上場へ"
+      "title": "OpenAI to release GPT-5.6 after hold"
     },
     {
       "rank": 9,
-      "title": "深圳AI2 Robotics、7.35億ドル調達"
+      "title": "LongCat-2.0 Chinese open-source model tops charts"
     },
     {
       "rank": 10,
-      "title": "UBTECH、AIロボ「UWORLD U1」発表"
+      "title": "AI for Good Summit honours 59 projects"
     }
   ],
   "archive": [
+    {
+      "no": 164,
+      "kind": "📖 漫画",
+      "date": "07.10",
+      "img": "news/top1_manga_2026-07-10.png",
+      "title": "OpenAI、GPT-Live発表　自然な会話体験へ"
+    },
+    {
+      "no": 163,
+      "kind": "📖 漫画",
+      "date": "07.09",
+      "img": "news/top1_manga_2026-07-09.png",
+      "title": "OpenAI、GPT-5.6を本日一般公開　Sol/Terra/Luna始動"
+    },
     {
       "no": 162,
       "kind": "📖 漫画",
