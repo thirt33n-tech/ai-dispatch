@@ -1,97 +1,97 @@
 {
-  "date": "2026.07.12",
+  "date": "2026.07.13",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Lucydスマートグラス、全機種にClaude AI搭載",
-      "summary": "ウェアラブルAI革命。Lucydの全スマートグラスでClaudeが直接動作可能に。日常の視界にAIアシスタント常駐。",
-      "source": "Crescendo.ai",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "title": "AI Breakthrough Awards 2026 受賞者発表",
+      "summary": "AIセキュリティ・ハードウェア・生成AIプラットフォームなど革新的技術が表彰。2026年のAIトレンドを象徴。",
+      "source": "AI Breakthrough Awards",
+      "source_url": "https://aibreakthroughawards.com/",
       "script": {
         "panels": [
           {
-            "speech": "みなみ、すごいニュース！",
+            "speech": "わー！AI賞の結果出たよ！",
             "narration": ""
           },
           {
-            "speech": "Claudeが眼鏡に！？",
+            "speech": "生成AIが大賞だって！",
             "narration": ""
           },
           {
-            "speech": "視界でAI相談だよ",
-            "narration": "Lucyd全機種にClaude統合、リアルタイム支援"
+            "speech": "エージェントとメモリが鍵",
+            "narration": "オープンソースも加速中"
           },
           {
-            "speech": "未来の眼鏡きたー！",
+            "speech": "2026はAIが相棒に！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "LucydスマートグラスにClaude AI完全統合"
+        "telop_text": "AI Breakthrough Awards 2026受賞発表！生成AI・セキュリティが熱い"
       }
     },
     {
       "rank": 2,
-      "title": "SK Hynix、265億ドル規模でNasdaq上場",
-      "summary": "AIメモリ世界トップのSK Hynixが史上最大級ADR上場。株価650%上昇、Nvidia需要で新工場建設へ。",
-      "source": "Crescendo.ai",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+      "title": "Microsoftが2026年のAIトレンド7選を発表",
+      "summary": "AIが真のパートナーになる年。チームワーク・セキュリティ・研究を強化する7つのトレンド。",
+      "source": "Microsoft Source",
+      "source_url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/"
     },
     {
       "rank": 3,
-      "title": "Meta、Muse Image & Muse Video正式発表",
-      "summary": "高精度画像・動画生成モデル。Instagram文脈理解とネイティブオーディオ対応で注目。",
-      "source": "Meta AI Blog",
-      "source_url": "https://ai.meta.com/blog/"
+      "title": "2026年を定義する6つのAIブレークスルー",
+      "summary": "エージェント相互運用性・自己検証・メモリ向上。オープンソースモデルが巨人勢の牙城を崩す。",
+      "source": "InfoWorld",
+      "source_url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html"
     },
     {
       "rank": 4,
-      "title": "数学者、AIでフェルマーの最終定理に挑む",
-      "summary": "AIが難問解決に貢献。数学界の古典的未解決問題に機械学習アプローチ。",
-      "source": "Crescendo.ai",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+      "title": "SK Hynix、265億ドル規模でNasdaq上場",
+      "summary": "AIメモリ需要で株価急騰。新工場建設へ。",
+      "source": "Various",
+      "source_url": ""
     },
     {
       "rank": 5,
-      "title": "Anthropic Economic Index：AI利用実態調査",
-      "summary": "Claudeユーザーの生産性・利用パターン分析。仕事でのAI活用頻度と満足度を報告。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/research/economic-index-june-2026-report"
+      "title": "Meta、Muse Image & Muse Video正式発表",
+      "summary": "高精度生成モデル。Instagram連携とオーディオ対応。",
+      "source": "Meta",
+      "source_url": ""
     },
     {
       "rank": 6,
-      "title": "OpenAI、新モデルを近日公開へ",
-      "summary": "米国政府凍結解除後、最強モデルを一般公開。国家安全保障審査を通過。",
-      "source": "TechXplore",
-      "source_url": "https://techxplore.com/machine-learning-ai-news/"
+      "title": "数学者、AIでフェルマーの最終定理に挑む",
+      "summary": "AIを活用した数学的ブレークスルー期待。",
+      "source": "News",
+      "source_url": ""
     },
     {
       "rank": 7,
-      "title": "AMD Advancing AI 2026イベント開催決定",
-      "summary": "7月22-23日サンフランシスコ。vLLMなどAI推論・トレーニングの最新技術議論。",
-      "source": "AMD",
-      "source_url": "https://www.amd.com/en/corporate/events/advancing-ai.html"
+      "title": "Anthropic Economic Index：AI利用実態調査",
+      "summary": "企業・個人でのAI活用状況を詳細分析。",
+      "source": "Anthropic",
+      "source_url": ""
     },
     {
       "rank": 8,
-      "title": "UN AI for Good Summitで59プロジェクト表彰",
-      "summary": "ITU主催でAIを活用した社会課題解決プロジェクト59件を表彰。7月開催。",
-      "source": "ITU",
-      "source_url": "https://aiforgood.itu.int/"
+      "title": "OpenAI、新モデル近日公開へ",
+      "summary": "次世代モデルの詳細が注目される。",
+      "source": "OpenAI",
+      "source_url": ""
     },
     {
       "rank": 9,
-      "title": "Biomni：マルチスキルAIエージェント",
-      "summary": "多様なタスクをこなすAI。研究で高い汎用性を示す。",
-      "source": "TechXplore",
-      "source_url": "https://techxplore.com/machine-learning-ai-news/"
+      "title": "AMD Advancing AI 2026イベント開催決定",
+      "summary": "AIチップ分野の最新動向が発表予定。",
+      "source": "AMD",
+      "source_url": ""
     },
     {
       "rank": 10,
-      "title": "Stanford AI Index 2026最新動向",
-      "summary": "米中AI格差縮小。中国が論文・特許でリード。全体能力が加速。",
-      "source": "Stanford HAI",
-      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
+      "title": "UN AI for Good Summitで59プロジェクト表彰",
+      "summary": "社会課題解決に向けたAIプロジェクトが評価。",
+      "source": "United Nations",
+      "source_url": ""
     }
   ]
 }

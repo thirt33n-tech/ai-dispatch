@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 166,
-  "dateLabel": "2026.07.12",
+  "dispatchNo": 167,
+  "dateLabel": "2026.07.13",
   "top1": {
-    "title": "Lucydスマートグラス、全機種にClaude AI搭載",
-    "lead1": "視界にAIアシスタントが常駐する時代へ。",
-    "lead2": "Lucyd全スマートグラスでClaude直接動作。",
-    "manga_url": "news/top1_manga_2026-07-12.png",
-    "video_url": "https://www.youtube.com/watch?v=dvmGKd3XT70",
-    "summary": "ウェアラブルAI革命。Lucydの全スマートグラスでClaudeが直接動作可能に。日常の視界にAIアシスタント常駐。",
-    "media_updated_at": "2026-07-12"
+    "title": "AI Breakthrough Awards 2026 受賞者発表",
+    "lead1": "AIセキュリティと生成AIが主要賞を独占。",
+    "lead2": "2026年のイノベーション加速を象徴。",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "AIセキュリティ・ハードウェア・生成AIプラットフォームなど革新的技術が表彰。2026年のAIトレンドを象徴。",
+    "media_updated_at": "2026-07-13"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,26 +20,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "SK Hynix、265億ドル規模でNasdaq上場",
-    "Meta、Muse Image & Muse Video正式発表",
-    "数学者、AIでフェルマーの最終定理に挑む",
-    "Anthropic Economic Index：AI利用実態調査",
-    "OpenAI、新モデルを近日公開へ",
-    "AMD Advancing AI 2026イベント開催決定",
-    "UN AI for Good Summitで59プロジェクト表彰"
+    "Microsoft 2026 AIトレンド7選発表",
+    "2026年定義する6 AIブレークスルー",
+    "SK Hynix Nasdaq上場",
+    "Meta Muse Image/Video正式発表",
+    "AIでフェルマー最終定理に挑戦",
+    "Anthropic Economic Index公開",
+    "OpenAI次期モデル近日公開"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "SK Hynix、265億ドル規模でNasdaq上場",
-      "summary": "AIメモリ世界トップのSK Hynixが史上最大級ADR上場。株価650%上昇、Nvidia需要で新工場建設へ。",
+      "title": "Microsoft 2026 AIトレンド7選発表",
+      "summary": "AIが真のパートナーになる7つの方向性。チーム・研究・インフラ効率化。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Meta、Muse Image & Muse Video正式発表",
-      "summary": "高精度画像・動画生成モデル。Instagram文脈理解とネイティブオーディオ対応で注目。",
+      "title": "2026年定義する6 AIブレークスルー",
+      "summary": "エージェント相互運用・自己検証・メモリ向上。オープンソースが台頭。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,34 +47,33 @@
   "topList": [
     {
       "rank": 4,
-      "title": "数学者、AIでフェルマーの最終定理に挑む"
+      "title": "SK Hynix Nasdaq上場"
     },
     {
       "rank": 5,
-      "title": "Anthropic Economic Index：AI利用実態調査"
+      "title": "Meta Muse Image/Video正式発表"
     },
     {
       "rank": 6,
-      "title": "OpenAI、新モデルを近日公開へ"
+      "title": "AIでフェルマー最終定理に挑戦"
     },
     {
       "rank": 7,
-      "title": "AMD Advancing AI 2026イベント開催決定"
+      "title": "Anthropic Economic Index公開"
     },
     {
       "rank": 8,
-      "title": "UN AI for Good Summitで59プロジェクト表彰"
-    },
-    {
-      "rank": 9,
-      "title": "Biomni：マルチスキルAIエージェント"
-    },
-    {
-      "rank": 10,
-      "title": "Stanford AI Index 2026最新動向"
+      "title": "OpenAI次期モデル近日公開"
     }
   ],
   "archive": [
+    {
+      "no": 166,
+      "kind": "📖 漫画",
+      "date": "07.12",
+      "img": "news/top1_manga_2026-07-12.png",
+      "title": "Lucydスマートグラス、全機種にClaude AI搭載"
+    },
     {
       "no": 165,
       "kind": "📖 漫画",
