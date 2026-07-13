@@ -1,33 +1,33 @@
 {
-  "date": "2026.07.13",
+  "date": "2026.07.14",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "AI Breakthrough Awards 2026 受賞者発表",
-      "summary": "AIセキュリティ・ハードウェア・生成AIプラットフォームなど革新的技術が表彰。2026年のAIトレンドを象徴。",
-      "source": "AI Breakthrough Awards",
-      "source_url": "https://aibreakthroughawards.com/",
+      "title": "Microsoftが2026年のAIトレンド7選発表",
+      "summary": "AIが真のパートナーになる年。チームワーク・セキュリティ・研究・インフラを強化する7トレンド。",
+      "source": "Microsoft",
+      "source_url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
       "script": {
         "panels": [
           {
-            "speech": "わー！AI賞の結果出たよ！",
+            "speech": "わー！Microsoftの2026 AIトレンド！",
             "narration": ""
           },
           {
-            "speech": "生成AIが大賞だって！",
+            "speech": "AIが本当のパートナーに！",
             "narration": ""
           },
           {
-            "speech": "エージェントとメモリが鍵",
-            "narration": "オープンソースも加速中"
+            "speech": "7つのトレンドが熱いよ",
+            "narration": "チームワークとセキュリティ強化"
           },
           {
-            "speech": "2026はAIが相棒に！",
+            "speech": "みなみも一緒に学ぼう！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "AI Breakthrough Awards 2026受賞発表！生成AI・セキュリティが熱い"
+        "telop_text": "Microsoft発表 2026 AIトレンド7選！AIがパートナーに進化"
       }
     },
     {

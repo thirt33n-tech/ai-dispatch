@@ -1,13 +1,13 @@
 {
-  "dispatchNo": 167,
-  "dateLabel": "2026.07.13",
+  "dispatchNo": 168,
+  "dateLabel": "2026.07.14",
   "top1": {
-    "title": "AI Breakthrough Awards 2026 受賞者発表",
-    "lead1": "AIセキュリティと生成AIが主要賞を独占。",
-    "lead2": "2026年のイノベーション加速を象徴。",
-    "manga_url": "news/top1_manga_2026-07-13.png",
-    "video_url": "https://www.youtube.com/watch?v=BcP2ZVYapbE",
-    "summary": "AIセキュリティ・ハードウェア・生成AIプラットフォームなど革新的技術が表彰。2026年のAIトレンドを象徴。",
+    "title": "Microsoftが2026年のAIトレンド7選発表",
+    "lead1": "AIが真のパートナーになる7つの方向性",
+    "lead2": "チームワーク・セキュリティ・インフラ効率が鍵",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "AIが真のパートナーになる年。チームワーク・セキュリティ・研究・インフラを強化する7トレンド。",
     "media_updated_at": "2026-07-13"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
@@ -67,6 +67,13 @@
     }
   ],
   "archive": [
+    {
+      "no": 167,
+      "kind": "📖 漫画",
+      "date": "07.13",
+      "img": "news/top1_manga_2026-07-13.png",
+      "title": "AI Breakthrough Awards 2026 受賞者発表"
+    },
     {
       "no": 166,
       "kind": "📖 漫画",
