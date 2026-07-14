@@ -1,14 +1,13 @@
 {
-  "dispatchNo": 168,
-  "dateLabel": "2026.07.14",
+  "dispatchNo": 169,
+  "dateLabel": "2026.07.15",
   "top1": {
-    "title": "Microsoftが2026年のAIトレンド7選発表",
-    "lead1": "AIが真のパートナーになる7つの方向性",
-    "lead2": "チームワーク・セキュリティ・インフラ効率が鍵",
+    "title": "「AIで大規模雇用喪失、対策を」ノーベル賞学者200人超が声明",
+    "lead1": "AIによる大量雇用喪失リスク",
+    "lead2": "ノーベル経済学者200人超が共同声明",
     "manga_url": "news/top1_manga.png",
     "video_url": "",
-    "summary": "AIが真のパートナーになる年。チームワーク・セキュリティ・研究・インフラを強化する7トレンド。",
-    "media_updated_at": "2026-07-13"
+    "summary": "ノーベル経済学賞受賞者ら200人以上がAIによる大規模雇用喪失リスクへの対策を求める共同声明。政策対応を強く要求。"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,26 +19,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "Microsoft 2026 AIトレンド7選発表",
-    "2026年定義する6 AIブレークスルー",
-    "SK Hynix Nasdaq上場",
-    "Meta Muse Image/Video正式発表",
-    "AIでフェルマー最終定理に挑戦",
-    "Anthropic Economic Index公開",
-    "OpenAI次期モデル近日公開"
+    "「AIで大規模雇用喪失、対策を」ノーベル賞学者200人超が声明",
+    "Meta、Instagram「Muse Image」機能を3日で停止",
+    "Stanford 2026 AI Index Report発表",
+    "Google、AlphaEvolveをGoogle Cloudで一般提供",
+    "Tesla Japan、車載でGrok音声AI利用可能に",
+    "アシックス、AIでシューズ設計を完全自動化",
+    "EU AI Act、GPAIモデル規制の執行強化"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Microsoft 2026 AIトレンド7選発表",
-      "summary": "AIが真のパートナーになる7つの方向性。チーム・研究・インフラ効率化。",
+      "title": "Meta、Instagram「Muse Image」機能を3日で停止",
+      "summary": "公開アカウント画像をAI加工する新機能が批判殺到。導入からわずか3日で緊急停止。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "2026年定義する6 AIブレークスルー",
-      "summary": "エージェント相互運用・自己検証・メモリ向上。オープンソースが台頭。",
+      "title": "Stanford 2026 AI Index Report発表",
+      "summary": "AI能力が加速。米中性能差縮小、業界が90%以上の最先端モデルを生産。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,26 +46,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "SK Hynix Nasdaq上場"
+      "title": "Google、AlphaEvolveをGoogle Cloudで一般提供"
     },
     {
       "rank": 5,
-      "title": "Meta Muse Image/Video正式発表"
+      "title": "Tesla Japan、車載でGrok音声AI利用可能に"
     },
     {
       "rank": 6,
-      "title": "AIでフェルマー最終定理に挑戦"
+      "title": "アシックス、AIでシューズ設計を完全自動化"
     },
     {
       "rank": 7,
-      "title": "Anthropic Economic Index公開"
+      "title": "EU AI Act、GPAIモデル規制の執行強化"
     },
     {
       "rank": 8,
-      "title": "OpenAI次期モデル近日公開"
+      "title": "Trump政権、AI国家安全保障指令を強化"
+    },
+    {
+      "rank": 9,
+      "title": "Google 2026年6月のAIアップデート総まとめ"
+    },
+    {
+      "rank": 10,
+      "title": "UNESCO、AI in Educationガイドライン更新"
     }
   ],
   "archive": [
+    {
+      "no": 168,
+      "kind": "📖 漫画",
+      "date": "07.14",
+      "img": "news/top1_manga_2026-07-14.png",
+      "title": "Microsoftが2026年のAIトレンド7選発表"
+    },
     {
       "no": 167,
       "kind": "📖 漫画",

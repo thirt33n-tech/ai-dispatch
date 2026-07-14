@@ -1,97 +1,85 @@
 {
-  "date": "2026.07.14",
+  "date": "2026.07.15",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Microsoftが2026年のAIトレンド7選発表",
-      "summary": "AIが真のパートナーになる年。チームワーク・セキュリティ・研究・インフラを強化する7トレンド。",
-      "source": "Microsoft",
-      "source_url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
+      "title": "「AIで大規模雇用喪失、対策を」ノーベル賞学者200人超が声明",
+      "summary": "ノーベル経済学賞受賞者ら200人以上がAIによる大規模雇用喪失リスクへの対策を求める共同声明。政策対応を強く要求。",
+      "source": "朝日新聞",
+      "source_url": "https://www.asahi.com/articles/ASV7G03G4V7GUHBI009M.html",
       "script": {
         "panels": [
-          {
-            "speech": "わー！Microsoftの2026 AIトレンド！",
-            "narration": ""
-          },
-          {
-            "speech": "AIが本当のパートナーに！",
-            "narration": ""
-          },
-          {
-            "speech": "7つのトレンドが熱いよ",
-            "narration": "チームワークとセキュリティ強化"
-          },
-          {
-            "speech": "みなみも一緒に学ぼう！",
-            "narration": "次回に続く"
-          }
+          {"speech": "みなみ、速報見た！", "narration": ""},
+          {"speech": "200人超のノーベル賞学者が！", "narration": ""},
+          {"speech": "AIが大量の仕事を奪うリスクだって", "narration": "経済学者らが共同声明を発表"},
+          {"speech": "政策でちゃんと対策を！", "narration": "次回に続く"}
         ],
-        "telop_text": "Microsoft発表 2026 AIトレンド7選！AIがパートナーに進化"
+        "telop_text": "AI大規模雇用喪失リスクにノーベル賞学者200人超が警告"
       }
     },
     {
       "rank": 2,
-      "title": "Microsoftが2026年のAIトレンド7選を発表",
-      "summary": "AIが真のパートナーになる年。チームワーク・セキュリティ・研究を強化する7つのトレンド。",
-      "source": "Microsoft Source",
-      "source_url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/"
+      "title": "Meta、Instagram「Muse Image」機能を3日で停止",
+      "summary": "公開アカウント画像をAI加工する新機能が批判殺到。導入からわずか3日で緊急停止。",
+      "source": "朝日新聞",
+      "source_url": "https://www.asahi.com/articles/ASV7F0PW7V7FUHBI003M.html"
     },
     {
       "rank": 3,
-      "title": "2026年を定義する6つのAIブレークスルー",
-      "summary": "エージェント相互運用性・自己検証・メモリ向上。オープンソースモデルが巨人勢の牙城を崩す。",
-      "source": "InfoWorld",
-      "source_url": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html"
+      "title": "Stanford 2026 AI Index Report発表",
+      "summary": "AI能力が加速。米中性能差縮小、業界が90%以上の最先端モデルを生産。",
+      "source": "Stanford HAI",
+      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
     },
     {
       "rank": 4,
-      "title": "SK Hynix、265億ドル規模でNasdaq上場",
-      "summary": "AIメモリ需要で株価急騰。新工場建設へ。",
-      "source": "Various",
-      "source_url": ""
+      "title": "Google、AlphaEvolveをGoogle Cloudで一般提供",
+      "summary": "アルゴリズム発見AIを物流・半導体・創薬分野に展開開始。",
+      "source": "Ledge.ai",
+      "source_url": "https://ledge.ai/"
     },
     {
       "rank": 5,
-      "title": "Meta、Muse Image & Muse Video正式発表",
-      "summary": "高精度生成モデル。Instagram連携とオーディオ対応。",
-      "source": "Meta",
-      "source_url": ""
+      "title": "Tesla Japan、車載でGrok音声AI利用可能に",
+      "summary": "日本のテスラ車両で対話型AI「Grok」を音声でナビや検索に活用可能。",
+      "source": "Ledge.ai",
+      "source_url": "https://ledge.ai/"
     },
     {
       "rank": 6,
-      "title": "数学者、AIでフェルマーの最終定理に挑む",
-      "summary": "AIを活用した数学的ブレークスルー期待。",
-      "source": "News",
-      "source_url": ""
+      "title": "アシックス、AIでシューズ設計を完全自動化",
+      "summary": "RebuilderAIと連携し3D・CAD・性能解析を一気通貫。",
+      "source": "Ledge.ai",
+      "source_url": "https://ledge.ai/"
     },
     {
       "rank": 7,
-      "title": "Anthropic Economic Index：AI利用実態調査",
-      "summary": "企業・個人でのAI活用状況を詳細分析。",
-      "source": "Anthropic",
-      "source_url": ""
+      "title": "EU AI Act、GPAIモデル規制の執行強化",
+      "summary": "科学的専門家パネル設置などChapter Vの執行体制が本格始動。",
+      "source": "EU AI Act",
+      "source_url": "https://artificialintelligenceact.eu/"
     },
     {
       "rank": 8,
-      "title": "OpenAI、新モデル近日公開へ",
-      "summary": "次世代モデルの詳細が注目される。",
-      "source": "OpenAI",
-      "source_url": ""
+      "title": "Trump政権、AI国家安全保障指令を強化",
+      "summary": "AI.govでイノベーション・インフラ・教育に重点を置いた戦略推進。",
+      "source": "ai.gov",
+      "source_url": "https://www.ai.gov/"
     },
     {
       "rank": 9,
-      "title": "AMD Advancing AI 2026イベント開催決定",
-      "summary": "AIチップ分野の最新動向が発表予定。",
-      "source": "AMD",
-      "source_url": ""
+      "title": "Google 2026年6月のAIアップデート総まとめ",
+      "summary": "Gemini 3.5 Live TranslateやAndroid 17のAI機能など複数発表。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
     },
     {
       "rank": 10,
-      "title": "UN AI for Good Summitで59プロジェクト表彰",
-      "summary": "社会課題解決に向けたAIプロジェクトが評価。",
-      "source": "United Nations",
-      "source_url": ""
+      "title": "UNESCO、AI in Educationガイドライン更新",
+      "summary": "TVET機関向けAI統合実践ガイドとスキル開発プログラムを推進。",
+      "source": "UNESCO",
+      "source_url": "https://www.unesco.org/en/digital-education/artificial-intelligence"
     }
   ]
 }
