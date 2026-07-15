@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 169,
-  "dateLabel": "2026.07.15",
+  "dispatchNo": 170,
+  "dateLabel": "2026.07.16",
   "top1": {
-    "title": "「AIで大規模雇用喪失、対策を」ノーベル賞学者200人超が声明",
-    "lead1": "AIによる大量雇用喪失リスク",
-    "lead2": "ノーベル経済学者200人超が共同声明",
-    "manga_url": "news/top1_manga_2026-07-15.png",
-    "video_url": "https://www.youtube.com/watch?v=zgrkN99vO3w",
-    "summary": "ノーベル経済学賞受賞者ら200人以上がAIによる大規模雇用喪失リスクへの対策を求める共同声明。政策対応を強く要求。",
-    "media_updated_at": "2026-07-15"
+    "title": "2026年のAIトレンド7選をMicrosoftが発表",
+    "lead1": "AIが真のパートナーへ進化",
+    "lead2": "7つの主要トレンドを予測",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "AIが単なるツールから真のパートナーへ進化。チームワーク、セキュリティ、研究、インフラ効率化の7トレンドを予測。",
+    "media_updated_at": "2026-07-16"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,26 +20,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "「AIで大規模雇用喪失、対策を」ノーベル賞学者200人超が声明",
-    "Meta、Instagram「Muse Image」機能を3日で停止",
-    "Stanford 2026 AI Index Report発表",
-    "Google、AlphaEvolveをGoogle Cloudで一般提供",
-    "Tesla Japan、車載でGrok音声AI利用可能に",
-    "アシックス、AIでシューズ設計を完全自動化",
-    "EU AI Act、GPAIモデル規制の執行強化"
+    "2026年のAIトレンド7選をMicrosoftが発表",
+    "IBMが2026年量子コンピュータ優位性達成を予測",
+    "Agentic AIと自律ワークフローが2026年の鍵",
+    "生成AIの成熟が科学・実務分野でブレークスルー",
+    "AI発見の新時代：トップ15のブレークスルー",
+    "WEFが2026年トップ10新興技術にAIを複数選出",
+    "効率重視のAIモデルが2026年の主流に"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Meta、Instagram「Muse Image」機能を3日で停止",
-      "summary": "公開アカウント画像をAI加工する新機能が批判殺到。導入からわずか3日で緊急停止。",
+      "title": "IBMが2026年量子コンピュータ優位性達成を予測",
+      "summary": "量子コンピュータが古典コンピュータを上回る「量子優位性」を2026年に達成するとIBMが声明。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Stanford 2026 AI Index Report発表",
-      "summary": "AI能力が加速。米中性能差縮小、業界が90%以上の最先端モデルを生産。",
+      "title": "Agentic AIと自律ワークフローが2026年の鍵",
+      "summary": "自律型AIエージェントが業務を自動化。マルチモーダル能力の飛躍的向上も予測される。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,34 +47,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "Google、AlphaEvolveをGoogle Cloudで一般提供"
+      "title": "生成AIの成熟が科学・実務分野でブレークスルー"
     },
     {
       "rank": 5,
-      "title": "Tesla Japan、車載でGrok音声AI利用可能に"
+      "title": "AI発見の新時代：トップ15のブレークスルー"
     },
     {
       "rank": 6,
-      "title": "アシックス、AIでシューズ設計を完全自動化"
+      "title": "WEFが2026年トップ10新興技術にAIを複数選出"
     },
     {
       "rank": 7,
-      "title": "EU AI Act、GPAIモデル規制の執行強化"
+      "title": "効率重視のAIモデルが2026年の主流に"
     },
     {
       "rank": 8,
-      "title": "Trump政権、AI国家安全保障指令を強化"
+      "title": "文書処理に合成パーシングパイプライン登場"
     },
     {
       "rank": 9,
-      "title": "Google 2026年6月のAIアップデート総まとめ"
+      "title": "AIブレイクスルー2026：エージェントAIとロボット"
     },
     {
       "rank": 10,
-      "title": "UNESCO、AI in Educationガイドライン更新"
+      "title": "March 2026 AI News Roundup"
     }
   ],
   "archive": [
+    {
+      "no": 169,
+      "kind": "📖 漫画",
+      "date": "07.15",
+      "img": "news/top1_manga_2026-07-15.png",
+      "title": "「AIで大規模雇用喪失、対策を」ノーベル賞学者200人超が声明"
+    },
     {
       "no": 168,
       "kind": "📖 漫画",
