@@ -1,14 +1,13 @@
 {
-  "dispatchNo": 170,
-  "dateLabel": "2026.07.16",
+  "dispatchNo": 171,
+  "dateLabel": "2026.07.17",
   "top1": {
-    "title": "2026年のAIトレンド7選をMicrosoftが発表",
-    "lead1": "AIが真のパートナーへ進化",
-    "lead2": "7つの主要トレンドを予測",
-    "manga_url": "news/top1_manga_2026-07-16.png",
-    "video_url": "https://www.youtube.com/watch?v=qyP0mS6nrAQ",
-    "summary": "AIが単なるツールから真のパートナーへ進化。チームワーク、セキュリティ、研究、インフラ効率化の7トレンドを予測。",
-    "media_updated_at": "2026-07-16"
+    "title": "xAIがGrok 4.5を発表 最強コーディングモデル",
+    "lead1": "実世界エンジニアリングで最強",
+    "lead2": "コーディングとエージェントに特化",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "コーディング・エージェント・知識作業に特化。実世界エンジニアリングで優位性を示すSpaceXAIの最新最強モデル。"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,61 +19,47 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "2026年のAIトレンド7選をMicrosoftが発表",
-    "IBMが2026年量子コンピュータ優位性達成を予測",
-    "Agentic AIと自律ワークフローが2026年の鍵",
-    "生成AIの成熟が科学・実務分野でブレークスルー",
-    "AI発見の新時代：トップ15のブレークスルー",
-    "WEFが2026年トップ10新興技術にAIを複数選出",
-    "効率重視のAIモデルが2026年の主流に"
+    "NVIDIAがCosmos 3 Edge発表 日本物理AI拡大",
+    "Forbes 2026 AI 50リスト発表",
+    "AnthropicとBlackstoneが実装事業に巨額投資",
+    "Google AI検索が子供に『容認しがたいリスク』",
+    "ClaudeがOpenAIをリード？収益・モデル比較",
+    "AIエージェントサミットSummer2026開催迫る",
+    "Trend MicroがAI Safety Solution of the Year受賞"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "IBMが2026年量子コンピュータ優位性達成を予測",
-      "summary": "量子コンピュータが古典コンピュータを上回る「量子優位性」を2026年に達成するとIBMが声明。",
+      "title": "NVIDIAがCosmos 3 Edge発表 日本物理AI拡大",
+      "summary": "ロボット・ビジョンAIエージェント向け新世界モデル。フアンCEOがメカトロニクスとAI融合で日本復活を強調。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Agentic AIと自律ワークフローが2026年の鍵",
-      "summary": "自律型AIエージェントが業務を自動化。マルチモーダル能力の飛躍的向上も予測される。",
+      "title": "Forbes 2026 AI 50リスト発表",
+      "summary": "OpenAIとAnthropicがAI50で圧倒。総調達3056億ドルのほとんどを2社で占め、IPOに向けた勢い。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {
-      "rank": 4,
-      "title": "生成AIの成熟が科学・実務分野でブレークスルー"
-    },
-    {
-      "rank": 5,
-      "title": "AI発見の新時代：トップ15のブレークスルー"
-    },
-    {
-      "rank": 6,
-      "title": "WEFが2026年トップ10新興技術にAIを複数選出"
-    },
-    {
-      "rank": 7,
-      "title": "効率重視のAIモデルが2026年の主流に"
-    },
-    {
-      "rank": 8,
-      "title": "文書処理に合成パーシングパイプライン登場"
-    },
-    {
-      "rank": 9,
-      "title": "AIブレイクスルー2026：エージェントAIとロボット"
-    },
-    {
-      "rank": 10,
-      "title": "March 2026 AI News Roundup"
-    }
+    {"rank": 4, "title": "AnthropicとBlackstoneが実装事業に巨額投資"},
+    {"rank": 5, "title": "Google AI検索が子供に『容認しがたいリスク』"},
+    {"rank": 6, "title": "ClaudeがOpenAIをリード？収益・モデル比較"},
+    {"rank": 7, "title": "AIエージェントサミットSummer2026開催迫る"},
+    {"rank": 8, "title": "Trend MicroがAI Safety Solution of the Year受賞"},
+    {"rank": 9, "title": "OpenAIが推論コスト半減のブレイクスルー"},
+    {"rank": 10, "title": "NVIDIAフアンCEO、日本AIエコシステム講演"}
   ],
   "archive": [
+    {
+      "no": 170,
+      "kind": "📖 漫画",
+      "date": "07.16",
+      "img": "news/top1_manga_2026-07-16.png",
+      "title": "2026年のAIトレンド7選をMicrosoftが発表"
+    },
     {
       "no": 169,
       "kind": "📖 漫画",
