@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 171,
-  "dateLabel": "2026.07.17",
+  "dispatchNo": 172,
+  "dateLabel": "2026.07.18",
   "top1": {
-    "title": "xAIがGrok 4.5を発表 最強コーディングモデル",
-    "lead1": "実世界エンジニアリングで最強",
-    "lead2": "コーディングとエージェントに特化",
-    "manga_url": "news/top1_manga_2026-07-17.png",
-    "video_url": "https://www.youtube.com/watch?v=MaGzI38YBMM",
-    "summary": "コーディング・エージェント・知識作業に特化。実世界エンジニアリングで優位性を示すSpaceXAIの最新最強モデル。",
-    "media_updated_at": "2026-07-17"
+    "title": "世界AI会議2026開幕 習近平が公正AI統治を提言",
+    "lead1": "上海で高官級会議スタート",
+    "lead2": "国際ガバナンスの新局面",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "上海で世界人工知能大会2026が開幕。習近平国家主席が基調講演で公平・包摂的なグローバルAIガバナンスを国際社会に呼びかけ。国連事務総長も技術は人のためにあるべきと強調。",
+    "media_updated_at": "2026-07-18"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,26 +20,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "NVIDIAがCosmos 3 Edge発表 日本物理AI拡大",
-    "Forbes 2026 AI 50リスト発表",
-    "AnthropicとBlackstoneが実装事業に巨額投資",
-    "Google AI検索が子供に『容認しがたいリスク』",
-    "ClaudeがOpenAIをリード？収益・モデル比較",
-    "AIエージェントサミットSummer2026開催迫る",
-    "Trend MicroがAI Safety Solution of the Year受賞"
+    "Nature誌がAI共同科学者Biomniを紹介",
+    "xAIがGrok 4.5をリリース",
+    "国連事務総長、世界AI会議で『技術は人のために』",
+    "2026年7月第3週 AIニュースまとめ",
+    "Hugging Face 2026年7月侵害事件の詳細",
+    "2026年7月ベストAIモデルランキング",
+    "AISI Workshop: AI規制の未来を形作る"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "NVIDIAがCosmos 3 Edge発表 日本物理AI拡大",
-      "summary": "ロボット・ビジョンAIエージェント向け新世界モデル。フアンCEOがメカトロニクスとAI融合で日本復活を強調。",
+      "title": "Nature誌がAI共同科学者Biomniを紹介",
+      "summary": "Natureがバイオメディカル研究を加速するAIエージェント「Biomni」を特集。科学者の研究タスクを自律的にこなす共同科学者として期待。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Forbes 2026 AI 50リスト発表",
-      "summary": "OpenAIとAnthropicがAI50で圧倒。総調達3056億ドルのほとんどを2社で占め、IPOに向けた勢い。",
+      "title": "xAIがGrok 4.5をリリース",
+      "summary": "SpaceXAIがGrok 4.5を公開。コーディングとエージェントタスクに特化した最強モデルとして位置づけ。低コスト高性能を売りにする。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,34 +47,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "AnthropicとBlackstoneが実装事業に巨額投資"
+      "title": "国連事務総長、世界AI会議で『技術は人のために』"
     },
     {
       "rank": 5,
-      "title": "Google AI検索が子供に『容認しがたいリスク』"
+      "title": "2026年7月第3週 AIニュースまとめ"
     },
     {
       "rank": 6,
-      "title": "ClaudeがOpenAIをリード？収益・モデル比較"
+      "title": "Hugging Face 2026年7月侵害事件の詳細"
     },
     {
       "rank": 7,
-      "title": "AIエージェントサミットSummer2026開催迫る"
+      "title": "2026年7月ベストAIモデルランキング"
     },
     {
       "rank": 8,
-      "title": "Trend MicroがAI Safety Solution of the Year受賞"
+      "title": "AISI Workshop: AI規制の未来を形作る"
     },
     {
       "rank": 9,
-      "title": "OpenAIが推論コスト半減のブレイクスルー"
+      "title": "中国、World AI Conferenceで公正ガバナンスを主張"
     },
     {
       "rank": 10,
-      "title": "NVIDIAフアンCEO、日本AIエコシステム講演"
+      "title": "週刊AIニュース：新LLMと研究ツール"
     }
   ],
   "archive": [
+    {
+      "no": 171,
+      "kind": "📖 漫画",
+      "date": "07.17",
+      "img": "news/top1_manga_2026-07-17.png",
+      "title": "xAIがGrok 4.5を発表 最強コーディングモデル"
+    },
     {
       "no": 170,
       "kind": "📖 漫画",

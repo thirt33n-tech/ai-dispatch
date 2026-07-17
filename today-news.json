@@ -1,85 +1,97 @@
 {
-  "date": "2026.07.17",
+  "date": "2026.07.18",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "xAIがGrok 4.5を発表 最強コーディングモデル",
-      "summary": "コーディング・エージェント・知識作業に特化。実世界エンジニアリングで優位性を示すSpaceXAIの最新最強モデル。",
-      "source": "xAI",
-      "source_url": "https://x.ai/news/grok-4-5",
+      "title": "世界AI会議2026開幕 習近平が公正AI統治を提言",
+      "summary": "上海で世界人工知能大会2026が開幕。習近平国家主席が基調講演で公平・包摂的なグローバルAIガバナンスを国際社会に呼びかけ。国連事務総長も技術は人のためにあるべきと強調。",
+      "source": "中華人民共和国外交部 / UNSDG",
+      "source_url": "https://www.mfa.gov.cn/eng/xw/zyjh/202607/t20260717_11984910.html",
       "script": {
         "panels": [
-          {"speech": "みなみ、xAI速報！", "narration": ""},
-          {"speech": "Grok 4.5登場だよ！", "narration": ""},
-          {"speech": "コーディング最強モデル", "narration": "エージェントタスクも抜群"},
-          {"speech": "開発が革命的に変わるね", "narration": "次回に続く"}
+          {
+            "speech": "わあ！今日世界AI会議が開幕したよ！",
+            "narration": ""
+          },
+          {
+            "speech": "習近平主席が基調講演したんだって",
+            "narration": ""
+          },
+          {
+            "speech": "公正なAIガバナンスをみんなで作ろう",
+            "narration": "上海開催の世界AI会議2026で国際統治の重要性が議論"
+          },
+          {
+            "speech": "良いAI未来を一緒に作っていこうね",
+            "narration": "次回に続く"
+          }
         ],
-        "telop_text": "xAI Grok 4.5発表 実世界エンジニアリングに強い最強モデル"
+        "telop_text": "世界AI会議2026開幕　公正なグローバルAI統治を提言"
       }
     },
     {
       "rank": 2,
-      "title": "NVIDIAがCosmos 3 Edge発表 日本物理AI拡大",
-      "summary": "ロボット・ビジョンAIエージェント向け新世界モデル。フアンCEOがメカトロニクスとAI融合で日本復活を強調。",
-      "source": "CNBC / AI Watch",
-      "source_url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html"
+      "title": "Nature誌がAI共同科学者Biomniを紹介",
+      "summary": "Natureがバイオメディカル研究を加速するAIエージェント「Biomni」を特集。科学者の研究タスクを自律的にこなす共同科学者として期待。",
+      "source": "Nature",
+      "source_url": "https://www.nature.com/articles/d41591-026-00037-z"
     },
     {
       "rank": 3,
-      "title": "Forbes 2026 AI 50リスト発表",
-      "summary": "OpenAIとAnthropicがAI50で圧倒。総調達3056億ドルのほとんどを2社で占め、IPOに向けた勢い。",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com/lists/ai50/"
+      "title": "xAIがGrok 4.5をリリース",
+      "summary": "SpaceXAIがGrok 4.5を公開。コーディングとエージェントタスクに特化した最強モデルとして位置づけ。低コスト高性能を売りにする。",
+      "source": "x.ai",
+      "source_url": "https://x.ai/news"
     },
     {
       "rank": 4,
-      "title": "AnthropicとBlackstoneが実装事業に巨額投資",
-      "summary": "モデルではなくAIの実装・導入が次なる兆ドルビジネスになると予測。サービスレイヤーへのシフト。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
+      "title": "国連事務総長、世界AI会議で『技術は人のために』",
+      "summary": "UN Secretary-GeneralがWorld AI ConferenceでAIが人々の利益のために使われるべきと演説。ガバナンスの重要性を強調。",
+      "source": "UNSDG",
+      "source_url": "https://unsdg.un.org/latest/announcements/technology-must-serve-people-not-other-way-around-un-secretary-general-world"
     },
     {
       "rank": 5,
-      "title": "Google AI検索が子供に『容認しがたいリスク』",
-      "summary": "Common Sense Media報告書でAI OverviewとAI Modeが有害コンテンツ対応失敗や宿題代行など問題多数。",
-      "source": "PBS News",
-      "source_url": "https://www.pbs.org/newshour/nation/googles-ai-search-features-pose-unacceptable-risk-to-children-new-report-finds"
+      "title": "2026年7月第3週 AIニュースまとめ",
+      "summary": "Grok 4.5、Biomni、World AI Conferenceなど主要トピック。モデル比較や規制議論が活発化。",
+      "source": "Various",
+      "source_url": ""
     },
     {
       "rank": 6,
-      "title": "ClaudeがOpenAIをリード？収益・モデル比較",
-      "summary": "Anthropicの収益がOpenAIを上回り、Claude Fable 5がベンチマークで1位。開発者間でClaude移行加速。",
-      "source": "YouTube/Matthew Berman",
-      "source_url": "https://www.youtube.com/watch?v=nxr20lcqagg"
+      "title": "Hugging Face 2026年7月侵害事件の詳細",
+      "summary": "Hugging Faceで発生したセキュリティ侵害の全容が明らかに。agentic threatの現実化として注目。",
+      "source": "Reddit",
+      "source_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1uz2r0l/the_hugging_face_breach_of_july_2026_the_full/"
     },
     {
       "rank": 7,
-      "title": "AIエージェントサミットSummer2026開催迫る",
-      "summary": "7/29に自律型AIの最新動向と活用法を11社が解説。生成AIを超えた次世代エージェントに焦点。",
-      "source": "PR TIMES",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000797.000053344.html"
+      "title": "2026年7月ベストAIモデルランキング",
+      "summary": "Claude Opus 4.8、Grok 4.5、GPT-5.6 Sol、Gemini 3.1 Proが上位。用途別最適モデルが多様化。",
+      "source": "Various reviews",
+      "source_url": ""
     },
     {
       "rank": 8,
-      "title": "Trend MicroがAI Safety Solution of the Year受賞",
-      "summary": "詐欺バスターが2026 AI Breakthrough AwardsでAI安全分野最優秀賞。詐欺検知の貢献を評価。",
-      "source": "Trend Micro",
-      "source_url": "https://www.trendmicro.com/ja_jp/about/newsroom/press-releases/2026/pr-20260703-01.html"
+      "title": "AISI Workshop: AI規制の未来を形作る",
+      "summary": "カリフォルニアでAI規制ワークショップ開催。政策立案者と専門家がAIガバナンスの方向性を議論。",
+      "source": "CLTC Berkeley",
+      "source_url": "https://cltc.berkeley.edu/2026/07/17/aisi-workshop-shaping-the-future-of-ai-regulation/"
     },
     {
       "rank": 9,
-      "title": "OpenAIが推論コスト半減のブレイクスルー",
-      "summary": "ソフトウェア最適化と自社チップJalapeñoでNVIDIA依存脱却へ。推論コストを劇的に低減。",
-      "source": "Podcast",
-      "source_url": "https://podcasts.apple.com/us/podcast/ep-1331-openai-推論コスト半減のブレイクスルー"
+      "title": "中国、World AI Conferenceで公正ガバナンスを主張",
+      "summary": "中国が equitable global AI governance systemを提唱。国際会議で主要テーマに。",
+      "source": "Facebook / BJReview",
+      "source_url": "https://www.facebook.com/BJReview/videos/at-the-world-artificial-intelligence-conference-2026-china-called-for-an-equitab/999554666320930/"
     },
     {
       "rank": 10,
-      "title": "NVIDIAフアンCEO、日本AIエコシステム講演",
-      "summary": "製造業とAIの融合が日本復活の鍵と強調。物理AIとメカトロニクスの重要性を訴える。",
-      "source": "Impress AI Watch",
-      "source_url": "https://ai.watch.impress.co.jp/docs/news/2125910.html"
+      "title": "週刊AIニュース：新LLMと研究ツール",
+      "summary": "最新LLMモデルと科学的リサーチツールの進展をCodanicsがまとめ。",
+      "source": "YouTube",
+      "source_url": "https://www.youtube.com/watch?v=MVVBrsGYrjo"
     }
   ]
 }
