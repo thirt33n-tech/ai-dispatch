@@ -1,97 +1,97 @@
 {
-  "date": "2026.07.18",
+  "date": "2026.07.19",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "世界AI会議2026開幕 習近平が公正AI統治を提言",
-      "summary": "上海で世界人工知能大会2026が開幕。習近平国家主席が基調講演で公平・包摂的なグローバルAIガバナンスを国際社会に呼びかけ。国連事務総長も技術は人のためにあるべきと強調。",
-      "source": "中華人民共和国外交部 / UNSDG",
-      "source_url": "https://www.mfa.gov.cn/eng/xw/zyjh/202607/t20260717_11984910.html",
+      "title": "Claude Fable 5 本日で最終延長終了",
+      "summary": "Anthropicが有料ユーザー向けFable 5アクセスを7月19日23:59 PTまで延長。50%レート制限ブーストも最終日。ユーザー活用を呼びかけ。",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com/sites/sandycarter/2026/07/13/claude-fable-5-extends-to-july-19-7-days-7-power-moves/",
       "script": {
         "panels": [
           {
-            "speech": "わあ！今日世界AI会議が開幕したよ！",
+            "speech": "わあ！Fable 5今日までだって！",
             "narration": ""
           },
           {
-            "speech": "習近平主席が基調講演したんだって",
+            "speech": "50%ブーストも最終日だよ",
             "narration": ""
           },
           {
-            "speech": "公正なAIガバナンスをみんなで作ろう",
-            "narration": "上海開催の世界AI会議2026で国際統治の重要性が議論"
+            "speech": "Anthropicが延長を発表",
+            "narration": "有料プランで7/19までアクセス可能"
           },
           {
-            "speech": "良いAI未来を一緒に作っていこうね",
+            "speech": "今すぐ全力で使おうね！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "世界AI会議2026開幕　公正なグローバルAI統治を提言"
+        "telop_text": "Claude Fable 5 最終延長 今日まで！50%ブースト活用を"
       }
     },
     {
       "rank": 2,
-      "title": "Nature誌がAI共同科学者Biomniを紹介",
-      "summary": "Natureがバイオメディカル研究を加速するAIエージェント「Biomni」を特集。科学者の研究タスクを自律的にこなす共同科学者として期待。",
-      "source": "Nature",
-      "source_url": "https://www.nature.com/articles/d41591-026-00037-z"
-    },
-    {
-      "rank": 3,
-      "title": "xAIがGrok 4.5をリリース",
-      "summary": "SpaceXAIがGrok 4.5を公開。コーディングとエージェントタスクに特化した最強モデルとして位置づけ。低コスト高性能を売りにする。",
-      "source": "x.ai",
+      "title": "xAI Grok 4.5を公開",
+      "summary": "SpaceXAIがGrok 4.5をリリース。Cursor訓練データ活用の1.5Tパラメータモデルでコーディング・エージェントに特化。低価格高性能。",
+      "source": "xAI / Reuters",
       "source_url": "https://x.ai/news"
     },
     {
+      "rank": 3,
+      "title": "2026年7月ベストAIモデルランキング",
+      "summary": "Claude Opus 4.8、Grok 4.5、GPT-5.6 Sol、Gemini 3.1 Proが上位。用途別最適化が進む中、Fable 5最終日が話題。",
+      "source": "BuildFastWithAI / FelloAI",
+      "source_url": "https://www.buildfastwithai.com/blogs/best-ai-models-july-2026-ranked"
+    },
+    {
       "rank": 4,
-      "title": "国連事務総長、世界AI会議で『技術は人のために』",
-      "summary": "UN Secretary-GeneralがWorld AI ConferenceでAIが人々の利益のために使われるべきと演説。ガバナンスの重要性を強調。",
-      "source": "UNSDG",
-      "source_url": "https://unsdg.un.org/latest/announcements/technology-must-serve-people-not-other-way-around-un-secretary-general-world"
+      "title": "Google Search I/O 2026でAIエージェント強化",
+      "summary": "Gemini 3.5 FlashをAI Modeのデフォルトに。クエリ数が爆増し、AIエージェントがSearchで直接利用可能に。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
     },
     {
       "rank": 5,
-      "title": "2026年7月第3週 AIニュースまとめ",
-      "summary": "Grok 4.5、Biomni、World AI Conferenceなど主要トピック。モデル比較や規制議論が活発化。",
+      "title": "Claude Sonnet 5が消費者デフォルトに",
+      "summary": "AnthropicがSonnet 5をFree/Proのデフォルトモデルに。SWE-bench高スコアで実務向けに最適化。",
       "source": "Various",
       "source_url": ""
     },
     {
       "rank": 6,
-      "title": "Hugging Face 2026年7月侵害事件の詳細",
-      "summary": "Hugging Faceで発生したセキュリティ侵害の全容が明らかに。agentic threatの現実化として注目。",
-      "source": "Reddit",
-      "source_url": "https://www.reddit.com/r/ArtificialInteligence/comments/1uz2r0l/the_hugging_face_breach_of_july_2026_the_full/"
+      "title": "Stanford HAI AI Index 2026報告",
+      "summary": "AI能力が加速。業界が90%以上のフロンティアモデルを生み、PhDレベル科学質問で人間超えも。",
+      "source": "Stanford HAI",
+      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
     },
     {
       "rank": 7,
-      "title": "2026年7月ベストAIモデルランキング",
-      "summary": "Claude Opus 4.8、Grok 4.5、GPT-5.6 Sol、Gemini 3.1 Proが上位。用途別最適モデルが多様化。",
-      "source": "Various reviews",
-      "source_url": ""
+      "title": "Claude CoworkがWeb/モバイル展開",
+      "summary": "AnthropicがClaude Coworkをウェブ、iOS、Androidに拡大。バックグラウンドタスクと使用制限引き上げ。",
+      "source": "Digital Applied",
+      "source_url": "https://www.digitalapplied.com/blog/claude-cowork-web-mobile-expansion-guide-2026"
     },
     {
       "rank": 8,
-      "title": "AISI Workshop: AI規制の未来を形作る",
-      "summary": "カリフォルニアでAI規制ワークショップ開催。政策立案者と専門家がAIガバナンスの方向性を議論。",
-      "source": "CLTC Berkeley",
-      "source_url": "https://cltc.berkeley.edu/2026/07/17/aisi-workshop-shaping-the-future-of-ai-regulation/"
+      "title": "Anthropic Economic Index: Learning Curves",
+      "summary": "Claudeの経済利用を追跡する最新報告。2月のデータでAI活用の学習曲線を分析。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/research/economic-index-march-2026-report"
     },
     {
       "rank": 9,
-      "title": "中国、World AI Conferenceで公正ガバナンスを主張",
-      "summary": "中国が equitable global AI governance systemを提唱。国際会議で主要テーマに。",
-      "source": "Facebook / BJReview",
-      "source_url": "https://www.facebook.com/BJReview/videos/at-the-world-artificial-intelligence-conference-2026-china-called-for-an-equitab/999554666320930/"
+      "title": "Grok 4.5レビューとSpaceXAI統合",
+      "summary": "xAIがSpaceXに買収されSpaceXAIに。Grok 4.5はV9ベースのコーディング特化モデルとして評価。",
+      "source": "MemeBurn",
+      "source_url": "https://memeburn.com/grok-ai-review/"
     },
     {
       "rank": 10,
-      "title": "週刊AIニュース：新LLMと研究ツール",
-      "summary": "最新LLMモデルと科学的リサーチツールの進展をCodanicsがまとめ。",
-      "source": "YouTube",
-      "source_url": "https://www.youtube.com/watch?v=MVVBrsGYrjo"
+      "title": "AIモデルリリース動向まとめ (2026年7月)",
+      "summary": "Fable 5最終延長、Grok 4.5公開、Sonnet 5など主要リリースが集中。ベンチマークと価格が多様化。",
+      "source": "LLM Stats / LinkedIn",
+      "source_url": "https://llm-stats.com/llm-updates"
     }
   ]
 }

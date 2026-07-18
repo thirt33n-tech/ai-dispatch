@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 172,
-  "dateLabel": "2026.07.18",
+  "dispatchNo": 173,
+  "dateLabel": "2026.07.19",
   "top1": {
-    "title": "世界AI会議2026開幕 習近平が公正AI統治を提言",
-    "lead1": "上海で高官級会議スタート",
-    "lead2": "国際ガバナンスの新局面",
-    "manga_url": "news/top1_manga_2026-07-18.png",
-    "video_url": "https://www.youtube.com/watch?v=M6f8ezHNWWc",
-    "summary": "上海で世界人工知能大会2026が開幕。習近平国家主席が基調講演で公平・包摂的なグローバルAIガバナンスを国際社会に呼びかけ。国連事務総長も技術は人のためにあるべきと強調。",
-    "media_updated_at": "2026-07-18"
+    "title": "Claude Fable 5 本日で最終延長終了",
+    "lead1": "有料アクセス最終日",
+    "lead2": "50%ブーストも今日まで",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "Anthropicが有料ユーザー向けFable 5アクセスを7月19日23:59 PTまで延長。50%レート制限ブーストも最終日。ユーザー活用を呼びかけ。",
+    "media_updated_at": "2026-07-19"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,26 +20,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "Nature誌がAI共同科学者Biomniを紹介",
-    "xAIがGrok 4.5をリリース",
-    "国連事務総長、世界AI会議で『技術は人のために』",
-    "2026年7月第3週 AIニュースまとめ",
-    "Hugging Face 2026年7月侵害事件の詳細",
+    "xAI Grok 4.5を公開",
     "2026年7月ベストAIモデルランキング",
-    "AISI Workshop: AI規制の未来を形作る"
+    "Google Search I/O 2026でAIエージェント強化",
+    "Claude Sonnet 5が消費者デフォルトに",
+    "Stanford HAI AI Index 2026報告",
+    "Claude CoworkがWeb/モバイル展開",
+    "Anthropic Economic Index: Learning Curves"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Nature誌がAI共同科学者Biomniを紹介",
-      "summary": "Natureがバイオメディカル研究を加速するAIエージェント「Biomni」を特集。科学者の研究タスクを自律的にこなす共同科学者として期待。",
+      "title": "xAI Grok 4.5を公開",
+      "summary": "SpaceXAIがGrok 4.5をリリース。Cursor訓練データ活用の1.5Tパラメータモデルでコーディング・エージェントに特化。低価格高性能。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "xAIがGrok 4.5をリリース",
-      "summary": "SpaceXAIがGrok 4.5を公開。コーディングとエージェントタスクに特化した最強モデルとして位置づけ。低コスト高性能を売りにする。",
+      "title": "2026年7月ベストAIモデルランキング",
+      "summary": "Claude Opus 4.8、Grok 4.5、GPT-5.6 Sol、Gemini 3.1 Proが上位。用途別最適化が進む中、Fable 5最終日が話題。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,34 +47,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "国連事務総長、世界AI会議で『技術は人のために』"
+      "title": "Google Search I/O 2026でAIエージェント強化"
     },
     {
       "rank": 5,
-      "title": "2026年7月第3週 AIニュースまとめ"
+      "title": "Claude Sonnet 5が消費者デフォルトに"
     },
     {
       "rank": 6,
-      "title": "Hugging Face 2026年7月侵害事件の詳細"
+      "title": "Stanford HAI AI Index 2026報告"
     },
     {
       "rank": 7,
-      "title": "2026年7月ベストAIモデルランキング"
+      "title": "Claude CoworkがWeb/モバイル展開"
     },
     {
       "rank": 8,
-      "title": "AISI Workshop: AI規制の未来を形作る"
+      "title": "Anthropic Economic Index: Learning Curves"
     },
     {
       "rank": 9,
-      "title": "中国、World AI Conferenceで公正ガバナンスを主張"
+      "title": "Grok 4.5レビューとSpaceXAI統合"
     },
     {
       "rank": 10,
-      "title": "週刊AIニュース：新LLMと研究ツール"
+      "title": "AIモデルリリース動向まとめ (2026年7月)"
     }
   ],
   "archive": [
+    {
+      "no": 172,
+      "kind": "📖 漫画",
+      "date": "07.18",
+      "img": "news/top1_manga_2026-07-18.png",
+      "title": "世界AI会議2026開幕 習近平が公正AI統治を提言"
+    },
     {
       "no": 171,
       "kind": "📖 漫画",
