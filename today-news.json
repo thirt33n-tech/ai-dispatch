@@ -1,97 +1,97 @@
 {
-  "date": "2026.07.19",
+  "date": "2026.07.20",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Claude Fable 5 本日で最終延長終了",
-      "summary": "Anthropicが有料ユーザー向けFable 5アクセスを7月19日23:59 PTまで延長。50%レート制限ブーストも最終日。ユーザー活用を呼びかけ。",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com/sites/sandycarter/2026/07/13/claude-fable-5-extends-to-july-19-7-days-7-power-moves/",
+      "title": "2026年7月 AIモデル大波到来",
+      "summary": "Grok 4.5、Claude Sonnet 5、GPT-5.6が7月に集中リリース。ベンチマーク追跡ではなく柔軟運用が鍵。",
+      "source": "Raulji Technologies",
+      "source_url": "https://www.rauljitechnologies.com/blog/july-2026-ai-model-wave/",
       "script": {
         "panels": [
           {
-            "speech": "わあ！Fable 5今日までだって！",
+            "speech": "わあ！7月はAI新モデル祭り！",
             "narration": ""
           },
           {
-            "speech": "50%ブーストも最終日だよ",
+            "speech": "GrokもClaudeもGPTも新作！",
             "narration": ""
           },
           {
-            "speech": "Anthropicが延長を発表",
-            "narration": "有料プランで7/19までアクセス可能"
+            "speech": "どれ選べばいいの？",
+            "narration": "3社が短期間にfrontierリリース"
           },
           {
-            "speech": "今すぐ全力で使おうね！",
+            "speech": "柔軟に使い分けようね",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Claude Fable 5 最終延長 今日まで！50%ブースト活用を"
+        "telop_text": "2026年7月 AIモデル大波！3社同時リリース"
       }
     },
     {
       "rank": 2,
-      "title": "xAI Grok 4.5を公開",
-      "summary": "SpaceXAIがGrok 4.5をリリース。Cursor訓練データ活用の1.5Tパラメータモデルでコーディング・エージェントに特化。低価格高性能。",
-      "source": "xAI / Reuters",
-      "source_url": "https://x.ai/news"
+      "title": "Anthropicが競合から5名の巨大幹部採用",
+      "summary": "OpenAI、Google、Microsoft、xAIから幹部を獲得。2026年のIPOとチャネル拡大に向けた動き。",
+      "source": "CRN",
+      "source_url": "https://www.crn.com/news/ai/2026/anthropic-s-5-huge-hires-from-openai-google-microsoft-and-xai-in-2026"
     },
     {
       "rank": 3,
-      "title": "2026年7月ベストAIモデルランキング",
-      "summary": "Claude Opus 4.8、Grok 4.5、GPT-5.6 Sol、Gemini 3.1 Proが上位。用途別最適化が進む中、Fable 5最終日が話題。",
-      "source": "BuildFastWithAI / FelloAI",
-      "source_url": "https://www.buildfastwithai.com/blogs/best-ai-models-july-2026-ranked"
+      "title": "OpenAI vs xAI vs Anthropic 2026 AIレース",
+      "summary": "3社がsuperintelligence目指し激化。目標は異なるが数百億ドルの投資を集める。",
+      "source": "Technology Era",
+      "source_url": "https://www.facebook.com/TechnologyEraofficial/posts/122117230323213312/"
     },
     {
       "rank": 4,
-      "title": "Google Search I/O 2026でAIエージェント強化",
-      "summary": "Gemini 3.5 FlashをAI Modeのデフォルトに。クエリ数が爆増し、AIエージェントがSearchで直接利用可能に。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
+      "title": "OpenAIとAnthropicがAI収益で支配",
+      "summary": "Anthropicが年換算300億ドル、OpenAI 250億ドル規模。企業導入でAnthropicがFortune10の8社獲得。",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com/news-releases/openai-and-anthropic-dominate-ai-revenue--and-communicate-very-differently-302776605.html"
     },
     {
       "rank": 5,
-      "title": "Claude Sonnet 5が消費者デフォルトに",
-      "summary": "AnthropicがSonnet 5をFree/Proのデフォルトモデルに。SWE-bench高スコアで実務向けに最適化。",
-      "source": "Various",
-      "source_url": ""
+      "title": "2026年スーパーインテリジェンスレース",
+      "summary": "OpenAI、Anthropic、Google、xAIのどれが一番近いか議論活発。目標定義が鍵。",
+      "source": "BitBiasedAI (YouTube)",
+      "source_url": "https://www.youtube.com/watch?v=Uum4pwq_VvI"
     },
     {
       "rank": 6,
-      "title": "Stanford HAI AI Index 2026報告",
-      "summary": "AI能力が加速。業界が90%以上のフロンティアモデルを生み、PhDレベル科学質問で人間超えも。",
-      "source": "Stanford HAI",
-      "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
+      "title": "Crunchbase H1 2026 VC報告: AIが43%",
+      "summary": "グローバルVC5100億ドル記録。OpenAIとAnthropicだけで43%を占める。",
+      "source": "BuildFastWithAI",
+      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
     },
     {
       "rank": 7,
-      "title": "Claude CoworkがWeb/モバイル展開",
-      "summary": "AnthropicがClaude Coworkをウェブ、iOS、Androidに拡大。バックグラウンドタスクと使用制限引き上げ。",
-      "source": "Digital Applied",
-      "source_url": "https://www.digitalapplied.com/blog/claude-cowork-web-mobile-expansion-guide-2026"
+      "title": "Reid Hoffman: xAIはtrain wreck",
+      "summary": "LinkedIn共同創業者HoffmanがxAIを厳しく批判。一方OpenAIとAnthropicには余地ありと。",
+      "source": "Fortune",
+      "source_url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
     },
     {
       "rank": 8,
-      "title": "Anthropic Economic Index: Learning Curves",
-      "summary": "Claudeの経済利用を追跡する最新報告。2月のデータでAI活用の学習曲線を分析。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/research/economic-index-march-2026-report"
+      "title": "AnthropicとSpaceXの意外な提携",
+      "summary": "AnthropicがSpaceXのcompute獲得でrate limit大幅向上。OpenAI裁判の動向も。",
+      "source": "YouTube - Alex Kantrowitz",
+      "source_url": "https://www.youtube.com/watch?v=38Q4mhLQEv8"
     },
     {
       "rank": 9,
-      "title": "Grok 4.5レビューとSpaceXAI統合",
-      "summary": "xAIがSpaceXに買収されSpaceXAIに。Grok 4.5はV9ベースのコーディング特化モデルとして評価。",
-      "source": "MemeBurn",
-      "source_url": "https://memeburn.com/grok-ai-review/"
+      "title": "Platform vs Product: Anthropic/OpenAI/xAIのIPO分析",
+      "summary": "各社がproductからplatformへ移行中。実行リスクが異なる2026年の戦略。",
+      "source": "Klover.ai",
+      "source_url": "https://www.klover.ai/comparative-ipo-analysis-platform-vs-product_anthropic_openai_and_spacex_xai_comprehensive_research_2026/"
     },
     {
       "rank": 10,
-      "title": "AIモデルリリース動向まとめ (2026年7月)",
-      "summary": "Fable 5最終延長、Grok 4.5公開、Sonnet 5など主要リリースが集中。ベンチマークと価格が多様化。",
-      "source": "LLM Stats / LinkedIn",
-      "source_url": "https://llm-stats.com/llm-updates"
+      "title": "AI業界2026年上半期まとめ",
+      "summary": "モデルリリースラッシュ、資金調達記録、地政学リスクの中で業界が急成長。",
+      "source": "Various",
+      "source_url": ""
     }
   ]
 }
