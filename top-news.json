@@ -1,14 +1,14 @@
 {
-  "dispatchNo": 173,
-  "dateLabel": "2026.07.19",
+  "dispatchNo": 174,
+  "dateLabel": "2026.07.22",
   "top1": {
-    "title": "Claude Fable 5 本日で最終延長終了",
-    "lead1": "有料アクセス最終日",
-    "lead2": "50%ブーストも今日まで",
-    "manga_url": "news/top1_manga_2026-07-21.png",
-    "video_url": "https://www.youtube.com/watch?v=o9TTlrCDeAw",
-    "summary": "xAIの最新モデルGrok 4.5がさらなる進化。コーディング性能とマルチモーダルが強化され、開発者から高い評価。",
-    "media_updated_at": "2026-07-21"
+    "title": "米でAIデータセンター反対運動拡大",
+    "lead1": "住民反対が強まる",
+    "lead2": "電力・水資源が争点",
+    "manga_url": "news/top1_manga.png",
+    "video_url": "",
+    "summary": "ロイター報道。ミシガン州などで建設反対が強まる。AI需要による電力・水消費が中間選挙の新争点に。",
+    "media_updated_at": "2026-07-22"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,61 +20,47 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "xAI Grok 4.5を公開",
-    "2026年7月ベストAIモデルランキング",
-    "Google Search I/O 2026でAIエージェント強化",
-    "Claude Sonnet 5が消費者デフォルトに",
-    "Stanford HAI AI Index 2026報告",
-    "Claude CoworkがWeb/モバイル展開",
-    "Anthropic Economic Index: Learning Curves"
+    "GPT-5.6がAmazon Bedrockで提供開始",
+    "NTT・TBS、AI新会社「e6」を8月設立",
+    "TikTokがAI肖像検出テスト開始",
+    "AIエージェントの構造的欠陥を指摘",
+    "先週のAIニュースまとめ（7/13-19）",
+    "Foundation「Phantom」武装版開発",
+    "2026年7月 AIニュース総まとめ"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "xAI Grok 4.5を公開",
-      "summary": "SpaceXAIがGrok 4.5をリリース。Cursor訓練データ活用の1.5Tパラメータモデルでコーディング・エージェントに特化。低価格高性能。",
+      "title": "GPT-5.6がAmazon Bedrockで提供開始",
+      "summary": "OpenAI最新モデルが企業向けクラウドで利用可能に。AIエージェント活用が加速。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "2026年7月ベストAIモデルランキング",
-      "summary": "Claude Opus 4.8、Grok 4.5、GPT-5.6 Sol、Gemini 3.1 Proが上位。用途別最適化が進む中、Fable 5最終日が話題。",
+      "title": "NTT・TBS、AI新会社「e6」を8月設立",
+      "summary": "tsuzumi 2とIPを活用した子ども向けエデュテインメントにAI投入。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {
-      "rank": 4,
-      "title": "Google Search I/O 2026でAIエージェント強化"
-    },
-    {
-      "rank": 5,
-      "title": "Claude Sonnet 5が消費者デフォルトに"
-    },
-    {
-      "rank": 6,
-      "title": "Stanford HAI AI Index 2026報告"
-    },
-    {
-      "rank": 7,
-      "title": "Claude CoworkがWeb/モバイル展開"
-    },
-    {
-      "rank": 8,
-      "title": "Anthropic Economic Index: Learning Curves"
-    },
-    {
-      "rank": 9,
-      "title": "Grok 4.5レビューとSpaceXAI統合"
-    },
-    {
-      "rank": 10,
-      "title": "AIモデルリリース動向まとめ (2026年7月)"
-    }
+    {"rank": 4, "title": "TikTokがAI肖像検出テスト開始"},
+    {"rank": 5, "title": "AIエージェントの構造的欠陥を指摘"},
+    {"rank": 6, "title": "先週のAIニュースまとめ（7/13-19）"},
+    {"rank": 7, "title": "Foundation「Phantom」武装版開発"},
+    {"rank": 8, "title": "2026年7月 AIニュース総まとめ"},
+    {"rank": 9, "title": "Broadcom・Apple、AIチップ供給契約延長"},
+    {"rank": 10, "title": "生成AI最新情報提供イベント"}
   ],
   "archive": [
+    {
+      "no": 173,
+      "kind": "📖 漫画",
+      "date": "07.21",
+      "img": "news/top1_manga_2026-07-21.png",
+      "title": "Claude Fable 5 本日で最終延長終了"
+    },
     {
       "no": 172,
       "kind": "📖 漫画",

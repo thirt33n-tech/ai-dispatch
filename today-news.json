@@ -1,97 +1,85 @@
 {
-  "date": "2026.07.21",
+  "date": "2026.07.22",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "2026年7月21日 Grok 4.5アップデートとAIモデル動向",
-      "summary": "xAIの最新モデルGrok 4.5がさらなる進化。コーディング性能とマルチモーダルが強化され、開発者から高い評価。",
-      "source": "Raulji Technologies",
-      "source_url": "https://www.rauljitechnologies.com/blog/july-2026-ai-model-wave/",
+      "title": "米でAIデータセンター反対運動拡大",
+      "summary": "ロイター報道。ミシガン州などで建設反対が強まる。AI需要による電力・水消費が中間選挙の新争点に。",
+      "source": "Reuters",
+      "source_url": "https://jp.reuters.com/video/watch/idOWjpvC8S06B0UJWIYN4OE2I92CCINZ7/",
       "script": {
         "panels": [
-          {
-            "speech": "わあ！7月はAI新モデル祭り！",
-            "narration": ""
-          },
-          {
-            "speech": "GrokもClaudeもGPTも新作！",
-            "narration": ""
-          },
-          {
-            "speech": "どれ選べばいいの？",
-            "narration": "3社が短期間にfrontierリリース"
-          },
-          {
-            "speech": "柔軟に使い分けようね",
-            "narration": "次回に続く"
-          }
+          {"speech": "みなみ、データセンター反対のニュース！", "narration": ""},
+          {"speech": "電力と水が足りなくなるって！？", "narration": ""},
+          {"speech": "", "narration": "米国各地で住民反対。AIブームの影の側面"},
+          {"speech": "技術と環境のバランス考えないと", "narration": "次回に続く"}
         ],
-        "telop_text": "2026年7月 AIモデル大波！3社同時リリース"
+        "telop_text": "AIデータセンター反対広がる　政治的争点に"
       }
     },
     {
       "rank": 2,
-      "title": "Anthropicが競合から5名の巨大幹部採用",
-      "summary": "OpenAI、Google、Microsoft、xAIから幹部を獲得。2026年のIPOとチャネル拡大に向けた動き。",
-      "source": "CRN",
-      "source_url": "https://www.crn.com/news/ai/2026/anthropic-s-5-huge-hires-from-openai-google-microsoft-and-xai-in-2026"
+      "title": "GPT-5.6がAmazon Bedrockで提供開始",
+      "summary": "OpenAI最新モデルが企業向けクラウドで利用可能に。AIエージェント活用が加速。",
+      "source": "Various",
+      "source_url": ""
     },
     {
       "rank": 3,
-      "title": "OpenAI vs xAI vs Anthropic 2026 AIレース",
-      "summary": "3社がsuperintelligence目指し激化。目標は異なるが数百億ドルの投資を集める。",
-      "source": "Technology Era",
-      "source_url": "https://www.facebook.com/TechnologyEraofficial/posts/122117230323213312/"
+      "title": "NTT・TBS、AI新会社「e6」を8月設立",
+      "summary": "tsuzumi 2とIPを活用した子ども向けエデュテインメントにAI投入。",
+      "source": "Innovatopia",
+      "source_url": "https://innovatopia.jp/ai/ai-news/113702/"
     },
     {
       "rank": 4,
-      "title": "OpenAIとAnthropicがAI収益で支配",
-      "summary": "Anthropicが年換算300億ドル、OpenAI 250億ドル規模。企業導入でAnthropicがFortune10の8社獲得。",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com/news-releases/openai-and-anthropic-dominate-ai-revenue--and-communicate-very-differently-302776605.html"
+      "title": "TikTokがAI肖像検出テスト開始",
+      "summary": "YouTubeに続き、顔のなりすましを本人通報可能に。",
+      "source": "Innovatopia",
+      "source_url": ""
     },
     {
       "rank": 5,
-      "title": "2026年スーパーインテリジェンスレース",
-      "summary": "OpenAI、Anthropic、Google、xAIのどれが一番近いか議論活発。目標定義が鍵。",
-      "source": "BitBiasedAI (YouTube)",
-      "source_url": "https://www.youtube.com/watch?v=Uum4pwq_VvI"
+      "title": "AIエージェントの構造的欠陥を指摘",
+      "summary": "TrendAIとPwCが2600テストで侵害事例多数を確認。",
+      "source": "Innovatopia",
+      "source_url": ""
     },
     {
       "rank": 6,
-      "title": "Crunchbase H1 2026 VC報告: AIが43%",
-      "summary": "グローバルVC5100億ドル記録。OpenAIとAnthropicだけで43%を占める。",
-      "source": "BuildFastWithAI",
-      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
+      "title": "先週のAIニュースまとめ（7/13-19）",
+      "summary": "GPT-5.6 Bedrock提供、MUFGのAIエージェント検討、Gemini延期など。",
+      "source": "Cantabile",
+      "source_url": "https://cantabile.alhinc.jp/culture/12202/"
     },
     {
       "rank": 7,
-      "title": "Reid Hoffman: xAIはtrain wreck",
-      "summary": "LinkedIn共同創業者HoffmanがxAIを厳しく批判。一方OpenAIとAnthropicには余地ありと。",
-      "source": "Fortune",
-      "source_url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
+      "title": "Foundation「Phantom」武装版開発",
+      "summary": "ヒューマノイド戦闘ロボット、2027年テスト予定。",
+      "source": "Innovatopia",
+      "source_url": ""
     },
     {
       "rank": 8,
-      "title": "AnthropicとSpaceXの意外な提携",
-      "summary": "AnthropicがSpaceXのcompute獲得でrate limit大幅向上。OpenAI裁判の動向も。",
-      "source": "YouTube - Alex Kantrowitz",
-      "source_url": "https://www.youtube.com/watch?v=38Q4mhLQEv8"
+      "title": "2026年7月 AIニュース総まとめ",
+      "summary": "GPT-5.6時代開始、AIエージェント競争激化、安全性議論。",
+      "source": "Note",
+      "source_url": "https://note.com/hiro924164/n/n3b016641f74f"
     },
     {
       "rank": 9,
-      "title": "Platform vs Product: Anthropic/OpenAI/xAIのIPO分析",
-      "summary": "各社がproductからplatformへ移行中。実行リスクが異なる2026年の戦略。",
-      "source": "Klover.ai",
-      "source_url": "https://www.klover.ai/comparative-ipo-analysis-platform-vs-product_anthropic_openai_and_spacex_xai_comprehensive_research_2026/"
+      "title": "Broadcom・Apple、AIチップ供給契約延長",
+      "summary": "2031年まで契約延長。AI需要が内製化の限界を問う。",
+      "source": "Innovatopia",
+      "source_url": ""
     },
     {
       "rank": 10,
-      "title": "AI業界2026年上半期まとめ",
-      "summary": "モデルリリースラッシュ、資金調達記録、地政学リスクの中で業界が急成長。",
-      "source": "Various",
-      "source_url": ""
+      "title": "生成AI最新情報提供イベント",
+      "summary": "東京大学吉田研究室が教育分野の生成AI動向を紹介。",
+      "source": "YouTube",
+      "source_url": "https://www.youtube.com/watch?v=pVDkNpcfUjU"
     }
   ]
 }
