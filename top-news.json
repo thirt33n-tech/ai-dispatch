@@ -5,8 +5,8 @@
     "title": "米でAIデータセンター反対運動拡大",
     "lead1": "住民反対が強まる",
     "lead2": "電力・水資源が争点",
-    "manga_url": "news/top1_manga.png",
-    "video_url": "",
+    "manga_url": "news/top1_manga_2026-07-22.png",
+    "video_url": "https://www.youtube.com/watch?v=nO9n6O58GaY",
     "summary": "ロイター報道。ミシガン州などで建設反対が強まる。AI需要による電力・水消費が中間選挙の新争点に。",
     "media_updated_at": "2026-07-22"
   },
@@ -45,13 +45,34 @@
     }
   ],
   "topList": [
-    {"rank": 4, "title": "TikTokがAI肖像検出テスト開始"},
-    {"rank": 5, "title": "AIエージェントの構造的欠陥を指摘"},
-    {"rank": 6, "title": "先週のAIニュースまとめ（7/13-19）"},
-    {"rank": 7, "title": "Foundation「Phantom」武装版開発"},
-    {"rank": 8, "title": "2026年7月 AIニュース総まとめ"},
-    {"rank": 9, "title": "Broadcom・Apple、AIチップ供給契約延長"},
-    {"rank": 10, "title": "生成AI最新情報提供イベント"}
+    {
+      "rank": 4,
+      "title": "TikTokがAI肖像検出テスト開始"
+    },
+    {
+      "rank": 5,
+      "title": "AIエージェントの構造的欠陥を指摘"
+    },
+    {
+      "rank": 6,
+      "title": "先週のAIニュースまとめ（7/13-19）"
+    },
+    {
+      "rank": 7,
+      "title": "Foundation「Phantom」武装版開発"
+    },
+    {
+      "rank": 8,
+      "title": "2026年7月 AIニュース総まとめ"
+    },
+    {
+      "rank": 9,
+      "title": "Broadcom・Apple、AIチップ供給契約延長"
+    },
+    {
+      "rank": 10,
+      "title": "生成AI最新情報提供イベント"
+    }
   ],
   "archive": [
     {
