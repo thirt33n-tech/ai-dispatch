@@ -1,14 +1,12 @@
 {
-  "dispatchNo": 174,
-  "dateLabel": "2026.07.22",
+  "dispatchNo": 175,
+  "dateLabel": "2026.07.23",
   "top1": {
-    "title": "米でAIデータセンター反対運動拡大",
-    "lead1": "住民反対が強まる",
-    "lead2": "電力・水資源が争点",
-    "manga_url": "news/top1_manga_2026-07-22.png",
-    "video_url": "https://www.youtube.com/watch?v=nO9n6O58GaY",
-    "summary": "ロイター報道。ミシガン州などで建設反対が強まる。AI需要による電力・水消費が中間選挙の新争点に。",
-    "media_updated_at": "2026-07-22"
+    "title": "AIインフラ投資、企業間連携が加速",
+    "lead1": "AI開発を支える大型投資が相次ぐ",
+    "lead2": "計算資源の争奪戦が新局面へ",
+    "manga_url": "news/top1_manga.png",
+    "video_url": ""
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,61 +18,47 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "GPT-5.6がAmazon Bedrockで提供開始",
-    "NTT・TBS、AI新会社「e6」を8月設立",
-    "TikTokがAI肖像検出テスト開始",
-    "AIエージェントの構造的欠陥を指摘",
-    "先週のAIニュースまとめ（7/13-19）",
-    "Foundation「Phantom」武装版開発",
-    "2026年7月 AIニュース総まとめ"
+    "中国AI、OpenAIエージェント問題で注目",
+    "Google、Gemini新モデル3種を発表",
+    "OpenAI、AI拡大へ1220億ドルを調達",
+    "Anthropic、教師向けClaudeを発表",
+    "EU、GoogleにAI競合への機能開放を要求",
+    "OpenAI、AI時代の成果指標を提言",
+    "Anthropic、Claude Sonnet 5を提供開始"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "GPT-5.6がAmazon Bedrockで提供開始",
-      "summary": "OpenAI最新モデルが企業向けクラウドで利用可能に。AIエージェント活用が加速。",
+      "title": "中国AI、OpenAIエージェント問題で注目",
+      "summary": "Hugging Faceが侵害分析で中国のオープンモデルを使ったとReutersが報道。安全ガードレールとの対比が注目される。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "NTT・TBS、AI新会社「e6」を8月設立",
-      "summary": "tsuzumi 2とIPを活用した子ども向けエデュテインメントにAI投入。",
+      "title": "Google、Gemini新モデル3種を発表",
+      "summary": "Gemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyberを紹介。用途別の高速性と安全性を強化する。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {
-      "rank": 4,
-      "title": "TikTokがAI肖像検出テスト開始"
-    },
-    {
-      "rank": 5,
-      "title": "AIエージェントの構造的欠陥を指摘"
-    },
-    {
-      "rank": 6,
-      "title": "先週のAIニュースまとめ（7/13-19）"
-    },
-    {
-      "rank": 7,
-      "title": "Foundation「Phantom」武装版開発"
-    },
-    {
-      "rank": 8,
-      "title": "2026年7月 AIニュース総まとめ"
-    },
-    {
-      "rank": 9,
-      "title": "Broadcom・Apple、AIチップ供給契約延長"
-    },
-    {
-      "rank": 10,
-      "title": "生成AI最新情報提供イベント"
-    }
+    {"rank": 4, "title": "OpenAI、AI拡大へ1220億ドルを調達"},
+    {"rank": 5, "title": "Anthropic、教師向けClaudeを発表"},
+    {"rank": 6, "title": "EU、GoogleにAI競合への機能開放を要求"},
+    {"rank": 7, "title": "OpenAI、AI時代の成果指標を提言"},
+    {"rank": 8, "title": "Anthropic、Claude Sonnet 5を提供開始"},
+    {"rank": 9, "title": "日本、国家AIインフラ構築を始動"},
+    {"rank": 10, "title": "Google、AI検索の新時代を発表"}
   ],
   "archive": [
+    {
+      "no": 174,
+      "kind": "📖 漫画",
+      "date": "07.22",
+      "img": "news/top1_manga_2026-07-22.png",
+      "title": "米でAIデータセンター反対運動拡大"
+    },
     {
       "no": 173,
       "kind": "📖 漫画",
