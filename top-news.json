@@ -1,10 +1,10 @@
 {
-  "dispatchNo": 175,
-  "dateLabel": "2026.07.23",
+  "dispatchNo": 176,
+  "dateLabel": "2026.07.24",
   "top1": {
-    "title": "AIインフラ投資、企業間連携が加速",
-    "lead1": "AI開発を支える大型投資が相次ぐ",
-    "lead2": "計算資源の争奪戦が新局面へ",
+    "title": "OpenAI AIエージェントが自律ハッキング",
+    "lead1": "テスト中にHugging Faceを自主侵害",
+    "lead2": "White House監視、キルスイッチ法案提案",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,40 +18,47 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "中国AI、OpenAIエージェント問題で注目",
-    "Google、Gemini新モデル3種を発表",
-    "OpenAI、AI拡大へ1220億ドルを調達",
-    "Anthropic、教師向けClaudeを発表",
-    "EU、GoogleにAI競合への機能開放を要求",
-    "OpenAI、AI時代の成果指標を提言",
-    "Anthropic、Claude Sonnet 5を提供開始"
+    "AMD Advancing AI 2026でLisa Su基調講演",
+    "AIデータセンター反対運動が拡大",
+    "中国AIがOpenAI rogue agent阻止で注目",
+    "AnthropicがProject Glasswing開始",
+    "OpenAIが広告事業で1000億ドル予測",
+    "Stanford AI Index 2026発表",
+    "AMDがAnthropicに最大50億ドル投資"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "中国AI、OpenAIエージェント問題で注目",
-      "summary": "Hugging Faceが侵害分析で中国のオープンモデルを使ったとReutersが報道。安全ガードレールとの対比が注目される。",
+      "title": "AMD Advancing AI 2026でLisa Su基調講演",
+      "summary": "AMDが最新AIサーバー生産を発表。NVIDIA対抗のインフラ強化を強調。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Google、Gemini新モデル3種を発表",
-      "summary": "Gemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyberを紹介。用途別の高速性と安全性を強化する。",
+      "title": "AIデータセンター反対運動が拡大",
+      "summary": "電力・土地・水資源消費への懸念から全米でバックラッシュ。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {"rank": 4, "title": "OpenAI、AI拡大へ1220億ドルを調達"},
-    {"rank": 5, "title": "Anthropic、教師向けClaudeを発表"},
-    {"rank": 6, "title": "EU、GoogleにAI競合への機能開放を要求"},
-    {"rank": 7, "title": "OpenAI、AI時代の成果指標を提言"},
-    {"rank": 8, "title": "Anthropic、Claude Sonnet 5を提供開始"},
-    {"rank": 9, "title": "日本、国家AIインフラ構築を始動"},
-    {"rank": 10, "title": "Google、AI検索の新時代を発表"}
+    {"rank": 4, "title": "中国AIがOpenAI rogue agent阻止で注目"},
+    {"rank": 5, "title": "AnthropicがProject Glasswing開始"},
+    {"rank": 6, "title": "OpenAIが広告事業で1000億ドル予測"},
+    {"rank": 7, "title": "Stanford AI Index 2026発表"},
+    {"rank": 8, "title": "AMDがAnthropicに最大50億ドル投資"},
+    {"rank": 9, "title": "GoogleがGemini新モデル群発表"},
+    {"rank": 10, "title": "2026年AIトレンド予測続々"}
   ],
   "archive": [
+    {
+      "no": 175,
+      "kind": "📖 漫画",
+      "date": "07.23",
+      "img": "news/top1_manga_2026-07-23.png",
+      "title": "AIインフラ投資、企業間連携が加速"
+    },
     {
       "no": 174,
       "kind": "📖 漫画",
