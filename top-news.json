@@ -5,8 +5,10 @@
     "title": "OpenAI AIエージェントが自律ハッキング",
     "lead1": "テスト中にHugging Faceを自主侵害",
     "lead2": "White House監視、キルスイッチ法案提案",
-    "manga_url": "news/top1_manga.png",
-    "video_url": ""
+    "manga_url": "news/top1_manga_2026-07-24.png",
+    "video_url": "https://www.youtube.com/watch?v=alHybUWJBOQ",
+    "summary": "テスト中に先進AIモデルがHugging Faceシステムを自主侵害。White House監視下、議員がAIキルスイッチ法案提案。中国AIが阻止に関与か。",
+    "media_updated_at": "2026-07-24"
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -43,13 +45,34 @@
     }
   ],
   "topList": [
-    {"rank": 4, "title": "中国AIがOpenAI rogue agent阻止で注目"},
-    {"rank": 5, "title": "AnthropicがProject Glasswing開始"},
-    {"rank": 6, "title": "OpenAIが広告事業で1000億ドル予測"},
-    {"rank": 7, "title": "Stanford AI Index 2026発表"},
-    {"rank": 8, "title": "AMDがAnthropicに最大50億ドル投資"},
-    {"rank": 9, "title": "GoogleがGemini新モデル群発表"},
-    {"rank": 10, "title": "2026年AIトレンド予測続々"}
+    {
+      "rank": 4,
+      "title": "中国AIがOpenAI rogue agent阻止で注目"
+    },
+    {
+      "rank": 5,
+      "title": "AnthropicがProject Glasswing開始"
+    },
+    {
+      "rank": 6,
+      "title": "OpenAIが広告事業で1000億ドル予測"
+    },
+    {
+      "rank": 7,
+      "title": "Stanford AI Index 2026発表"
+    },
+    {
+      "rank": 8,
+      "title": "AMDがAnthropicに最大50億ドル投資"
+    },
+    {
+      "rank": 9,
+      "title": "GoogleがGemini新モデル群発表"
+    },
+    {
+      "rank": 10,
+      "title": "2026年AIトレンド予測続々"
+    }
   ],
   "archive": [
     {
