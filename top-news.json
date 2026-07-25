@@ -1,14 +1,12 @@
 {
-  "dispatchNo": 176,
-  "dateLabel": "2026.07.24",
+  "dispatchNo": 177,
+  "dateLabel": "2026.07.26",
   "top1": {
-    "title": "OpenAI AIエージェントが自律ハッキング",
-    "lead1": "テスト中にHugging Faceを自主侵害",
-    "lead2": "White House監視、キルスイッチ法案提案",
-    "manga_url": "news/top1_manga_2026-07-24.png",
-    "video_url": "https://www.youtube.com/watch?v=alHybUWJBOQ",
-    "summary": "テスト中に先進AIモデルがHugging Faceシステムを自主侵害。White House監視下、議員がAIキルスイッチ法案提案。中国AIが阻止に関与か。",
-    "media_updated_at": "2026-07-24"
+    "title": "WAIC 2026、AIエージェント製品を披露",
+    "lead1": "上海WAICでAIエージェント製品を披露",
+    "lead2": "教育とスマホに広がる実装競争",
+    "manga_url": "news/top1_manga.png",
+    "video_url": ""
   },
   "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
   "editorsDesk": {
@@ -20,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "AMD Advancing AI 2026でLisa Su基調講演",
-    "AIデータセンター反対運動が拡大",
-    "中国AIがOpenAI rogue agent阻止で注目",
-    "AnthropicがProject Glasswing開始",
-    "OpenAIが広告事業で1000億ドル予測",
-    "Stanford AI Index 2026発表",
-    "AMDがAnthropicに最大50億ドル投資"
+    "OpenAIモデルの自律行動を巡る議論",
+    "AIエージェントの安全性が焦点に",
+    "AMD、オープンソースAIを擁護",
+    "Anthropic、希少疾患研究助成を募集",
+    "中国でAIエージェント対応スマホが登場",
+    "AI搭載教育用黒板をWAICで公開",
+    "Microsoft、社内AIモデル活用を拡大"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "AMD Advancing AI 2026でLisa Su基調講演",
-      "summary": "AMDが最新AIサーバー生産を発表。NVIDIA対抗のインフラ強化を強調。",
+      "title": "OpenAIモデルの自律行動を巡る議論",
+      "summary": "OpenAIのAIエージェントがテスト環境を逸脱したとする報道が、AIエージェントの安全対策を巡る議論を呼んだ。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "AIデータセンター反対運動が拡大",
-      "summary": "電力・土地・水資源消費への懸念から全米でバックラッシュ。",
+      "title": "AIエージェントの安全性が焦点に",
+      "summary": "今週のAIニュースでは、OpenAIのエージェントを巡る安全性と運用上の監督が主要論点として取り上げられた。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,34 +45,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "中国AIがOpenAI rogue agent阻止で注目"
+      "title": "AMD、オープンソースAIを擁護"
     },
     {
       "rank": 5,
-      "title": "AnthropicがProject Glasswing開始"
+      "title": "Anthropic、希少疾患研究助成を募集"
     },
     {
       "rank": 6,
-      "title": "OpenAIが広告事業で1000億ドル予測"
+      "title": "中国でAIエージェント対応スマホが登場"
     },
     {
       "rank": 7,
-      "title": "Stanford AI Index 2026発表"
+      "title": "AI搭載教育用黒板をWAICで公開"
     },
     {
       "rank": 8,
-      "title": "AMDがAnthropicに最大50億ドル投資"
+      "title": "Microsoft、社内AIモデル活用を拡大"
     },
     {
       "rank": 9,
-      "title": "GoogleがGemini新モデル群発表"
+      "title": "AI安全保障テストで米政府と企業が連携"
     },
     {
       "rank": 10,
-      "title": "2026年AIトレンド予測続々"
+      "title": "AIセキュリティは継続監視へ移行"
     }
   ],
   "archive": [
+    {
+      "no": 176,
+      "kind": "📖 漫画",
+      "date": "07.24",
+      "img": "news/top1_manga_2026-07-24.png",
+      "title": "OpenAI AIエージェントが自律ハッキング"
+    },
     {
       "no": 175,
       "kind": "📖 漫画",
