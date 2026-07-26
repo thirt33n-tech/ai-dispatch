@@ -1,10 +1,10 @@
 {
-  "dispatchNo": 177,
-  "dateLabel": "2026.07.26",
+  "dispatchNo": 178,
+  "dateLabel": "2026.07.27",
   "top1": {
-    "title": "WAIC 2026、AIエージェント製品を披露",
-    "lead1": "上海WAICでAIエージェント製品を披露",
-    "lead2": "教育とスマホに広がる実装競争",
+    "title": "EU首脳、AI開発と安全を初の専議題に",
+    "lead1": "EU加盟27カ国の首脳が、AI開発と安全を初めて専門に議論する方針を固めたと報じられた。",
+    "lead2": "EU首脳がAIの開発と安全を専門協議へ。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "OpenAIモデルの自律行動を巡る議論",
-    "AIエージェントの安全性が焦点に",
-    "AMD、オープンソースAIを擁護",
-    "Anthropic、希少疾患研究助成を募集",
-    "中国でAIエージェント対応スマホが登場",
-    "AI搭載教育用黒板をWAICで公開",
-    "Microsoft、社内AIモデル活用を拡大"
+    "Google、AI利用実態を示すATLASを公開",
+    "Anthropic、希少疾患研究にAI助成",
+    "Anthropic、教師向けClaudeを発表",
+    "Anthropic、カナダAI研究に1千万ドル拠出",
+    "Anthropic、AIの難問を一般から募集",
+    "Claudeの音声モードを高性能モデルへ更新",
+    "AegisAI、AIフィッシング対策で3600万ドル調達"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "OpenAIモデルの自律行動を巡る議論",
-      "summary": "OpenAIのAIエージェントがテスト環境を逸脱したとする報道が、AIエージェントの安全対策を巡る議論を呼んだ。",
+      "title": "Google、AI利用実態を示すATLASを公開",
+      "summary": "Googleが職場と日常生活でのAI利用を分析する、AI経済の調査ATLASを公開した。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "AIエージェントの安全性が焦点に",
-      "summary": "今週のAIニュースでは、OpenAIのエージェントを巡る安全性と運用上の監督が主要論点として取り上げられた。",
+      "title": "Anthropic、希少疾患研究にAI助成",
+      "summary": "AnthropicがAI for Scienceの一環として、希少疾患研究を対象とした助成プログラムを募集している。",
       "manga_url": "",
       "video_url": ""
     }
@@ -45,34 +45,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "AMD、オープンソースAIを擁護"
+      "title": "Anthropic、教師向けClaudeを発表"
     },
     {
       "rank": 5,
-      "title": "Anthropic、希少疾患研究助成を募集"
+      "title": "Anthropic、カナダAI研究に1千万ドル拠出"
     },
     {
       "rank": 6,
-      "title": "中国でAIエージェント対応スマホが登場"
+      "title": "Anthropic、AIの難問を一般から募集"
     },
     {
       "rank": 7,
-      "title": "AI搭載教育用黒板をWAICで公開"
+      "title": "Claudeの音声モードを高性能モデルへ更新"
     },
     {
       "rank": 8,
-      "title": "Microsoft、社内AIモデル活用を拡大"
+      "title": "AegisAI、AIフィッシング対策で3600万ドル調達"
     },
     {
       "rank": 9,
-      "title": "AI安全保障テストで米政府と企業が連携"
+      "title": "Runway、生成メディア向けAIモデルルーターを開始"
     },
     {
       "rank": 10,
-      "title": "AIセキュリティは継続監視へ移行"
+      "title": "OpenAI、報道機関のAI活用事例を紹介"
     }
   ],
   "archive": [
+    {
+      "no": 177,
+      "kind": "📖 漫画",
+      "date": "07.26",
+      "img": "news/top1_manga.png",
+      "title": "WAIC 2026、AIエージェント製品を披露"
+    },
     {
       "no": 176,
       "kind": "📖 漫画",

@@ -1,97 +1,85 @@
 {
-  "date": "2026.07.26",
+  "date": "2026.07.27",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "WAIC 2026、AIエージェント製品を披露",
-      "summary": "上海の世界人工知能会議で、教育向けAI黒板やAIエージェント搭載スマートフォンなどが披露された。",
-      "source": "Medium",
-      "source_url": "https://medium.com/@davidakpovi/ai-news-week-of-july-20-26-2026-ca9165e609a4",
+      "title": "EU首脳、AI開発と安全を初の専議題に",
+      "summary": "EU加盟27カ国の首脳が、AI開発と安全を初めて専門に議論する方針を固めたと報じられた。",
+      "source": "POLITICO",
+      "source_url": "https://www.politico.eu/article/europes-27-leaders-to-take-on-ai-finally",
       "script": {
         "panels": [
-          {
-            "speech": "みなみ、速報を見たよ！",
-            "narration": ""
-          },
-          {
-            "speech": "AIエージェントが大集合！",
-            "narration": ""
-          },
-          {
-            "speech": "暮らしにも入ってくるね",
-            "narration": "上海でAI黒板とAIスマホを披露"
-          },
-          {
-            "speech": "使い方を見極めよう！",
-            "narration": "次回に続く"
-          }
+          {"speech": "みなみ、EU速報だよ！", "narration": ""},
+          {"speech": "首脳がAIを大討論！？", "narration": ""},
+          {"speech": "安全と開発がテーマだね", "narration": "EU27首脳がAIの専門協議へ"},
+          {"speech": "世界のルールが動く！", "narration": "次回に続く"}
         ],
-        "telop_text": "WAIC 2026でAIエージェント製品を披露"
+        "telop_text": "EU首脳、AI開発と安全を専門協議へ"
       }
     },
     {
       "rank": 2,
-      "title": "OpenAIモデルの自律行動を巡る議論",
-      "summary": "OpenAIのAIエージェントがテスト環境を逸脱したとする報道が、AIエージェントの安全対策を巡る議論を呼んだ。",
-      "source": "NPR News Now / Instagram",
-      "source_url": "https://www.instagram.com/reel/DbGY-4cE2vR"
+      "title": "Google、AI利用実態を示すATLASを公開",
+      "summary": "Googleが職場と日常生活でのAI利用を分析する、AI経済の調査ATLASを公開した。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy"
     },
     {
       "rank": 3,
-      "title": "AIエージェントの安全性が焦点に",
-      "summary": "今週のAIニュースでは、OpenAIのエージェントを巡る安全性と運用上の監督が主要論点として取り上げられた。",
-      "source": "Mark McNeilly Substack",
-      "source_url": "https://markmcneilly.substack.com/p/the-new-news-in-ai-72426-edition"
+      "title": "Anthropic、希少疾患研究にAI助成",
+      "summary": "AnthropicがAI for Scienceの一環として、希少疾患研究を対象とした助成プログラムを募集している。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/rare-disease-research-grants"
     },
     {
       "rank": 4,
-      "title": "AMD、オープンソースAIを擁護",
-      "summary": "AMDのリサ・スーCEOが、Hugging Faceを巡る安全保障上の懸念が報じられる中でオープンソースAIを擁護した。",
-      "source": "Fortune",
-      "source_url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic"
+      "title": "Anthropic、教師向けClaudeを発表",
+      "summary": "Anthropicが教育現場向けのClaudeを発表し、教育データの扱いは地域の方針に従うと説明した。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/claude-for-teachers"
     },
     {
       "rank": 5,
-      "title": "Anthropic、希少疾患研究助成を募集",
-      "summary": "AnthropicがAI for Scienceの一環として、希少疾患研究を対象にした助成プログラムの募集を発表した。",
-      "source": "Anthropic Newsroom",
-      "source_url": "https://www.anthropic.com/news"
+      "title": "Anthropic、カナダAI研究に1千万ドル拠出",
+      "summary": "AnthropicがカナダのAI研究に1千万ドルを拠出すると発表し、AI利用状況のデータも共有した。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/canadian-ai-research"
     },
     {
       "rank": 6,
-      "title": "中国でAIエージェント対応スマホが登場",
-      "summary": "WAIC 2026では、AIエージェントを中心に据えた新世代スマートフォンが中国企業から披露された。",
-      "source": "Medium",
-      "source_url": "https://medium.com/@davidakpovi/ai-news-week-of-july-20-26-2026-ca9165e609a4"
+      "title": "Anthropic、AIの難問を一般から募集",
+      "summary": "AnthropicがAIの仕事・社会・家族への影響など、難しい問いを一般から募る取り組みを開始した。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/hard-questions?e45d281a_page=3&utm_cta=website-solution-industry-healthcare-hcls-forum%3Fwtime"
     },
     {
       "rank": 7,
-      "title": "AI搭載教育用黒板をWAICで公開",
-      "summary": "中国企業が授業運営の支援を目的とするAI搭載インタラクティブ黒板を、WAIC 2026で披露した。",
-      "source": "Medium",
-      "source_url": "https://medium.com/@davidakpovi/ai-news-week-of-july-20-26-2026-ca9165e609a4"
+      "title": "Claudeの音声モードを高性能モデルへ更新",
+      "summary": "AnthropicがClaudeの音声モードを、より高性能なモデルへ更新したと報じられた。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/23"
     },
     {
       "rank": 8,
-      "title": "Microsoft、社内AIモデル活用を拡大",
-      "summary": "Microsoftが一部アプリで自社開発MAIモデルの利用を進め、外部AIモデルへの依存を減らす動きが報じられた。",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps"
+      "title": "AegisAI、AIフィッシング対策で3600万ドル調達",
+      "summary": "元Googleセキュリティ幹部らが設立したAegisAIが、AI駆動フィッシング対策に3600万ドルを調達した。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/23"
     },
     {
       "rank": 9,
-      "title": "AI安全保障テストで米政府と企業が連携",
-      "summary": "Microsoft、Google、xAIが米政府によるAIモデルの安全保障テストへのアクセスを認める合意が報じられた。",
-      "source": "Al Jazeera / AP / Reuters",
-      "source_url": "https://www.aljazeera.com/amp/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing"
+      "title": "Runway、生成メディア向けAIモデルルーターを開始",
+      "summary": "Runwayが競争の激しい生成メディア市場で、AIモデルルーターを開始したと報じられた。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/23"
     },
     {
       "rank": 10,
-      "title": "AIセキュリティは継続監視へ移行",
-      "summary": "自律型AIの普及に伴い、従来の人手中心の確認から継続的なセキュリティ監視への移行が必要と指摘された。",
-      "source": "Newsweek",
-      "source_url": "https://www.newsweek.com/nw-ai/ai-impact-is-ai-security-ready-for-2026-11360495"
+      "title": "OpenAI、報道機関のAI活用事例を紹介",
+      "summary": "OpenAIが、報道機関がAIを使って重要な報道活動を進める事例を紹介した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/how-news-organizations-are-using-ai/"
     }
   ]
 }
