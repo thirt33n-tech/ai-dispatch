@@ -1,85 +1,97 @@
 {
-  "date": "2026.07.27",
+  "date": "2026.07.28",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "EU首脳、AI開発と安全を初の専議題に",
-      "summary": "EU加盟27カ国の首脳が、AI開発と安全を初めて専門に議論する方針を固めたと報じられた。",
-      "source": "POLITICO",
-      "source_url": "https://www.politico.eu/article/europes-27-leaders-to-take-on-ai-finally",
+      "title": "中国、米国の「AI覇権主義」を批判",
+      "summary": "中国が米国によるAI関連の調査方針を「AI覇権主義」と批判し、対抗措置の可能性に言及した。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/china-accuses-us-ai-hegemonism-threatens-countermeasures-over-potential-probes-2026-07-27",
       "script": {
         "panels": [
-          {"speech": "みなみ、EU速報だよ！", "narration": ""},
-          {"speech": "首脳がAIを大討論！？", "narration": ""},
-          {"speech": "安全と開発がテーマだね", "narration": "EU27首脳がAIの専門協議へ"},
-          {"speech": "世界のルールが動く！", "narration": "次回に続く"}
+          {
+            "speech": "みなみ、米中AI速報！",
+            "narration": ""
+          },
+          {
+            "speech": "AI覇権って大変！",
+            "narration": ""
+          },
+          {
+            "speech": "中国が反発を表明",
+            "narration": "AIを巡る米中対立が浮上"
+          },
+          {
+            "speech": "ルール作りが急務！",
+            "narration": "次回に続く"
+          }
         ],
-        "telop_text": "EU首脳、AI開発と安全を専門協議へ"
+        "telop_text": "中国、米国のAI覇権主義を批判"
       }
     },
     {
       "rank": 2,
-      "title": "Google、AI利用実態を示すATLASを公開",
-      "summary": "Googleが職場と日常生活でのAI利用を分析する、AI経済の調査ATLASを公開した。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy"
+      "title": "OpenAI、企業向けAIエージェント「Presence」発表",
+      "summary": "OpenAIが顧客対応や社内業務向けに、音声・チャットAIエージェントを提供する企業製品を発表した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/introducing-openai-presence"
     },
     {
       "rank": 3,
-      "title": "Anthropic、希少疾患研究にAI助成",
-      "summary": "AnthropicがAI for Scienceの一環として、希少疾患研究を対象とした助成プログラムを募集している。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/rare-disease-research-grants"
+      "title": "OpenAI、国家科学基盤でAI活用を提言",
+      "summary": "OpenAIが研究機関や政府と連携し、科学研究を加速するAI基盤づくりへの取り組みを示した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/advancing-the-next-era-of-national-science"
     },
     {
       "rank": 4,
+      "title": "OpenAI、エージェント時代のAI投資管理を解説",
+      "summary": "OpenAIがAI利用の可視化、コスト管理、成果に結びつく投資判断の実践手順を公開した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic、希少疾患研究向けAI助成を募集",
+      "summary": "AnthropicがAI for Scienceの取り組みとして、希少疾患研究プロジェクト向け助成を案内した。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/claude-science-ai-workbench"
+    },
+    {
+      "rank": 6,
       "title": "Anthropic、教師向けClaudeを発表",
-      "summary": "Anthropicが教育現場向けのClaudeを発表し、教育データの扱いは地域の方針に従うと説明した。",
+      "summary": "Anthropicが教師向けのClaudeを発表し、教育用途での利用とデータ方針を説明した。",
       "source": "Anthropic",
       "source_url": "https://www.anthropic.com/news/claude-for-teachers"
     },
     {
-      "rank": 5,
-      "title": "Anthropic、カナダAI研究に1千万ドル拠出",
-      "summary": "AnthropicがカナダのAI研究に1千万ドルを拠出すると発表し、AI利用状況のデータも共有した。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/canadian-ai-research"
-    },
-    {
-      "rank": 6,
-      "title": "Anthropic、AIの難問を一般から募集",
-      "summary": "AnthropicがAIの仕事・社会・家族への影響など、難しい問いを一般から募る取り組みを開始した。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/hard-questions?e45d281a_page=3&utm_cta=website-solution-industry-healthcare-hcls-forum%3Fwtime"
-    },
-    {
       "rank": 7,
-      "title": "Claudeの音声モードを高性能モデルへ更新",
-      "summary": "AnthropicがClaudeの音声モードを、より高性能なモデルへ更新したと報じられた。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/07/23"
+      "title": "Anthropic、Claude利用を振り返る機能をベータ提供",
+      "summary": "Anthropicが、Claudeの利用傾向を要約・可視化し、自身の使い方を振り返る機能を提供した。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/reflect-with-claude"
     },
     {
       "rank": 8,
-      "title": "AegisAI、AIフィッシング対策で3600万ドル調達",
-      "summary": "元Googleセキュリティ幹部らが設立したAegisAIが、AI駆動フィッシング対策に3600万ドルを調達した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/07/23"
+      "title": "NVIDIA、通信運用向けAIエージェントを紹介",
+      "summary": "NVIDIAが通信事業者のネットワーク運用を支援する、安全性と監査性を重視したAI基盤を紹介した。",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026"
     },
     {
       "rank": 9,
-      "title": "Runway、生成メディア向けAIモデルルーターを開始",
-      "summary": "Runwayが競争の激しい生成メディア市場で、AIモデルルーターを開始したと報じられた。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/07/23"
+      "title": "NVIDIA、オープンモデルの研究活用を解説",
+      "summary": "NVIDIAがICML採択論文を例に、オープンAIモデルとデータセットが研究基盤となる動きを紹介した。",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/open-models-icml-2026"
     },
     {
       "rank": 10,
-      "title": "OpenAI、報道機関のAI活用事例を紹介",
-      "summary": "OpenAIが、報道機関がAIを使って重要な報道活動を進める事例を紹介した。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/how-news-organizations-are-using-ai/"
+      "title": "米中、9月にAI協議を開催へ",
+      "summary": "米国と中国が、強力なAIモデルを巡るリスク対応を議題に9月の協議を行うと報じられた。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/china/us-china-hold-ai-talks-september-sources-say-2026-07-21"
     }
   ]
 }
