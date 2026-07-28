@@ -1,95 +1,95 @@
 {
-  "date": "2026.07.28",
+  "date": "2026.07.29",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "中国、米国の「AI覇権主義」を批判",
-      "summary": "中国が米国によるAI関連の調査方針を「AI覇権主義」と批判し、対抗措置の可能性に言及した。",
+      "title": "Anthropic、新AIモデルを公開へ",
+      "summary": "米当局の承認を得たとされるAnthropicの新AIモデルが注目を集めている。",
       "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/china-accuses-us-ai-hegemonism-threatens-countermeasures-over-potential-probes-2026-07-27",
+      "source_url": "https://www.facebook.com/Reuters/posts/from-anthropics-new-ai-models-finally-getting-clearance-from-us-officials-to-met/1595863695737690",
       "script": {
         "panels": [
           {
-            "speech": "みなみ、米中AI速報！",
+            "speech": "みなみ、新モデル解禁!?",
             "narration": ""
           },
           {
-            "speech": "AI覇権って大変！",
+            "speech": "えっ、ついに来たの!?",
             "narration": ""
           },
           {
-            "speech": "中国が反発を表明",
-            "narration": "AIを巡る米中対立が浮上"
+            "speech": "安全確認を経て公開へ",
+            "narration": "米当局の承認を得たとされる新AIモデルが注目を集める。"
           },
           {
-            "speech": "ルール作りが急務！",
+            "speech": "使い道を見極めたいね",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "中国、米国のAI覇権主義を批判"
+        "telop_text": "Anthropicの新AIモデル、米当局の承認で注目"
       }
     },
     {
       "rank": 2,
-      "title": "OpenAI、企業向けAIエージェント「Presence」発表",
-      "summary": "OpenAIが顧客対応や社内業務向けに、音声・チャットAIエージェントを提供する企業製品を発表した。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/introducing-openai-presence"
+      "title": "米政府、OpenAIのAI事故報道を注視",
+      "summary": "OpenAIを巡るAI安全の事案について、米政府と議会の対応が焦点になっている。",
+      "source": "Reuters",
+      "source_url": ""
     },
     {
       "rank": 3,
-      "title": "OpenAI、国家科学基盤でAI活用を提言",
-      "summary": "OpenAIが研究機関や政府と連携し、科学研究を加速するAI基盤づくりへの取り組みを示した。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/advancing-the-next-era-of-national-science"
+      "title": "AIインフラ投資、企業間連携が拡大",
+      "summary": "OpenAIやNVIDIAなどを含む企業が、AI向け計算基盤への大型投資を進めている。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/autos-transportation/companies-pouring-billions-advance-ai-infrastructure-2026-07-22"
     },
     {
       "rank": 4,
-      "title": "OpenAI、エージェント時代のAI投資管理を解説",
-      "summary": "OpenAIがAI利用の可視化、コスト管理、成果に結びつく投資判断の実践手順を公開した。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+      "title": "Meta、独自AIチップ量産を9月に計画",
+      "summary": "MetaはAI用途の自社チップについて、生産開始と計算能力拡大を計画している。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09"
     },
     {
       "rank": 5,
-      "title": "Anthropic、希少疾患研究向けAI助成を募集",
-      "summary": "AnthropicがAI for Scienceの取り組みとして、希少疾患研究プロジェクト向け助成を案内した。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/claude-science-ai-workbench"
+      "title": "テック大手、オープンモデル支持を表明",
+      "summary": "NVIDIAやMicrosoftなどが、オープンなAIモデルを支持する動きを見せている。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/nvidia-microsoft-other-tech-giants-back-open-source-ai-models-2026-07-24"
     },
     {
       "rank": 6,
-      "title": "Anthropic、教師向けClaudeを発表",
-      "summary": "Anthropicが教師向けのClaudeを発表し、教育用途での利用とデータ方針を説明した。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/claude-for-teachers"
+      "title": "OpenAI、AIが仕事を広げる影響を分析",
+      "summary": "OpenAIは利用データを基に、AIが職種をまたぐ業務をどう広げるかを分析した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
     },
     {
       "rank": 7,
-      "title": "Anthropic、Claude利用を振り返る機能をベータ提供",
-      "summary": "Anthropicが、Claudeの利用傾向を要約・可視化し、自身の使い方を振り返る機能を提供した。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/reflect-with-claude"
+      "title": "米NTIA、AIネイティブ通信網への助成募集",
+      "summary": "米NTIAがAIネイティブ無線ネットワークの研究開発を支援する資金公募を発表した。",
+      "source": "NTIA",
+      "source_url": "https://www.ntia.gov/press-release/2026/ntia-announces-funding-opportunity-ai-native-wireless-network-innovation"
     },
     {
       "rank": 8,
-      "title": "NVIDIA、通信運用向けAIエージェントを紹介",
-      "summary": "NVIDIAが通信事業者のネットワーク運用を支援する、安全性と監査性を重視したAI基盤を紹介した。",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026"
+      "title": "国連、AIガバナンスの国際対話を推進",
+      "summary": "国連はAIの機会とリスクを評価する国際的な科学・政策対話を進めている。",
+      "source": "UN News",
+      "source_url": "https://news.un.org/en/story/2026/07/1167848"
     },
     {
       "rank": 9,
-      "title": "NVIDIA、オープンモデルの研究活用を解説",
-      "summary": "NVIDIAがICML採択論文を例に、オープンAIモデルとデータセットが研究基盤となる動きを紹介した。",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com/blog/open-models-icml-2026"
+      "title": "EU、AI規則を簡素化する法案を最終承認",
+      "summary": "EU理事会はAI法の一部運用を簡素化・合理化する新たな規則を最終承認した。",
+      "source": "Council of the EU",
+      "source_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules"
     },
     {
       "rank": 10,
-      "title": "米中、9月にAI協議を開催へ",
-      "summary": "米国と中国が、強力なAIモデルを巡るリスク対応を議題に9月の協議を行うと報じられた。",
+      "title": "米中、9月のAI協議を予定",
+      "summary": "米国と中国はAIを巡る政府間協議を9月に開く方向で調整していると報じられた。",
       "source": "Reuters",
       "source_url": "https://www.reuters.com/world/china/us-china-hold-ai-talks-september-sources-say-2026-07-21"
     }
