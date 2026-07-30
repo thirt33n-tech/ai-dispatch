@@ -1,97 +1,85 @@
 {
-  "date": "2026.07.30",
+  "date": "2026.07.31",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "米政府、AIデータセンター向け光技術に3億ドル",
-      "summary": "米政府はGlobalFoundriesに、AIデータセンターの効率化を狙うシリコンフォトニクス研究へ3億ドルを拠出する。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/us-award-globalfoundries-300-million-develop-faster-ai-chip-links-2026-07-29",
+      "title": "OpenAI、GPT-5.6の価格性能改善を発表",
+      "summary": "OpenAIはGPT-5.6の価格性能フロンティアを前進させると発表し、最新モデルの提供を案内した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/gpt-5-6",
       "script": {
         "panels": [
-          {
-            "speech": "みなみ、光技術に注目！",
-            "narration": ""
-          },
-          {
-            "speech": "3億ドルってすごい！",
-            "narration": ""
-          },
-          {
-            "speech": "AI施設をもっと効率化",
-            "narration": "米政府がAIデータセンター向け光技術の研究を支援。"
-          },
-          {
-            "speech": "通信の進化が楽しみ！",
-            "narration": "次回に続く"
-          }
+          {"speech": "みなみ、速報を見たよ！", "narration": ""},
+          {"speech": "GPT-5.6が進化！？", "narration": ""},
+          {"speech": "価格性能の改善が発表！", "narration": "最新モデルの提供が案内されたよ"},
+          {"speech": "使い方も変わりそう！", "narration": "次回に続く"}
         ],
-        "telop_text": "米政府、AIデータセンター向け光技術に3億ドル"
+        "telop_text": "OpenAI、GPT-5.6の価格性能改善を発表"
       }
     },
     {
       "rank": 2,
-      "title": "UMC、AI需要で設備投資を増額",
-      "summary": "台湾UMCはAI需要の拡大を受け、シンガポールと台湾の生産能力拡張を進め、2026年設備投資を20億ドルへ増額する。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/taiwans-umc-raises-2026-capex-expands-singapore-taiwan-fabs-ai-demand-2026-07-29"
+      "title": "NTTドコモビジネス、発明提案支援AIエージェント提供",
+      "summary": "NTTドコモビジネスは、特許出願につながる発明提案の整理を支援するAIエージェントを7月30日に提供開始した。",
+      "source": "NTTドコモビジネス",
+      "source_url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0730.html"
     },
     {
       "rank": 3,
-      "title": "イタリアと米国、AI供給網連携へ",
-      "summary": "イタリアと米国は、半導体・重要鉱物・AIモデルを含むAI関連サプライチェーン協力「Pax Silica」を進める。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/china/italy-us-sign-off-pax-silica-ai-initiative-after-spat-with-trump-2026-07-29"
+      "title": "LINEヤフー、写真で商品を探すAI機能を追加",
+      "summary": "LINEヤフーはAIエージェント「Agent i」の買い物機能に、写真から商品を探せるショッピングレンズを追加した。",
+      "source": "LINEヤフー",
+      "source_url": "https://www.lycorp.co.jp/ja/news/release/020686"
     },
     {
       "rank": 4,
-      "title": "ChipAgents、AI半導体設計で6000万ドル調達",
-      "summary": "半導体設計をAIエージェントで高速化するChipAgentsが、事業拡大に向けシリーズAで6000万ドルを追加調達した。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/nvidia-partner-chipagents-raises-60-million-accelerate-chip-design-with-ai-2026-07-29"
+      "title": "NTTデータとNTTドコモ、AI活用サイバー対策を提供開始",
+      "summary": "両社はフロンティアAIを使い、脅威・脆弱性の発見から修復対応までを支援するサービスを7月31日から始める。",
+      "source": "NTTドコモビジネス",
+      "source_url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0707.html"
     },
     {
       "rank": 5,
-      "title": "Pangram、AI生成文検出で900万ドル調達",
-      "summary": "AI生成コンテンツの急増を背景に、検出技術を手がけるPangramが900万ドルを調達した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it"
+      "title": "Canva、生成AI企業Leonardo.AIを買収",
+      "summary": "Canvaは生成AIプラットフォームLeonardo.AIの買収を発表し、従業員120人がCanvaに加わる見込みとされた。",
+      "source": "分析屋",
+      "source_url": "https://note.com/bunsekiya_tech/n/n470cd6fc9ed9"
     },
     {
       "rank": 6,
-      "title": "Encore AI、通話学習エージェントで3000万ドル調達",
-      "summary": "顧客通話を学習し、営業やサポートを担うAI音声エージェントを開発するEncore AIがシリーズAで3000万ドルを調達した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls"
+      "title": "Midjourney、画像生成モデルVersion 6.1を公開",
+      "summary": "MidjourneyはVersion 6.1を公開し、画質や細部表現、画像処理で生じる不自然さの改善を案内した。",
+      "source": "分析屋",
+      "source_url": "https://note.com/bunsekiya_tech/n/n470cd6fc9ed9"
     },
     {
       "rank": 7,
-      "title": "AI競争、アジア航空貨物網を再編",
-      "summary": "次世代AIプロセッサー需要の拡大により、半導体製造拠点を結ぶアジアの航空貨物ネットワークが再編されている。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/aerospace-defense/ai-race-redraws-asian-air-cargo-replacing-e-commerce-growth-engine-2026-07-29"
+      "title": "AI Picasso、約1000万枚の画像データセットを無償公開",
+      "summary": "AI PicassoはAIモデル開発向けに、著作権へ配慮した約1000万枚の画像によるデータセットを無償公開した。",
+      "source": "分析屋",
+      "source_url": "https://note.com/bunsekiya_tech/n/n470cd6fc9ed9"
     },
     {
       "rank": 8,
-      "title": "AI投資の採算懸念、社債市場にも波及",
-      "summary": "AI投資を主導する企業の債券に対する保険コストが上昇し、巨額投資の収益化を巡る市場の懸念が強まっている。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/finance/global-markets-cds-explainer-2026-07-29"
+      "title": "Nint、ECデータ分析AIエージェントを提供開始",
+      "summary": "NintはECデータの分析をチャット形式で支援するNint AI Agentを7月30日から既存契約企業向けに提供開始した。",
+      "source": "コマースピック",
+      "source_url": "https://www.commercepick.com/archives/99185"
     },
     {
       "rank": 9,
-      "title": "Sopra Steria、欧州AI需要で成長見通し上げ",
-      "summary": "Sopra Steriaは、防衛・公共部門などのAI・戦略技術案件が伸びたことを受け、2026年の成長見通しを引き上げた。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/sopra-steria-lifts-revenue-guidance-defence-business-grows-2026-07-29"
+      "title": "教育×生成AIシンポジウム、東京大学とオンラインで開催",
+      "summary": "文科省委託事業の一環として、生成AIの可能性とリスクを扱う教育×生成AIシンポジウムが7月30日に開催された。",
+      "source": "ReseEd",
+      "source_url": "https://reseed.resemom.jp/article/2026/07/14/13684.html"
     },
     {
       "rank": 10,
-      "title": "Meta、AIアシスタントにタスク自動化機能",
-      "summary": "MetaはAIアシスタントに新しいタスク自動化機能を追加し、日常操作の支援を拡大する。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/meta-adds-new-task-automation-features-ai-assistant-2026-07-24"
+      "title": "イプロスAI 2026 夏、AI・DX展示会を開催",
+      "summary": "イプロスは7月29日から31日まで、有明GYM-EXでAI・DX総合展示会を開き、企業のAI活用事例を紹介する。",
+      "source": "Yahoo!ニュース PR",
+      "source_url": "https://news.yahoo.co.jp/articles/6b60e70c4ac8506a9bbb9aa0cfc5f6590f431b81"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "dispatchNo": 181,
-  "dateLabel": "2026.07.30",
+  "dispatchNo": 182,
+  "dateLabel": "2026.07.31",
   "top1": {
-    "title": "米政府、AIデータセンター向け光技術に3億ドル",
-    "lead1": "米政府はGlobalFoundriesに、AIデータセンターの効率化を狙うシリコンフォトニクス研究へ3億ドルを拠出する。",
-    "lead2": "半導体と光通信への投資が、AI基盤の効率化を左右する。",
+    "title": "OpenAI、GPT-5.6の価格性能改善を発表",
+    "lead1": "OpenAIはGPT-5.6の価格性能フロンティアを前進させると発表し、最新モデルの提供を案内した。",
+    "lead2": "最新AIモデルの価格性能改善が、導入と活用の選択肢を広げる。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "UMC、AI需要で設備投資を増額",
-    "イタリアと米国、AI供給網連携へ",
-    "ChipAgents、AI半導体設計で6000万ドル調達",
-    "Pangram、AI生成文検出で900万ドル調達",
-    "Encore AI、通話学習エージェントで3000万ドル調達",
-    "AI競争、アジア航空貨物網を再編",
-    "AI投資の採算懸念、社債市場にも波及"
+    "NTTドコモビジネス、発明提案支援AIエージェント提供",
+    "LINEヤフー、写真で商品を探すAI機能を追加",
+    "NTTデータとNTTドコモ、AI活用サイバー対策を提供開始",
+    "Canva、生成AI企業Leonardo.AIを買収",
+    "Midjourney、画像生成モデルVersion 6.1を公開",
+    "AI Picasso、約1000万枚の画像データセットを無償公開",
+    "Nint、ECデータ分析AIエージェントを提供開始"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "UMC、AI需要で設備投資を増額",
-      "summary": "台湾UMCはAI需要の拡大を受け、シンガポールと台湾の生産能力拡張を進め、2026年設備投資を20億ドルへ増額する。",
+      "title": "NTTドコモビジネス、発明提案支援AIエージェント提供",
+      "summary": "NTTドコモビジネスは、特許出願につながる発明提案の整理を支援するAIエージェントを7月30日に提供開始した。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "イタリアと米国、AI供給網連携へ",
-      "summary": "イタリアと米国は、半導体・重要鉱物・AIモデルを含むAI関連サプライチェーン協力「Pax Silica」を進める。",
+      "title": "LINEヤフー、写真で商品を探すAI機能を追加",
+      "summary": "LINEヤフーはAIエージェント「Agent i」の買い物機能に、写真から商品を探せるショッピングレンズを追加した。",
       "manga_url": "",
       "video_url": ""
     }
@@ -45,34 +45,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "ChipAgents、AI半導体設計で6000万ドル調達"
+      "title": "NTTデータとNTTドコモ、AI活用サイバー対策を提供開始"
     },
     {
       "rank": 5,
-      "title": "Pangram、AI生成文検出で900万ドル調達"
+      "title": "Canva、生成AI企業Leonardo.AIを買収"
     },
     {
       "rank": 6,
-      "title": "Encore AI、通話学習エージェントで3000万ドル調達"
+      "title": "Midjourney、画像生成モデルVersion 6.1を公開"
     },
     {
       "rank": 7,
-      "title": "AI競争、アジア航空貨物網を再編"
+      "title": "AI Picasso、約1000万枚の画像データセットを無償公開"
     },
     {
       "rank": 8,
-      "title": "AI投資の採算懸念、社債市場にも波及"
+      "title": "Nint、ECデータ分析AIエージェントを提供開始"
     },
     {
       "rank": 9,
-      "title": "Sopra Steria、欧州AI需要で成長見通し上げ"
+      "title": "教育×生成AIシンポジウム、東京大学とオンラインで開催"
     },
     {
       "rank": 10,
-      "title": "Meta、AIアシスタントにタスク自動化機能"
+      "title": "イプロスAI 2026 夏、AI・DX展示会を開催"
     }
   ],
   "archive": [
+    {
+      "no": 181,
+      "kind": "📖 漫画",
+      "date": "07.30",
+      "img": "news/top1_manga.png",
+      "title": "米政府、AIデータセンター向け光技術に3億ドル"
+    },
     {
       "no": 180,
       "kind": "📖 漫画",
