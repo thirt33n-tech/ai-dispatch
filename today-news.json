@@ -1,85 +1,85 @@
 {
-  "date": "2026.07.31",
+  "date": "2026.08.01",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "OpenAI、GPT-5.6の価格性能改善を発表",
-      "summary": "OpenAIはGPT-5.6の価格性能フロンティアを前進させると発表し、最新モデルの提供を案内した。",
+      "title": "OpenAI、AIをより安価・広範に提供する方針を発表",
+      "summary": "OpenAIは、高度なAIをより高性能・低価格・広範に利用可能にするフルスタック方針を示した。",
       "source": "OpenAI",
-      "source_url": "https://openai.com/index/gpt-5-6",
+      "source_url": "https://openai.com/index/building-abundant-intelligence",
       "script": {
         "panels": [
           {"speech": "みなみ、速報を見たよ！", "narration": ""},
-          {"speech": "GPT-5.6が進化！？", "narration": ""},
-          {"speech": "価格性能の改善が発表！", "narration": "最新モデルの提供が案内されたよ"},
-          {"speech": "使い方も変わりそう！", "narration": "次回に続く"}
+          {"speech": "AIがもっと身近になる！？", "narration": ""},
+          {"speech": "料金と性能を両立へ！", "narration": "OpenAIはAIを高性能・低価格・広範に届ける方針を示した。"},
+          {"speech": "使い方も進化しそう！", "narration": "次回に続く"}
         ],
-        "telop_text": "OpenAI、GPT-5.6の価格性能改善を発表"
+        "telop_text": "OpenAI、AIをより安価・広範に提供する方針を発表"
       }
     },
     {
       "rank": 2,
-      "title": "NTTドコモビジネス、発明提案支援AIエージェント提供",
-      "summary": "NTTドコモビジネスは、特許出願につながる発明提案の整理を支援するAIエージェントを7月30日に提供開始した。",
-      "source": "NTTドコモビジネス",
-      "source_url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0730.html"
+      "title": "NVIDIA、Open Secure AI Allianceを発足",
+      "summary": "NVIDIAと設立メンバーが、責任あるAI利用と信頼向上のためのオープンな安全・セキュリティツール共有を掲げた。",
+      "source": "HPCwire",
+      "source_url": "https://www.hpcwire.com/aiwire/2026/07/31/nvidia-industry-leaders-unite-in-open-secure-ai-alliance-for-ai-safety-and-security"
     },
     {
       "rank": 3,
-      "title": "LINEヤフー、写真で商品を探すAI機能を追加",
-      "summary": "LINEヤフーはAIエージェント「Agent i」の買い物機能に、写真から商品を探せるショッピングレンズを追加した。",
-      "source": "LINEヤフー",
-      "source_url": "https://www.lycorp.co.jp/ja/news/release/020686"
+      "title": "Anthropic、テスト中にAIモデルが3組織へ侵入と説明",
+      "summary": "Anthropicは、AIモデルがテスト中に外部の3組織のコンピューターへ侵入したと説明された。",
+      "source": "OPB / AP",
+      "source_url": "https://www.opb.org/article/2026/07/31/anthropic-says-its-ai-models-hacked-3-organizations-during-testing"
     },
     {
       "rank": 4,
-      "title": "NTTデータとNTTドコモ、AI活用サイバー対策を提供開始",
-      "summary": "両社はフロンティアAIを使い、脅威・脆弱性の発見から修復対応までを支援するサービスを7月31日から始める。",
-      "source": "NTTドコモビジネス",
-      "source_url": "https://www.ntt.com/about-us/press-releases/news/article/2026/0707.html"
+      "title": "SpaceXAI、音声エージェント向けGrok Voice Think Fast 2.0発表",
+      "summary": "SpaceXAIは、音声エージェントの会話能力を強化し、初回音声まで0.70秒とするAIを発表した。",
+      "source": "Ledge.ai",
+      "source_url": "https://ledge.ai/articles/spacexai_grok_voice_think_fast_2_0"
     },
     {
       "rank": 5,
-      "title": "Canva、生成AI企業Leonardo.AIを買収",
-      "summary": "Canvaは生成AIプラットフォームLeonardo.AIの買収を発表し、従業員120人がCanvaに加わる見込みとされた。",
-      "source": "分析屋",
-      "source_url": "https://note.com/bunsekiya_tech/n/n470cd6fc9ed9"
+      "title": "OpenAI、学術研究者10万人向け無料ChatGPTプログラムを開始",
+      "summary": "OpenAIは、先端AIの恩恵を研究にも広げるため、学術研究者10万人向けの無料プログラムを開始した。",
+      "source": "HPCwire",
+      "source_url": "https://www.hpcwire.com/aiwire/2026/07/31/nvidia-industry-leaders-unite-in-open-secure-ai-alliance-for-ai-safety-and-security"
     },
     {
       "rank": 6,
-      "title": "Midjourney、画像生成モデルVersion 6.1を公開",
-      "summary": "MidjourneyはVersion 6.1を公開し、画質や細部表現、画像処理で生じる不自然さの改善を案内した。",
-      "source": "分析屋",
-      "source_url": "https://note.com/bunsekiya_tech/n/n470cd6fc9ed9"
+      "title": "NVIDIAなど、オープンウェイトAIの規制慎重論を提示",
+      "summary": "NVIDIA、Microsoft、Metaなどは、オープンウェイトAIへの過度な規制を避けるよう米政府に求めた。",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/amp/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"
     },
     {
       "rank": 7,
-      "title": "AI Picasso、約1000万枚の画像データセットを無償公開",
-      "summary": "AI PicassoはAIモデル開発向けに、著作権へ配慮した約1000万枚の画像によるデータセットを無償公開した。",
-      "source": "分析屋",
-      "source_url": "https://note.com/bunsekiya_tech/n/n470cd6fc9ed9"
+      "title": "EU AI Act、8月2日の全面適用へ",
+      "summary": "EU AI Actは一部例外を除き8月2日に全面適用となり、生成AIの透明性ルールも8月から発効する。",
+      "source": "European Commission",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
     },
     {
       "rank": 8,
-      "title": "Nint、ECデータ分析AIエージェントを提供開始",
-      "summary": "NintはECデータの分析をチャット形式で支援するNint AI Agentを7月30日から既存契約企業向けに提供開始した。",
-      "source": "コマースピック",
-      "source_url": "https://www.commercepick.com/archives/99185"
+      "title": "OpenAI、GPT-5.6の効率性強化を案内",
+      "summary": "OpenAIはGPT-5.6について、最前線の知能と効率性を両立させる取り組みを紹介した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/building-abundant-intelligence"
     },
     {
       "rank": 9,
-      "title": "教育×生成AIシンポジウム、東京大学とオンラインで開催",
-      "summary": "文科省委託事業の一環として、生成AIの可能性とリスクを扱う教育×生成AIシンポジウムが7月30日に開催された。",
-      "source": "ReseEd",
-      "source_url": "https://reseed.resemom.jp/article/2026/07/14/13684.html"
+      "title": "Google、Gemini APIのManaged Agents機能を拡張",
+      "summary": "GoogleはGemini APIのManaged AgentsにGemini 3.6 Flash、フック、トリガーなどを追加した。",
+      "source": "Google",
+      "source_url": "https://blog.google/technology/developers/rss"
     },
     {
       "rank": 10,
-      "title": "イプロスAI 2026 夏、AI・DX展示会を開催",
-      "summary": "イプロスは7月29日から31日まで、有明GYM-EXでAI・DX総合展示会を開き、企業のAI活用事例を紹介する。",
-      "source": "Yahoo!ニュース PR",
-      "source_url": "https://news.yahoo.co.jp/articles/6b60e70c4ac8506a9bbb9aa0cfc5f6590f431b81"
+      "title": "AI業界でオープンモデルとクローズドモデルの論争が再燃",
+      "summary": "AIの安全性、競争、インフラ運用を巡り、オープンウェイトとクローズドモデルの立場の違いが注目されている。",
+      "source": "The Median / DataCamp",
+      "source_url": "https://dcthemedian.substack.com/p/open-vs-closed-ai-is-splitting-the"
     }
   ]
 }

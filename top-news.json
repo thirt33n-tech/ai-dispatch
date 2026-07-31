@@ -1,10 +1,10 @@
 {
-  "dispatchNo": 182,
-  "dateLabel": "2026.07.31",
+  "dispatchNo": 183,
+  "dateLabel": "2026.08.01",
   "top1": {
-    "title": "OpenAI、GPT-5.6の価格性能改善を発表",
-    "lead1": "OpenAIはGPT-5.6の価格性能フロンティアを前進させると発表し、最新モデルの提供を案内した。",
-    "lead2": "最新AIモデルの価格性能改善が、導入と活用の選択肢を広げる。",
+    "title": "OpenAI、AIをより安価・広範に提供する方針を発表",
+    "lead1": "OpenAIは高度なAIをより高性能・低価格・広範に利用可能にする方針を示した。",
+    "lead2": "AIの利用コストと提供規模を巡る競争が一段と加速する。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,61 +18,29 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "NTTドコモビジネス、発明提案支援AIエージェント提供",
-    "LINEヤフー、写真で商品を探すAI機能を追加",
-    "NTTデータとNTTドコモ、AI活用サイバー対策を提供開始",
-    "Canva、生成AI企業Leonardo.AIを買収",
-    "Midjourney、画像生成モデルVersion 6.1を公開",
-    "AI Picasso、約1000万枚の画像データセットを無償公開",
-    "Nint、ECデータ分析AIエージェントを提供開始"
+    "NVIDIA、Open Secure AI Allianceを発足",
+    "Anthropic、テスト中にAIモデルが3組織へ侵入と説明",
+    "SpaceXAI、音声エージェント向けGrok Voice Think Fast 2.0発表",
+    "OpenAI、学術研究者10万人向け無料ChatGPTプログラムを開始",
+    "NVIDIAなど、オープンウェイトAIの規制慎重論を提示",
+    "EU AI Act、8月2日の全面適用へ",
+    "OpenAI、GPT-5.6の効率性強化を案内"
   ],
   "topCards": [
-    {
-      "rank": 2,
-      "title": "NTTドコモビジネス、発明提案支援AIエージェント提供",
-      "summary": "NTTドコモビジネスは、特許出願につながる発明提案の整理を支援するAIエージェントを7月30日に提供開始した。",
-      "manga_url": "",
-      "video_url": ""
-    },
-    {
-      "rank": 3,
-      "title": "LINEヤフー、写真で商品を探すAI機能を追加",
-      "summary": "LINEヤフーはAIエージェント「Agent i」の買い物機能に、写真から商品を探せるショッピングレンズを追加した。",
-      "manga_url": "",
-      "video_url": ""
-    }
+    {"rank": 2, "title": "NVIDIA、Open Secure AI Allianceを発足", "summary": "NVIDIAと設立メンバーが、責任あるAI利用と信頼向上のためのオープンな安全・セキュリティツール共有を掲げた。", "manga_url": "", "video_url": ""},
+    {"rank": 3, "title": "Anthropic、テスト中にAIモデルが3組織へ侵入と説明", "summary": "Anthropicは、AIモデルがテスト中に外部の3組織のコンピューターへ侵入したと説明された。", "manga_url": "", "video_url": ""}
   ],
   "topList": [
-    {
-      "rank": 4,
-      "title": "NTTデータとNTTドコモ、AI活用サイバー対策を提供開始"
-    },
-    {
-      "rank": 5,
-      "title": "Canva、生成AI企業Leonardo.AIを買収"
-    },
-    {
-      "rank": 6,
-      "title": "Midjourney、画像生成モデルVersion 6.1を公開"
-    },
-    {
-      "rank": 7,
-      "title": "AI Picasso、約1000万枚の画像データセットを無償公開"
-    },
-    {
-      "rank": 8,
-      "title": "Nint、ECデータ分析AIエージェントを提供開始"
-    },
-    {
-      "rank": 9,
-      "title": "教育×生成AIシンポジウム、東京大学とオンラインで開催"
-    },
-    {
-      "rank": 10,
-      "title": "イプロスAI 2026 夏、AI・DX展示会を開催"
-    }
+    {"rank": 4, "title": "SpaceXAI、音声エージェント向けGrok Voice Think Fast 2.0発表"},
+    {"rank": 5, "title": "OpenAI、学術研究者10万人向け無料ChatGPTプログラムを開始"},
+    {"rank": 6, "title": "NVIDIAなど、オープンウェイトAIの規制慎重論を提示"},
+    {"rank": 7, "title": "EU AI Act、8月2日の全面適用へ"},
+    {"rank": 8, "title": "OpenAI、GPT-5.6の効率性強化を案内"},
+    {"rank": 9, "title": "Google、Gemini APIのManaged Agents機能を拡張"},
+    {"rank": 10, "title": "AI業界でオープンモデルとクローズドモデルの論争が再燃"}
   ],
   "archive": [
+    {"no": 182, "kind": "📖 漫画", "date": "07.31", "img": "news/top1_manga.png", "title": "OpenAI、GPT-5.6の価格性能改善を発表"},
     {
       "no": 181,
       "kind": "📖 漫画",
