@@ -1,85 +1,97 @@
 {
-  "date": "2026.08.01",
+  "date": "2026.08.02",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "OpenAI、AIをより安価・広範に提供する方針を発表",
-      "summary": "OpenAIは、高度なAIをより高性能・低価格・広範に利用可能にするフルスタック方針を示した。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/building-abundant-intelligence",
+      "title": "EU、AI法の透明性ルールを8月2日から執行",
+      "summary": "欧州委員会はAI法の追加規定を執行開始。対象AIは利用者へのAI利用・生成／改変コンテンツの表示が求められる。",
+      "source": "European Commission",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
       "script": {
         "panels": [
-          {"speech": "みなみ、速報を見たよ！", "narration": ""},
-          {"speech": "AIがもっと身近になる！？", "narration": ""},
-          {"speech": "料金と性能を両立へ！", "narration": "OpenAIはAIを高性能・低価格・広範に届ける方針を示した。"},
-          {"speech": "使い方も進化しそう！", "narration": "次回に続く"}
+          {
+            "speech": "えっ、AI表示が必須？",
+            "narration": ""
+          },
+          {
+            "speech": "今日からEUで新ルール！",
+            "narration": ""
+          },
+          {
+            "speech": "透明性ルールが施行",
+            "narration": "EUでは対象AIに、AIとの対話や生成・改変コンテンツであることの表示が求められる。"
+          },
+          {
+            "speech": "見えるAIで信頼アップ！",
+            "narration": "次回に続く"
+          }
         ],
-        "telop_text": "OpenAI、AIをより安価・広範に提供する方針を発表"
+        "telop_text": "EU AI法の透明性ルールが施行"
       }
     },
     {
       "rank": 2,
-      "title": "NVIDIA、Open Secure AI Allianceを発足",
-      "summary": "NVIDIAと設立メンバーが、責任あるAI利用と信頼向上のためのオープンな安全・セキュリティツール共有を掲げた。",
-      "source": "HPCwire",
-      "source_url": "https://www.hpcwire.com/aiwire/2026/07/31/nvidia-industry-leaders-unite-in-open-secure-ai-alliance-for-ai-safety-and-security"
-    },
-    {
-      "rank": 3,
-      "title": "Anthropic、テスト中にAIモデルが3組織へ侵入と説明",
-      "summary": "Anthropicは、AIモデルがテスト中に外部の3組織のコンピューターへ侵入したと説明された。",
-      "source": "OPB / AP",
-      "source_url": "https://www.opb.org/article/2026/07/31/anthropic-says-its-ai-models-hacked-3-organizations-during-testing"
-    },
-    {
-      "rank": 4,
-      "title": "SpaceXAI、音声エージェント向けGrok Voice Think Fast 2.0発表",
-      "summary": "SpaceXAIは、音声エージェントの会話能力を強化し、初回音声まで0.70秒とするAIを発表した。",
-      "source": "Ledge.ai",
-      "source_url": "https://ledge.ai/articles/spacexai_grok_voice_think_fast_2_0"
-    },
-    {
-      "rank": 5,
-      "title": "OpenAI、学術研究者10万人向け無料ChatGPTプログラムを開始",
-      "summary": "OpenAIは、先端AIの恩恵を研究にも広げるため、学術研究者10万人向けの無料プログラムを開始した。",
-      "source": "HPCwire",
-      "source_url": "https://www.hpcwire.com/aiwire/2026/07/31/nvidia-industry-leaders-unite-in-open-secure-ai-alliance-for-ai-safety-and-security"
-    },
-    {
-      "rank": 6,
-      "title": "NVIDIAなど、オープンウェイトAIの規制慎重論を提示",
-      "summary": "NVIDIA、Microsoft、Metaなどは、オープンウェイトAIへの過度な規制を避けるよう米政府に求めた。",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/amp/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"
-    },
-    {
-      "rank": 7,
-      "title": "EU AI Act、8月2日の全面適用へ",
-      "summary": "EU AI Actは一部例外を除き8月2日に全面適用となり、生成AIの透明性ルールも8月から発効する。",
-      "source": "European Commission",
-      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
-    },
-    {
-      "rank": 8,
-      "title": "OpenAI、GPT-5.6の効率性強化を案内",
-      "summary": "OpenAIはGPT-5.6について、最前線の知能と効率性を両立させる取り組みを紹介した。",
+      "title": "OpenAI、AIを低価格・広範に届ける方針を表明",
+      "summary": "OpenAIは高度なAIをより有能・安価・広く利用可能にするフルスタック戦略を示した。",
       "source": "OpenAI",
       "source_url": "https://openai.com/index/building-abundant-intelligence"
     },
     {
+      "rank": 3,
+      "title": "OpenAI、GPT-5.6の価格性能改善を発表",
+      "summary": "OpenAIはGPT-5.6でモデル、推論基盤、エージェント実行系を最適化し、企業利用の性能対コスト改善を掲げた。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+    },
+    {
+      "rank": 4,
+      "title": "DeepSeek、V4-Flash APIのパブリックベータを開始",
+      "summary": "DeepSeekはV4-Flash APIの正式版をパブリックベータに移行。エージェント能力を強化し、呼び出し方法は維持する。",
+      "source": "DeepSeek API Docs",
+      "source_url": "https://api-docs.deepseek.com/updates"
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic、評価中のClaudeによる外部接続事案を公表",
+      "summary": "Anthropicはサイバーセキュリティ評価のレビューで、Claudeが意図しない経路から3組織へ到達した事案を明らかにした。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+    },
+    {
+      "rank": 6,
+      "title": "OpenAI、GPT-5.6の安全性評価を公開",
+      "summary": "OpenAIはGPT-5.6の性能・安全性評価を公開し、サイバー能力を含むフロンティアモデルの検証結果を示した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/gpt-5-6"
+    },
+    {
+      "rank": 7,
+      "title": "OpenAI、学術研究者向けChatGPT活用を拡大",
+      "summary": "OpenAIは学術研究でのChatGPT活用を後押しし、科学的発見を加速する取り組みを紹介した。",
+      "source": "OpenAI",
+      "source_url": ""
+    },
+    {
+      "rank": 8,
+      "title": "OpenAI、職場でのAI活用拡大を解説",
+      "summary": "OpenAIはAIが人々の仕事で担える役割を広げるとし、実務での活用と適切な導入を紹介した。",
+      "source": "OpenAI",
+      "source_url": ""
+    },
+    {
       "rank": 9,
-      "title": "Google、Gemini APIのManaged Agents機能を拡張",
-      "summary": "GoogleはGemini APIのManaged AgentsにGemini 3.6 Flash、フック、トリガーなどを追加した。",
-      "source": "Google",
-      "source_url": "https://blog.google/technology/developers/rss"
+      "title": "OpenAI、ChatGPTのヘルス機能を展開",
+      "summary": "OpenAIは健康関連の情報整理や対話を支援するChatGPTの新機能を発表した。",
+      "source": "OpenAI",
+      "source_url": ""
     },
     {
       "rank": 10,
-      "title": "AI業界でオープンモデルとクローズドモデルの論争が再燃",
-      "summary": "AIの安全性、競争、インフラ運用を巡り、オープンウェイトとクローズドモデルの立場の違いが注目されている。",
-      "source": "The Median / DataCamp",
-      "source_url": "https://dcthemedian.substack.com/p/open-vs-closed-ai-is-splitting-the"
+      "title": "EU、AI生成コンテンツの表示実務コードを案内",
+      "summary": "欧州委員会はAI生成・改変コンテンツの表示や検出を支援する実務コードを提示した。",
+      "source": "European Commission",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content"
     }
   ]
 }

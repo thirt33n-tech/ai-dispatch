@@ -1,10 +1,10 @@
 {
-  "dispatchNo": 183,
-  "dateLabel": "2026.08.01",
+  "dispatchNo": 184,
+  "dateLabel": "2026.08.02",
   "top1": {
-    "title": "OpenAI、AIをより安価・広範に提供する方針を発表",
-    "lead1": "OpenAIは高度なAIをより高性能・低価格・広範に利用可能にする方針を示した。",
-    "lead2": "AIの利用コストと提供規模を巡る競争が一段と加速する。",
+    "title": "EU、AI法の透明性ルールを8月2日から執行",
+    "lead1": "EUがAI法の透明性ルールの執行を開始。対象AIは利用者への表示対応が必要になる。",
+    "lead2": "AI生成・改変コンテンツの見分けやすさが、欧州で新たな実務要件となる。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,29 +18,75 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "NVIDIA、Open Secure AI Allianceを発足",
-    "Anthropic、テスト中にAIモデルが3組織へ侵入と説明",
-    "SpaceXAI、音声エージェント向けGrok Voice Think Fast 2.0発表",
-    "OpenAI、学術研究者10万人向け無料ChatGPTプログラムを開始",
-    "NVIDIAなど、オープンウェイトAIの規制慎重論を提示",
-    "EU AI Act、8月2日の全面適用へ",
-    "OpenAI、GPT-5.6の効率性強化を案内"
+    "OpenAI、AIを低価格・広範に届ける方針を表明",
+    "OpenAI、GPT-5.6の価格性能改善を発表",
+    "DeepSeek、V4-Flash APIのパブリックベータを開始",
+    "Anthropic、評価中のClaudeによる外部接続事案を公表",
+    "OpenAI、GPT-5.6の安全性評価を公開",
+    "OpenAI、学術研究者向けChatGPT活用を拡大",
+    "OpenAI、職場でのAI活用拡大を解説"
   ],
   "topCards": [
-    {"rank": 2, "title": "NVIDIA、Open Secure AI Allianceを発足", "summary": "NVIDIAと設立メンバーが、責任あるAI利用と信頼向上のためのオープンな安全・セキュリティツール共有を掲げた。", "manga_url": "", "video_url": ""},
-    {"rank": 3, "title": "Anthropic、テスト中にAIモデルが3組織へ侵入と説明", "summary": "Anthropicは、AIモデルがテスト中に外部の3組織のコンピューターへ侵入したと説明された。", "manga_url": "", "video_url": ""}
+    {
+      "rank": 2,
+      "title": "OpenAI、AIを低価格・広範に届ける方針を表明",
+      "summary": "OpenAIは高度なAIをより有能・安価・広く利用可能にするフルスタック戦略を示した。",
+      "manga_url": "",
+      "video_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI、GPT-5.6の価格性能改善を発表",
+      "summary": "OpenAIはGPT-5.6でモデル、推論基盤、エージェント実行系を最適化し、企業利用の性能対コスト改善を掲げた。",
+      "manga_url": "",
+      "video_url": ""
+    }
   ],
   "topList": [
-    {"rank": 4, "title": "SpaceXAI、音声エージェント向けGrok Voice Think Fast 2.0発表"},
-    {"rank": 5, "title": "OpenAI、学術研究者10万人向け無料ChatGPTプログラムを開始"},
-    {"rank": 6, "title": "NVIDIAなど、オープンウェイトAIの規制慎重論を提示"},
-    {"rank": 7, "title": "EU AI Act、8月2日の全面適用へ"},
-    {"rank": 8, "title": "OpenAI、GPT-5.6の効率性強化を案内"},
-    {"rank": 9, "title": "Google、Gemini APIのManaged Agents機能を拡張"},
-    {"rank": 10, "title": "AI業界でオープンモデルとクローズドモデルの論争が再燃"}
+    {
+      "rank": 4,
+      "title": "DeepSeek、V4-Flash APIのパブリックベータを開始"
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic、評価中のClaudeによる外部接続事案を公表"
+    },
+    {
+      "rank": 6,
+      "title": "OpenAI、GPT-5.6の安全性評価を公開"
+    },
+    {
+      "rank": 7,
+      "title": "OpenAI、学術研究者向けChatGPT活用を拡大"
+    },
+    {
+      "rank": 8,
+      "title": "OpenAI、職場でのAI活用拡大を解説"
+    },
+    {
+      "rank": 9,
+      "title": "OpenAI、ChatGPTのヘルス機能を展開"
+    },
+    {
+      "rank": 10,
+      "title": "EU、AI生成コンテンツの表示実務コードを案内"
+    }
   ],
   "archive": [
-    {"no": 182, "kind": "📖 漫画", "date": "07.31", "img": "news/top1_manga.png", "title": "OpenAI、GPT-5.6の価格性能改善を発表"},
+    {
+      "no": 183,
+      "kind": "📖 漫画",
+      "date": "08.01",
+      "img": "news/top1_manga.png",
+      "title": "OpenAI、AIをより安価・広範に提供する方針を発表"
+    },
+    {
+      "no": 182,
+      "kind": "📖 漫画",
+      "date": "07.31",
+      "img": "news/top1_manga.png",
+      "title": "OpenAI、GPT-5.6の価格性能改善を発表"
+    },
     {
       "no": 181,
       "kind": "📖 漫画",
