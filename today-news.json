@@ -1,97 +1,97 @@
 {
-  "date": "2026.08.03",
+  "date": "2026.08.04",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "EU、AI法の執行と透明性要件を開始",
-      "summary": "EUは8月2日からAI法の執行を開始。チャットボットのAI表示やディープフェイクのラベル付与が求められる。",
-      "source": "欧州委員会",
-      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "title": "Google、35.3万人のバイブコーディング講座を報告",
+      "summary": "GoogleはAIエージェント集中講座に35.3万人が参加したと報告。AI開発教育への関心の広がりを示す。",
+      "source": "Google",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
       "script": {
         "panels": [
           {
-            "speech": "みなみ、表示ルールが変わる！",
+            "speech": "みなみ、AI開発を学ぶよ",
             "narration": ""
           },
           {
-            "speech": "AIだと伝える時代だよ！",
+            "speech": "35万人超ってすごい！",
             "narration": ""
           },
           {
-            "speech": "透明性が信頼のカギだね",
-            "narration": "EUでAI法の執行と透明性要件が始まった"
+            "speech": "学習者がAI開発を実践",
+            "narration": "Googleが大規模講座を報告"
           },
           {
-            "speech": "作る側も見る側も大事だね",
+            "speech": "次の挑戦も楽しみ！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "EUでAI法の執行と透明性要件が開始"
+        "telop_text": "Google、35万人超のAI開発講座を報告"
       }
     },
     {
       "rank": 2,
-      "title": "OpenAI、GPT-5.6の価格性能を強化",
-      "summary": "OpenAIはGPT-5.6で、モデル・推論基盤・エージェント実行系の効率化による企業向け性能対コスト改善を発表。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+      "title": "EU、AI法の執行と透明性要件を開始",
+      "summary": "欧州委員会は8月2日からAI法を執行。AI対話の明示や生成・改変コンテンツの表示が求められる。",
+      "source": "European Commission",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
     },
     {
       "rank": 3,
+      "title": "EU、AI生成コンテンツの透明性ガイドラインを公表",
+      "summary": "EUはAI生成・改変コンテンツの表示と検出に関する実務ガイドラインを公開した。",
+      "source": "European Commission",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content"
+    },
+    {
+      "rank": 4,
       "title": "OpenAI、数学・理論計算機科学の10成果を公開",
       "summary": "OpenAIは長年進展のなかった問題を含む、数学と理論計算機科学の10件の成果を公開した。",
       "source": "OpenAI",
       "source_url": "https://openai.com/index/ten-advances-in-mathematics"
     },
     {
-      "rank": 4,
-      "title": "Google、Gemini 3.6 Flashなど新モデルを発表",
-      "summary": "GoogleはGemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyberを発表し、効率性と脆弱性対応を訴求した。",
-      "source": "Google",
-      "source_url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026"
-    },
-    {
       "rank": 5,
-      "title": "Google、Galaxy端末でGeminiの自動化機能を拡大",
-      "summary": "GoogleはGemini Intelligenceによる40超のアプリ横断自動化や、折りたたみ端末向けGemini Notebookを紹介した。",
-      "source": "Google",
-      "source_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026"
+      "title": "Anthropic、希少疾患研究向けAI助成を募集",
+      "summary": "Anthropicは希少遺伝疾患の研究向けに、最大5万ドル相当のClaudeクレジットを提供する助成を募集。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/rare-disease-research-grants"
     },
     {
       "rank": 6,
       "title": "OpenAI、DevDay 2026を9月29日に開催へ",
-      "summary": "OpenAIは年次イベントDevDay 2026をサンフランシスコで9月29日に開催すると告知した。",
+      "summary": "OpenAIは開発者イベントDevDay 2026を9月29日にサンフランシスコで開催すると案内した。",
       "source": "OpenAI",
       "source_url": "https://openai.com/index/devday-2026"
     },
     {
       "rank": 7,
-      "title": "Anthropic、希少疾患研究向けAI助成を募集",
-      "summary": "AnthropicはClaudeを使うAI for Science希少疾患研究プログラムの助成応募を8月2日まで受け付けた。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/rare-disease-research-grants"
+      "title": "Google、南アフリカのAIスタートアップ支援を募集",
+      "summary": "Googleは南アフリカでAI活用の成長企業15社を対象に、資金・ツール・インフラ支援を募集する。",
+      "source": "Google",
+      "source_url": "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applications-are-open-for-the-2026-google-for-startups-accelerator-south-africa"
     },
     {
       "rank": 8,
-      "title": "Anthropic、Claude Sonnet 5の導入価格を案内",
-      "summary": "AnthropicはClaude Sonnet 5を全プランで提供し、8月末までの導入価格と利用上限拡大を示した。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/claude-sonnet-5"
+      "title": "Google、インドのAIスタートアップ20社を選出",
+      "summary": "Google Play Accelerator Indiaは、AI活用企業20社に技術・品質・成長支援を提供する。",
+      "source": "Google",
+      "source_url": "https://blog.google/intl/en-in/announcing-the-2026-cohort-of-google-play-accelerator-india"
     },
     {
       "rank": 9,
-      "title": "EU、高リスクAI規則の適用延期で暫定合意",
-      "summary": "EUの高リスクAIシステム規則は、従来の8月2日から2027年12月2日へ延期する暫定合意が報じられた。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/eu-countries-lawmakers-strike-provisional-deal-watered-down-ai-rules-2026-05-07"
+      "title": "OpenAI、AIによるライフサイエンス研究の事例を公開",
+      "summary": "OpenAIはRetro Biosciencesとの協業を通じ、AIを使う生命科学研究の取り組みを紹介した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences"
     },
     {
       "rank": 10,
-      "title": "Black Hat USA、AI Summitを8月4日に開催",
-      "summary": "Black Hat USAはAIとサイバー防御をテーマにしたAI Summitを8月4日にラスベガスで開催する。",
-      "source": "Black Hat",
-      "source_url": "https://blackhat.com/us-26/ai-summit.html"
+      "title": "EU、AIギガファクトリー整備の公募を開始",
+      "summary": "EUは最大7拠点のAIギガファクトリー整備に向けた公募を開始し、計算基盤の強化を進める。",
+      "source": "European Commission",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/eu-launches-ai-gigafactories-call-boost-europes-computing-capacity-and-unlock-more-eu30-billion"
     }
   ]
 }
