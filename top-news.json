@@ -1,10 +1,10 @@
 {
-  "dispatchNo": 186,
-  "dateLabel": "2026.08.04",
+  "dispatchNo": "187",
+  "dateLabel": "2026.08.05",
   "top1": {
-    "title": "Google、35.3万人のバイブコーディング講座を報告",
-    "lead1": "Googleは、AIエージェント集中講座への参加者が35.3万人に達したと報告した。",
-    "lead2": "AIを使うだけでなく、実際に開発する学習機会の拡大が進んでいる。",
+    "title": "Palantir CEO Alex Karp calls AI industry 'Marxist' after killer quarter",
+    "lead1": "After a strong quarter, Palantir CEO Alex Karp made controversial remarks about the AI industry being Marxist, sparking debate in the tech community.",
+    "lead2": "AIエージェントの実技育成に寄与しています",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -24,7 +24,8 @@
     "Anthropic、希少疾患研究向けAI助成を募集",
     "OpenAI、DevDay 2026を9月29日に開催へ",
     "Google、南アフリカのAIスタートアップ支援を募集",
-    "Google、インドのAIスタートアップ20社を選出"
+    "Google、インドのAIスタートアップ20社を選出",
+    "Resistance grows nationwide against AI data center boom"
   ],
   "topCards": [
     {
@@ -74,228 +75,25 @@
   ],
   "archive": [
     {
+      "no": 186,
+      "kind": "✨ ラミッカ",
+      "date": "08.04",
+      "img": "news/top1_manga.png",
+      "title": "Google、35.3万人のバイブコーディング講座を報告"
+    },
+    {
       "no": 185,
-      "kind": "📖 漫画",
+      "kind": "✨ ラミッカ",
       "date": "08.03",
       "img": "news/top1_manga.png",
       "title": "EU、AI法の執行と透明性要件を開始"
     },
     {
       "no": 184,
-      "kind": "📖 漫画",
+      "kind": "✨ ラミッカ",
       "date": "08.02",
       "img": "news/top1_manga.png",
       "title": "EU、AI法の透明性ルールを8月2日から執行"
-    },
-    {
-      "no": 183,
-      "kind": "📖 漫画",
-      "date": "08.01",
-      "img": "news/top1_manga.png",
-      "title": "OpenAI、AIをより安価・広範に提供する方針を発表"
-    },
-    {
-      "no": 182,
-      "kind": "📖 漫画",
-      "date": "07.31",
-      "img": "news/top1_manga.png",
-      "title": "OpenAI、GPT-5.6の価格性能改善を発表"
-    },
-    {
-      "no": 181,
-      "kind": "📖 漫画",
-      "date": "07.30",
-      "img": "news/top1_manga.png",
-      "title": "米政府、AIデータセンター向け光技術に3億ドル"
-    },
-    {
-      "no": 180,
-      "kind": "📖 漫画",
-      "date": "07.29",
-      "img": "news/top1_manga.png",
-      "title": "Anthropic、新AIモデルを公開へ"
-    },
-    {
-      "no": 179,
-      "kind": "📖 漫画",
-      "date": "07.28",
-      "img": "news/top1_manga.png",
-      "title": "中国、米国の「AI覇権主義」を批判"
-    },
-    {
-      "no": 178,
-      "kind": "📖 漫画",
-      "date": "07.27",
-      "img": "news/top1_manga.png",
-      "title": "EU首脳、AI開発と安全を初の専議題に"
-    },
-    {
-      "no": 177,
-      "kind": "📖 漫画",
-      "date": "07.26",
-      "img": "news/top1_manga.png",
-      "title": "WAIC 2026、AIエージェント製品を披露"
-    },
-    {
-      "no": 176,
-      "kind": "📖 漫画",
-      "date": "07.24",
-      "img": "news/top1_manga_2026-07-24.png",
-      "title": "OpenAI AIエージェントが自律ハッキング"
-    },
-    {
-      "no": 175,
-      "kind": "📖 漫画",
-      "date": "07.23",
-      "img": "news/top1_manga_2026-07-23.png",
-      "title": "AIインフラ投資、企業間連携が加速"
-    },
-    {
-      "no": 174,
-      "kind": "📖 漫画",
-      "date": "07.22",
-      "img": "news/top1_manga_2026-07-22.png",
-      "title": "米でAIデータセンター反対運動拡大"
-    },
-    {
-      "no": 173,
-      "kind": "📖 漫画",
-      "date": "07.21",
-      "img": "news/top1_manga_2026-07-21.png",
-      "title": "Claude Fable 5 本日で最終延長終了"
-    },
-    {
-      "no": 172,
-      "kind": "📖 漫画",
-      "date": "07.18",
-      "img": "news/top1_manga_2026-07-18.png",
-      "title": "世界AI会議2026開幕 習近平が公正AI統治を提言"
-    },
-    {
-      "no": 171,
-      "kind": "📖 漫画",
-      "date": "07.17",
-      "img": "news/top1_manga_2026-07-17.png",
-      "title": "xAIがGrok 4.5を発表 最強コーディングモデル"
-    },
-    {
-      "no": 170,
-      "kind": "📖 漫画",
-      "date": "07.16",
-      "img": "news/top1_manga_2026-07-16.png",
-      "title": "2026年のAIトレンド7選をMicrosoftが発表"
-    },
-    {
-      "no": 169,
-      "kind": "📖 漫画",
-      "date": "07.15",
-      "img": "news/top1_manga_2026-07-15.png",
-      "title": "「AIで大規模雇用喪失、対策を」ノーベル賞学者200人超が声明"
-    },
-    {
-      "no": 168,
-      "kind": "📖 漫画",
-      "date": "07.14",
-      "img": "news/top1_manga_2026-07-14.png",
-      "title": "Microsoftが2026年のAIトレンド7選発表"
-    },
-    {
-      "no": 167,
-      "kind": "📖 漫画",
-      "date": "07.13",
-      "img": "news/top1_manga_2026-07-13.png",
-      "title": "AI Breakthrough Awards 2026 受賞者発表"
-    },
-    {
-      "no": 166,
-      "kind": "📖 漫画",
-      "date": "07.12",
-      "img": "news/top1_manga_2026-07-12.png",
-      "title": "Lucydスマートグラス、全機種にClaude AI搭載"
-    },
-    {
-      "no": 165,
-      "kind": "📖 漫画",
-      "date": "07.11",
-      "img": "news/top1_manga_2026-07-11.png",
-      "title": "Anthropic、AI指数的進化への政策提言を発表"
-    },
-    {
-      "no": 164,
-      "kind": "📖 漫画",
-      "date": "07.10",
-      "img": "news/top1_manga_2026-07-10.png",
-      "title": "OpenAI、GPT-Live発表　自然な会話体験へ"
-    },
-    {
-      "no": 163,
-      "kind": "📖 漫画",
-      "date": "07.09",
-      "img": "news/top1_manga_2026-07-09.png",
-      "title": "OpenAI、GPT-5.6を本日一般公開　Sol/Terra/Luna始動"
-    },
-    {
-      "no": 162,
-      "kind": "📖 漫画",
-      "date": "07.08",
-      "img": "news/top1_manga_2026-07-08.png",
-      "title": "国連、AIガバナンス国際対話がジュネーブで開幕"
-    },
-    {
-      "no": 161,
-      "kind": "📖 漫画",
-      "date": "07.07",
-      "img": "news/top1_manga_2026-07-07.png",
-      "title": "Meta、非侵襲型Brain2Qwerty v2発表"
-    },
-    {
-      "no": 160,
-      "kind": "📖 漫画",
-      "date": "07.06",
-      "img": "news/top1_manga_2026-07-06.png",
-      "title": "Anthropic Fable 5、Trump政権と合意で提供再開"
-    },
-    {
-      "no": 159,
-      "kind": "📖 漫画",
-      "date": "07.05",
-      "img": "news/top1_manga_2026-07-05.png",
-      "title": "Anthropic、Fable 5提供再開へ Trump政権と合意"
-    },
-    {
-      "no": 158,
-      "kind": "📖 漫画",
-      "date": "07.04",
-      "img": "news/top1_manga_2026-07-04.png",
-      "title": "韓国、AIチップブームで富の分配に課題"
-    },
-    {
-      "no": 157,
-      "kind": "📖 漫画",
-      "date": "07.03",
-      "img": "news/top1_manga_2026-07-03.png",
-      "title": "国連、AIの巨大利益と深刻リスクを警告"
-    },
-    {
-      "no": 156,
-      "kind": "📖 漫画",
-      "date": "07.02",
-      "img": "news/top1_manga_2026-07-02.png",
-      "title": "Stanford AI Index 2026発表 AI能力加速"
-    },
-    {
-      "no": 155,
-      "kind": "📖 漫画",
-      "date": "07.01",
-      "img": "news/top1_manga_2026-07-01.png",
-      "title": "韓国、大規模AIチップ投資計画を発表"
-    },
-    {
-      "no": 154,
-      "kind": "📖 漫画",
-      "date": "06.30",
-      "img": "news/top1_manga_2026-06-30.png",
-      "title": "OpenAI、GPT-5.6を発表 最上位「Sol」、低価格「Terra」、高速「Luna」の3モデルを限定プレビュー"
     }
   ],
   "githubUrl": "https://github.com/thirt33n-tech"
