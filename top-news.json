@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "187",
-  "dateLabel": "2026.08.05",
+  "dispatchNo": "188",
+  "dateLabel": "2026.08.06",
   "top1": {
-    "title": "Palantir CEO Alex Karp calls AI industry 'Marxist' after killer quarter",
-    "lead1": "After a strong quarter, Palantir CEO Alex Karp made controversial remarks about the AI industry being Marxist, sparking debate in the tech community.",
-    "lead2": "AIエージェントの実技育成に寄与しています",
+    "title": "The latest AI news we announced in May 2026",
+    "lead1": "Google I/O 2026でGemini 3.5とGemini Omniを発表。プロアクティブAIアシスタントが日常業務を自動管理。",
+    "lead2": "新ハードウェアとGoogle Healthアプリも統合され、AIエージェント時代が本格開始。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,62 +18,48 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "EU、AI法の執行と透明性要件を開始",
-    "EU、AI生成コンテンツの透明性ガイドラインを公表",
-    "OpenAI、数学・理論計算機科学の10成果を公開",
-    "Anthropic、希少疾患研究向けAI助成を募集",
-    "OpenAI、DevDay 2026を9月29日に開催へ",
-    "Google、南アフリカのAIスタートアップ支援を募集",
-    "Google、インドのAIスタートアップ20社を選出",
-    "Resistance grows nationwide against AI data center boom"
+    "The 10 Biggest Generative AI News Stories Of 2026 (So Far)",
+    "March 2026 AI News: 6 Key Stories and Insights",
+    "The trends that will shape AI and tech in 2026",
+    "What's next in AI: 7 trends to watch in 2026",
+    "11 things AI experts are watching for in 2026",
+    "AI Will Hit a Wall in 2026, if nothing changes.",
+    "SpaceX Falls On AI Spending Fears",
+    "Palantir Surges as AI Demand Accelerates"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "EU、AI法の執行と透明性要件を開始",
-      "summary": "欧州委員会は8月2日からAI法を執行。AI対話の明示や生成・改変コンテンツの表示が求められる。",
+      "title": "The 10 Biggest Generative AI News Stories Of 2026 (So Far)",
+      "summary": "AI市場が新たな高みに。AnthropicやOpenAIの企業技術推進とインフラ投資の急拡大。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "EU、AI生成コンテンツの透明性ガイドラインを公表",
-      "summary": "EUはAI生成・改変コンテンツの表示と検出に関する実務ガイドラインを公開した。",
+      "title": "March 2026 AI News: 6 Key Stories and Insights",
+      "summary": "AIの構造的転換点。採用パターン変化、インフラ投資、労働モデルの進化。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {
-      "rank": 4,
-      "title": "OpenAI、数学・理論計算機科学の10成果を公開"
-    },
-    {
-      "rank": 5,
-      "title": "Anthropic、希少疾患研究向けAI助成を募集"
-    },
-    {
-      "rank": 6,
-      "title": "OpenAI、DevDay 2026を9月29日に開催へ"
-    },
-    {
-      "rank": 7,
-      "title": "Google、南アフリカのAIスタートアップ支援を募集"
-    },
-    {
-      "rank": 8,
-      "title": "Google、インドのAIスタートアップ20社を選出"
-    },
-    {
-      "rank": 9,
-      "title": "OpenAI、AIによるライフサイエンス研究の事例を公開"
-    },
-    {
-      "rank": 10,
-      "title": "EU、AIギガファクトリー整備の公募を開始"
-    }
+    {"rank": 4, "title": "The trends that will shape AI and tech in 2026"},
+    {"rank": 5, "title": "What's next in AI: 7 trends to watch in 2026"},
+    {"rank": 6, "title": "11 things AI experts are watching for in 2026"},
+    {"rank": 7, "title": "AI Will Hit a Wall in 2026, if nothing changes."},
+    {"rank": 8, "title": "SpaceX Falls On AI Spending Fears"},
+    {"rank": 9, "title": "Palantir Surges as AI Demand Accelerates"},
+    {"rank": 10, "title": "AI News | Latest Headlines and Developments"}
   ],
   "archive": [
+    {
+      "no": 187,
+      "kind": "✨ ラミッカ",
+      "date": "08.05",
+      "img": "news/top1_manga.png",
+      "title": "Palantir CEO Alex Karp calls AI industry 'Marxist' after killer quarter"
+    },
     {
       "no": 186,
       "kind": "✨ ラミッカ",

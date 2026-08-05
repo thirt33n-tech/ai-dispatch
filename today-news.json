@@ -1,97 +1,97 @@
 {
-  "date": "2026.08.05",
+  "date": "2026.08.06",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Palantir CEO Alex Karp calls AI industry 'Marxist' after killer quarter",
-      "summary": "After a strong quarter, Palantir CEO Alex Karp made controversial remarks about the AI industry being Marxist, sparking debate in the tech community.",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/category/artificial-intelligence",
+      "title": "The latest AI news we announced in May 2026",
+      "summary": "Google I/O 2026 unveiled agentic Gemini era with Gemini 3.5 and Gemini Omni models, featuring proactive AI assistant capabilities and new hardware integration.",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026",
       "script": {
         "panels": [
           {
-            "speech": "ウワサ聞いた？パランシール最高益で…",
+            "speech": "AIが24時間サポート、未来が来た！",
             "narration": ""
           },
           {
-            "speech": "AI業界を「マルクス主義」と批判？",
+            "speech": "ジェミニー3.5、タスクも実行！",
             "narration": ""
           },
           {
-            "speech": "みなみも思う…AIの方向性、不安だ",
-            "narration": "パランシールCEOがAI業界をマルクス主義と批判。巨影響力の強力な会社の見解に注目。"
+            "speech": "日常が変わりつつあるね。予定管理やメールも自動で！",
+            "narration": "（状況の要点：Google I/O 2026 で Gemini 3.5 と Gemini Omni を発表。新機能はプロアクティブな AI アシスタントで、ユーザーと対話し、日常業務を管理し、個人データを整理する。Google ヘルスアプリなどの新しいツールも統合され、日常業務の効率化を実現。）"
           },
           {
-            "speech": "どうなる未来のAI技術？",
+            "speech": "次回に続く",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "パランシールCEO、AI業界をマルクス主義批判"
+        "telop_text": "Googleの新しいAIアシスタント、全機能を公開"
       }
     },
     {
       "rank": 2,
-      "title": "The latest AI news we announced in May 2026",
-      "summary": "Google recap of major AI announcements from May 2026, including Gemini 3.6 Flash, Android updates, and announcements from Google I/O.",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026"
+      "title": "The 10 Biggest Generative AI News Stories Of 2026 (So Far) - CRN",
+      "summary": "AI market reaching new heights with enterprise technology push by upstarts like Anthropic and OpenAI, alongside infrastructure spending surges and price increases.",
+      "source": "CRN",
+      "source_url": "https://www.crn.com/news/ai/2026/the-10-biggest-generative-ai-news-stories-of-2026-so-far"
     },
     {
       "rank": 3,
-      "title": "What can we expect from AI in 2026? | The Current",
-      "summary": "Analysis of AI trends heading into 2026, featuring insights from futurist Chenade Boll and Jackson Khan of Aperture AI on industry developments.",
-      "source": "CBC News",
-      "source_url": "https://www.youtube.com/watch?v=3w093nkLqCg"
+      "title": "March 2026 AI News: 6 Key Stories and Insights",
+      "summary": "March 2026 marked structural turning point in AI with changing adoption patterns, new infrastructure investments, and evolving workforce models.",
+      "source": "Launch Consulting",
+      "source_url": "https://www.launchconsulting.com/posts/march-2026-ai-news"
     },
     {
       "rank": 4,
-      "title": "AI in 2026: Smarter Models, Harder Questions",
-      "summary": "USC Viterbi researcher Yolanda Gil discusses the 2026 AI Index report, highlighting smarter AI models but increasing challenges in understanding their impacts and risks.",
-      "source": "Information Sciences Institute",
-      "source_url": "https://www.isi.edu/news/86030/ai-in-2026-smarter-models-harder-questions"
-    },
-    {
-      "rank": 5,
       "title": "The trends that will shape AI and tech in 2026",
-      "summary": "IBM's outlook on AI and tech trends for 2026, including agentic AI implementations and quantum computing developments in enterprise settings.",
+      "summary": "IBM predicts 2026 will favor robotics and physical AI with diminishing returns from scaling, alongside open-source reasoning models and hardened governance.",
       "source": "IBM Think",
       "source_url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
     },
     {
+      "rank": 5,
+      "title": "What's next in AI: 7 trends to watch in 2026",
+      "summary": "AI evolves from instrument to partner across industries, moving beyond answering questions to collaborating with people and amplifying expertise.",
+      "source": "Microsoft News",
+      "source_url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026"
+    },
+    {
       "rank": 6,
-      "title": "AI News | Latest Headlines and Developments",
-      "summary": "Reuters provides comprehensive coverage of the latest AI headlines and developments, offering global business and technology perspectives.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/technology/artificial-intelligence"
+      "title": "11 things AI experts are watching for in 2026",
+      "summary": "AI scale expansion brings sophisticated audio and video manipulation capabilities, requiring stronger media literacy and new regulations for content authenticity.",
+      "source": "UC News",
+      "source_url": "https://www.universityofcalifornia.edu/news/11-things-ai-experts-are-watching-2026"
     },
     {
       "rank": 7,
-      "title": "The Information",
-      "summary": "Latest tech news coverage including White House hosting AI companies to review AI framework and data center operator CyrusOne preparing for IPO.",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com"
+      "title": "AI Will Hit a Wall in 2026, if nothing changes.",
+      "summary": "Concerns about AI progress potentially hitting a wall in 2026 due to scaling challenges and infrastructure requirements, with predictions of superintelligence explosion in 2027.",
+      "source": "YouTube",
+      "source_url": "https://www.youtube.com/watch?v=XA84pSrPHS0"
     },
     {
       "rank": 8,
-      "title": "AI News Briefs BULLETIN BOARD for August 2026",
-      "summary": "Welcome to AI News Briefs Bulletin Board, bringing you latest industry insights on AI, deep learning, LLM, and generative AI with daily updates from Radical Data Science.",
-      "source": "Radical Data Science",
-      "source_url": "https://radicaldatascience.wordpress.com/2026/08/02/ai-news-briefs-bulletin-board-for-august-2026"
+      "title": "SpaceX Falls On AI Spending Fears | Daybreak Europe 8/5/2026",
+      "summary": "SpaceX fell in extended trading as concerns about AI spending plans overshadowing strong quarterly report, with AI power chip demand driving semiconductor growth.",
+      "source": "YouTube",
+      "source_url": "https://www.youtube.com/watch?v=waGSDpV0gAM"
     },
     {
       "rank": 9,
-      "title": "August 3rd 2026 - Daily AI News : How the AI Boom is Breaking the Real World",
-      "summary": "Daily AI news highlighting how the AI boom is impacting real-world industries and infrastructure with YouTube Shorts content from DailyAINews4Everyone.",
-      "source": "YouTube DailyAI News",
-      "source_url": "https://www.youtube.com/shorts/W83rVeeSYiw"
+      "title": "Palantir Surges as AI Demand Accelerates | Bloomberg Tech 8/4 ...",
+      "summary": "Palantir's Q2 commercial sales rose 149% year-over-year as AI demand accelerates, with strong performance in cybersecurity and network security.",
+      "source": "YouTube",
+      "source_url": "https://www.youtube.com/watch?v=l_5UUDYETpw"
     },
     {
       "rank": 10,
-      "title": "How will AI reshape the news in 2026? Forecasts by 17 experts",
-      "summary": "Analysis of AI's future impact on news media, featuring insights from 17 experts around the world on AI-powered browsers and media transformation.",
-      "source": "Reuters Institute",
-      "source_url": "https://reutersinstitute.politics.ox.ac.uk/news/how-will-ai-reshape-news-2026-forecasts-17-experts-around-world"
+      "title": "AI News | Latest Headlines and Developments",
+      "summary": "Reuters technology AI section covering latest headlines and developments in artificial intelligence, with focus on media literacy and content authenticity regulations.",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/technology/artificial-intelligence"
     }
   ]
 }
