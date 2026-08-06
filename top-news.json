@@ -1,14 +1,14 @@
 {
-  "dispatchNo": "188",
-  "dateLabel": "2026.08.06",
+  "dispatchNo": "189",
+  "dateLabel": "2026.08.07",
   "top1": {
-    "title": "The latest AI news we announced in May 2026",
-    "lead1": "Google I/O 2026でGemini 3.5とGemini Omniを発表。プロアクティブAIアシスタントが日常業務を自動管理。",
-    "lead2": "新ハードウェアとGoogle Healthアプリも統合され、AIエージェント時代が本格開始。",
+    "title": "Google announces Gemini 3.5 and Gemini Omni at I/O 2026",
+    "lead1": "Google I/O 2026でGemini 3.5とGemini Omniを発表。",
+    "lead2": "プロアクティブAIアシスタントが日常業務を自動管理。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
-  "heroVideoUrl": "https://youtube.com/shorts/bt1LAgniBVo",
+  "heroVideoUrl": "",
   "editorsDesk": {
     "recImg": "news/desk_rec.jpg",
     "recTitle": "米国政府、AnthropicにFable 5/Mythos 5の海外アクセス停止命令",
@@ -18,64 +18,99 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "The 10 Biggest Generative AI News Stories Of 2026 (So Far)",
-    "March 2026 AI News: 6 Key Stories and Insights",
-    "The trends that will shape AI and tech in 2026",
-    "What's next in AI: 7 trends to watch in 2026",
-    "11 things AI experts are watching for in 2026",
-    "AI Will Hit a Wall in 2026, if nothing changes.",
-    "SpaceX Falls On AI Spending Fears",
-    "Palantir Surges as AI Demand Accelerates"
+    "EU AI Act施行開始、AIシステムの自己開示義務化",
+    "HiggsfieldがAI映画コンテストで史上最高賞金50万ドル提供",
+    "DeepSeekがAIサービス価格を大幅に引き上げ、GoogleはAIリーダーシップを刷新。",
+    "ChatGPTを使ったPC組み立てガイドが話題に",
+    "世界大手AI企業が最新モデルへのアクセスを一部制限",
+    "AIニュースラウンドアップ：7月24日〜8月1日",
+    "ホワイトハウスがAI企業と上級モデルの安全性で会合",
+    "AnthropicがAIチップ設計チームを募集中"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "The 10 Biggest Generative AI News Stories Of 2026 (So Far)",
-      "summary": "AI市場が新たな高みに。AnthropicやOpenAIの企業技術推進とインフラ投資の急拡大。",
+      "title": "EU AI Act施行開始、AIシステムの自己開示義務化",
+      "summary": "EUがAI法を施行し、AIシステムは人間とのやり取り時に自己を開示義務が発生。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "March 2026 AI News: 6 Key Stories and Insights",
-      "summary": "AIの構造的転換点。採用パターン変化、インフラ投資、労働モデルの進化。",
+      "title": "HiggsfieldがAI映画コンテストで史上最高賞金50万ドル提供",
+      "summary": "AI映画コンテストが50万ドルの賞金を用意し、受賞作品に大賞金が。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {"rank": 4, "title": "The trends that will shape AI and tech in 2026"},
-    {"rank": 5, "title": "What's next in AI: 7 trends to watch in 2026"},
-    {"rank": 6, "title": "11 things AI experts are watching for in 2026"},
-    {"rank": 7, "title": "AI Will Hit a Wall in 2026, if nothing changes."},
-    {"rank": 8, "title": "SpaceX Falls On AI Spending Fears"},
-    {"rank": 9, "title": "Palantir Surges as AI Demand Accelerates"},
-    {"rank": 10, "title": "AI News | Latest Headlines and Developments"}
+    {
+      "rank": 4,
+      "title": "DeepSeekがAIサービス価格を大幅に引き上げ、GoogleはAIリーダーシップを刷新。",
+      "summary": ""
+    },
+    {
+      "rank": 5,
+      "title": "ChatGPTを使ったPC組み立てガイドが話題に",
+      "summary": "ChatGPTがPCパーツ選定から組み立てまでをガイドし、Redditで議論に。"
+    },
+    {
+      "rank": 6,
+      "title": "世界大手AI企業が最新モデルへのアクセスを一部制限",
+      "summary": "主要AI企業が最新モデルへのアクセスを一部制限し、安全上の懸念が背景に。"
+    },
+    {
+      "rank": 7,
+      "title": "AIニュースラウンドアップ：7月24日〜8月1日",
+      "summary": "過去1週間の主要AIニュースをまとめ、チップ pact や価格競争が報じられる。"
+    },
+    {
+      "rank": 8,
+      "title": "ホワイトハウスがAI企業と上級モデルの安全性で会合",
+      "summary": "バイデン政権がAI企業と上級モデルの安全テスト拡充について会合。"
+    },
+    {
+      "rank": 9,
+      "title": "AnthropicがAIチップ設計チームを募集中",
+      "summary": "AnthropicがAIチップ設計エンジニアを募集、ハードウェア内製への意欲を示す。"
+    },
+    {
+      "rank": 10,
+      "title": "AI進歩が電力供給制約で停滞の可能性、専門家が予測",
+      "summary": "一部専門家は2026年にAI進歩が電力供給制約により停滞すると予測。"
+    }
   ],
   "archive": [
     {
-      "no": 187,
+      "no": 189,
+      "kind": "✨ ラミッカ",
+      "date": "08.07",
+      "img": "news/top1_manga.png",
+      "title": "Google announces Gemini 3.5 and Gemini Omni at I/O 2026"
+    },
+    {
+      "no": 188,
       "kind": "✨ ラミッカ",
       "date": "08.05",
       "img": "news/top1_manga.png",
       "title": "Palantir CEO Alex Karp calls AI industry 'Marxist' after killer quarter"
     },
     {
-      "no": 186,
+      "no": 187,
       "kind": "✨ ラミッカ",
       "date": "08.04",
       "img": "news/top1_manga.png",
       "title": "Google、35.3万人のバイブコーディング講座を報告"
     },
     {
-      "no": 185,
+      "no": 186,
       "kind": "✨ ラミッカ",
       "date": "08.03",
       "img": "news/top1_manga.png",
       "title": "EU、AI法の執行と透明性要件を開始"
     },
     {
-      "no": 184,
+      "no": 185,
       "kind": "✨ ラミッカ",
       "date": "08.02",
       "img": "news/top1_manga.png",

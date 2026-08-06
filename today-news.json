@@ -1,97 +1,97 @@
 {
-  "date": "2026.08.06",
+  "date": "2026.08.07",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "The latest AI news we announced in May 2026",
-      "summary": "Google I/O 2026 unveiled agentic Gemini era with Gemini 3.5 and Gemini Omni models, featuring proactive AI assistant capabilities and new hardware integration.",
+      "title": "Google announces Gemini 3.5 and Gemini Omni at I/O 2026",
+      "summary": "Google I/O 2026でGemini 3.5とGemini Omniを発表。プロアクティブAIアシスタントが日常業務を自動管理。",
       "source": "Google Blog",
       "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026",
       "script": {
         "panels": [
           {
-            "speech": "AIが24時間サポート、未来が来た！",
+            "speech": "Gemini 3.5がすごい!",
             "narration": ""
           },
           {
-            "speech": "ジェミニー3.5、タスクも実行！",
+            "speech": "日常が変わる予感!",
             "narration": ""
           },
           {
-            "speech": "日常が変わりつつあるね。予定管理やメールも自動で！",
-            "narration": "（状況の要点：Google I/O 2026 で Gemini 3.5 と Gemini Omni を発表。新機能はプロアクティブな AI アシスタントで、ユーザーと対話し、日常業務を管理し、個人データを整理する。Google ヘルスアプリなどの新しいツールも統合され、日常業務の効率化を実現。）"
+            "speech": "プロアクティブAIがタスクを自動化",
+            "narration": "(コマ3ナレ・状況の要点)"
           },
           {
-            "speech": "次回に続く",
+            "speech": "次回へ",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Googleの新しいAIアシスタント、全機能を公開"
+        "telop_text": "Gemini 3.5でAIがさらに進化"
       }
     },
     {
       "rank": 2,
-      "title": "The 10 Biggest Generative AI News Stories Of 2026 (So Far) - CRN",
-      "summary": "AI market reaching new heights with enterprise technology push by upstarts like Anthropic and OpenAI, alongside infrastructure spending surges and price increases.",
-      "source": "CRN",
-      "source_url": "https://www.crn.com/news/ai/2026/the-10-biggest-generative-ai-news-stories-of-2026-so-far"
+      "title": "EU AI Act施行開始、AIシステムの自己開示義務化",
+      "summary": "EUがAI法を施行し、AIシステムは人間とのやり取り時に自己を開示する義務が発生。",
+      "source": "ETC Journal",
+      "source_url": "https://etcjournal.com/2026/08/01/august-2026-where-ai-is-headed-in-next-5-years"
     },
     {
       "rank": 3,
-      "title": "March 2026 AI News: 6 Key Stories and Insights",
-      "summary": "March 2026 marked structural turning point in AI with changing adoption patterns, new infrastructure investments, and evolving workforce models.",
-      "source": "Launch Consulting",
-      "source_url": "https://www.launchconsulting.com/posts/march-2026-ai-news"
+      "title": "HiggsfieldがAI映画コンテストで史上最高賞金50万ドルを提供",
+      "summary": "Higgsfieldが総�額50万ドルのAI映画コンテストを開始。受賞作品には大きな賞金が。",
+      "source": "Instagram",
+      "source_url": "https://www.instagram.com/p/Dbn9sNVgIV3"
     },
     {
       "rank": 4,
-      "title": "The trends that will shape AI and tech in 2026",
-      "summary": "IBM predicts 2026 will favor robotics and physical AI with diminishing returns from scaling, alongside open-source reasoning models and hardened governance.",
-      "source": "IBM Think",
-      "source_url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
+      "title": "DeepSeekがAIサービスの�値上げを発表、GoogleもAI部門を reshuffle",
+      "summary": "DeepSeekがAIサービス価格を大幅に引き上げ、GoogleはAIリーダーシップを�刷新。",
+      "source": "YouTube",
+      "source_url": "https://www.youtube.com/watch?v=795LvStcH5s"
     },
     {
       "rank": 5,
-      "title": "What's next in AI: 7 trends to watch in 2026",
-      "summary": "AI evolves from instrument to partner across industries, moving beyond answering questions to collaborating with people and amplifying expertise.",
-      "source": "Microsoft News",
-      "source_url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026"
+      "title": "ChatGPTを使ったPC組み立てガイドが話題に",
+      "summary": "ChatGPTがPCパーツ選定から組み立てまでをガイドし、Redditで議論になる。",
+      "source": "Reddit",
+      "source_url": "https://www.reddit.com/r/LinusTechTips/comments/1vdofot/linus_tech_tips_i_followed_chatgpts_pc_build"
     },
     {
       "rank": 6,
-      "title": "11 things AI experts are watching for in 2026",
-      "summary": "AI scale expansion brings sophisticated audio and video manipulation capabilities, requiring stronger media literacy and new regulations for content authenticity.",
-      "source": "UC News",
-      "source_url": "https://www.universityofcalifornia.edu/news/11-things-ai-experts-are-watching-2026"
+      "title": "世界大手AI企業が最新モデルへのアクセスを一部制限",
+      "summary": "某有名AI企業が最先端モデルへのアクセスを停止し、安全�懸念が背景に。",
+      "source": "Facebook",
+      "source_url": "https://www.facebook.com/WorldNewsTonight/videos/one-of-the-worlds-leading-ai-companies-halts-access-to-two-of-its-most-advanced-/981769374765316"
     },
     {
       "rank": 7,
-      "title": "AI Will Hit a Wall in 2026, if nothing changes.",
-      "summary": "Concerns about AI progress potentially hitting a wall in 2026 due to scaling challenges and infrastructure requirements, with predictions of superintelligence explosion in 2027.",
-      "source": "YouTube",
-      "source_url": "https://www.youtube.com/watch?v=XA84pSrPHS0"
+      "title": "AIニュースラウンドアップ：7月24日〜8月1日",
+      "summary": "過去1週間の主要AIニュースをまとめ、チップ pact や価格競争などが報じられる。",
+      "source": "LinkedIn",
+      "source_url": "https://www.linkedin.com/pulse/ai-news-roundup-july-24-august-1-2026-ali-moheyaldeen-ds9mc"
     },
     {
       "rank": 8,
-      "title": "SpaceX Falls On AI Spending Fears | Daybreak Europe 8/5/2026",
-      "summary": "SpaceX fell in extended trading as concerns about AI spending plans overshadowing strong quarterly report, with AI power chip demand driving semiconductor growth.",
-      "source": "YouTube",
-      "source_url": "https://www.youtube.com/watch?v=waGSDpV0gAM"
+      "title": "ホワイトハウスがAI企業と上級モデルの安全性で会合",
+      "summary": "バイデン政権がAI企業と上級モデルの安全テスト�拡充について会合。",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety"
     },
     {
       "rank": 9,
-      "title": "Palantir Surges as AI Demand Accelerates | Bloomberg Tech 8/4 ...",
-      "summary": "Palantir's Q2 commercial sales rose 149% year-over-year as AI demand accelerates, with strong performance in cybersecurity and network security.",
-      "source": "YouTube",
-      "source_url": "https://www.youtube.com/watch?v=l_5UUDYETpw"
+      "title": "AnthropicがAIチップ設計チームを�募集中",
+      "summary": "AnthropicがAIチップ設計のエンジニアを�募集、ハードウェア内製への意欲を示す。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/category/artificial-intelligence"
     },
     {
       "rank": 10,
-      "title": "AI News | Latest Headlines and Developments",
-      "summary": "Reuters technology AI section covering latest headlines and developments in artificial intelligence, with focus on media literacy and content authenticity regulations.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/technology/artificial-intelligence"
+      "title": "AI進歩が�壁にぶつかる可能性、電力供給がボトルネックに",
+      "summary": "一部�専門家は2026年にAI進歩が電力供給制約により停滞すると予測。",
+      "source": "YouTube",
+      "source_url": "https://www.youtube.com/watch?v=XA84pSrPHS0"
     }
   ]
 }
