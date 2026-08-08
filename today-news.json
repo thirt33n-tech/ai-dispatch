@@ -1,97 +1,85 @@
 {
-  "date": "2026.08.07",
+  "date": "2026.08.09",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Google announces Gemini 3.5 and Gemini Omni at I/O 2026",
-      "summary": "Google I/O 2026でGemini 3.5とGemini Omniを発表。プロアクティブAIアシスタントが日常業務を自動管理。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026",
+      "title": "Microsoft・NVIDIA・Anthropicが戦略提携を発表",
+      "summary": "AnthropicはAzure上でClaudeを拡大し、NVIDIAとモデル・計算基盤の最適化で協力。Azure計算資源へ300億ドルを投じる計画を示した。",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership",
       "script": {
         "panels": [
-          {
-            "speech": "Gemini 3.5がすごい!",
-            "narration": ""
-          },
-          {
-            "speech": "日常が変わる予感!",
-            "narration": ""
-          },
-          {
-            "speech": "プロアクティブAIがタスクを自動化",
-            "narration": "(コマ3ナレ・状況の要点)"
-          },
-          {
-            "speech": "次回へ",
-            "narration": "次回に続く"
-          }
+          {"speech": "みなみ、提携が大きい！", "narration": ""},
+          {"speech": "300億ドル！？すごい！", "narration": ""},
+          {"speech": "ClaudeがAzureに広がるよ", "narration": "AnthropicはAzure計算資源へ300億ドルを投じ、Claudeの提供範囲を拡大。"},
+          {"speech": "選択肢が増えるね！", "narration": "次回に続く"}
         ],
-        "telop_text": "Gemini 3.5でAIがさらに進化"
+        "telop_text": "Claude拡大へ、Microsoft・NVIDIA・Anthropicが戦略提携"
       }
     },
     {
       "rank": 2,
-      "title": "EU AI Act施行開始、AIシステムの自己開示義務化",
-      "summary": "EUがAI法を施行し、AIシステムは人間とのやり取り時に自己を開示する義務が発生。",
-      "source": "ETC Journal",
-      "source_url": "https://etcjournal.com/2026/08/01/august-2026-where-ai-is-headed-in-next-5-years"
+      "title": "Google、DeepMindのリーダー体制を刷新",
+      "summary": "Demis Hassabis氏はGoogle DeepMindのCEO職から会長・Alphabet主任科学者へ移り、AI戦略の加速を掲げた。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05"
     },
     {
       "rank": 3,
-      "title": "HiggsfieldがAI映画コンテストで史上最高賞金50万ドルを提供",
-      "summary": "Higgsfieldが総�額50万ドルのAI映画コンテストを開始。受賞作品には大きな賞金が。",
-      "source": "Instagram",
-      "source_url": "https://www.instagram.com/p/Dbn9sNVgIV3"
+      "title": "米政府、主要AI企業と評価枠組みを協議",
+      "summary": "ホワイトハウスはMeta、NVIDIA、Microsoft、OpenAI、AnthropicなどとAIモデル評価の枠組みを協議したと報じられた。",
+      "source": "Fortune",
+      "source_url": "https://fortune.com/2026/08/04/baffling-white-house-wont-publicly-release-ai-model-evaluation-framework-it-reviewed-today-with-openai-anthropic-microsoft-and-others"
     },
     {
       "rank": 4,
-      "title": "DeepSeekがAIサービスの�値上げを発表、GoogleもAI部門を reshuffle",
-      "summary": "DeepSeekがAIサービス価格を大幅に引き上げ、GoogleはAIリーダーシップを�刷新。",
-      "source": "YouTube",
-      "source_url": "https://www.youtube.com/watch?v=795LvStcH5s"
+      "title": "OpenAI、GPT Liveの連続音声対話を発表",
+      "summary": "OpenAIのニュースルームは、GPT Liveにおける連続的な音声インタラクションに関する発表を掲載した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/news/company-announcements"
     },
     {
       "rank": 5,
-      "title": "ChatGPTを使ったPC組み立てガイドが話題に",
-      "summary": "ChatGPTがPCパーツ選定から組み立てまでをガイドし、Redditで議論になる。",
-      "source": "Reddit",
-      "source_url": "https://www.reddit.com/r/LinusTechTips/comments/1vdofot/linus_tech_tips_i_followed_chatgpts_pc_build"
+      "title": "GoogleとKaggle、AIエージェント講座の受講規模を公表",
+      "summary": "GoogleはKaggleと実施したAI Agents集中講座について、35万3千人が参加したと報告した。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026"
     },
     {
       "rank": 6,
-      "title": "世界大手AI企業が最新モデルへのアクセスを一部制限",
-      "summary": "某有名AI企業が最先端モデルへのアクセスを停止し、安全�懸念が背景に。",
-      "source": "Facebook",
-      "source_url": "https://www.facebook.com/WorldNewsTonight/videos/one-of-the-worlds-leading-ai-companies-halts-access-to-two-of-its-most-advanced-/981769374765316"
+      "title": "OpenAI、APAとの提携を発表",
+      "summary": "OpenAIのニュースルームはAPAとの提携に関する発表を掲載し、ニュース組織とAIの関係が新たな局面を迎えている。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/news"
     },
     {
       "rank": 7,
-      "title": "AIニュースラウンドアップ：7月24日〜8月1日",
-      "summary": "過去1週間の主要AIニュースをまとめ、チップ pact や価格競争などが報じられる。",
-      "source": "LinkedIn",
-      "source_url": "https://www.linkedin.com/pulse/ai-news-roundup-july-24-august-1-2026-ali-moheyaldeen-ds9mc"
+      "title": "Google、7月のAI発表を総括",
+      "summary": "Googleは7月に発表したAI関連の更新をまとめ、製品・研究・利用者向け機能の動向を紹介した。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026"
     },
     {
       "rank": 8,
-      "title": "ホワイトハウスがAI企業と上級モデルの安全性で会合",
-      "summary": "バイデン政権がAI企業と上級モデルの安全テスト�拡充について会合。",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety"
+      "title": "Microsoft、自社開発AIモデル群を発表",
+      "summary": "Microsoftは推論、コード、画像、音声、文字起こしに対応する自社開発AIモデル7種を発表したと共同通信が報じた。",
+      "source": "47NEWS（共同通信）",
+      "source_url": "https://www.47news.jp/14407273.html"
     },
     {
       "rank": 9,
-      "title": "AnthropicがAIチップ設計チームを�募集中",
-      "summary": "AnthropicがAIチップ設計のエンジニアを�募集、ハードウェア内製への意欲を示す。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/category/artificial-intelligence"
+      "title": "総務省白書、生成AI利用経験者は58.8％",
+      "summary": "2026年版情報通信白書で、個人の58.8％が生成AIを利用した経験があるとの調査結果が報じられた。",
+      "source": "時事通信",
+      "source_url": "https://sp.m.jiji.com/article/show/3830180"
     },
     {
       "rank": 10,
-      "title": "AI進歩が�壁にぶつかる可能性、電力供給がボトルネックに",
-      "summary": "一部�専門家は2026年にAI進歩が電力供給制約により停滞すると予測。",
-      "source": "YouTube",
-      "source_url": "https://www.youtube.com/watch?v=XA84pSrPHS0"
+      "title": "米ホワイトハウス、AIの革新と安全保障に関する大統領令",
+      "summary": "米ホワイトハウスは先進AIのイノベーションと安全保障を扱う大統領令を公開し、政策面での対応を示した。",
+      "source": "The White House",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security"
     }
   ]
 }

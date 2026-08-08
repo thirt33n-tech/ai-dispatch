@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "189",
-  "dateLabel": "2026.08.07",
+  "dispatchNo": "191",
+  "dateLabel": "2026.08.09",
   "top1": {
-    "title": "Google announces Gemini 3.5 and Gemini Omni at I/O 2026",
-    "lead1": "Google I/O 2026でGemini 3.5とGemini Omniを発表。",
-    "lead2": "プロアクティブAIアシスタントが日常業務を自動管理。",
+    "title": "Microsoft・NVIDIA・Anthropicが戦略提携を発表",
+    "lead1": "AnthropicはAzure上でClaudeを拡大し、NVIDIAと基盤最適化で協力。",
+    "lead2": "Azure計算資源への300億ドル投資計画も示された。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,69 +18,54 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "EU AI Act施行開始、AIシステムの自己開示義務化",
-    "HiggsfieldがAI映画コンテストで史上最高賞金50万ドル提供",
-    "DeepSeekがAIサービス価格を大幅に引き上げ、GoogleはAIリーダーシップを刷新。",
-    "ChatGPTを使ったPC組み立てガイドが話題に",
-    "世界大手AI企業が最新モデルへのアクセスを一部制限",
-    "AIニュースラウンドアップ：7月24日〜8月1日",
-    "ホワイトハウスがAI企業と上級モデルの安全性で会合",
-    "AnthropicがAIチップ設計チームを募集中"
+    "Google、DeepMindのリーダー体制を刷新",
+    "米政府、主要AI企業と評価枠組みを協議",
+    "OpenAI、GPT Liveの連続音声対話を発表",
+    "GoogleとKaggle、AIエージェント講座の受講規模を公表",
+    "OpenAI、APAとの提携を発表",
+    "Google、7月のAI発表を総括",
+    "Microsoft、自社開発AIモデル群を発表"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "EU AI Act施行開始、AIシステムの自己開示義務化",
-      "summary": "EUがAI法を施行し、AIシステムは人間とのやり取り時に自己を開示義務が発生。",
+      "title": "Google、DeepMindのリーダー体制を刷新",
+      "summary": "Demis Hassabis氏はDeepMindのCEO職から会長・Alphabet主任科学者へ移る。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "HiggsfieldがAI映画コンテストで史上最高賞金50万ドル提供",
-      "summary": "AI映画コンテストが50万ドルの賞金を用意し、受賞作品に大賞金が。",
+      "title": "米政府、主要AI企業と評価枠組みを協議",
+      "summary": "ホワイトハウスは主要AI企業とAIモデル評価の枠組みを協議したと報じられた。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {
-      "rank": 4,
-      "title": "DeepSeekがAIサービス価格を大幅に引き上げ、GoogleはAIリーダーシップを刷新。",
-      "summary": ""
-    },
-    {
-      "rank": 5,
-      "title": "ChatGPTを使ったPC組み立てガイドが話題に",
-      "summary": "ChatGPTがPCパーツ選定から組み立てまでをガイドし、Redditで議論に。"
-    },
-    {
-      "rank": 6,
-      "title": "世界大手AI企業が最新モデルへのアクセスを一部制限",
-      "summary": "主要AI企業が最新モデルへのアクセスを一部制限し、安全上の懸念が背景に。"
-    },
-    {
-      "rank": 7,
-      "title": "AIニュースラウンドアップ：7月24日〜8月1日",
-      "summary": "過去1週間の主要AIニュースをまとめ、チップ pact や価格競争が報じられる。"
-    },
-    {
-      "rank": 8,
-      "title": "ホワイトハウスがAI企業と上級モデルの安全性で会合",
-      "summary": "バイデン政権がAI企業と上級モデルの安全テスト拡充について会合。"
-    },
-    {
-      "rank": 9,
-      "title": "AnthropicがAIチップ設計チームを募集中",
-      "summary": "AnthropicがAIチップ設計エンジニアを募集、ハードウェア内製への意欲を示す。"
-    },
-    {
-      "rank": 10,
-      "title": "AI進歩が電力供給制約で停滞の可能性、専門家が予測",
-      "summary": "一部専門家は2026年にAI進歩が電力供給制約により停滞すると予測。"
-    }
+    {"rank": 4, "title": "OpenAI、GPT Liveの連続音声対話を発表"},
+    {"rank": 5, "title": "GoogleとKaggle、AIエージェント講座の受講規模を公表"},
+    {"rank": 6, "title": "OpenAI、APAとの提携を発表"},
+    {"rank": 7, "title": "Google、7月のAI発表を総括"},
+    {"rank": 8, "title": "Microsoft、自社開発AIモデル群を発表"},
+    {"rank": 9, "title": "総務省白書、生成AI利用経験者は58.8％"},
+    {"rank": 10, "title": "米ホワイトハウス、AIの革新と安全保障に関する大統領令"}
   ],
   "archive": [
+    {
+      "no": 190,
+      "kind": "✨ ラミッカ",
+      "date": "08.08",
+      "img": "news/top1_manga.png",
+      "title": "Google announces Gemini 3.5 and Gemini Omni at I/O 2026"
+    },
+    {
+      "no": 190,
+      "kind": "✨ ラミッカ",
+      "date": "08.08",
+      "img": "news/top1_manga.png",
+      "title": "Google announces Gemini 3.5 and Gemini Omni at I/O 2026"
+    },
     {
       "no": 189,
       "kind": "✨ ラミッカ",
