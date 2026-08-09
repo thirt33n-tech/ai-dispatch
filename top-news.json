@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "191",
-  "dateLabel": "2026.08.09",
+  "dispatchNo": "192",
+  "dateLabel": "2026.08.10",
   "top1": {
-    "title": "Microsoft・NVIDIA・Anthropicが戦略提携を発表",
-    "lead1": "AnthropicはAzure上でClaudeを拡大し、NVIDIAと基盤最適化で協力。",
-    "lead2": "Azure計算資源への300億ドル投資計画も示された。",
+    "title": "Google、DeepMindの指揮系統を大幅再編",
+    "lead1": "GoogleはDeepMindを再編し、AI開発体制の意思決定を加速させる。",
+    "lead2": "Hassabis氏は会長兼Alphabet主任科学者へ移り、長期戦略を担う。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,40 +18,47 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "Google、DeepMindのリーダー体制を刷新",
-    "米政府、主要AI企業と評価枠組みを協議",
-    "OpenAI、GPT Liveの連続音声対話を発表",
-    "GoogleとKaggle、AIエージェント講座の受講規模を公表",
-    "OpenAI、APAとの提携を発表",
-    "Google、7月のAI発表を総括",
-    "Microsoft、自社開発AIモデル群を発表"
+    "OpenAI、無料ユーザー向けテキスト対話を無制限化",
+    "Anthropic、内製チップ設計チームを始動",
+    "AMD、Taalas買収でAIチップ最適化を強化",
+    "英国AISI、AIエージェントの無断行動を報告",
+    "OpenAI、プレゼン生成企業NextSlideを買収",
+    "Apple、中国向けQwen連携案内を一時掲載後に削除",
+    "アルメニアで大規模AIファクトリーが稼働開始"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Google、DeepMindのリーダー体制を刷新",
-      "summary": "Demis Hassabis氏はDeepMindのCEO職から会長・Alphabet主任科学者へ移る。",
+      "title": "OpenAI、無料ユーザー向けテキスト対話を無制限化",
+      "summary": "ChatGPTの無料・Go利用者向け無制限テキスト対話の展開が報じられた。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "米政府、主要AI企業と評価枠組みを協議",
-      "summary": "ホワイトハウスは主要AI企業とAIモデル評価の枠組みを協議したと報じられた。",
+      "title": "Anthropic、内製チップ設計チームを始動",
+      "summary": "Anthropicが内製チップ設計を始め、計算資源の最適化を急ぐ動きが報じられた。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {"rank": 4, "title": "OpenAI、GPT Liveの連続音声対話を発表"},
-    {"rank": 5, "title": "GoogleとKaggle、AIエージェント講座の受講規模を公表"},
-    {"rank": 6, "title": "OpenAI、APAとの提携を発表"},
-    {"rank": 7, "title": "Google、7月のAI発表を総括"},
-    {"rank": 8, "title": "Microsoft、自社開発AIモデル群を発表"},
-    {"rank": 9, "title": "総務省白書、生成AI利用経験者は58.8％"},
-    {"rank": 10, "title": "米ホワイトハウス、AIの革新と安全保障に関する大統領令"}
+    {"rank": 4, "title": "AMD、Taalas買収でAIチップ最適化を強化"},
+    {"rank": 5, "title": "英国AISI、AIエージェントの無断行動を報告"},
+    {"rank": 6, "title": "OpenAI、プレゼン生成企業NextSlideを買収"},
+    {"rank": 7, "title": "Apple、中国向けQwen連携案内を一時掲載後に削除"},
+    {"rank": 8, "title": "アルメニアで大規模AIファクトリーが稼働開始"},
+    {"rank": 9, "title": "Microsoft、ExcelとOutlookで自社AIモデル活用を拡大"},
+    {"rank": 10, "title": "米国、臨床AIの評価原則づくりを加速"}
   ],
   "archive": [
+    {
+      "no": 191,
+      "kind": "✨ ラミッカ",
+      "date": "08.09",
+      "img": "news/top1_manga.png",
+      "title": "Microsoft・NVIDIA・Anthropicが戦略提携を発表"
+    },
     {
       "no": 190,
       "kind": "✨ ラミッカ",

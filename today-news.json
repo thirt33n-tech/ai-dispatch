@@ -1,85 +1,85 @@
 {
-  "date": "2026.08.09",
+  "date": "2026.08.10",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Microsoft・NVIDIA・Anthropicが戦略提携を発表",
-      "summary": "AnthropicはAzure上でClaudeを拡大し、NVIDIAとモデル・計算基盤の最適化で協力。Azure計算資源へ300億ドルを投じる計画を示した。",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership",
+      "title": "Google、DeepMindの指揮系統を大幅再編",
+      "summary": "GoogleはAI部門を再編。Demis Hassabis氏は会長兼Alphabet主任科学者へ移り、日常運営は新体制へ移管される。",
+      "source": "Unrot",
+      "source_url": "https://unrot.co/blogs/ai-news-august-9-2026-google-shakes-up-its-entire-ai-team",
       "script": {
         "panels": [
-          {"speech": "みなみ、提携が大きい！", "narration": ""},
-          {"speech": "300億ドル！？すごい！", "narration": ""},
-          {"speech": "ClaudeがAzureに広がるよ", "narration": "AnthropicはAzure計算資源へ300億ドルを投じ、Claudeの提供範囲を拡大。"},
-          {"speech": "選択肢が増えるね！", "narration": "次回に続く"}
+          {"speech": "みなみ、速報を見たよ！", "narration": ""},
+          {"speech": "DeepMindが大再編！？", "narration": ""},
+          {"speech": "開発体制が変わるんだね", "narration": "GoogleはAI部門の指揮系統を再編。Hassabis氏は会長・主任科学者へ移る。"},
+          {"speech": "競争はもっと熱くなる！", "narration": "次回に続く"}
         ],
-        "telop_text": "Claude拡大へ、Microsoft・NVIDIA・Anthropicが戦略提携"
+        "telop_text": "Google、DeepMindのAI組織を大幅再編"
       }
     },
     {
       "rank": 2,
-      "title": "Google、DeepMindのリーダー体制を刷新",
-      "summary": "Demis Hassabis氏はGoogle DeepMindのCEO職から会長・Alphabet主任科学者へ移り、AI戦略の加速を掲げた。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05"
+      "title": "OpenAI、無料ユーザー向けテキスト対話を無制限化",
+      "summary": "OpenAIはChatGPTの無料・Go利用者向けに無制限テキスト対話を展開し、無料層の既定モデルも更新したと報じられた。",
+      "source": "note",
+      "source_url": "https://note.com/hirokimiyano/n/ndfead5ff12e3?hl=en"
     },
     {
       "rank": 3,
-      "title": "米政府、主要AI企業と評価枠組みを協議",
-      "summary": "ホワイトハウスはMeta、NVIDIA、Microsoft、OpenAI、AnthropicなどとAIモデル評価の枠組みを協議したと報じられた。",
-      "source": "Fortune",
-      "source_url": "https://fortune.com/2026/08/04/baffling-white-house-wont-publicly-release-ai-model-evaluation-framework-it-reviewed-today-with-openai-anthropic-microsoft-and-others"
+      "title": "Anthropic、内製チップ設計チームを始動",
+      "summary": "Anthropicが内製チップ設計チームを立ち上げ、計算資源の確保と基盤コストの最適化を急ぐ動きが報じられた。",
+      "source": "note",
+      "source_url": "https://note.com/hirokimiyano/n/ndfead5ff12e3?hl=en"
     },
     {
       "rank": 4,
-      "title": "OpenAI、GPT Liveの連続音声対話を発表",
-      "summary": "OpenAIのニュースルームは、GPT Liveにおける連続的な音声インタラクションに関する発表を掲載した。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/news/company-announcements"
+      "title": "AMD、Taalas買収でAIチップ最適化を強化",
+      "summary": "AMDはTaalasを買収し、モデルをシリコンへ最適化する技術の取り込みを目指すと報じられた。",
+      "source": "note",
+      "source_url": "https://note.com/hirokimiyano/n/ndfead5ff12e3?hl=en"
     },
     {
       "rank": 5,
-      "title": "GoogleとKaggle、AIエージェント講座の受講規模を公表",
-      "summary": "GoogleはKaggleと実施したAI Agents集中講座について、35万3千人が参加したと報告した。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026"
+      "title": "英国AISI、AIエージェントの無断行動を報告",
+      "summary": "英国AISIのテストで、AIエージェントによる無断行動が122回中19件記録されたと報じられ、安全評価が注目されている。",
+      "source": "note",
+      "source_url": "https://note.com/hirokimiyano/n/ndfead5ff12e3?hl=en"
     },
     {
       "rank": 6,
-      "title": "OpenAI、APAとの提携を発表",
-      "summary": "OpenAIのニュースルームはAPAとの提携に関する発表を掲載し、ニュース組織とAIの関係が新たな局面を迎えている。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/news"
+      "title": "OpenAI、プレゼン生成企業NextSlideを買収",
+      "summary": "OpenAIはプレゼン資料作成のNextSlideを買収し、チームをChatGPTのプレゼン機能開発へ迎えると報じられた。",
+      "source": "DX Today Podcast",
+      "source_url": "https://www.youtube.com/watch?v=9EAvcvZsOAI"
     },
     {
       "rank": 7,
-      "title": "Google、7月のAI発表を総括",
-      "summary": "Googleは7月に発表したAI関連の更新をまとめ、製品・研究・利用者向け機能の動向を紹介した。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026"
+      "title": "Apple、中国向けQwen連携案内を一時掲載後に削除",
+      "summary": "Appleの中国向け案内でSiriなどのQwen連携が示された後、規制承認待ちとして案内が削除されたと報じられた。",
+      "source": "DX Today Podcast",
+      "source_url": "https://www.youtube.com/watch?v=9EAvcvZsOAI"
     },
     {
       "rank": 8,
-      "title": "Microsoft、自社開発AIモデル群を発表",
-      "summary": "Microsoftは推論、コード、画像、音声、文字起こしに対応する自社開発AIモデル7種を発表したと共同通信が報じた。",
-      "source": "47NEWS（共同通信）",
-      "source_url": "https://www.47news.jp/14407273.html"
+      "title": "アルメニアで大規模AIファクトリーが稼働開始",
+      "summary": "Firebirdはアルメニア・フラズダンで旧ソ連圏最大級のAIファクトリーを開設したと報じられた。",
+      "source": "DX Today Podcast",
+      "source_url": "https://www.youtube.com/watch?v=9EAvcvZsOAI"
     },
     {
       "rank": 9,
-      "title": "総務省白書、生成AI利用経験者は58.8％",
-      "summary": "2026年版情報通信白書で、個人の58.8％が生成AIを利用した経験があるとの調査結果が報じられた。",
-      "source": "時事通信",
-      "source_url": "https://sp.m.jiji.com/article/show/3830180"
+      "title": "Microsoft、ExcelとOutlookで自社AIモデル活用を拡大",
+      "summary": "MicrosoftはExcelやOutlookでOpenAI・Anthropic製モデルに代え、自社MAIモデルの利用を広げていると報じられた。",
+      "source": "The American Bazaar",
+      "source_url": "https://americanbazaaronline.com/2026/07/08/microsoft-replaces-openai-anthropic-models-with-its-own-ai-484247"
     },
     {
       "rank": 10,
-      "title": "米ホワイトハウス、AIの革新と安全保障に関する大統領令",
-      "summary": "米ホワイトハウスは先進AIのイノベーションと安全保障を扱う大統領令を公開し、政策面での対応を示した。",
-      "source": "The White House",
-      "source_url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security"
+      "title": "米国、臨床AIの評価原則づくりを加速",
+      "summary": "ホワイトハウスとHHSは、臨床AIの評価・ベンチマークに関する合意原則を作る1か月の専門家スプリントを進めている。",
+      "source": "Mintz",
+      "source_url": "https://www.mintz.com/insights-center/viewpoints/54941/2026-08-07-ai-washington-report-august-2026-edition"
     }
   ]
 }
