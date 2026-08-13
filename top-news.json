@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "192",
-  "dateLabel": "2026.08.10",
+  "dispatchNo": "196",
+  "dateLabel": "2026.08.14",
   "top1": {
-    "title": "Google、DeepMindの指揮系統を大幅再編",
-    "lead1": "GoogleはDeepMindを再編し、AI開発体制の意思決定を加速させる。",
-    "lead2": "Hassabis氏は会長兼Alphabet主任科学者へ移り、長期戦略を担う。",
+    "title": "Google、医療AI「AMIE」の映像診療研究を発表",
+    "lead1": "Google Researchは、医療AI「AMIE」が映像と音声を扱う模擬診療研究で専門家レベルの性能を示したと発表した。",
+    "lead2": "実運用には追加研究が必要としつつ、遠隔医療支援の可能性を示す成果として位置付けている。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,40 +18,68 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "OpenAI、無料ユーザー向けテキスト対話を無制限化",
-    "Anthropic、内製チップ設計チームを始動",
-    "AMD、Taalas買収でAIチップ最適化を強化",
-    "英国AISI、AIエージェントの無断行動を報告",
-    "OpenAI、プレゼン生成企業NextSlideを買収",
-    "Apple、中国向けQwen連携案内を一時掲載後に削除",
-    "アルメニアで大規模AIファクトリーが稼働開始"
+    "Google、Geminiに連携アプリを追加へ",
+    "Google、広告・分析向けのAIエージェント機能を拡充",
+    "Google Research、言語モデルの事実想起を研究",
+    "米国勢調査局、職場でのAI利用と時間削減を公表",
+    "OpenAI、AIネイティブな財務業務の事例を公開",
+    "OpenAI、ChatGPT Businessのプレミアム席を発表",
+    "OpenAI、重要サイバー能力への対応方針を公表"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "OpenAI、無料ユーザー向けテキスト対話を無制限化",
-      "summary": "ChatGPTの無料・Go利用者向け無制限テキスト対話の展開が報じられた。",
+      "title": "Google、Geminiに連携アプリを追加へ",
+      "summary": "GoogleはGeminiで外部サービスを接続できる機能を順次提供する。予約、音楽、業務支援などを一か所で扱う体験を目指す。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Anthropic、内製チップ設計チームを始動",
-      "summary": "Anthropicが内製チップ設計を始め、計算資源の最適化を急ぐ動きが報じられた。",
+      "title": "Google、広告・分析向けのAIエージェント機能を拡充",
+      "summary": "Google AdsとGoogle Analyticsに、要約、自然言語での可視化、ベンチマークなどのAI・エージェント機能を追加する。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {"rank": 4, "title": "AMD、Taalas買収でAIチップ最適化を強化"},
-    {"rank": 5, "title": "英国AISI、AIエージェントの無断行動を報告"},
-    {"rank": 6, "title": "OpenAI、プレゼン生成企業NextSlideを買収"},
-    {"rank": 7, "title": "Apple、中国向けQwen連携案内を一時掲載後に削除"},
-    {"rank": 8, "title": "アルメニアで大規模AIファクトリーが稼働開始"},
-    {"rank": 9, "title": "Microsoft、ExcelとOutlookで自社AIモデル活用を拡大"},
-    {"rank": 10, "title": "米国、臨床AIの評価原則づくりを加速"}
+    {"rank": 4, "title": "Google Research、言語モデルの事実想起を研究"},
+    {"rank": 5, "title": "米国勢調査局、職場でのAI利用と時間削減を公表"},
+    {"rank": 6, "title": "OpenAI、AIネイティブな財務業務の事例を公開"},
+    {"rank": 7, "title": "OpenAI、ChatGPT Businessのプレミアム席を発表"},
+    {"rank": 8, "title": "OpenAI、重要サイバー能力への対応方針を公表"},
+    {"rank": 9, "title": "Anthropic、希少疾患研究向けAI助成の募集を案内"},
+    {"rank": 10, "title": "AI投資拡大、米金融市場でも注目に"}
   ],
   "archive": [
+    {
+      "no": 195,
+      "kind": "✨ ラミッカ",
+      "date": "08.13",
+      "img": "news/top1_manga.png",
+      "title": "Google、Geminiに連携アプリを追加へ"
+    },
+    {
+      "no": 194,
+      "kind": "✨ ラミッカ",
+      "date": "08.12",
+      "img": "news/top1_manga.png",
+      "title": "OpenAI、ChatGPTで広告テストを開始"
+    },
+    {
+      "no": 193,
+      "kind": "✨ ラミッカ",
+      "date": "08.11",
+      "img": "news/top1_manga.png",
+      "title": "OpenAI、テキサス州で責任あるAI基盤整備を表明"
+    },
+    {
+      "no": 192,
+      "kind": "✨ ラミッカ",
+      "date": "08.10",
+      "img": "news/top1_manga.png",
+      "title": "Google、DeepMindの指揮系統を大幅再編"
+    },
     {
       "no": 191,
       "kind": "✨ ラミッカ",

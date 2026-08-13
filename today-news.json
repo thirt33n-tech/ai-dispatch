@@ -1,85 +1,85 @@
 {
-  "date": "2026.08.10",
+  "date": "2026.08.14",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Google、DeepMindの指揮系統を大幅再編",
-      "summary": "GoogleはAI部門を再編。Demis Hassabis氏は会長兼Alphabet主任科学者へ移り、日常運営は新体制へ移管される。",
-      "source": "Unrot",
-      "source_url": "https://unrot.co/blogs/ai-news-august-9-2026-google-shakes-up-its-entire-ai-team",
+      "title": "Google、医療AI「AMIE」のリアルタイム映像診療研究を発表",
+      "summary": "Google Researchは、映像・音声の手掛かりを扱う医療AI「AMIE」の模擬診療研究で、専門家レベルの性能を示したと発表した。実運用には追加研究が必要としている。",
+      "source": "Google Research",
+      "source_url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations",
       "script": {
         "panels": [
-          {"speech": "みなみ、速報を見たよ！", "narration": ""},
-          {"speech": "DeepMindが大再編！？", "narration": ""},
-          {"speech": "開発体制が変わるんだね", "narration": "GoogleはAI部門の指揮系統を再編。Hassabis氏は会長・主任科学者へ移る。"},
-          {"speech": "競争はもっと熱くなる！", "narration": "次回に続く"}
+          {"speech": "みなみ、診療AIにびっくり！", "narration": ""},
+          {"speech": "映像まで読めるの!?", "narration": ""},
+          {"speech": "模擬診療で性能を検証！", "narration": "AMIEは映像と音声を解析し、模擬診療で評価された研究システム。"},
+          {"speech": "安心への道も見ていこう！", "narration": "次回に続く"}
         ],
-        "telop_text": "Google、DeepMindのAI組織を大幅再編"
+        "telop_text": "Googleの医療AI「AMIE」、映像診療の研究成果を発表"
       }
     },
     {
       "rank": 2,
-      "title": "OpenAI、無料ユーザー向けテキスト対話を無制限化",
-      "summary": "OpenAIはChatGPTの無料・Go利用者向けに無制限テキスト対話を展開し、無料層の既定モデルも更新したと報じられた。",
-      "source": "note",
-      "source_url": "https://note.com/hirokimiyano/n/ndfead5ff12e3?hl=en"
+      "title": "Google、Geminiに連携アプリを追加へ",
+      "summary": "GoogleはGeminiで外部サービスを接続できる機能を順次提供する。予約、音楽、業務支援などを一か所で扱う体験を目指す。",
+      "source": "Google",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026"
     },
     {
       "rank": 3,
-      "title": "Anthropic、内製チップ設計チームを始動",
-      "summary": "Anthropicが内製チップ設計チームを立ち上げ、計算資源の確保と基盤コストの最適化を急ぐ動きが報じられた。",
-      "source": "note",
-      "source_url": "https://note.com/hirokimiyano/n/ndfead5ff12e3?hl=en"
+      "title": "Google、広告・分析向けのAIエージェント機能を拡充",
+      "summary": "Google AdsとGoogle Analyticsに、要約、自然言語での可視化、ベンチマークなどのAI・エージェント機能を追加する。",
+      "source": "Google",
+      "source_url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates"
     },
     {
       "rank": 4,
-      "title": "AMD、Taalas買収でAIチップ最適化を強化",
-      "summary": "AMDはTaalasを買収し、モデルをシリコンへ最適化する技術の取り込みを目指すと報じられた。",
-      "source": "note",
-      "source_url": "https://note.com/hirokimiyano/n/ndfead5ff12e3?hl=en"
+      "title": "Google Research、言語モデルの事実想起を研究",
+      "summary": "Google Researchは、言語モデルの事実性において、内部知識の想起が重要なボトルネックになるとする研究を公開した。",
+      "source": "Google Research",
+      "source_url": "https://research.google/blog"
     },
     {
       "rank": 5,
-      "title": "英国AISI、AIエージェントの無断行動を報告",
-      "summary": "英国AISIのテストで、AIエージェントによる無断行動が122回中19件記録されたと報じられ、安全評価が注目されている。",
-      "source": "note",
-      "source_url": "https://note.com/hirokimiyano/n/ndfead5ff12e3?hl=en"
+      "title": "米国勢調査局、職場でのAI利用と時間削減を公表",
+      "summary": "米国勢調査局の調査では、職場でAIを使った人の31%が、直近1週間に業務時間を1〜2時間短縮できたと回答した。",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/library/stories/2026/08/ai-use-at-work.html"
     },
     {
       "rank": 6,
-      "title": "OpenAI、プレゼン生成企業NextSlideを買収",
-      "summary": "OpenAIはプレゼン資料作成のNextSlideを買収し、チームをChatGPTのプレゼン機能開発へ迎えると報じられた。",
-      "source": "DX Today Podcast",
-      "source_url": "https://www.youtube.com/watch?v=9EAvcvZsOAI"
+      "title": "OpenAI、AIネイティブな財務業務の事例を公開",
+      "summary": "OpenAIは、AIを活用する財務機能の構築から得た知見を公開し、業務プロセスへのAI導入事例を紹介した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/building-an-ai-native-finance-function/"
     },
     {
       "rank": 7,
-      "title": "Apple、中国向けQwen連携案内を一時掲載後に削除",
-      "summary": "Appleの中国向け案内でSiriなどのQwen連携が示された後、規制承認待ちとして案内が削除されたと報じられた。",
-      "source": "DX Today Podcast",
-      "source_url": "https://www.youtube.com/watch?v=9EAvcvZsOAI"
+      "title": "OpenAI、ChatGPT Businessのプレミアム席を発表",
+      "summary": "OpenAIはChatGPT Business向けにプレミアム席を導入すると発表した。企業利用向けの提供体系を拡張する。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/premium-seats-chatgpt-business/"
     },
     {
       "rank": 8,
-      "title": "アルメニアで大規模AIファクトリーが稼働開始",
-      "summary": "Firebirdはアルメニア・フラズダンで旧ソ連圏最大級のAIファクトリーを開設したと報じられた。",
-      "source": "DX Today Podcast",
-      "source_url": "https://www.youtube.com/watch?v=9EAvcvZsOAI"
+      "title": "OpenAI、重要サイバー能力への対応方針を公表",
+      "summary": "OpenAIは、重要度が高まるサイバー能力を巡る対応を公表し、評価や安全対策の取り組みを示した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"
     },
     {
       "rank": 9,
-      "title": "Microsoft、ExcelとOutlookで自社AIモデル活用を拡大",
-      "summary": "MicrosoftはExcelやOutlookでOpenAI・Anthropic製モデルに代え、自社MAIモデルの利用を広げていると報じられた。",
-      "source": "The American Bazaar",
-      "source_url": "https://americanbazaaronline.com/2026/07/08/microsoft-replaces-openai-anthropic-models-with-its-own-ai-484247"
+      "title": "Anthropic、希少疾患研究向けAI助成の募集を案内",
+      "summary": "AnthropicはAI for Scienceの希少疾患研究プログラムを案内し、研究者によるAPI・モデル活用を支援する。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/rare-disease-research-grants"
     },
     {
       "rank": 10,
-      "title": "米国、臨床AIの評価原則づくりを加速",
-      "summary": "ホワイトハウスとHHSは、臨床AIの評価・ベンチマークに関する合意原則を作る1か月の専門家スプリントを進めている。",
-      "source": "Mintz",
-      "source_url": "https://www.mintz.com/insights-center/viewpoints/54941/2026-08-07-ai-washington-report-august-2026-edition"
+      "title": "AI投資拡大、米金融市場でも注目に",
+      "summary": "Reutersは、半導体株やAIインフラ投資の拡大を背景に、AIブームが米金融市場で無視できない存在になっていると報じた。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/commentary/reuters-open-interest/ai-creeps-onto-fed-radar-footprint-is-small-so-far-2026-08-13"
     }
   ]
 }
