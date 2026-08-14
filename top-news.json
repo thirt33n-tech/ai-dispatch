@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "196",
-  "dateLabel": "2026.08.14",
+  "dispatchNo": "197",
+  "dateLabel": "2026.08.15",
   "top1": {
-    "title": "Google、医療AI「AMIE」の映像診療研究を発表",
-    "lead1": "Google Researchは、医療AI「AMIE」が映像と音声を扱う模擬診療研究で専門家レベルの性能を示したと発表した。",
-    "lead2": "実運用には追加研究が必要としつつ、遠隔医療支援の可能性を示す成果として位置付けている。",
+    "title": "Google、Gemini 3.7 Flashを発表",
+    "lead1": "Googleはコーディングやエージェント用途を強化したGemini 3.7 Flashを発表。3.6 Flash比で性能向上と導入価格の引き下げを示した。",
+    "lead2": "Googleは開発・知識作業・Web開発での改善と、年末までの導入価格を案内している。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,40 +18,68 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "Google、Geminiに連携アプリを追加へ",
-    "Google、広告・分析向けのAIエージェント機能を拡充",
-    "Google Research、言語モデルの事実想起を研究",
-    "米国勢調査局、職場でのAI利用と時間削減を公表",
-    "OpenAI、AIネイティブな財務業務の事例を公開",
-    "OpenAI、ChatGPT Businessのプレミアム席を発表",
-    "OpenAI、重要サイバー能力への対応方針を公表"
+    "NVIDIAら、インドネシア初の大学AIセンターを開設",
+    "OpenAI、Dali Rajic氏を最高収益責任者に任命",
+    "Google、Geminiの連携アプリを拡充へ",
+    "Google、広告・分析向けAI機能を拡充",
+    "Google、Geminiアプリの月間利用者10億人を発表",
+    "Meta、ローカル実行可能なMuse Glimmerを公開",
+    "Anthropic、Riotと長期AI計算資源契約と報道"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Google、Geminiに連携アプリを追加へ",
-      "summary": "GoogleはGeminiで外部サービスを接続できる機能を順次提供する。予約、音楽、業務支援などを一か所で扱う体験を目指す。",
+      "title": "NVIDIAら、インドネシア初の大学AIセンターを開設",
+      "summary": "NVIDIA、UGM、Indosatなどは、研究者・学生・開発者向けのAI人材育成拠点をインドネシアに開設した。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Google、広告・分析向けのAIエージェント機能を拡充",
-      "summary": "Google AdsとGoogle Analyticsに、要約、自然言語での可視化、ベンチマークなどのAI・エージェント機能を追加する。",
+      "title": "OpenAI、Dali Rajic氏を最高収益責任者に任命",
+      "summary": "OpenAIは企業向けAI導入の拡大を背景に、Dali Rajic氏をChief Revenue Officerへ任命した。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {"rank": 4, "title": "Google Research、言語モデルの事実想起を研究"},
-    {"rank": 5, "title": "米国勢調査局、職場でのAI利用と時間削減を公表"},
-    {"rank": 6, "title": "OpenAI、AIネイティブな財務業務の事例を公開"},
-    {"rank": 7, "title": "OpenAI、ChatGPT Businessのプレミアム席を発表"},
-    {"rank": 8, "title": "OpenAI、重要サイバー能力への対応方針を公表"},
-    {"rank": 9, "title": "Anthropic、希少疾患研究向けAI助成の募集を案内"},
-    {"rank": 10, "title": "AI投資拡大、米金融市場でも注目に"}
+    {
+      "rank": 4,
+      "title": "Google、Geminiの連携アプリを拡充へ"
+    },
+    {
+      "rank": 5,
+      "title": "Google、広告・分析向けAI機能を拡充"
+    },
+    {
+      "rank": 6,
+      "title": "Google、Geminiアプリの月間利用者10億人を発表"
+    },
+    {
+      "rank": 7,
+      "title": "Meta、ローカル実行可能なMuse Glimmerを公開"
+    },
+    {
+      "rank": 8,
+      "title": "Anthropic、Riotと長期AI計算資源契約と報道"
+    },
+    {
+      "rank": 9,
+      "title": "Manus、Meta買収の解消と独立復帰を案内"
+    },
+    {
+      "rank": 10,
+      "title": "NVIDIA、AIファクトリー向け800VDC電力設計を解説"
+    }
   ],
   "archive": [
+    {
+      "no": 196,
+      "kind": "✨ ラミッカ",
+      "date": "08.14",
+      "img": "news/top1_manga.png",
+      "title": "Google、医療AI「AMIE」の映像診療研究を発表"
+    },
     {
       "no": 195,
       "kind": "✨ ラミッカ",

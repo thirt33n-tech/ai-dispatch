@@ -1,85 +1,97 @@
 {
-  "date": "2026.08.14",
+  "date": "2026.08.15",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Google、医療AI「AMIE」のリアルタイム映像診療研究を発表",
-      "summary": "Google Researchは、映像・音声の手掛かりを扱う医療AI「AMIE」の模擬診療研究で、専門家レベルの性能を示したと発表した。実運用には追加研究が必要としている。",
-      "source": "Google Research",
-      "source_url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations",
+      "title": "Google、Gemini 3.7 Flashを発表",
+      "summary": "Googleはコーディングやエージェント用途を強化したGemini 3.7 Flashを発表。3.6 Flash比で性能向上と導入価格の引き下げを示した。",
+      "source": "Google",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
       "script": {
         "panels": [
-          {"speech": "みなみ、診療AIにびっくり！", "narration": ""},
-          {"speech": "映像まで読めるの!?", "narration": ""},
-          {"speech": "模擬診療で性能を検証！", "narration": "AMIEは映像と音声を解析し、模擬診療で評価された研究システム。"},
-          {"speech": "安心への道も見ていこう！", "narration": "次回に続く"}
+          {
+            "speech": "みなみ、新Flashに注目！",
+            "narration": ""
+          },
+          {
+            "speech": "エージェントがもっと賢く!?",
+            "narration": ""
+          },
+          {
+            "speech": "開発支援を強化した新モデル！",
+            "narration": "Gemini 3.7 Flashは、コーディングとエージェント用途の性能向上を掲げる。"
+          },
+          {
+            "speech": "使い方も進化しそう！",
+            "narration": "次回に続く"
+          }
         ],
-        "telop_text": "Googleの医療AI「AMIE」、映像診療の研究成果を発表"
+        "telop_text": "Google、Gemini 3.7 Flashを発表"
       }
     },
     {
       "rank": 2,
-      "title": "Google、Geminiに連携アプリを追加へ",
-      "summary": "GoogleはGeminiで外部サービスを接続できる機能を順次提供する。予約、音楽、業務支援などを一か所で扱う体験を目指す。",
+      "title": "NVIDIAら、インドネシア初の大学AIセンターを開設",
+      "summary": "NVIDIA、UGM、Indosatなどは、研究者・学生・開発者向けのAI人材育成拠点をインドネシアに開設した。",
+      "source": "NVIDIA",
+      "source_url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center"
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI、Dali Rajic氏を最高収益責任者に任命",
+      "summary": "OpenAIは企業向けAI導入の拡大を背景に、Dali Rajic氏をChief Revenue Officerへ任命した。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    {
+      "rank": 4,
+      "title": "Google、Geminiの連携アプリを拡充へ",
+      "summary": "GoogleはGeminiから外部サービスを接続し、計画・作成・タスク管理を一か所で進める機能を順次提供する。",
       "source": "Google",
       "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026"
     },
     {
-      "rank": 3,
-      "title": "Google、広告・分析向けのAIエージェント機能を拡充",
-      "summary": "Google AdsとGoogle Analyticsに、要約、自然言語での可視化、ベンチマークなどのAI・エージェント機能を追加する。",
+      "rank": 5,
+      "title": "Google、広告・分析向けAI機能を拡充",
+      "summary": "Google AdsとGoogle Analyticsに、AI要約、自然言語による可視化、業界比較などの機能を追加する。",
       "source": "Google",
       "source_url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates"
     },
     {
-      "rank": 4,
-      "title": "Google Research、言語モデルの事実想起を研究",
-      "summary": "Google Researchは、言語モデルの事実性において、内部知識の想起が重要なボトルネックになるとする研究を公開した。",
-      "source": "Google Research",
-      "source_url": "https://research.google/blog"
-    },
-    {
-      "rank": 5,
-      "title": "米国勢調査局、職場でのAI利用と時間削減を公表",
-      "summary": "米国勢調査局の調査では、職場でAIを使った人の31%が、直近1週間に業務時間を1〜2時間短縮できたと回答した。",
-      "source": "U.S. Census Bureau",
-      "source_url": "https://www.census.gov/library/stories/2026/08/ai-use-at-work.html"
-    },
-    {
       "rank": 6,
-      "title": "OpenAI、AIネイティブな財務業務の事例を公開",
-      "summary": "OpenAIは、AIを活用する財務機能の構築から得た知見を公開し、業務プロセスへのAI導入事例を紹介した。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/building-an-ai-native-finance-function/"
+      "title": "Google、Geminiアプリの月間利用者10億人を発表",
+      "summary": "GoogleはGeminiアプリの月間アクティブユーザーが10億人を超えたと発表し、同社最速級の成長製品と位置付けた。",
+      "source": "Google",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users"
     },
     {
       "rank": 7,
-      "title": "OpenAI、ChatGPT Businessのプレミアム席を発表",
-      "summary": "OpenAIはChatGPT Business向けにプレミアム席を導入すると発表した。企業利用向けの提供体系を拡張する。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/premium-seats-chatgpt-business/"
+      "title": "Meta、ローカル実行可能なMuse Glimmerを公開",
+      "summary": "Metaはローカルのエージェント利用やコーディングを想定した30B規模のマルチモーダルモデルMuse GlimmerをApache 2.0で公開した。",
+      "source": "Meta",
+      "source_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
     },
     {
       "rank": 8,
-      "title": "OpenAI、重要サイバー能力への対応方針を公表",
-      "summary": "OpenAIは、重要度が高まるサイバー能力を巡る対応を公表し、評価や安全対策の取り組みを示した。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"
+      "title": "Anthropic、Riotと長期AI計算資源契約と報道",
+      "summary": "Riot Platformsは、テキサス州拠点の計算資源を巡る長期契約を開示。Bloomberg報道では借り手はAnthropicとされる。",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358"
     },
     {
       "rank": 9,
-      "title": "Anthropic、希少疾患研究向けAI助成の募集を案内",
-      "summary": "AnthropicはAI for Scienceの希少疾患研究プログラムを案内し、研究者によるAPI・モデル活用を支援する。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/rare-disease-research-grants"
+      "title": "Manus、Meta買収の解消と独立復帰を案内",
+      "summary": "Manusは規制対応を理由にMeta買収の解消と独立企業への復帰予定を案内し、対象ユーザーにはデータのバックアップを促した。",
+      "source": "Manus",
+      "source_url": "https://manus.im/blog/a-note-to-our-users"
     },
     {
       "rank": 10,
-      "title": "AI投資拡大、米金融市場でも注目に",
-      "summary": "Reutersは、半導体株やAIインフラ投資の拡大を背景に、AIブームが米金融市場で無視できない存在になっていると報じた。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/commentary/reuters-open-interest/ai-creeps-onto-fed-radar-footprint-is-small-so-far-2026-08-13"
+      "title": "NVIDIA、AIファクトリー向け800VDC電力設計を解説",
+      "summary": "NVIDIAは既存施設にも導入しやすい800VDC電力アーキテクチャを紹介し、次世代AI計算設備の拡張を見据える。",
+      "source": "NVIDIA",
+      "source_url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory"
     }
   ]
 }
