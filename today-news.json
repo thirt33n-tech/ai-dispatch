@@ -1,97 +1,85 @@
 {
-  "date": "2026.08.15",
+  "date": "2026.08.21",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Google、Gemini 3.7 Flashを発表",
-      "summary": "Googleはコーディングやエージェント用途を強化したGemini 3.7 Flashを発表。3.6 Flash比で性能向上と導入価格の引き下げを示した。",
-      "source": "Google",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
+      "title": "Google、AI Maxに複数キャンペーンの予算・ROI検証機能を追加へ",
+      "summary": "GoogleがAI Maxで複数の検索キャンペーンの予算とROI目標をA/Bテストする新機能を発表。9月から段階提供予定。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools",
       "script": {
         "panels": [
-          {
-            "speech": "みなみ、新Flashに注目！",
-            "narration": ""
-          },
-          {
-            "speech": "エージェントがもっと賢く!?",
-            "narration": ""
-          },
-          {
-            "speech": "開発支援を強化した新モデル！",
-            "narration": "Gemini 3.7 Flashは、コーディングとエージェント用途の性能向上を掲げる。"
-          },
-          {
-            "speech": "使い方も進化しそう！",
-            "narration": "次回に続く"
-          }
+          {"speech": "えっ、AI Max新機能！？", "narration": ""},
+          {"speech": "予算とROIを同時検証！", "narration": ""},
+          {"speech": "みなみも試したい！", "narration": "複数キャンペーンをA/Bテスト"},
+          {"speech": "広告運用が変わりそう！", "narration": "次回に続く"}
         ],
-        "telop_text": "Google、Gemini 3.7 Flashを発表"
+        "telop_text": "Google AI Maxに予算・ROI検証機能"
       }
     },
     {
       "rank": 2,
-      "title": "NVIDIAら、インドネシア初の大学AIセンターを開設",
-      "summary": "NVIDIA、UGM、Indosatなどは、研究者・学生・開発者向けのAI人材育成拠点をインドネシアに開設した。",
-      "source": "NVIDIA",
-      "source_url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center"
+      "title": "Google、対象学生へGeminiを含むAIプランを1年間無料提供",
+      "summary": "Googleが対象の大学生向けに、学習機能を強化したGoogle AIプランを1年間無料で提供すると発表。140超の市場が対象。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai"
     },
     {
       "rank": 3,
-      "title": "OpenAI、Dali Rajic氏を最高収益責任者に任命",
-      "summary": "OpenAIは企業向けAI導入の拡大を背景に、Dali Rajic氏をChief Revenue Officerへ任命した。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+      "title": "OpenAI、AIのサイバー重要能力を巡る開発方針を公表",
+      "summary": "OpenAIがサイバー分野で重要性が高まるAI能力を巡り、モデル開発のペースと安全対策に関する方針を発信。",
+      "source": "OpenAI Newsroom",
+      "source_url": "https://openai.com/news/company-announcements"
     },
     {
       "rank": 4,
-      "title": "Google、Geminiの連携アプリを拡充へ",
-      "summary": "GoogleはGeminiから外部サービスを接続し、計画・作成・タスク管理を一か所で進める機能を順次提供する。",
-      "source": "Google",
-      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026"
+      "title": "OpenAI、ChatGPT広告を欧州へ拡大",
+      "summary": "OpenAIがChatGPT内の広告提供を欧州へ拡大するとニュースルームで案内。プロダクトの収益化施策が進展する。",
+      "source": "OpenAI Newsroom",
+      "source_url": "https://openai.com/news/company-announcements"
     },
     {
       "rank": 5,
-      "title": "Google、広告・分析向けAI機能を拡充",
-      "summary": "Google AdsとGoogle Analyticsに、AI要約、自然言語による可視化、業界比較などの機能を追加する。",
-      "source": "Google",
-      "source_url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates"
+      "title": "Google、AIによる洪水予測の取り組みを解説",
+      "summary": "GoogleがAIを使った洪水予測の進展を紹介。現在は150か国・20億人超が暮らす地域で予測情報を届けているという。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai"
     },
     {
       "rank": 6,
-      "title": "Google、Geminiアプリの月間利用者10億人を発表",
-      "summary": "GoogleはGeminiアプリの月間アクティブユーザーが10億人を超えたと発表し、同社最速級の成長製品と位置付けた。",
-      "source": "Google",
-      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users"
+      "title": "OpenAI、米オハイオ州の地域投資プロジェクトへ参加",
+      "summary": "OpenAIがPORTS-Pikeプロジェクトへの参加を発表。米南部オハイオの地域投資と雇用支援を拡大する取り組み。",
+      "source": "OpenAI Newsroom",
+      "source_url": "https://openai.com/news/global-affairs"
     },
     {
       "rank": 7,
-      "title": "Meta、ローカル実行可能なMuse Glimmerを公開",
-      "summary": "Metaはローカルのエージェント利用やコーディングを想定した30B規模のマルチモーダルモデルMuse GlimmerをApache 2.0で公開した。",
-      "source": "Meta",
-      "source_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+      "title": "Anthropic、Claude文章ウォーターマークの仕組みを公開",
+      "summary": "Anthropicが将来のClaude出力に文章ウォーターマークを導入する方針と仕組みを説明。EU AI法への対応として展開する。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/claude-text-watermark"
     },
     {
       "rank": 8,
-      "title": "Anthropic、Riotと長期AI計算資源契約と報道",
-      "summary": "Riot Platformsは、テキサス州拠点の計算資源を巡る長期契約を開示。Bloomberg報道では借り手はAnthropicとされる。",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358"
+      "title": "Google、医療AI「AMIE」のビデオ相談研究を発表",
+      "summary": "Googleが医療AI「AMIE」をビデオ相談へ拡張する研究を発表。会話と視覚情報を組み合わせた診療支援を探る。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations"
     },
     {
       "rank": 9,
-      "title": "Manus、Meta買収の解消と独立復帰を案内",
-      "summary": "Manusは規制対応を理由にMeta買収の解消と独立企業への復帰予定を案内し、対象ユーザーにはデータのバックアップを促した。",
-      "source": "Manus",
-      "source_url": "https://manus.im/blog/a-note-to-our-users"
+      "title": "OpenAI、希少遺伝病診断を支える医師向けAI活用を紹介",
+      "summary": "OpenAIが小児の希少遺伝病診断で医師を支援するAI活用事例を紹介。臨床現場での診断補助を目指す。",
+      "source": "OpenAI Newsroom",
+      "source_url": "https://openai.com/news/applied-ai"
     },
     {
       "rank": 10,
-      "title": "NVIDIA、AIファクトリー向け800VDC電力設計を解説",
-      "summary": "NVIDIAは既存施設にも導入しやすい800VDC電力アーキテクチャを紹介し、次世代AI計算設備の拡張を見据える。",
-      "source": "NVIDIA",
-      "source_url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory"
+      "title": "Anthropic、Claude Fable 5の生物学セーフガードを改善",
+      "summary": "AnthropicがClaude Fable 5の生物学関連セーフガードを更新。通常利用での不要な下位モデル切替を減らすとしている。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
     }
   ]
 }
