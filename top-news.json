@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "200",
-  "dateLabel": "2026.08.21",
+  "dispatchNo": "201",
+  "dateLabel": "2026.08.22",
   "top1": {
-    "title": "Google、AI Maxに複数キャンペーンの予算・ROI検証機能を追加へ",
-    "lead1": "GoogleがAI Maxで複数の検索キャンペーンの予算とROI目標をA/Bテストする新機能を発表。",
-    "lead2": "9月から段階提供予定で、広告運用における検証と最適化を支援する。",
+    "title": "Anthropic、過去最大級のIPO規模を目指すとの報道",
+    "lead1": "Bloombergは、AnthropicがSpaceXの記録的IPO規模に匹敵、または上回る規模を目指す見通しだと報じた。",
+    "lead2": "AI投資の熱気を映す大型案件として、市場の反応が注目される。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,40 +18,47 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "TOP2: Google、対象学生へGeminiを含むAIプランを1年間無料提供",
-    "TOP3: OpenAI、AIのサイバー重要能力を巡る開発方針を公表",
-    "TOP4: OpenAI、ChatGPT広告を欧州へ拡大",
-    "TOP5: Google、AIによる洪水予測の取り組みを解説",
-    "TOP6: OpenAI、米オハイオ州の地域投資プロジェクトへ参加",
-    "TOP7: Anthropic、Claude文章ウォーターマークの仕組みを公開",
-    "TOP8: Google、医療AI「AMIE」のビデオ相談研究を発表"
+    "TOP2: OpenAI、企業顧客向けプライバシー保護を強化へ",
+    "TOP3: 米若年層、AI拡大への期待より懸念が増加",
+    "TOP4: 科学推論ベンチマーク、LLMの仮説生成力に課題を示す",
+    "TOP5: Google、AI Maxで予算・ROIの横断A/Bテストを追加へ",
+    "TOP6: Google、対象学生へGeminiを含むAIプランを1年間無料提供",
+    "TOP7: Google、AIで航空機雲を減らす取り組みを英国と開始",
+    "TOP8: Anthropic、サイバーセキュリティ評価中の実事案を調査"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Google、対象学生へGeminiを含むAIプランを1年間無料提供",
-      "summary": "Googleが対象の大学生向けに、学習機能を強化したGoogle AIプランを1年間無料で提供すると発表。",
+      "title": "OpenAI、企業顧客向けプライバシー保護を強化へ",
+      "summary": "OpenAIが企業顧客向けの新たなプライバシー保護策で差別化を図ると報じられた。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "OpenAI、AIのサイバー重要能力を巡る開発方針を公表",
-      "summary": "OpenAIがサイバー分野で重要性が高まるAI能力を巡り、モデル開発のペースと安全対策に関する方針を発信。",
+      "title": "米若年層、AI拡大への期待より懸念が増加",
+      "summary": "米国調査で、若年層のAI利用拡大への懸念が高まったことをジェトロが伝えた。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {"rank": 4, "title": "OpenAI、ChatGPT広告を欧州へ拡大"},
-    {"rank": 5, "title": "Google、AIによる洪水予測の取り組みを解説"},
-    {"rank": 6, "title": "OpenAI、米オハイオ州の地域投資プロジェクトへ参加"},
-    {"rank": 7, "title": "Anthropic、Claude文章ウォーターマークの仕組みを公開"},
-    {"rank": 8, "title": "Google、医療AI「AMIE」のビデオ相談研究を発表"},
-    {"rank": 9, "title": "OpenAI、希少遺伝病診断を支える医師向けAI活用を紹介"},
-    {"rank": 10, "title": "Anthropic、Claude Fable 5の生物学セーフガードを改善"}
+    {"rank": 4, "title": "科学推論ベンチマーク、LLMの仮説生成力に課題を示す"},
+    {"rank": 5, "title": "Google、AI Maxで予算・ROIの横断A/Bテストを追加へ"},
+    {"rank": 6, "title": "Google、対象学生へGeminiを含むAIプランを1年間無料提供"},
+    {"rank": 7, "title": "Google、AIで航空機雲を減らす取り組みを英国と開始"},
+    {"rank": 8, "title": "Anthropic、サイバーセキュリティ評価中の実事案を調査"},
+    {"rank": 9, "title": "OpenAI、ChatGPTとHugging Faceの評価中セキュリティ事案を公表"},
+    {"rank": 10, "title": "AIニュース日次版、研究・政策・インフラの話題を整理"}
   ],
   "archive": [
+    {
+      "no": "200",
+      "kind": "✨ ラミッカ",
+      "date": "08.21",
+      "img": "news/top1_manga.png",
+      "title": "Google、AI Maxに複数キャンペーンの予算・ROI検証機能を追加へ"
+    },
     {
       "no": "199",
       "kind": "✨ ラミッカ",

@@ -1,85 +1,85 @@
 {
-  "date": "2026.08.21",
+  "date": "2026.08.22",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Google、AI Maxに複数キャンペーンの予算・ROI検証機能を追加へ",
-      "summary": "GoogleがAI Maxで複数の検索キャンペーンの予算とROI目標をA/Bテストする新機能を発表。9月から段階提供予定。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools",
+      "title": "Anthropic、過去最大級のIPO規模を目指すとの報道",
+      "summary": "Bloombergは、AnthropicがSpaceXの記録的IPO規模に匹敵、または上回る規模を目指す見通しだと報じた。",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-08-21/the-opening-trade-8-21-2026-video",
       "script": {
         "panels": [
-          {"speech": "えっ、AI Max新機能！？", "narration": ""},
-          {"speech": "予算とROIを同時検証！", "narration": ""},
-          {"speech": "みなみも試したい！", "narration": "複数キャンペーンをA/Bテスト"},
-          {"speech": "広告運用が変わりそう！", "narration": "次回に続く"}
+          {"speech": "みなみ、びっくり！", "narration": ""},
+          {"speech": "超大型IPOの予感！", "narration": ""},
+          {"speech": "AI投資が熱いね！", "narration": "Anthropicが過去最大級の上場規模を目指すと報じられた"},
+          {"speech": "市場の反応も注目！", "narration": "次回に続く"}
         ],
-        "telop_text": "Google AI Maxに予算・ROI検証機能"
+        "telop_text": "Anthropicに過去最大級IPOの観測"
       }
     },
     {
       "rank": 2,
+      "title": "OpenAI、企業顧客向けプライバシー保護を強化へ",
+      "summary": "TechCrunchは、OpenAIが企業顧客向けの新たなプライバシー保護策でAnthropicとの差別化を図ると報じた。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections"
+    },
+    {
+      "rank": 3,
+      "title": "米若年層、AI拡大への期待より懸念が増加",
+      "summary": "ジェトロは、米国の調査でAI利用拡大に対し期待より懸念が大きいと答えた若年層の割合が上昇したと伝えた。",
+      "source": "JETRO",
+      "source_url": "https://www.jetro.go.jp/biznews/2026/08/77befea6438e16dc.html"
+    },
+    {
+      "rank": 4,
+      "title": "科学推論ベンチマーク、LLMの仮説生成力に課題を示す",
+      "summary": "AI Weeklyは、論文の書誌情報だけから研究アイデアを再構成する新ベンチマークで、最先端LLMの成績が限定的だったと紹介した。",
+      "source": "AI Weekly",
+      "source_url": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "rank": 5,
+      "title": "Google、AI Maxで予算・ROIの横断A/Bテストを追加へ",
+      "summary": "Googleは、AI Maxで複数の検索キャンペーンにまたがる予算とROI目標のA/Bテスト機能を9月から提供予定と発表した。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools"
+    },
+    {
+      "rank": 6,
       "title": "Google、対象学生へGeminiを含むAIプランを1年間無料提供",
-      "summary": "Googleが対象の大学生向けに、学習機能を強化したGoogle AIプランを1年間無料で提供すると発表。140超の市場が対象。",
+      "summary": "Googleは、対象の大学生へ学習支援機能を備えたGoogle AIプランを1年間無料で提供すると発表した。",
       "source": "Google Blog",
       "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai"
     },
     {
-      "rank": 3,
-      "title": "OpenAI、AIのサイバー重要能力を巡る開発方針を公表",
-      "summary": "OpenAIがサイバー分野で重要性が高まるAI能力を巡り、モデル開発のペースと安全対策に関する方針を発信。",
-      "source": "OpenAI Newsroom",
-      "source_url": "https://openai.com/news/company-announcements"
-    },
-    {
-      "rank": 4,
-      "title": "OpenAI、ChatGPT広告を欧州へ拡大",
-      "summary": "OpenAIがChatGPT内の広告提供を欧州へ拡大するとニュースルームで案内。プロダクトの収益化施策が進展する。",
-      "source": "OpenAI Newsroom",
-      "source_url": "https://openai.com/news/company-announcements"
-    },
-    {
-      "rank": 5,
-      "title": "Google、AIによる洪水予測の取り組みを解説",
-      "summary": "GoogleがAIを使った洪水予測の進展を紹介。現在は150か国・20億人超が暮らす地域で予測情報を届けているという。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai"
-    },
-    {
-      "rank": 6,
-      "title": "OpenAI、米オハイオ州の地域投資プロジェクトへ参加",
-      "summary": "OpenAIがPORTS-Pikeプロジェクトへの参加を発表。米南部オハイオの地域投資と雇用支援を拡大する取り組み。",
-      "source": "OpenAI Newsroom",
-      "source_url": "https://openai.com/news/global-affairs"
-    },
-    {
       "rank": 7,
-      "title": "Anthropic、Claude文章ウォーターマークの仕組みを公開",
-      "summary": "Anthropicが将来のClaude出力に文章ウォーターマークを導入する方針と仕組みを説明。EU AI法への対応として展開する。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/claude-text-watermark"
+      "title": "Google、AIで航空機雲を減らす取り組みを英国と開始",
+      "summary": "Googleは英国政府や航空業界と連携し、AIで北大西洋上の飛行機雲を回避して航空の気候影響を減らす取り組みを公表した。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies"
     },
     {
       "rank": 8,
-      "title": "Google、医療AI「AMIE」のビデオ相談研究を発表",
-      "summary": "Googleが医療AI「AMIE」をビデオ相談へ拡張する研究を発表。会話と視覚情報を組み合わせた診療支援を探る。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations"
+      "title": "Anthropic、サイバーセキュリティ評価中の実事案を調査",
+      "summary": "Anthropicは、評価環境に意図せずインターネット接続が存在したことに関連する実事案3件を調査したと説明した。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
     },
     {
       "rank": 9,
-      "title": "OpenAI、希少遺伝病診断を支える医師向けAI活用を紹介",
-      "summary": "OpenAIが小児の希少遺伝病診断で医師を支援するAI活用事例を紹介。臨床現場での診断補助を目指す。",
-      "source": "OpenAI Newsroom",
-      "source_url": "https://openai.com/news/applied-ai"
+      "title": "OpenAI、ChatGPTとHugging Faceの評価中セキュリティ事案を公表",
+      "summary": "OpenAIは、Hugging Faceと協力してモデル評価中に生じたセキュリティ事案を検証し、外部助言を交えた見直しを進めている。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
     },
     {
       "rank": 10,
-      "title": "Anthropic、Claude Fable 5の生物学セーフガードを改善",
-      "summary": "AnthropicがClaude Fable 5の生物学関連セーフガードを更新。通常利用での不要な下位モデル切替を減らすとしている。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+      "title": "AIニュース日次版、研究・政策・インフラの話題を整理",
+      "summary": "AI Weeklyは8月21日版で、科学推論評価やAIデータセンターを巡る政策など複数のAI関連トピックを更新した。",
+      "source": "AI Weekly",
+      "source_url": "https://aiweekly.co/ai-news-today"
     }
   ]
 }
