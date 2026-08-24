@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "201",
-  "dateLabel": "2026.08.22",
+  "dispatchNo": "203",
+  "dateLabel": "2026.08.25",
   "top1": {
-    "title": "Anthropic、過去最大級のIPO規模を目指すとの報道",
-    "lead1": "Bloombergは、AnthropicがSpaceXの記録的IPO規模に匹敵、または上回る規模を目指す見通しだと報じた。",
-    "lead2": "AI投資の熱気を映す大型案件として、市場の反応が注目される。",
+    "title": "Alibaba、AI投資へ約102億ドルを香港で調達",
+    "lead1": "AlibabaはAIチップ・計算基盤・モデル開発を含むフルスタックAI投資に向け、約102億ドルを調達した。",
+    "lead2": "巨額資本がAIインフラ競争を加速させるなか、モデル開発と計算資源への投資競争が続く。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,40 +18,75 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "TOP2: OpenAI、企業顧客向けプライバシー保護を強化へ",
-    "TOP3: 米若年層、AI拡大への期待より懸念が増加",
-    "TOP4: 科学推論ベンチマーク、LLMの仮説生成力に課題を示す",
-    "TOP5: Google、AI Maxで予算・ROIの横断A/Bテストを追加へ",
-    "TOP6: Google、対象学生へGeminiを含むAIプランを1年間無料提供",
-    "TOP7: Google、AIで航空機雲を減らす取り組みを英国と開始",
-    "TOP8: Anthropic、サイバーセキュリティ評価中の実事案を調査"
+    "TOP2: NVIDIA、Perplexityへの出資を検討と報道",
+    "TOP3: OpenAI研究者Luke Metz氏、Metaへ移籍と報道",
+    "TOP4: SoftBank、AI投資向けに大型個人向け債を計画",
+    "TOP5: Altman氏、AI権力の集中リスクに警鐘",
+    "TOP6: 韓国、レバレッジ型AIチップETFに規制強化へ",
+    "TOP7: Fable 5、NanoGPT自律最適化ベンチで首位",
+    "TOP8: Tesla、Cybercab発表イベントを9月3日に設定"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "OpenAI、企業顧客向けプライバシー保護を強化へ",
-      "summary": "OpenAIが企業顧客向けの新たなプライバシー保護策で差別化を図ると報じられた。",
+      "title": "NVIDIA、Perplexityへの出資を検討と報道",
+      "summary": "NVIDIAがAI検索企業Perplexityへの出資を協議していると報じられた。評価額は300億ドル超が検討されているという。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "米若年層、AI拡大への期待より懸念が増加",
-      "summary": "米国調査で、若年層のAI利用拡大への懸念が高まったことをジェトロが伝えた。",
+      "title": "OpenAI研究者Luke Metz氏、Metaへ移籍と報道",
+      "summary": "OpenAIの研究者Luke Metz氏がMeta Superintelligence Labsに加わるとAxiosが報道。AI人材獲得競争が続く。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [
-    {"rank": 4, "title": "科学推論ベンチマーク、LLMの仮説生成力に課題を示す"},
-    {"rank": 5, "title": "Google、AI Maxで予算・ROIの横断A/Bテストを追加へ"},
-    {"rank": 6, "title": "Google、対象学生へGeminiを含むAIプランを1年間無料提供"},
-    {"rank": 7, "title": "Google、AIで航空機雲を減らす取り組みを英国と開始"},
-    {"rank": 8, "title": "Anthropic、サイバーセキュリティ評価中の実事案を調査"},
-    {"rank": 9, "title": "OpenAI、ChatGPTとHugging Faceの評価中セキュリティ事案を公表"},
-    {"rank": 10, "title": "AIニュース日次版、研究・政策・インフラの話題を整理"}
+    {
+      "rank": 4,
+      "title": "SoftBank、AI投資向けに大型個人向け債を計画"
+    },
+    {
+      "rank": 5,
+      "title": "Altman氏、AI権力の集中リスクに警鐘"
+    },
+    {
+      "rank": 6,
+      "title": "韓国、レバレッジ型AIチップETFに規制強化へ"
+    },
+    {
+      "rank": 7,
+      "title": "Fable 5、NanoGPT自律最適化ベンチで首位"
+    },
+    {
+      "rank": 8,
+      "title": "Tesla、Cybercab発表イベントを9月3日に設定"
+    },
+    {
+      "rank": 9,
+      "title": "Qwen 3.8 27B、オフラインでアプリ解析を実演"
+    },
+    {
+      "rank": 10,
+      "title": "米テキサス州でAIデータセンターへの反発が拡大"
+    }
   ],
   "archive": [
+    {
+      "no": "202",
+      "kind": "✨ ラミッカ",
+      "date": "08.23",
+      "img": "news/top1_manga.png",
+      "title": "OpenAI、重要なサイバー能力を受けモデル開発ペースを見直し"
+    },
+    {
+      "no": "201",
+      "kind": "✨ ラミッカ",
+      "date": "08.22",
+      "img": "news/top1_manga.png",
+      "title": "Anthropic、過去最大級のIPO規模を目指すとの報道"
+    },
     {
       "no": "200",
       "kind": "✨ ラミッカ",
