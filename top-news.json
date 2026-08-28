@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "203",
-  "dateLabel": "2026.08.25",
+  "dispatchNo": "205",
+  "dateLabel": "2026.08.28",
   "top1": {
-    "title": "Alibaba、AI投資へ約102億ドルを香港で調達",
-    "lead1": "AlibabaはAIチップ・計算基盤・モデル開発を含むフルスタックAI投資に向け、約102億ドルを調達した。",
-    "lead2": "巨額資本がAIインフラ競争を加速させるなか、モデル開発と計算資源への投資競争が続く。",
+    "title": "OpenAI・NVIDIA CEO、G20技術会合に登壇へ",
+    "lead1": "OpenAIのサム・アルトマンCEOとNVIDIAのジェンスン・フアンCEOが、技術に焦点を当てたG20会合で登壇予定と報じられた。",
+    "lead2": "AI開発を巡る国際的な議論と政策対話の行方が注目される。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "TOP2: NVIDIA、Perplexityへの出資を検討と報道",
-    "TOP3: OpenAI研究者Luke Metz氏、Metaへ移籍と報道",
-    "TOP4: SoftBank、AI投資向けに大型個人向け債を計画",
-    "TOP5: Altman氏、AI権力の集中リスクに警鐘",
-    "TOP6: 韓国、レバレッジ型AIチップETFに規制強化へ",
-    "TOP7: Fable 5、NanoGPT自律最適化ベンチで首位",
-    "TOP8: Tesla、Cybercab発表イベントを9月3日に設定"
+    "TOP2: Google、Demand Gen向け新機能を発表",
+    "TOP3: AI支援による脳腫瘍手術の成功例を報道",
+    "TOP4: NVIDIA製AIサーバーに値上げ報道",
+    "TOP5: NVIDIA Groq 3 LPXが量産段階へ",
+    "TOP6: XPENGロボティクス、9億ドル超を調達",
+    "TOP7: Google、Gemma 4 Good Challengeの受賞者を発表",
+    "TOP8: Google、学生向けGeminiプランを1年間無料提供"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "NVIDIA、Perplexityへの出資を検討と報道",
-      "summary": "NVIDIAがAI検索企業Perplexityへの出資を協議していると報じられた。評価額は300億ドル超が検討されているという。",
+      "title": "Google、Demand Gen向け新機能を発表",
+      "summary": "GoogleはDemand Genキャンペーン向けの新機能を発表し、YouTubeなどでの高品質なリード獲得を支援するとした。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "OpenAI研究者Luke Metz氏、Metaへ移籍と報道",
-      "summary": "OpenAIの研究者Luke Metz氏がMeta Superintelligence Labsに加わるとAxiosが報道。AI人材獲得競争が続く。",
+      "title": "AI支援による脳腫瘍手術の成功例を報道",
+      "summary": "英ガーディアンは、ロンドンの脳神経外科医がAI支援を用いた脳腫瘍摘出手術の成功例を報じた。",
       "manga_url": "",
       "video_url": ""
     }
@@ -45,34 +45,48 @@
   "topList": [
     {
       "rank": 4,
-      "title": "SoftBank、AI投資向けに大型個人向け債を計画"
+      "title": "NVIDIA製AIサーバーに値上げ報道"
     },
     {
       "rank": 5,
-      "title": "Altman氏、AI権力の集中リスクに警鐘"
+      "title": "NVIDIA Groq 3 LPXが量産段階へ"
     },
     {
       "rank": 6,
-      "title": "韓国、レバレッジ型AIチップETFに規制強化へ"
+      "title": "XPENGロボティクス、9億ドル超を調達"
     },
     {
       "rank": 7,
-      "title": "Fable 5、NanoGPT自律最適化ベンチで首位"
+      "title": "Google、Gemma 4 Good Challengeの受賞者を発表"
     },
     {
       "rank": 8,
-      "title": "Tesla、Cybercab発表イベントを9月3日に設定"
+      "title": "Google、学生向けGeminiプランを1年間無料提供"
     },
     {
       "rank": 9,
-      "title": "Qwen 3.8 27B、オフラインでアプリ解析を実演"
+      "title": "Google、AI Maxの検証・計画機能を追加へ"
     },
     {
       "rank": 10,
-      "title": "米テキサス州でAIデータセンターへの反発が拡大"
+      "title": "米国でAIデータセンター建設への反発広がる"
     }
   ],
   "archive": [
+    {
+      "no": "204",
+      "kind": "✨ ラミッカ",
+      "date": "08.26",
+      "img": "news/top1_manga.png",
+      "title": "英国とウクライナ、戦場画像500万枚をAI訓練で共有へ"
+    },
+    {
+      "no": "203",
+      "kind": "✨ ラミッカ",
+      "date": "08.25",
+      "img": "news/top1_manga.png",
+      "title": "Alibaba、AI投資へ約102億ドルを香港で調達"
+    },
     {
       "no": "202",
       "kind": "✨ ラミッカ",

@@ -1,97 +1,97 @@
 {
-  "date": "2026.08.25",
+  "date": "2026.08.28",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Alibaba、AI投資へ約102億ドルを香港で調達",
-      "summary": "AlibabaはAIチップ、計算基盤、モデル開発を含むフルスタックAI投資に充てるため、香港で約102億ドルの株式調達を発表した。",
-      "source": "Nikkei Asia",
-      "source_url": "https://asia.nikkei.com/business/technology/alibaba-to-raise-10bn-via-new-hong-kong-shares-to-fund-ai-investments",
+      "title": "OpenAI・NVIDIA CEO、G20技術会合に登壇へ",
+      "summary": "OpenAIのサム・アルトマンCEOとNVIDIAのジェンスン・フアンCEOが、技術に焦点を当てたG20会合で登壇予定と報じられた。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/media-telecom/spacexs-musk-david-sacks-join-altman-huang-g20-event-2026-08-27",
       "script": {
         "panels": [
           {
-            "speech": "みなみ、びっくり！",
+            "speech": "速報！AIの話題だよ",
             "narration": ""
           },
           {
-            "speech": "AIに百億ドル超！？",
+            "speech": "えっ、首脳会談にAI！？",
             "narration": ""
           },
           {
-            "speech": "AI基盤へ大型投資だよ",
-            "narration": "AlibabaがAIチップ・計算基盤・モデル開発へ約102億ドルを調達。"
+            "speech": "みなみも注目するよ",
+            "narration": "G20でAIの進展が議題に"
           },
           {
-            "speech": "競争はもっと熱くなるね",
+            "speech": "AIの行方、見届けよう",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Alibaba、AI投資へ約102億ドルを調達"
+        "telop_text": "OpenAI・NVIDIA首脳がG20技術会合に登壇予定"
       }
     },
     {
       "rank": 2,
-      "title": "NVIDIA、Perplexityへの出資を検討と報道",
-      "summary": "NVIDIAがAI検索企業Perplexityへの出資を協議していると報じられた。評価額は300億ドル超が検討されているという。",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com/articles/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-considered-tech-licensing-deal"
+      "title": "Google、Demand Gen向け新機能を発表",
+      "summary": "GoogleはDemand Genキャンペーン向けの新機能を発表し、YouTubeなどでの高品質なリード獲得を支援するとした。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/products/ads-commerce/demand-gen-drop-august-2026"
     },
     {
       "rank": 3,
-      "title": "OpenAI研究者Luke Metz氏、Metaへ移籍と報道",
-      "summary": "OpenAIの研究者Luke Metz氏がMeta Superintelligence Labsに加わるとAxiosが報道。AI人材獲得競争が続く。",
-      "source": "Axios",
-      "source_url": "https://www.axios.com/2026/08/24/meta-hires-openai-luke-metz"
+      "title": "AI支援による脳腫瘍手術の成功例を報道",
+      "summary": "英ガーディアンは、ロンドンの脳神経外科医がAI支援を用いた脳腫瘍摘出手術の成功例を報じた。",
+      "source": "The Guardian",
+      "source_url": ""
     },
     {
       "rank": 4,
-      "title": "SoftBank、AI投資向けに大型個人向け債を計画",
-      "summary": "SoftBankがOpenAI出資などAI投資の資金確保に向け、日本で過去最大級となる個人向け債の発行を計画している。",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-24/softbank-plans-record-1-trillion-retail-bond-offering-in-japan"
+      "title": "NVIDIA製AIサーバーに値上げ報道",
+      "summary": "NVIDIA製AIシステムの価格が、次世代出荷分から上昇する可能性があると報じられた。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22"
     },
     {
       "rank": 5,
-      "title": "Altman氏、AI権力の集中リスクに警鐘",
-      "summary": "OpenAIのSam Altman氏が、AIが少数の強力な主体に集中する可能性と、安全を理由に自由を手放すリスクに言及した。",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8"
+      "title": "NVIDIA Groq 3 LPXが量産段階へ",
+      "summary": "NVIDIAのGroq 3 LPXがエージェントAI向け推論基盤として量産段階に入ったと紹介された。",
+      "source": "宮野宏樹（情報源: NVIDIA Newsroom）",
+      "source_url": "https://note.com/hirokimiyano/n/n93020ee8f660"
     },
     {
       "rank": 6,
-      "title": "韓国、レバレッジ型AIチップETFに規制強化へ",
-      "summary": "韓国の規制当局はAIチップ関連のレバレッジETFについて、個人投資家の投資上限や教育要件を設ける方向と報じられた。",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2"
+      "title": "XPENGロボティクス、9億ドル超を調達",
+      "summary": "XPENGのロボティクス部門が人型ロボットの量産とフィジカルAI研究に向け、9億ドル超を調達したと報じられた。",
+      "source": "宮野宏樹（情報源: XPENG・TechNode）",
+      "source_url": "https://note.com/hirokimiyano/n/n93020ee8f660"
     },
     {
       "rank": 7,
-      "title": "Fable 5、NanoGPT自律最適化ベンチで首位",
-      "summary": "Prime Intellectの公開実験で、Fable 5がNanoGPT最適化の自律実行ベンチマーク首位を記録した。",
-      "source": "Prime Intellect",
-      "source_url": "https://www.primeintellect.ai/research/nanogpt-speedrun"
+      "title": "Google、Gemma 4 Good Challengeの受賞者を発表",
+      "summary": "GoogleはGemma 4を活用して社会課題に取り組む開発者向けコンテストの受賞プロジェクトを発表した。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge"
     },
     {
       "rank": 8,
-      "title": "Tesla、Cybercab発表イベントを9月3日に設定",
-      "summary": "Teslaがハンドルとペダルを持たない二人乗りロボタクシーCybercabの発表イベントを9月3日に予定していると報じられた。",
-      "source": "Manila Times",
-      "source_url": "https://www.manilatimes.net/2026/08/23/world/tesla-teases-imminent-launch-of-cybercab-robotaxi/2410436"
+      "title": "Google、学生向けGeminiプランを1年間無料提供",
+      "summary": "Googleは対象となる大学生向けに、学習支援ツールを含むGoogle AIプランを1年間無償提供すると発表した。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai"
     },
     {
       "rank": 9,
-      "title": "Qwen 3.8 27B、オフラインでアプリ解析を実演",
-      "summary": "XDAが、ローカル実行のQwen 3.8 27Bが静的解析でライセンス済みアプリの解析作業を短時間で完了したと報告した。",
-      "source": "XDA Developers",
-      "source_url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/"
+      "title": "Google、AI Maxの検証・計画機能を追加へ",
+      "summary": "GoogleはAI Maxで複数の検索キャンペーンを対象に予算とROIを検証するA/Bテスト機能を9月に展開予定とした。",
+      "source": "Google Blog",
+      "source_url": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools"
     },
     {
       "rank": 10,
-      "title": "米テキサス州でAIデータセンターへの反発が拡大",
-      "summary": "AIデータセンターの電力・水資源・地域合意を巡り、米テキサス州で企業への批判が強まっていると報じられた。",
-      "source": "Newsweek",
-      "source_url": "https://www.newsweek.com/texas-governor-abbott-says-data-centers-dug-their-own-grave-12357334"
+      "title": "米国でAIデータセンター建設への反発広がる",
+      "summary": "NHKは、AI開発を支えるデータセンター建設をめぐり、米国で地域住民の反発が広がっていると報じた。",
+      "source": "NHK",
+      "source_url": "https://news.web.nhk/newsweb/na/na-k10015151261000"
     }
   ]
 }
