@@ -1,97 +1,85 @@
 {
-  "date": "2026.08.28",
+  "date": "2026.08.29",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "OpenAI・NVIDIA CEO、G20技術会合に登壇へ",
-      "summary": "OpenAIのサム・アルトマンCEOとNVIDIAのジェンスン・フアンCEOが、技術に焦点を当てたG20会合で登壇予定と報じられた。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/media-telecom/spacexs-musk-david-sacks-join-altman-huang-g20-event-2026-08-27",
+      "title": "Z.ai、中国のオープンAI路線を訴求",
+      "summary": "中国のAIスタートアップZ.aiが最新モデルを公開し、オープンソフトウェアを重視する中国のAI戦略を訴えたと報じられた。",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com/2026/08/28/business/china-artificial-intelligence-zai.html",
       "script": {
         "panels": [
-          {
-            "speech": "速報！AIの話題だよ",
-            "narration": ""
-          },
-          {
-            "speech": "えっ、首脳会談にAI！？",
-            "narration": ""
-          },
-          {
-            "speech": "みなみも注目するよ",
-            "narration": "G20でAIの進展が議題に"
-          },
-          {
-            "speech": "AIの行方、見届けよう",
-            "narration": "次回に続く"
-          }
+          {"speech": "速報！中国AIが新展開", "narration": ""},
+          {"speech": "えっ、新モデル公開！？", "narration": ""},
+          {"speech": "みなみも追うよ", "narration": "Z.aiが最新モデルとオープン路線を訴求"},
+          {"speech": "AI競争が動き出すね", "narration": "次回に続く"}
         ],
-        "telop_text": "OpenAI・NVIDIA首脳がG20技術会合に登壇予定"
+        "telop_text": "Z.aiが最新モデルを公開、中国のオープンAI路線を訴求"
       }
     },
     {
       "rank": 2,
-      "title": "Google、Demand Gen向け新機能を発表",
-      "summary": "GoogleはDemand Genキャンペーン向けの新機能を発表し、YouTubeなどでの高品質なリード獲得を支援するとした。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/products/ads-commerce/demand-gen-drop-august-2026"
+      "title": "100社超がAIサイバー攻撃への警告に署名",
+      "summary": "AI開発企業など100社超が、AIを利用したサイバー攻撃がより広範かつ高度になる恐れを警告する公開書簡に署名した。",
+      "source": "ABC News",
+      "source_url": "https://abcnews.com/video/136024439"
     },
     {
       "rank": 3,
-      "title": "AI支援による脳腫瘍手術の成功例を報道",
-      "summary": "英ガーディアンは、ロンドンの脳神経外科医がAI支援を用いた脳腫瘍摘出手術の成功例を報じた。",
-      "source": "The Guardian",
-      "source_url": ""
+      "title": "Anthropic、米国防総省の供給網リスク指定で初勝訴",
+      "summary": "Anthropicが米国防総省による供給網リスク指定を争った訴訟で、裁判所が同指定は違法かつ根拠がないと判断したと報じられた。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label"
     },
     {
       "rank": 4,
-      "title": "NVIDIA製AIサーバーに値上げ報道",
-      "summary": "NVIDIA製AIシステムの価格が、次世代出荷分から上昇する可能性があると報じられた。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22"
+      "title": "a16z、AI基盤向け11億ドルの新ファンド設立",
+      "summary": "a16zはチップ、メモリー、データセンター、ロボットなどAIを支える物理基盤に投資する11億ドルの新ファンドを設立した。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai"
     },
     {
       "rank": 5,
-      "title": "NVIDIA Groq 3 LPXが量産段階へ",
-      "summary": "NVIDIAのGroq 3 LPXがエージェントAI向け推論基盤として量産段階に入ったと紹介された。",
-      "source": "宮野宏樹（情報源: NVIDIA Newsroom）",
-      "source_url": "https://note.com/hirokimiyano/n/n93020ee8f660"
+      "title": "NVIDIA製AIサーバーの価格上昇を報道",
+      "summary": "NVIDIAのサーバー製造パートナーが、メモリー価格上昇を背景に次世代AIシステムの価格を15％超引き上げると顧客へ伝えたと報じられた。",
+      "source": "AI News Weekly",
+      "source_url": "https://aiweekly.co/ai-news-today"
     },
     {
       "rank": 6,
-      "title": "XPENGロボティクス、9億ドル超を調達",
-      "summary": "XPENGのロボティクス部門が人型ロボットの量産とフィジカルAI研究に向け、9億ドル超を調達したと報じられた。",
-      "source": "宮野宏樹（情報源: XPENG・TechNode）",
-      "source_url": "https://note.com/hirokimiyano/n/n93020ee8f660"
+      "title": "インドのAM Intelligence、AIラック9千台を発注",
+      "summary": "AM IntelligenceがNVIDIA Vera Rubin NVL72を約9千台発注し、AI計算基盤の大規模整備を進めると報じられた。",
+      "source": "AI News Weekly",
+      "source_url": "https://aiweekly.co/ai-news-today"
     },
     {
       "rank": 7,
-      "title": "Google、Gemma 4 Good Challengeの受賞者を発表",
-      "summary": "GoogleはGemma 4を活用して社会課題に取り組む開発者向けコンテストの受賞プロジェクトを発表した。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge"
+      "title": "OpenAIのPreparednessチーム解散を報道",
+      "summary": "OpenAIがAI安全性を担当してきたPreparednessチームを解散したと報じられ、フロンティアモデルの安全管理体制に注目が集まっている。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/archives/2026/8/28"
     },
     {
       "rank": 8,
-      "title": "Google、学生向けGeminiプランを1年間無料提供",
-      "summary": "Googleは対象となる大学生向けに、学習支援ツールを含むGoogle AIプランを1年間無償提供すると発表した。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai"
+      "title": "AI支援の脳腫瘍手術成功例を報道",
+      "summary": "ロンドンの脳神経外科医がAI支援を用いた脳腫瘍摘出手術に成功した事例が報じられた。",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/artificialintelligenceai"
     },
     {
       "rank": 9,
-      "title": "Google、AI Maxの検証・計画機能を追加へ",
-      "summary": "GoogleはAI Maxで複数の検索キャンペーンを対象に予算とROIを検証するA/Bテスト機能を9月に展開予定とした。",
+      "title": "Google、AIで洪水予測を高度化",
+      "summary": "GoogleはAIを活用し、過去10年にわたり洪水予測の精度と対象地域を拡大してきた取り組みを紹介した。",
       "source": "Google Blog",
-      "source_url": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools"
+      "source_url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai"
     },
     {
       "rank": 10,
-      "title": "米国でAIデータセンター建設への反発広がる",
-      "summary": "NHKは、AI開発を支えるデータセンター建設をめぐり、米国で地域住民の反発が広がっていると報じた。",
-      "source": "NHK",
-      "source_url": "https://news.web.nhk/newsweb/na/na-k10015151261000"
+      "title": "TechCrunch DisruptにOpenAIとAnthropicが参加へ",
+      "summary": "TechCrunch Disrupt 2026のAIステージにOpenAIとAnthropicが参加し、企業AIの安全性や事業モデルが議論される予定となった。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026"
     }
   ]
 }
