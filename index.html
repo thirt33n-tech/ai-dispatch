@@ -217,6 +217,10 @@
 <script>
 const esc=(s)=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const has=(v)=>!!(v&&String(v).trim());
+// 色値は style 属性へ直接連結されるため、CSS hex 記法(3/4/6/8桁)のみ許可し、
+// それ以外は既定色へ落とす。esc() ではなく allowlist にするのは、属性を脱出しうる
+// 文字を1つも通さないことを型ではなく形で保証するため。
+const safeColor=(v)=>(typeof v==='string'&&/^#(?:[0-9a-fA-F]{3,4}|[0-9a-fA-F]{6}|[0-9a-fA-F]{8})$/.test(v.trim()))?v.trim():'#3CE7F2';
 const IFRAME='frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen';
 
 function toEmbed(url,opts){
@@ -282,6 +286,14 @@ function render(d){
   document.getElementById('lead-lead2').textContent=d.top1.lead2||'';
   document.getElementById('lead-manga').addEventListener('click',()=>{ if(top1View==='manga') openImage(d.top1.manga_url); });
 
+  // 動画なし（video_provider=disabled 等で video_url 空）の日は「アニメ」導線を隠し、漫画のみ
+  // 表示にする。旧い無関係な動画を「本日のアニメ」として誤再生させないためのビュー層ガード。
+  var _hasVid=has(d.top1.video_url);
+  var _ba=document.getElementById('btn-anime'), _ba2=document.getElementById('btn-anime2');
+  if(_ba)  _ba.style.display  = _hasVid ? 'flex' : 'none';
+  if(_ba2) _ba2.style.display = _hasVid ? 'inline-flex' : 'none';
+  if(!_hasVid) setView('manga');
+
   const ed=d.editorsDesk||{};
   document.getElementById('desk-rec-img').src=ed.recImg||'';
   document.getElementById('desk-rec-title').textContent=ed.recTitle||'';
@@ -294,7 +306,7 @@ function render(d){
 
   document.getElementById('top-cards').innerHTML=(d.topCards||[]).map(c=>
     '<article style="padding:20px;border:1px solid #1B2433;border-radius:12px;background:rgba(12,17,27,.55);">'
-    +'<div style="display:flex;align-items:baseline;gap:12px;margin-bottom:10px;"><span style="font-family:\'Archivo Black\',sans-serif;font-size:30px;color:'+(c.accent||'#3CE7F2')+';line-height:1;">'+esc(c.rank)+'</span><span style="font-family:\'Space Mono\',monospace;font-size:11px;letter-spacing:.08em;color:#566783;">'+esc(c.category)+'</span></div>'
+    +'<div style="display:flex;align-items:baseline;gap:12px;margin-bottom:10px;"><span style="font-family:\'Archivo Black\',sans-serif;font-size:30px;color:'+safeColor(c.accent)+';line-height:1;">'+esc(c.rank)+'</span><span style="font-family:\'Space Mono\',monospace;font-size:11px;letter-spacing:.08em;color:#566783;">'+esc(c.category)+'</span></div>'
     +'<h4 style="margin:0 0 8px;font-size:17px;font-weight:900;color:#EEF3F8;line-height:1.45;">'+esc(c.title)+'</h4>'
     +'<p style="margin:0 0 12px;font-size:13.5px;line-height:1.7;color:#8A99B0;">'+esc(c.summary)+'</p>'
     +'<span style="font-family:\'Space Mono\',monospace;font-size:11px;color:#566783;letter-spacing:.06em;">'+esc(c.date)+'</span></article>'
