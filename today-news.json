@@ -1,85 +1,97 @@
 {
-  "date": "2026.08.29",
+  "date": "2026.08.30",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Z.ai、中国のオープンAI路線を訴求",
-      "summary": "中国のAIスタートアップZ.aiが最新モデルを公開し、オープンソフトウェアを重視する中国のAI戦略を訴えたと報じられた。",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com/2026/08/28/business/china-artificial-intelligence-zai.html",
+      "title": "OpenAI・Anthropic・Google・Microsoftなど117社、AIサイバー攻撃防御への集団行動を求める共同声明",
+      "summary": "OpenAI、Anthropic、Google、Microsoft、AWSなど117の企業・団体が、AIを使ったサイバー攻撃に対する集団的な防御行動を求める共同書簡に署名。重要インフラを守るため、企業・政府・セキュリティ事業者の連携を呼びかけた。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/collective-cyberdefense",
       "script": {
         "panels": [
-          {"speech": "速報！中国AIが新展開", "narration": ""},
-          {"speech": "えっ、新モデル公開！？", "narration": ""},
-          {"speech": "みなみも追うよ", "narration": "Z.aiが最新モデルとオープン路線を訴求"},
-          {"speech": "AI競争が動き出すね", "narration": "次回に続く"}
+          {
+            "speech": "え、競合AI企業が手を組んだ！？",
+            "narration": ""
+          },
+          {
+            "speech": "サイバー防御の共同声明だって！？",
+            "narration": ""
+          },
+          {
+            "speech": "117社が集団行動を呼びかけたの",
+            "narration": "AI攻撃の高度化に備え、企業・政府・セキュリティ事業者が連携を求めた"
+          },
+          {
+            "speech": "規制前に業界が線を引く動きだね",
+            "narration": "次回おたのしみに"
+          }
         ],
-        "telop_text": "Z.aiが最新モデルを公開、中国のオープンAI路線を訴求"
+        "telop_text": "AI業界117社、サイバー防御で集団行動を呼びかけ"
       }
     },
     {
       "rank": 2,
-      "title": "100社超がAIサイバー攻撃への警告に署名",
-      "summary": "AI開発企業など100社超が、AIを利用したサイバー攻撃がより広範かつ高度になる恐れを警告する公開書簡に署名した。",
-      "source": "ABC News",
-      "source_url": "https://abcnews.com/video/136024439"
+      "title": "OpenAI、SpaceX買収のCursorへのモデル提供終了を発表",
+      "summary": "OpenAIは、SpaceXが買収したAIコーディングツールCursorへのモデル提供を11月12日に終了すると発表。過去のMusk系企業の契約違反を理由に、利用規約遵守への信頼が得られないと説明した。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29"
     },
     {
       "rank": 3,
-      "title": "Anthropic、米国防総省の供給網リスク指定で初勝訴",
-      "summary": "Anthropicが米国防総省による供給網リスク指定を争った訴訟で、裁判所が同指定は違法かつ根拠がないと判断したと報じられた。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label"
+      "title": "Sony Music PublishingとWarner Chappell、Anthropicを楽曲著作権侵害で提訴",
+      "summary": "Sony Music PublishingとWarner Chappell Musicが、Anthropicと創業者らを著作権侵害で提訴。数万点の楽曲歌詞を違法に取得・使用しClaudeを訓練したとして、数十億ドルの賠償を求めた。",
+      "source": "Music Business Worldwide",
+      "source_url": "https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/"
     },
     {
       "rank": 4,
-      "title": "a16z、AI基盤向け11億ドルの新ファンド設立",
-      "summary": "a16zはチップ、メモリー、データセンター、ロボットなどAIを支える物理基盤に投資する11億ドルの新ファンドを設立した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai"
+      "title": "a16z、AIハードウェア・ロボティクス向けに11億ドルのMachine Age Fundを設立",
+      "summary": "Andreessen Horowitzが、AIの物理的基盤に投資する11億ドルのMachine Age Fundを設立。チップ、メモリ、ネットワーク、データセンター、ロボティクス、エッジデバイスなどを対象とする。",
+      "source": "a16z",
+      "source_url": "https://a16z.com/the-machine-age-fund"
     },
     {
       "rank": 5,
-      "title": "NVIDIA製AIサーバーの価格上昇を報道",
-      "summary": "NVIDIAのサーバー製造パートナーが、メモリー価格上昇を背景に次世代AIシステムの価格を15％超引き上げると顧客へ伝えたと報じられた。",
-      "source": "AI News Weekly",
-      "source_url": "https://aiweekly.co/ai-news-today"
+      "title": "Meta、47州との170億ドル青少年ソーシャルメディア中毒和解で合意",
+      "summary": "Metaは、FacebookとInstagramが青少年に有害な設計をしたとして47州らが起こした訴訟で、10年かけて170億ドルを支払う和解に合意。未成年者の利用時間制限など安全対策も義務付けた。",
+      "source": "NPR",
+      "source_url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit"
     },
     {
       "rank": 6,
-      "title": "インドのAM Intelligence、AIラック9千台を発注",
-      "summary": "AM IntelligenceがNVIDIA Vera Rubin NVL72を約9千台発注し、AI計算基盤の大規模整備を進めると報じられた。",
-      "source": "AI News Weekly",
-      "source_url": "https://aiweekly.co/ai-news-today"
+      "title": "Anthropic、AIエージェントが物理装置を操作するModel Hardware Standardを発表",
+      "summary": "Anthropicが、AIエージェントがロボットアームや顕微鏡、液体ハンドラーなどの実験・製造装置を共通仕様で操作できるModel Hardware Standardのリサーチプレビューを公開した。",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
     },
     {
       "rank": 7,
-      "title": "OpenAIのPreparednessチーム解散を報道",
-      "summary": "OpenAIがAI安全性を担当してきたPreparednessチームを解散したと報じられ、フロンティアモデルの安全管理体制に注目が集まっている。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/archives/2026/8/28"
+      "title": "NVIDIA、Hugging Faceを129億ドルで買収へ、欧州で競争法懸念も",
+      "summary": "NVIDIAがオープンソースAIモデル配布プラットフォームHugging Faceを約129億ドルで買収する意向と報じられた。欧州当局は、AI半導体とモデル配布層の統合が競争を損ねる可能性を懸念している。",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html"
     },
     {
       "rank": 8,
-      "title": "AI支援の脳腫瘍手術成功例を報道",
-      "summary": "ロンドンの脳神経外科医がAI支援を用いた脳腫瘍摘出手術に成功した事例が報じられた。",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/artificialintelligenceai"
+      "title": "Google、動画生成モデルGemini Omni 1.1 Flashを一般提供",
+      "summary": "Googleが動画生成・編集モデル「Gemini Omni 1.1 Flash」を一般提供開始。シーン延長、最初と最後のフレーム指定、4Kアップスケールに対応し、1秒あたりの従量課金制を導入した。",
+      "source": "Google",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash"
     },
     {
       "rank": 9,
-      "title": "Google、AIで洪水予測を高度化",
-      "summary": "GoogleはAIを活用し、過去10年にわたり洪水予測の精度と対象地域を拡大してきた取り組みを紹介した。",
-      "source": "Google Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai"
+      "title": "SK Hynix、インディアナ州で40億ドルのHBMパッケージング工場起工",
+      "summary": "SK Hynixが米国インディアナ州に40億ドル以上を投じるHBM先進パッケージング工場の起工式を実施。2029年下半期から次世代HBMの量産を開始し、米国のAI半導体供給網強化に寄与する。",
+      "source": "SK hynix Newsroom",
+      "source_url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana"
     },
     {
       "rank": 10,
-      "title": "TechCrunch DisruptにOpenAIとAnthropicが参加へ",
-      "summary": "TechCrunch Disrupt 2026のAIステージにOpenAIとAnthropicが参加し、企業AIの安全性や事業モデルが議論される予定となった。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026"
+      "title": "中国のCXMT、Pentagonの中国軍事企業指定を巡り提訴",
+      "summary": "中国最大のDRAMメーカーChangXin Memory Technologiesが、Pentagonによる中国軍事企業指定を巡り連邦地裁に提訴。指定が恣意的で正当な根拠がないとして、リストからの削除を求めた。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/cxmt-sues-pentagon-over-inclusion-list-companies-tied-chinas-military-2026-08-29"
     }
   ]
 }

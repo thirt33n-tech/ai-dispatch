@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "206",
-  "dateLabel": "2026.08.29",
+  "dispatchNo": "207",
+  "dateLabel": "2026.08.30",
   "top1": {
-    "title": "Z.ai、中国のオープンAI路線を訴求",
-    "lead1": "中国のAIスタートアップZ.aiが最新モデルを公開し、オープンソフトウェアを重視するAI戦略を訴えたと報じられた。",
-    "lead2": "各国・各社のAI開発競争で、公開モデルを巡る戦略にも注目が集まる。",
+    "title": "OpenAI・Anthropic・Google・Microsoftなど117社、AIサイバー攻撃防御への集団行動を求める共同声明",
+    "lead1": "競合AI企業117社が手を組び、AIを使ったサイバー攻撃への集団防御を呼びかけた。",
+    "lead2": "重要インフラを守るため、企業・政府・セキュリティ事業者の連携強化が求められる。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "100社超がAIサイバー攻撃への警告に署名",
-    "Anthropic、米国防総省の供給網リスク指定で初勝訴",
-    "a16z、AI基盤向け11億ドルの新ファンド設立",
-    "NVIDIA製AIサーバーの価格上昇を報道",
-    "インドのAM Intelligence、AIラック9千台を発注",
-    "OpenAIのPreparednessチーム解散を報道",
-    "AI支援の脳腫瘍手術成功例を報道"
+    "OpenAI、SpaceX買収のCursorへのモデル提供終了を発表",
+    "Sony Music PublishingとWarner Chappell、Anthropicを楽曲著作権侵害で提訴",
+    "a16z、AIハードウェア・ロボティクス向けに11億ドルのMachine Age Fundを設立",
+    "Meta、47州との170億ドル青少年ソーシャルメディア中毒和解で合意",
+    "Anthropic、AIエージェントが物理装置を操作するModel Hardware Standardを発表",
+    "NVIDIA、Hugging Faceを129億ドルで買収へ、欧州で競争法懸念も",
+    "Google、動画生成モデルGemini Omni 1.1 Flashを一般提供"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "100社超がAIサイバー攻撃への警告に署名",
-      "summary": "AI開発企業など100社超が、AIを利用したサイバー攻撃がより広範かつ高度になる恐れを警告する公開書簡に署名した。",
+      "title": "OpenAI、SpaceX買収のCursorへのモデル提供終了を発表",
+      "summary": "OpenAIは、SpaceXが買収したAIコーディングツールCursorへのモデル提供を11月12日に終了すると発表。過去のMusk系企業の契約違反を理由に、利用規約遵守への信頼が得られないと説明した。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Anthropic、米国防総省の供給網リスク指定で初勝訴",
-      "summary": "Anthropicが米国防総省による供給網リスク指定を争った訴訟で、裁判所が同指定は違法かつ根拠がないと判断したと報じられた。",
+      "title": "Sony Music PublishingとWarner Chappell、Anthropicを楽曲著作権侵害で提訴",
+      "summary": "Sony Music PublishingとWarner Chappell Musicが、Anthropicと創業者らを著作権侵害で提訴。数万点の楽曲歌詞を違法に取得・使用しClaudeを訓練したとして、数十億ドルの賠償を求めた。",
       "manga_url": "",
       "video_url": ""
     }
@@ -45,34 +45,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "a16z、AI基盤向け11億ドルの新ファンド設立"
+      "title": "a16z、AIハードウェア・ロボティクス向けに11億ドルのMachine Age Fundを設立"
     },
     {
       "rank": 5,
-      "title": "NVIDIA製AIサーバーの価格上昇を報道"
+      "title": "Meta、47州との170億ドル青少年ソーシャルメディア中毒和解で合意"
     },
     {
       "rank": 6,
-      "title": "インドのAM Intelligence、AIラック9千台を発注"
+      "title": "Anthropic、AIエージェントが物理装置を操作するModel Hardware Standardを発表"
     },
     {
       "rank": 7,
-      "title": "OpenAIのPreparednessチーム解散を報道"
+      "title": "NVIDIA、Hugging Faceを129億ドルで買収へ、欧州で競争法懸念も"
     },
     {
       "rank": 8,
-      "title": "AI支援の脳腫瘍手術成功例を報道"
+      "title": "Google、動画生成モデルGemini Omni 1.1 Flashを一般提供"
     },
     {
       "rank": 9,
-      "title": "Google、AIで洪水予測を高度化"
+      "title": "SK Hynix、インディアナ州で40億ドルのHBMパッケージング工場起工"
     },
     {
       "rank": 10,
-      "title": "TechCrunch DisruptにOpenAIとAnthropicが参加へ"
+      "title": "中国のCXMT、Pentagonの中国軍事企業指定を巡り提訴"
     }
   ],
   "archive": [
+    {
+      "no": "206",
+      "kind": "✨ ラミッカ",
+      "date": "08.29",
+      "img": "news/top1_manga.png",
+      "title": "Z.ai、中国のオープンAI路線を訴求"
+    },
     {
       "no": "205",
       "kind": "✨ ラミッカ",
