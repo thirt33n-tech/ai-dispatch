@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "207",
-  "dateLabel": "2026.08.30",
+  "dispatchNo": "208",
+  "dateLabel": "2026.09.01",
   "top1": {
-    "title": "OpenAI・Anthropic・Google・Microsoftなど117社、AIサイバー攻撃防御への集団行動を求める共同声明",
-    "lead1": "競合AI企業117社が手を組び、AIを使ったサイバー攻撃への集団防御を呼びかけた。",
-    "lead2": "重要インフラを守るため、企業・政府・セキュリティ事業者の連携強化が求められる。",
+    "title": "Advanced AI threatens global financial stability, says Bank of England boss",
+    "lead1": "Bank of EnglandのBailey総裁が、先端AIが世界金融システムを不安定化させる恐れをG20に警告した。",
+    "lead2": "高株価とレバレッジが相まって、AIバブル崩壊が世界同時後退を引き起こすリスクも指摘されている。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "OpenAI、SpaceX買収のCursorへのモデル提供終了を発表",
-    "Sony Music PublishingとWarner Chappell、Anthropicを楽曲著作権侵害で提訴",
-    "a16z、AIハードウェア・ロボティクス向けに11億ドルのMachine Age Fundを設立",
-    "Meta、47州との170億ドル青少年ソーシャルメディア中毒和解で合意",
-    "Anthropic、AIエージェントが物理装置を操作するModel Hardware Standardを発表",
-    "NVIDIA、Hugging Faceを129億ドルで買収へ、欧州で競争法懸念も",
-    "Google、動画生成モデルGemini Omni 1.1 Flashを一般提供"
+    "Europe expands AI computing network with €390 million order from France's Bull",
+    "Nvidia's $3.5B MediaTek bet reveals its plan for tackling big tech's AI chip buildout",
+    "Doctors' AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns",
+    "'Superhuman' AI tool spots heart disease in less than 2 seconds",
+    "Soitec locks customers into multi-year deals as AI wafer demand surges",
+    "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price",
+    "At Jackson Hole, global central bankers glimpse dystopian AI future"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "OpenAI、SpaceX買収のCursorへのモデル提供終了を発表",
-      "summary": "OpenAIは、SpaceXが買収したAIコーディングツールCursorへのモデル提供を11月12日に終了すると発表。過去のMusk系企業の契約違反を理由に、利用規約遵守への信頼が得られないと説明した。",
+      "title": "Europe expands AI computing network with €390 million order from France's Bull",
+      "summary": "欧州が米中との算力差を縮めるため、EuroHPCの下でフランスBull社に3.9億ユーロのAIスーパーコンピューターLUMI-AIを発注。2027年後半の稼働を目指す。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Sony Music PublishingとWarner Chappell、Anthropicを楽曲著作権侵害で提訴",
-      "summary": "Sony Music PublishingとWarner Chappell Musicが、Anthropicと創業者らを著作権侵害で提訴。数万点の楽曲歌詞を違法に取得・使用しClaudeを訓練したとして、数十億ドルの賠償を求めた。",
+      "title": "Nvidia's $3.5B MediaTek bet reveals its plan for tackling big tech's AI chip buildout",
+      "summary": "NvidiaがMediaTekに35億ドル出資し、大口顧客向けカスタムAIチップ市場でAMDやBroadcomに対抗する戦略を加速。AIインフラ競争が激化している。",
       "manga_url": "",
       "video_url": ""
     }
@@ -45,34 +45,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "a16z、AIハードウェア・ロボティクス向けに11億ドルのMachine Age Fundを設立"
+      "title": "Doctors' AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns"
     },
     {
       "rank": 5,
-      "title": "Meta、47州との170億ドル青少年ソーシャルメディア中毒和解で合意"
+      "title": "'Superhuman' AI tool spots heart disease in less than 2 seconds"
     },
     {
       "rank": 6,
-      "title": "Anthropic、AIエージェントが物理装置を操作するModel Hardware Standardを発表"
+      "title": "Soitec locks customers into multi-year deals as AI wafer demand surges"
     },
     {
       "rank": 7,
-      "title": "NVIDIA、Hugging Faceを129億ドルで買収へ、欧州で競争法懸念も"
+      "title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price"
     },
     {
       "rank": 8,
-      "title": "Google、動画生成モデルGemini Omni 1.1 Flashを一般提供"
+      "title": "At Jackson Hole, global central bankers glimpse dystopian AI future"
     },
     {
       "rank": 9,
-      "title": "SK Hynix、インディアナ州で40億ドルのHBMパッケージング工場起工"
+      "title": "AI is hurting US politics. Here's how candidates could use it for good"
     },
     {
       "rank": 10,
-      "title": "中国のCXMT、Pentagonの中国軍事企業指定を巡り提訴"
+      "title": "OnlyFans and AI training: why gen Z doesn't care where our money comes from"
     }
   ],
   "archive": [
+    {
+      "no": "207",
+      "kind": "✨ ラミッカ",
+      "date": "08.30",
+      "img": "news/top1_manga.png",
+      "title": "OpenAI・Anthropic・Google・Microsoftなど117社、AIサイバー攻撃防御への集団行動を求める共同声明"
+    },
     {
       "no": "206",
       "kind": "✨ ラミッカ",

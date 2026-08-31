@@ -1,97 +1,97 @@
 {
-  "date": "2026.08.30",
+  "date": "2026.09.01",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "OpenAI・Anthropic・Google・Microsoftなど117社、AIサイバー攻撃防御への集団行動を求める共同声明",
-      "summary": "OpenAI、Anthropic、Google、Microsoft、AWSなど117の企業・団体が、AIを使ったサイバー攻撃に対する集団的な防御行動を求める共同書簡に署名。重要インフラを守るため、企業・政府・セキュリティ事業者の連携を呼びかけた。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/collective-cyberdefense",
+      "title": "Advanced AI threatens global financial stability, says Bank of England boss",
+      "summary": "Bank of EnglandのAndrew Bailey総裁が、先端AIがサイバー攻撃や市場集中を通じて世界金融を不安定化させうるとG20財務相に警告。AIバブル崩壊と高レバレッジが相まって世界同時後退のリスクも指摘した。",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
       "script": {
         "panels": [
           {
-            "speech": "え、競合AI企業が手を組んだ！？",
+            "speech": "スマホの速報で目が醒めた…",
             "narration": ""
           },
           {
-            "speech": "サイバー防御の共同声明だって！？",
+            "speech": "AIが世界経済を危うくする！？",
             "narration": ""
           },
           {
-            "speech": "117社が集団行動を呼びかけたの",
-            "narration": "AI攻撃の高度化に備え、企業・政府・セキュリティ事業者が連携を求めた"
+            "speech": "Bank of Englandの警告だよ。",
+            "narration": "Bailey総裁はG20に書簡を送り、先端AIの自律性とサイバーリスクが金融システムを脆弱化させ、高株価とレバレッジで市場修正が拡大する恐れを訴えた。"
           },
           {
-            "speech": "規制前に業界が線を引く動きだね",
-            "narration": "次回おたのしみに"
+            "speech": "このままの投資狂騒、大丈夫かな。",
+            "narration": "次回に続く"
           }
         ],
-        "telop_text": "AI業界117社、サイバー防御で集団行動を呼びかけ"
+        "telop_text": "AIが世界金融安定を脅かす？英中銀総裁がG20に警告"
       }
     },
     {
       "rank": 2,
-      "title": "OpenAI、SpaceX買収のCursorへのモデル提供終了を発表",
-      "summary": "OpenAIは、SpaceXが買収したAIコーディングツールCursorへのモデル提供を11月12日に終了すると発表。過去のMusk系企業の契約違反を理由に、利用規約遵守への信頼が得られないと説明した。",
+      "title": "Europe expands AI computing network with €390 million order from France's Bull",
+      "summary": "欧州が米中との算力差を縮めるため、EuroHPCの下でフランスBull社に3.9億ユーロのAIスーパーコンピューターLUMI-AIを発注。2027年後半の稼働を目指す。",
       "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29"
+      "source_url": "https://www.reuters.com/world/europe/europe-expands-ai-computing-network-with-390-million-order-frances-bull-2026-08-31"
     },
     {
       "rank": 3,
-      "title": "Sony Music PublishingとWarner Chappell、Anthropicを楽曲著作権侵害で提訴",
-      "summary": "Sony Music PublishingとWarner Chappell Musicが、Anthropicと創業者らを著作権侵害で提訴。数万点の楽曲歌詞を違法に取得・使用しClaudeを訓練したとして、数十億ドルの賠償を求めた。",
-      "source": "Music Business Worldwide",
-      "source_url": "https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/"
+      "title": "Nvidia's $3.5B MediaTek bet reveals its plan for tackling big tech's AI chip buildout",
+      "summary": "NvidiaがMediaTekに35億ドル出資し、大口顧客向けカスタムAIチップ市場でAMDやBroadcomに対抗する戦略を加速。AIインフラ競争が激化している。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout"
     },
     {
       "rank": 4,
-      "title": "a16z、AIハードウェア・ロボティクス向けに11億ドルのMachine Age Fundを設立",
-      "summary": "Andreessen Horowitzが、AIの物理的基盤に投資する11億ドルのMachine Age Fundを設立。チップ、メモリ、ネットワーク、データセンター、ロボティクス、エッジデバイスなどを対象とする。",
-      "source": "a16z",
-      "source_url": "https://a16z.com/the-machine-age-fund"
+      "title": "Doctors' AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns",
+      "summary": "NHSの患者監視機関Healthwatch Englandが、医師の診察を記録するAI文字起こしツールが薬名や病名を誤って記述し、患者安全を脅かすと警告した。",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns"
     },
     {
       "rank": 5,
-      "title": "Meta、47州との170億ドル青少年ソーシャルメディア中毒和解で合意",
-      "summary": "Metaは、FacebookとInstagramが青少年に有害な設計をしたとして47州らが起こした訴訟で、10年かけて170億ドルを支払う和解に合意。未成年者の利用時間制限など安全対策も義務付けた。",
-      "source": "NPR",
-      "source_url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit"
+      "title": "'Superhuman' AI tool spots heart disease in less than 2 seconds",
+      "summary": "研究チームが5秒間の顔動画から心疾患を2秒以内に検出する「超人的」AIツールを発表。高血圧や2型糖尿病の早期発見にも応用可能としている。",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease"
     },
     {
       "rank": 6,
-      "title": "Anthropic、AIエージェントが物理装置を操作するModel Hardware Standardを発表",
-      "summary": "Anthropicが、AIエージェントがロボットアームや顕微鏡、液体ハンドラーなどの実験・製造装置を共通仕様で操作できるModel Hardware Standardのリサーチプレビューを公開した。",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+      "title": "Soitec locks customers into multi-year deals as AI wafer demand surges",
+      "summary": "SoitecがAIデータセンター向け光通信の基板需要急増を受け、多年にわたる供給契約と前払金・固定価格で顧客を縛り付け、2026年度売上を2億ドル以上と見込む。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/soitec-locks-customers-into-multi-year-deals-ai-wafer-demand-surges-2026-08-31"
     },
     {
       "rank": 7,
-      "title": "NVIDIA、Hugging Faceを129億ドルで買収へ、欧州で競争法懸念も",
-      "summary": "NVIDIAがオープンソースAIモデル配布プラットフォームHugging Faceを約129億ドルで買収する意向と報じられた。欧州当局は、AI半導体とモデル配布層の統合が競争を損ねる可能性を懸念している。",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html"
+      "title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price",
+      "summary": "中国のAI半導体メーカーEnflameが上海IPOの発行価格を設定し、約9億800万ドルの資金調達を目指す。NVIDIAを含む投資家が支え、国産AIチップ競争が加速する。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/chinese-ai-chipmaker-enflame-aims-raise-908-million-after-setting-shanghai-ipo-2026-08-31"
     },
     {
       "rank": 8,
-      "title": "Google、動画生成モデルGemini Omni 1.1 Flashを一般提供",
-      "summary": "Googleが動画生成・編集モデル「Gemini Omni 1.1 Flash」を一般提供開始。シーン延長、最初と最後のフレーム指定、4Kアップスケールに対応し、1秒あたりの従量課金制を導入した。",
-      "source": "Google",
-      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash"
+      "title": "At Jackson Hole, global central bankers glimpse dystopian AI future",
+      "summary": "Jackson Holeで世界の中央銀行関係者が、先端AIの急速な進化が雇用・金融・政策運営に及ぼすディストピア的な未来について議論を深めた。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/business/finance/jackson-hole-global-central-bankers-glimpse-dystopian-ai-future-2026-08-31"
     },
     {
       "rank": 9,
-      "title": "SK Hynix、インディアナ州で40億ドルのHBMパッケージング工場起工",
-      "summary": "SK Hynixが米国インディアナ州に40億ドル以上を投じるHBM先進パッケージング工場の起工式を実施。2029年下半期から次世代HBMの量産を開始し、米国のAI半導体供給網強化に寄与する。",
-      "source": "SK hynix Newsroom",
-      "source_url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana"
+      "title": "AI is hurting US politics. Here's how candidates could use it for good",
+      "summary": "Bruce Schneierらが、AIが米政治の極化を助長する一方、有権者対話や情報整理に活用すれば民主主義を強化できると主張する論説を掲載した。",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters"
     },
     {
       "rank": 10,
-      "title": "中国のCXMT、Pentagonの中国軍事企業指定を巡り提訴",
-      "summary": "中国最大のDRAMメーカーChangXin Memory Technologiesが、Pentagonによる中国軍事企業指定を巡り連邦地裁に提訴。指定が恣意的で正当な根拠がないとして、リストからの削除を求めた。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/cxmt-sues-pentagon-over-inclusion-list-companies-tied-chinas-military-2026-08-29"
+      "title": "OnlyFans and AI training: why gen Z doesn't care where our money comes from",
+      "summary": "Alice Lassmanが、住宅購入や安定雇用が遠いZ世代が、AIトレーニングやOnlyFansなど「今稼げる」仕事に流れ、将来を諦めた傾向を分析する寄稿を掲載した。",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai"
     }
   ]
 }
