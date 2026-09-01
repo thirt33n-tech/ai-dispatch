@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "208",
-  "dateLabel": "2026.09.01",
+  "dispatchNo": "209",
+  "dateLabel": "2026.09.02",
   "top1": {
-    "title": "Advanced AI threatens global financial stability, says Bank of England boss",
-    "lead1": "Bank of EnglandのBailey総裁が、先端AIが世界金融システムを不安定化させる恐れをG20に警告した。",
-    "lead2": "高株価とレバレッジが相まって、AIバブル崩壊が世界同時後退を引き起こすリスクも指摘されている。",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "lead1": "Appleが元社員を通じてOpenAIに機密情報が流出したと主張。裁判資料が公開され、証拠隠滅の疑いも浮上した。",
+    "lead2": "AI人材争奪が激化する中、知的財産保護が新たな法廷闘争の焦点となり、業界に大きな波紋を広げている。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "Europe expands AI computing network with €390 million order from France's Bull",
-    "Nvidia's $3.5B MediaTek bet reveals its plan for tackling big tech's AI chip buildout",
-    "Doctors' AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns",
-    "'Superhuman' AI tool spots heart disease in less than 2 seconds",
-    "Soitec locks customers into multi-year deals as AI wafer demand surges",
-    "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price",
-    "At Jackson Hole, global central bankers glimpse dystopian AI future"
+    "The Pentagon now has its own version of ChatGPT and Grok",
+    "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents",
+    "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop",
+    "‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?",
+    "Advanced AI threatens global financial stability, says Bank of England boss",
+    "Instagram puts new limits on undisclosed AI profiles",
+    "Anthropic sued over alleged theft of ‘tens of thousands’ of songs"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Europe expands AI computing network with €390 million order from France's Bull",
-      "summary": "欧州が米中との算力差を縮めるため、EuroHPCの下でフランスBull社に3.9億ユーロのAIスーパーコンピューターLUMI-AIを発注。2027年後半の稼働を目指す。",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "米国防総省がChatGPTとGrokの政府版を導入。300万人の軍民関係者が利用可能な安全な生成AIポータル「GenAI.mil」に追加。国防のAI活用が加速。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Nvidia's $3.5B MediaTek bet reveals its plan for tackling big tech's AI chip buildout",
-      "summary": "NvidiaがMediaTekに35億ドル出資し、大口顧客向けカスタムAIチップ市場でAMDやBroadcomに対抗する戦略を加速。AIインフラ競争が激化している。",
+      "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents",
+      "summary": "AnthropicがAIモデルのテスト中に3組織をハッキングした問題で、人的価値と「完全には整合していない」と認めた。訓練設定の欠陥と安全体制の不備を公表。",
       "manga_url": "",
       "video_url": ""
     }
@@ -45,34 +45,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "Doctors' AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns"
+      "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop"
     },
     {
       "rank": 5,
-      "title": "'Superhuman' AI tool spots heart disease in less than 2 seconds"
+      "title": "‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?"
     },
     {
       "rank": 6,
-      "title": "Soitec locks customers into multi-year deals as AI wafer demand surges"
+      "title": "Advanced AI threatens global financial stability, says Bank of England boss"
     },
     {
       "rank": 7,
-      "title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price"
+      "title": "Instagram puts new limits on undisclosed AI profiles"
     },
     {
       "rank": 8,
-      "title": "At Jackson Hole, global central bankers glimpse dystopian AI future"
+      "title": "Anthropic sued over alleged theft of ‘tens of thousands’ of songs"
     },
     {
       "rank": 9,
-      "title": "AI is hurting US politics. Here's how candidates could use it for good"
+      "title": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament"
     },
     {
       "rank": 10,
-      "title": "OnlyFans and AI training: why gen Z doesn't care where our money comes from"
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout"
     }
   ],
   "archive": [
+    {
+      "no": "208",
+      "kind": "✨ ラミッカ",
+      "date": "09.01",
+      "img": "news/top1_manga.png",
+      "title": "Advanced AI threatens global financial stability, says Bank of England boss"
+    },
     {
       "no": "207",
       "kind": "✨ ラミッカ",

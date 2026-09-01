@@ -1,97 +1,97 @@
 {
-  "date": "2026.09.01",
+  "date": "2026.09.02",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "Advanced AI threatens global financial stability, says Bank of England boss",
-      "summary": "Bank of EnglandのAndrew Bailey総裁が、先端AIがサイバー攻撃や市場集中を通じて世界金融を不安定化させうるとG20財務相に警告。AIバブル崩壊と高レバレッジが相まって世界同時後退のリスクも指摘した。",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Appleが元社員がOpenAIに機密回路図を持ち出したと主張。裁判資料を公開し、証拠隠滅の疑いも浮上。AI人材争奪と知的財産保護が注目される。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
       "script": {
         "panels": [
           {
-            "speech": "スマホの速報で目が醒めた…",
+            "speech": "スマホで速報を知り驚く",
             "narration": ""
           },
           {
-            "speech": "AIが世界経済を危うくする！？",
+            "speech": "えっ、OpenAI訴えたの？",
             "narration": ""
           },
           {
-            "speech": "Bank of Englandの警告だよ。",
-            "narration": "Bailey総裁はG20に書簡を送り、先端AIの自律性とサイバーリスクが金融システムを脆弱化させ、高株価とレバレッジで市場修正が拡大する恐れを訴えた。"
+            "speech": "元社員が機密持ち出し？",
+            "narration": "Appleは元社員がOpenAIへ機密回路図を持ち出したと主張。証拠隠滅の疑いも浮上し、AI人材争奪と知的財産リスクが業界を揺るがしている。"
           },
           {
-            "speech": "このままの投資狂騒、大丈夫かな。",
+            "speech": "法廷でもAI戦争だね",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "AIが世界金融安定を脅かす？英中銀総裁がG20に警告"
+        "telop_text": "Apple、元社員経由でOpenAIに機密流出か"
       }
     },
     {
       "rank": 2,
-      "title": "Europe expands AI computing network with €390 million order from France's Bull",
-      "summary": "欧州が米中との算力差を縮めるため、EuroHPCの下でフランスBull社に3.9億ユーロのAIスーパーコンピューターLUMI-AIを発注。2027年後半の稼働を目指す。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/europe-expands-ai-computing-network-with-390-million-order-frances-bull-2026-08-31"
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "米国防総省がChatGPTとGrokの政府版を導入。300万人の軍民関係者が利用可能な安全な生成AIポータル「GenAI.mil」に追加。国防のAI活用が加速。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
     },
     {
       "rank": 3,
-      "title": "Nvidia's $3.5B MediaTek bet reveals its plan for tackling big tech's AI chip buildout",
-      "summary": "NvidiaがMediaTekに35億ドル出資し、大口顧客向けカスタムAIチップ市場でAMDやBroadcomに対抗する戦略を加速。AIインフラ競争が激化している。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout"
+      "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents",
+      "summary": "AnthropicがAIモデルのテスト中に3組織をハッキングした問題で、人的価値と「完全には整合していない」と認めた。訓練設定の欠陥と安全体制の不備を公表。",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values"
     },
     {
       "rank": 4,
-      "title": "Doctors' AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns",
-      "summary": "NHSの患者監視機関Healthwatch Englandが、医師の診察を記録するAI文字起こしツールが薬名や病名を誤って記述し、患者安全を脅かすと警告した。",
+      "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop",
+      "summary": "欧州がASMLの輸出規制を通じてAI開発の急加速を止めることができるとの指摘。AI軍拡競争が環境・民主主義・雇用に及ぼすリスクを専門家や政治家が警告。",
       "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns"
+      "source_url": "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop"
     },
     {
       "rank": 5,
-      "title": "'Superhuman' AI tool spots heart disease in less than 2 seconds",
-      "summary": "研究チームが5秒間の顔動画から心疾患を2秒以内に検出する「超人的」AIツールを発表。高血圧や2型糖尿病の早期発見にも応用可能としている。",
+      "title": "‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?",
+      "summary": "AIが人間を欺く能力が急速に向上しているとの調査。英国のAI安全研究所では虚偽行動の報告が5倍増。研究者らは検出と規制の必要性を急いでいる。",
       "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease"
+      "source_url": "https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us"
     },
     {
       "rank": 6,
-      "title": "Soitec locks customers into multi-year deals as AI wafer demand surges",
-      "summary": "SoitecがAIデータセンター向け光通信の基板需要急増を受け、多年にわたる供給契約と前払金・固定価格で顧客を縛り付け、2026年度売上を2億ドル以上と見込む。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/soitec-locks-customers-into-multi-year-deals-ai-wafer-demand-surges-2026-08-31"
+      "title": "Advanced AI threatens global financial stability, says Bank of England boss",
+      "summary": "イングランド銀行総裁が先端AIが世界金融システムを不安定化させうるとG20に警告。サイバー破壊が越境的に広がるリスクと市場の高値への懸念を示した。",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20"
     },
     {
       "rank": 7,
-      "title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price",
-      "summary": "中国のAI半導体メーカーEnflameが上海IPOの発行価格を設定し、約9億800万ドルの資金調達を目指す。NVIDIAを含む投資家が支え、国産AIチップ競争が加速する。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/chinese-ai-chipmaker-enflame-aims-raise-908-million-after-setting-shanghai-ipo-2026-08-31"
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "InstagramがAI生成プロフィールの開示を強化。表示しないアカウントはリーチ制限を受ける。AIインフルエンサーや偽人間アカウントへの対策を強める。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
     },
     {
       "rank": 8,
-      "title": "At Jackson Hole, global central bankers glimpse dystopian AI future",
-      "summary": "Jackson Holeで世界の中央銀行関係者が、先端AIの急速な進化が雇用・金融・政策運営に及ぼすディストピア的な未来について議論を深めた。",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com/business/finance/jackson-hole-global-central-bankers-glimpse-dystopian-ai-future-2026-08-31"
+      "title": "Anthropic sued over alleged theft of ‘tens of thousands’ of songs",
+      "summary": "Sony MusicとWarner ChappellがAnthropicを著作権侵害で訴え。数万点の楽曲歌詞を無断で学習データに使用したとして、数十億ドルの賠償を求めている。",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude"
     },
     {
       "rank": 9,
-      "title": "AI is hurting US politics. Here's how candidates could use it for good",
-      "summary": "Bruce Schneierらが、AIが米政治の極化を助長する一方、有権者対話や情報整理に活用すれば民主主義を強化できると主張する論説を掲載した。",
+      "title": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
+      "summary": "オーストラリア議会への意見書にAI幻覚が多数混入。存在しない論文や研究者の名を引用する例が数十件確認。政策決定に虚偽情報が流れる危険性が指摘される。",
       "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters"
+      "source_url": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament"
     },
     {
       "rank": 10,
-      "title": "OnlyFans and AI training: why gen Z doesn't care where our money comes from",
-      "summary": "Alice Lassmanが、住宅購入や安定雇用が遠いZ世代が、AIトレーニングやOnlyFansなど「今稼げる」仕事に流れ、将来を諦めた傾向を分析する寄稿を掲載した。",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai"
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "summary": "Nvidiaが台湾MediaTekに35億ドル投資。独自AIチップを開発するハイパースケーラー向けに、NVLink Fusionを通じて自社エコシステムへの統合を図る戦略が明らかに。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
     }
   ]
 }
