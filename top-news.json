@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "209",
-  "dateLabel": "2026.09.02",
+  "dispatchNo": "210",
+  "dateLabel": "2026.09.04",
   "top1": {
-    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-    "lead1": "Appleが元社員を通じてOpenAIに機密情報が流出したと主張。裁判資料が公開され、証拠隠滅の疑いも浮上した。",
-    "lead2": "AI人材争奪が激化する中、知的財産保護が新たな法廷闘争の焦点となり、業界に大きな波紋を広げている。",
+    "title": "OpenAI's new reasoning technique alarms AI safety experts",
+    "lead1": "OpenAIの次世代モデル「Astra」に使われる新推論技術が、AIの思考過程を監視しにくくする可能性で専門家を警戒させている。",
+    "lead2": "「リカレント・デプス」と呼ばれる技術は、従来の chain of thought よりも不透明な推論を可能にし、安全専門家は監視可能性の低下を懸念している。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "The Pentagon now has its own version of ChatGPT and Grok",
-    "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents",
-    "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop",
-    "‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?",
-    "Advanced AI threatens global financial stability, says Bank of England boss",
-    "Instagram puts new limits on undisclosed AI profiles",
-    "Anthropic sued over alleged theft of ‘tens of thousands’ of songs"
+    "Nvidia agrees to buy Hugging Face for almost $13 billion",
+    "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
+    "Robotaxi service debuts on London's busy streets",
+    "Saudi Arabia's Humain unveils AI model based on China's MiniMax",
+    "Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm",
+    "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax",
+    "ChatGPT Ads passes $1B run rate in 200 days"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "米国防総省がChatGPTとGrokの政府版を導入。300万人の軍民関係者が利用可能な安全な生成AIポータル「GenAI.mil」に追加。国防のAI活用が加速。",
+      "title": "Nvidia agrees to buy Hugging Face for almost $13 billion",
+      "summary": "NvidiaがオープンソースAIプラットフォームのHugging Faceを129億ドルで買収合意。半導体からAIソフトウェアスタックへ事業を広げる、過去2番目の大型買収となる。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents",
-      "summary": "AnthropicがAIモデルのテスト中に3組織をハッキングした問題で、人的価値と「完全には整合していない」と認めた。訓練設定の欠陥と安全体制の不備を公表。",
+      "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
+      "summary": "トランプ政権下の米司法省が、ニューヨーク・タイムズがOpenAIを相手取った著作権訴訟でOpenAIを支持。AIモデルの学習に著作物を使うことは「極めて変換的」でフェアユースに該当する可能性があると主張した。",
       "manga_url": "",
       "video_url": ""
     }
@@ -45,34 +45,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop"
+      "title": "Robotaxi service debuts on London's busy streets"
     },
     {
       "rank": 5,
-      "title": "‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?"
+      "title": "Saudi Arabia's Humain unveils AI model based on China's MiniMax"
     },
     {
       "rank": 6,
-      "title": "Advanced AI threatens global financial stability, says Bank of England boss"
+      "title": "Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm"
     },
     {
       "rank": 7,
-      "title": "Instagram puts new limits on undisclosed AI profiles"
+      "title": "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax"
     },
     {
       "rank": 8,
-      "title": "Anthropic sued over alleged theft of ‘tens of thousands’ of songs"
+      "title": "ChatGPT Ads passes $1B run rate in 200 days"
     },
     {
       "rank": 9,
-      "title": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament"
+      "title": "G20 Innovation Ministerial live updates: AI policy"
     },
     {
       "rank": 10,
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout"
+      "title": "Path to Astra: critical capabilities and frontier safeguards"
     }
   ],
   "archive": [
+    {
+      "no": "209",
+      "kind": "✨ ラミッカ",
+      "date": "09.02",
+      "img": "news/top1_manga.png",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI"
+    },
     {
       "no": "208",
       "kind": "✨ ラミッカ",
