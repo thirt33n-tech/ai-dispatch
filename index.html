@@ -281,6 +281,7 @@ function render(d){
   ).join('');
 
   document.getElementById('lead-manga').src=d.top1.manga_url||'';
+  if(!has(d.top1.manga_url)) document.getElementById('lead-manga').style.display='none';
   document.getElementById('lead-title').textContent=d.top1.title||'';
   document.getElementById('lead-lead1').textContent=d.top1.lead1||'';
   document.getElementById('lead-lead2').textContent=d.top1.lead2||'';
