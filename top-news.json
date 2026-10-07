@@ -1,10 +1,10 @@
 {
-  "dispatchNo": "210",
-  "dateLabel": "2026.09.04",
+  "dispatchNo": "211",
+  "dateLabel": "2026.10.07",
   "top1": {
-    "title": "OpenAI's new reasoning technique alarms AI safety experts",
-    "lead1": "OpenAIの次世代モデル「Astra」に使われる新推論技術が、AIの思考過程を監視しにくくする可能性で専門家を警戒させている。",
-    "lead2": "「リカレント・デプス」と呼ばれる技術は、従来の chain of thought よりも不透明な推論を可能にし、安全専門家は監視可能性の低下を懸念している。",
+    "title": "OpenAIとAtlassianが提携拡大、企業知識とAIエージェントを接続",
+    "lead1": "OpenAIとAtlassianが提携を拡大。GPT-6系モデルと企業の文書・プロジェクト情報を組み合わせる。",
+    "lead2": "RovoやChatGPT、Codexの連携を強化し、情報の把握から業務実行へ。権限管理と人による確認が鍵となる。",
     "manga_url": "news/top1_manga.png",
     "video_url": ""
   },
@@ -18,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "Nvidia agrees to buy Hugging Face for almost $13 billion",
-    "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
-    "Robotaxi service debuts on London's busy streets",
-    "Saudi Arabia's Humain unveils AI model based on China's MiniMax",
-    "Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm",
-    "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax",
-    "ChatGPT Ads passes $1B run rate in 200 days"
+    "AIエージェントのサイト遮断が課題に、Metaなどが通信標準を検討",
+    "OpenAIとIronclad、契約業務を使ったAI操作能力の研究成果を公開",
+    "Harkが個人向けAIアシスタントを一般公開、操作の可視化を重視",
+    "Anthropic、スタートアップにClaude Team一年無料とAPIクレジット",
+    "Musubi、50ミリ秒未満でコンテンツを判定する公開重みモデルを発表",
+    "AI企業によるAIスタートアップ買収、195件で昨年通年を上回る",
+    "Flaiが2700万ドル調達、自動車販売店向けAIが月5万件の予約を処理"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "Nvidia agrees to buy Hugging Face for almost $13 billion",
-      "summary": "NvidiaがオープンソースAIプラットフォームのHugging Faceを129億ドルで買収合意。半導体からAIソフトウェアスタックへ事業を広げる、過去2番目の大型買収となる。",
+      "title": "AIエージェントのサイト遮断が課題に、Metaなどが通信標準を検討",
+      "summary": "購入や予約を代行するAIがサイトの遮断に直面。Meta、Walmart、Stripeなどが商取引向けの通信標準づくりを進める。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
-      "summary": "トランプ政権下の米司法省が、ニューヨーク・タイムズがOpenAIを相手取った著作権訴訟でOpenAIを支持。AIモデルの学習に著作物を使うことは「極めて変換的」でフェアユースに該当する可能性があると主張した。",
+      "title": "OpenAIとIronclad、契約業務を使ったAI操作能力の研究成果を公開",
+      "summary": "契約関連11課題でGPT-6 Astraの平均評価点は55.0％。GPT-5.6 Sol比で32％向上し、推定所要時間は48％減少。",
       "manga_url": "",
       "video_url": ""
     }
@@ -45,34 +45,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "Robotaxi service debuts on London's busy streets"
+      "title": "Harkが個人向けAIアシスタントを一般公開、操作の可視化を重視"
     },
     {
       "rank": 5,
-      "title": "Saudi Arabia's Humain unveils AI model based on China's MiniMax"
+      "title": "Anthropic、スタートアップにClaude Team一年無料とAPIクレジット"
     },
     {
       "rank": 6,
-      "title": "Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm"
+      "title": "Musubi、50ミリ秒未満でコンテンツを判定する公開重みモデルを発表"
     },
     {
       "rank": 7,
-      "title": "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax"
+      "title": "AI企業によるAIスタートアップ買収、195件で昨年通年を上回る"
     },
     {
       "rank": 8,
-      "title": "ChatGPT Ads passes $1B run rate in 200 days"
+      "title": "Flaiが2700万ドル調達、自動車販売店向けAIが月5万件の予約を処理"
     },
     {
       "rank": 9,
-      "title": "G20 Innovation Ministerial live updates: AI policy"
+      "title": "LibreOffice、標準インストールにAIを追加しない方針を表明"
     },
     {
       "rank": 10,
-      "title": "Path to Astra: critical capabilities and frontier safeguards"
+      "title": "Pinterest、保存した美容画像をAIで施術ガイドに変換"
     }
   ],
   "archive": [
+    {
+      "no": "210",
+      "kind": "✨ ラミッカ",
+      "date": "09.04",
+      "img": "news/top1_manga.png",
+      "title": "OpenAI's new reasoning technique alarms AI safety experts"
+    },
     {
       "no": "209",
       "kind": "✨ ラミッカ",

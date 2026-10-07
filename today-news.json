@@ -1,97 +1,97 @@
 {
-  "date": "2026.09.04",
+  "date": "2026.10.07",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "OpenAI's new reasoning technique alarms AI safety experts",
-      "summary": "OpenAIの次世代モデル「Astra」に使われる「リカレント・デプス」と呼ばれる推論技術が、AIの思考過程を人間が監視しにくくする可能性があり、AI安全専門家を警戒させている。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+      "title": "OpenAIとAtlassianが提携拡大、企業知識とAIエージェントを接続",
+      "summary": "GPT-6系モデルをRovoなどに展開。JiraやConfluenceの企業情報を活用し、業務の把握から実行へつなげる。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/atlassian-partnership/",
       "script": {
         "panels": [
           {
-            "speech": "えっ、新技術が問題視だって",
+            "speech": "スマホに速報！仕事も変わる？",
             "narration": ""
           },
           {
-            "speech": "考えの跡が見えないの！？",
+            "speech": "えっ！社内の知識で動くの！？",
             "narration": ""
           },
           {
-            "speech": "うーん、透明性が大事だね",
-            "narration": "「リカレント・デプス」は同じ問いを繰り返し処理し、従来の思考チェーンより監視しにくい痕跡を残す技術だ。"
+            "speech": "情報探しから実行まで？",
+            "narration": "OpenAIとAtlassianが提携を拡大。企業の文書やプロジェクト情報をAIにつなぎ、業務支援を強化する。"
           },
           {
-            "speech": "次回もAI安全を追うよ",
+            "speech": "みなみは確認役を磨こう",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "OpenAIの新推論技術、AI安全専門家が警戒"
+        "telop_text": "OpenAI×Atlassianが提携拡大、企業知識をAIの業務実行につなぐ"
       }
     },
     {
       "rank": 2,
-      "title": "Nvidia agrees to buy Hugging Face for almost $13 billion",
-      "summary": "NvidiaがオープンソースAIプラットフォームのHugging Faceを129億ドルで買収合意。半導体からAIソフトウェアスタックへ事業を広げる、過去2番目の大型買収となる。",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+      "title": "AIエージェントのサイト遮断が課題に、Metaなどが通信標準を検討",
+      "summary": "購入や予約を代行するAIがサイトの遮断に直面。Meta、Walmart、Stripeなどが商取引向けの通信標準づくりを進める。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in"
     },
     {
       "rank": 3,
-      "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
-      "summary": "トランプ政権下の米司法省が、ニューヨーク・タイムズがOpenAIを相手取った著作権訴訟でOpenAIを支持。AIモデルの学習に著作物を使うことは「極めて変換的」でフェアユースに該当する可能性があると主張した。",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html"
+      "title": "OpenAIとIronclad、契約業務を使ったAI操作能力の研究成果を公開",
+      "summary": "契約関連11課題でGPT-6 Astraの平均評価点は55.0％。GPT-5.6 Sol比で32％向上し、推定所要時間は48％減少。",
+      "source": "OpenAI",
+      "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad/"
     },
     {
       "rank": 4,
-      "title": "Robotaxi service debuts on London's busy streets",
-      "summary": "Uberと英Wayveが9月1日、ロンドンで初の配車可能な自動運転タクシーサービスの実証運行を開始。運転席に安全員を乗せたFord Mustang Mach-Eで、欧州の自動運転普及が加速する動き。",
-      "source": "AP / Newstimes",
-      "source_url": "https://www.newstimes.com/news/world/article/robotaxi-service-debuts-on-london-s-busy-streets-22415458.php"
+      "title": "Harkが個人向けAIアシスタントを一般公開、操作の可視化を重視",
+      "summary": "Hark Proを一般公開。メールや予定管理などを代行し、ブラウザー操作を画面に表示。無料利用と有料プランを提供する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy"
     },
     {
       "rank": 5,
-      "title": "Saudi Arabia's Humain unveils AI model based on China's MiniMax",
-      "summary": "サウジアラビアの政府系AI企業HUMAINが、中国MiniMaxのM3をベースにしたアラビア語モデル「humain-m3」を発表。中東と中国のAI連携が地政学的に注目されている。",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-09-03/saudi-arabia-s-humain-unveils-ai-model-based-on-china-s-minimax"
+      "title": "Anthropic、スタートアップにClaude Team一年無料とAPIクレジット",
+      "summary": "対象企業に最大5席のClaude Teamを一年間無料提供し、APIクレジット1000ドルを付与。専門チームへの相談機会も設ける。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits"
     },
     {
       "rank": 6,
-      "title": "Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm",
-      "summary": "欧州のUberドライバーが、報酬を決めるAIアルゴリズムを「冷酷で怖い」と批判し、集団訴訟を起こした。アルゴリズムによる恣意的な賃金設定と労働者権利侵害が問題視されている。",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm"
+      "title": "Musubi、50ミリ秒未満でコンテンツを判定する公開重みモデルを発表",
+      "summary": "PolicyLM-1.7Bを公開。自然言語で記述したポリシーを高速適用し、ルール変更時の追加学習を不要にするという。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation"
     },
     {
       "rank": 7,
-      "title": "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax",
-      "summary": "HUMAINが4280億パラメータのMoEアラビア語モデル「humain-m3」をリサーチプレビュー公開。7つの公開アラビア語ベンチマークで最高平均スコアを記録したと発表した。",
-      "source": "PR Newswire / Morningstar",
-      "source_url": "https://www.morningstar.com/news/pr-newswire/20260903ln40185/humain-unveils-humain-m3-a-frontier-arabic-language-model-developed-by-minimax-in-research-preview-on-humain-node"
+      "title": "AI企業によるAIスタートアップ買収、195件で昨年通年を上回る",
+      "summary": "Crunchbaseの分析では9月29日までの買収が195件に達し、昨年通年比14％増。資金力のある企業の連続買収が増加を牽引。",
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai"
     },
     {
       "rank": 8,
-      "title": "ChatGPT Ads passes $1B run rate in 200 days",
-      "summary": "OpenAIの「ChatGPT Ads」が開始から200日未満で年間10億ドルの収益換算 run rateに到達。広告事業の急成長と、セルフサービス広告の地域展開拡大が発表された。",
-      "source": "Artificial Intelligence News",
-      "source_url": "https://www.artificialintelligence-news.com/2026/09/01/chatgpt-ads-passes-1b-run-rate-in-200-days/"
+      "title": "Flaiが2700万ドル調達、自動車販売店向けAIが月5万件の予約を処理",
+      "summary": "Base10 Partners主導のシリーズAを発表。販売・整備予約を月5万件処理し、売上高は一年で20倍になったとCEOが説明。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month"
     },
     {
       "rank": 9,
-      "title": "G20 Innovation Ministerial live updates: AI policy",
-      "summary": "G20イノベーション閣僚会議がノースカロライナ州チャペルヒルで開催され、マスク、ホアン、アルトマンなどAI関係者が参加。AIが世界経済を20〜30%拡大するとの見方も示された。",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html"
+      "title": "LibreOffice、標準インストールにAIを追加しない方針を表明",
+      "summary": "文書の端末外送信や特定事業者への依存を避けるため、当面AIを標準搭載しない。利用希望者には拡張機能の選択肢を残す。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature"
     },
     {
       "rank": 10,
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "summary": "OpenAIが自社ブログで「Astra」が同社の準備フレームワークで「重大なサイバー能力」閾値に初めて達したモデルであることを発表。安全ガードレールと責任ある展開への取り組みを説明した。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/path-to-astra"
+      "title": "Pinterest、保存した美容画像をAIで施術ガイドに変換",
+      "summary": "Beauty Guidesを発表。髪型やネイルの画像から美容師向けの用語、施術時間、価格帯、維持に必要な手入れを案内する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans"
     }
   ]
 }
