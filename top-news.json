@@ -1,14 +1,12 @@
 {
-  "dispatchNo": "211",
-  "dateLabel": "2026.10.07",
+  "dispatchNo": "212",
+  "dateLabel": "2026.10.08",
   "top1": {
-    "title": "OpenAIとAtlassianが提携拡大、企業知識とAIエージェントを接続",
-    "lead1": "OpenAIとAtlassianが提携を拡大。GPT-6系モデルと企業の文書・プロジェクト情報を組み合わせる。",
-    "lead2": "RovoやChatGPT、Codexの連携を強化し、情報の把握から業務実行へ。権限管理と人による確認が鍵となる。",
-    "manga_url": "news/top1_manga_2026-10-07.png",
-    "video_url": "",
-    "summary": "GPT-6系モデルをRovoなどに展開。JiraやConfluenceの企業情報を活用し、業務の把握から実行へつなげる。",
-    "media_updated_at": "2026-10-07"
+    "title": "Biohub、米政府・Google・Metaと生物学AIデータ整備を拡大、総規模18億ドル",
+    "lead1": "Biohubが米政府やGoogle、Metaとの連携拡大を発表。細胞の振る舞いを予測するAIに必要なデータ整備を進める。",
+    "lead2": "総規模18億ドルには既存投資やデータ、計算資源も含む。デジタル実験による病気の理解と治療研究の加速を目指す。",
+    "manga_url": "",
+    "video_url": ""
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -20,26 +18,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "AIエージェントのサイト遮断が課題に、Metaなどが通信標準を検討",
-    "OpenAIとIronclad、契約業務を使ったAI操作能力の研究成果を公開",
-    "Harkが個人向けAIアシスタントを一般公開、操作の可視化を重視",
-    "Anthropic、スタートアップにClaude Team一年無料とAPIクレジット",
-    "Musubi、50ミリ秒未満でコンテンツを判定する公開重みモデルを発表",
-    "AI企業によるAIスタートアップ買収、195件で昨年通年を上回る",
-    "Flaiが2700万ドル調達、自動車販売店向けAIが月5万件の予約を処理"
+    "Microsoft、NVIDIA製AIチップ搭載のSurface Ultraを発表",
+    "米有権者の84％がAIを雇用への脅威と認識、Reuters・Ipsos調査",
+    "米FCC、AI音声を含む政治ロボコールの規制緩和要請を検討",
+    "Nous Research、9,000万ドル調達で企業向けHermes開発へ",
+    "PFN、PLaMo翻訳を53言語対応に刷新、会議翻訳も正式提供",
+    "KDDI・ソフトバンクなど12者、分散AI計算と電力の統合制御実証を発表",
+    "日本HP、最大192GBメモリのローカルAI向けZBook Ultra G3aを発売"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "AIエージェントのサイト遮断が課題に、Metaなどが通信標準を検討",
-      "summary": "購入や予約を代行するAIがサイトの遮断に直面。Meta、Walmart、Stripeなどが商取引向けの通信標準づくりを進める。",
+      "title": "Microsoft、NVIDIA製AIチップ搭載のSurface Ultraを発表",
+      "summary": "NVIDIAのRTX Spark搭載ノートPCを発表。端末とクラウドを組み合わせるAI処理を推進し、価格は2,599ドル、10月16日出荷開始。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "OpenAIとIronclad、契約業務を使ったAI操作能力の研究成果を公開",
-      "summary": "契約関連11課題でGPT-6 Astraの平均評価点は55.0％。GPT-5.6 Sol比で32％向上し、推定所要時間は48％減少。",
+      "title": "米有権者の84％がAIを雇用への脅威と認識、Reuters・Ipsos調査",
+      "summary": "米有権者の57％が政権のAIリスク対応を不十分と評価。民主党支持者の80％、共和党支持者の61％が規制強化を支持した。",
       "manga_url": "",
       "video_url": ""
     }
@@ -47,33 +45,41 @@
   "topList": [
     {
       "rank": 4,
-      "title": "Harkが個人向けAIアシスタントを一般公開、操作の可視化を重視"
+      "title": "米FCC、AI音声を含む政治ロボコールの規制緩和要請を検討"
     },
     {
       "rank": 5,
-      "title": "Anthropic、スタートアップにClaude Team一年無料とAPIクレジット"
+      "title": "Nous Research、9,000万ドル調達で企業向けHermes開発へ"
     },
     {
       "rank": 6,
-      "title": "Musubi、50ミリ秒未満でコンテンツを判定する公開重みモデルを発表"
+      "title": "PFN、PLaMo翻訳を53言語対応に刷新、会議翻訳も正式提供"
     },
     {
       "rank": 7,
-      "title": "AI企業によるAIスタートアップ買収、195件で昨年通年を上回る"
+      "title": "KDDI・ソフトバンクなど12者、分散AI計算と電力の統合制御実証を発表"
     },
     {
       "rank": 8,
-      "title": "Flaiが2700万ドル調達、自動車販売店向けAIが月5万件の予約を処理"
+      "title": "日本HP、最大192GBメモリのローカルAI向けZBook Ultra G3aを発売"
     },
     {
       "rank": 9,
-      "title": "LibreOffice、標準インストールにAIを追加しない方針を表明"
+      "title": "GMOペパボ、ムームードメインのClaude認証済みコネクタ掲載を発表"
     },
     {
       "rank": 10,
-      "title": "Pinterest、保存した美容画像をAIで施術ガイドに変換"
+      "title": "ジャグプロジェクト、海外緊急時の初動を支えるトラベルAIレスキューを提供開始"
     }
   ],
-  "archive": [],
+  "archive": [
+    {
+      "no": "211",
+      "kind": "✨ ラミッカ",
+      "date": "10.07",
+      "img": "news/top1_manga_2026-10-07.png",
+      "title": "OpenAIとAtlassianが提携拡大、企業知識とAIエージェントを接続"
+    }
+  ],
   "githubUrl": "https://github.com/thirt33n-tech"
 }

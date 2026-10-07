@@ -1,97 +1,97 @@
 {
-  "date": "2026.10.07",
+  "date": "2026.10.08",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "OpenAIとAtlassianが提携拡大、企業知識とAIエージェントを接続",
-      "summary": "GPT-6系モデルをRovoなどに展開。JiraやConfluenceの企業情報を活用し、業務の把握から実行へつなげる。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/atlassian-partnership/",
+      "title": "Biohub、米政府・Google・Metaと生物学AIデータ整備を拡大、総規模18億ドル",
+      "summary": "Biohubが米政府やGoogleなどとの連携拡大を発表。既存投資を含む資金・データ・計算資源計18億ドルで、細胞を予測するAIの基盤を整える。",
+      "source": "Biohub",
+      "source_url": "https://biohub.org/news/virtual-biology-initiative-expansion",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！仕事も変わる？",
+            "speech": "スマホに速報！細胞をＡＩで！？",
             "narration": ""
           },
           {
-            "speech": "えっ！社内の知識で動くの！？",
+            "speech": "１８億ドル規模ってすごい！",
             "narration": ""
           },
           {
-            "speech": "情報探しから実行まで？",
-            "narration": "OpenAIとAtlassianが提携を拡大。企業の文書やプロジェクト情報をAIにつなぎ、業務支援を強化する。"
+            "speech": "細胞の反応を予測するんだね",
+            "narration": "Biohubと米政府、Googleなどが連携。既存投資も含む18億ドル規模の資源で、生物学AI向けデータを整備する。"
           },
           {
-            "speech": "みなみは確認役を磨こう",
+            "speech": "みなみは成果の検証も見届けたい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "OpenAI×Atlassianが提携拡大、企業知識をAIの業務実行につなぐ"
+        "telop_text": "Biohubが生物学AI基盤を拡大、米政府・Google・Metaと総規模18億ドルの連携"
       }
     },
     {
       "rank": 2,
-      "title": "AIエージェントのサイト遮断が課題に、Metaなどが通信標準を検討",
-      "summary": "購入や予約を代行するAIがサイトの遮断に直面。Meta、Walmart、Stripeなどが商取引向けの通信標準づくりを進める。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in"
+      "title": "Microsoft、NVIDIA製AIチップ搭載のSurface Ultraを発表",
+      "summary": "NVIDIAのRTX Spark搭載ノートPCを発表。端末とクラウドを組み合わせるAI処理を推進し、価格は2,599ドル、10月16日出荷開始。",
+      "source": "AFP（France 24掲載）",
+      "source_url": "https://www.france24.com/en/live-news/20261007-microsoft-pushes-ai-vision-with-new-expensive-surface-laptop"
     },
     {
       "rank": 3,
-      "title": "OpenAIとIronclad、契約業務を使ったAI操作能力の研究成果を公開",
-      "summary": "契約関連11課題でGPT-6 Astraの平均評価点は55.0％。GPT-5.6 Sol比で32％向上し、推定所要時間は48％減少。",
-      "source": "OpenAI",
-      "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad/"
+      "title": "米有権者の84％がAIを雇用への脅威と認識、Reuters・Ipsos調査",
+      "summary": "米有権者の57％が政権のAIリスク対応を不十分と評価。民主党支持者の80％、共和党支持者の61％が規制強化を支持した。",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com/world/most-us-voters-say-trump-congress-dont-take-ai-risks-seriously-reutersipsos-poll-2026-10-07"
     },
     {
       "rank": 4,
-      "title": "Harkが個人向けAIアシスタントを一般公開、操作の可視化を重視",
-      "summary": "Hark Proを一般公開。メールや予定管理などを代行し、ブラウザー操作を画面に表示。無料利用と有料プランを提供する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy"
+      "title": "米FCC、AI音声を含む政治ロボコールの規制緩和要請を検討",
+      "summary": "中間選挙前に、事前同意なしの携帯電話向け政治ロボコールを認める要請を検討。消費者団体は迷惑電話や偽情報の増加を懸念する。",
+      "source": "AP News",
+      "source_url": "https://apnews.com/article/fcc-political-robocalls-artificial-intelligence-ai-midterms-b97fb6e8d06704dc043556dba25de548"
     },
     {
       "rank": 5,
-      "title": "Anthropic、スタートアップにClaude Team一年無料とAPIクレジット",
-      "summary": "対象企業に最大5席のClaude Teamを一年間無料提供し、APIクレジット1000ドルを付与。専門チームへの相談機会も設ける。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits"
+      "title": "Nous Research、9,000万ドル調達で企業向けHermes開発へ",
+      "summary": "NVIDIA、MicrosoftのM12などが参加する資金調達を発表。モデル選択や組織の知識管理を重視したHermes for Businessesを開発する。",
+      "source": "Nous Research",
+      "source_url": "https://nousresearch.com/a-note-on-our-fundraise"
     },
     {
       "rank": 6,
-      "title": "Musubi、50ミリ秒未満でコンテンツを判定する公開重みモデルを発表",
-      "summary": "PolicyLM-1.7Bを公開。自然言語で記述したポリシーを高速適用し、ルール変更時の追加学習を不要にするという。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation"
+      "title": "PFN、PLaMo翻訳を53言語対応に刷新、会議翻訳も正式提供",
+      "summary": "第3世代PLaMoを採用し、15言語の会議翻訳を追加。同社評価で最先端モデル級の日本語翻訳精度と、比較対象の10分の1未満の推定コストを示した。",
+      "source": "Preferred Networks",
+      "source_url": "https://www.preferred.jp/ja/news/pr20261007"
     },
     {
       "rank": 7,
-      "title": "AI企業によるAIスタートアップ買収、195件で昨年通年を上回る",
-      "summary": "Crunchbaseの分析では9月29日までの買収が195件に達し、昨年通年比14％増。資金力のある企業の連続買収が増加を牽引。",
-      "source": "Crunchbase News",
-      "source_url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai"
+      "title": "KDDI・ソフトバンクなど12者、分散AI計算と電力の統合制御実証を発表",
+      "summary": "8月開始の共同実証を公表。電力需給やGPU稼働状況に応じて計算処理を拠点間で移し、国内分散資源を束ねるAI基盤を目指す。",
+      "source": "ソフトバンク",
+      "source_url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261007_01/"
     },
     {
       "rank": 8,
-      "title": "Flaiが2700万ドル調達、自動車販売店向けAIが月5万件の予約を処理",
-      "summary": "Base10 Partners主導のシリーズAを発表。販売・整備予約を月5万件処理し、売上高は一年で20倍になったとCEOが説明。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month"
+      "title": "日本HP、最大192GBメモリのローカルAI向けZBook Ultra G3aを発売",
+      "summary": "Ryzen AI MAX PRO 400シリーズ搭載のモバイルワークステーションを発売。大規模AIモデルの端末内実行を支援し、通常価格は639,100円から。",
+      "source": "日本HP",
+      "source_url": "https://jp.ext.hp.com/info/newsroom/2026/20261007-1"
     },
     {
       "rank": 9,
-      "title": "LibreOffice、標準インストールにAIを追加しない方針を表明",
-      "summary": "文書の端末外送信や特定事業者への依存を避けるため、当面AIを標準搭載しない。利用希望者には拡張機能の選択肢を残す。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature"
+      "title": "GMOペパボ、ムームードメインのClaude認証済みコネクタ掲載を発表",
+      "summary": "9月30日からの公式ディレクトリ掲載を公表。Claudeとの会話でドメイン検索、購入手続き、DNS設定を行える接続環境を整えた。",
+      "source": "GMOペパボ",
+      "source_url": "https://pepabo.com/news/press/202610071300/"
     },
     {
       "rank": 10,
-      "title": "Pinterest、保存した美容画像をAIで施術ガイドに変換",
-      "summary": "Beauty Guidesを発表。髪型やネイルの画像から美容師向けの用語、施術時間、価格帯、維持に必要な手入れを案内する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans"
+      "title": "ジャグプロジェクト、海外緊急時の初動を支えるトラベルAIレスキューを提供開始",
+      "summary": "公的情報で確認した連絡先とAI案内を組み合わせる旅行支援サービスを開始。緊急連絡先の生成誤りを調べた自社調査白書も公開した。",
+      "source": "PR TIMES（ジャグプロジェクト発表）",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000190569.html"
     }
   ]
 }
