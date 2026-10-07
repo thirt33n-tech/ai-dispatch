@@ -5,8 +5,10 @@
     "title": "OpenAIとAtlassianが提携拡大、企業知識とAIエージェントを接続",
     "lead1": "OpenAIとAtlassianが提携を拡大。GPT-6系モデルと企業の文書・プロジェクト情報を組み合わせる。",
     "lead2": "RovoやChatGPT、Codexの連携を強化し、情報の把握から業務実行へ。権限管理と人による確認が鍵となる。",
-    "manga_url": "",
-    "video_url": ""
+    "manga_url": "news/top1_manga_2026-10-07.png",
+    "video_url": "",
+    "summary": "GPT-6系モデルをRovoなどに展開。JiraやConfluenceの企業情報を活用し、業務の把握から実行へつなげる。",
+    "media_updated_at": "2026-10-07"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
