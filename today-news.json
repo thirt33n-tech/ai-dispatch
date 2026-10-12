@@ -1,59 +1,35 @@
 {
-  "date": "2026.10.12",
+  "date": "2026.10.13",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-12】Amazon、AI企業Decartを約70億ドルで買収交渉と報道",
-      "summary": "WSJによるとAmazonがDecartの買収を交渉中。Decartはリアルタイム動画編集や仮想環境生成のAIを開発。契約成立は未確定。",
-      "source": "Reuters（CNA掲載）",
-      "source_url": "https://www.channelnewsasia.com/business/amazon-in-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-6451486?utm_source=dlvr.it&utm_medium=threads",
-      "published_date": "2026-10-12",
+      "title": "【2026-10-13】ASUS、NVIDIA Vera CPU搭載のAIエージェント向けサーバーを発表",
+      "summary": "ASUSが「XA P2N-E2」を発表。コード実行やツール利用などAIエージェントの処理を支える。公開は米東部時間12日11時30分、日本時間13日0時30分。",
+      "source": "PR Newswire（ASUS公式発表）",
+      "source_url": "https://www.prnewswire.com/news-releases/asus-unveils-xa-p2n-e2-powered-by-nvidia-vera-cpu-for-agentic-ai-workloads-at-ocp-2026-302905781.html",
+      "published_date": "2026-10-13",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！買収交渉？",
+            "speech": "スマホに速報！専用サーバー？",
             "narration": ""
           },
           {
-            "speech": "約７０億ドル！？",
+            "speech": "ええっ！行動するＡＩ向け！",
             "narration": ""
           },
           {
-            "speech": "動画ＡＩの会社なんだ",
-            "narration": "AmazonがDecartの買収を交渉中とWSJが報道。動画編集や仮想環境生成の技術を持つが、契約成立は未確定。"
+            "speech": "答えるだけじゃないんだ",
+            "narration": "ASUSがNVIDIA Vera CPU搭載サーバーを発表。AIエージェントのコード実行、ツール利用、データ処理などを支える。"
           },
           {
-            "speech": "みなみは正式発表を待つ",
+            "speech": "みなみの仕事も手伝える？",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "AmazonがDecartを約70億ドルで買収交渉と報道、契約成立は未確定"
+        "telop_text": "ASUSがAIエージェント向けサーバーを発表、コード実行やツール利用を支える"
       }
-    },
-    {
-      "rank": 2,
-      "title": "【2026-10-12】MicrosoftのナデラCEO、AIの「非常ブレーキ」と外部制御を提唱",
-      "summary": "ナデラCEOがAIモデルを内部者リスクとして管理するよう提案。権限制限や活動記録、モデル外部の制御、人による停止機能を重視した。",
-      "source": "毎日経済",
-      "source_url": "https://www.mk.co.kr/jp/world/12173234",
-      "published_date": "2026-10-12"
-    },
-    {
-      "rank": 3,
-      "title": "【2026-10-12】サイバー攻撃までの猶予が約4分の1に、横浜国大が生成AIの影響を指摘",
-      "summary": "横浜国大の調査で脆弱性公表から攻撃確認までの中央値が2024年の141日から2026年は35日に短縮。生成AIの影響が疑われる。",
-      "source": "時事通信",
-      "source_url": "https://www.jiji.com/jc/article?k=2026101100236&g=eco",
-      "published_date": "2026-10-12"
-    },
-    {
-      "rank": 4,
-      "title": "【2026-10-12】日本のAIインフラ整備、米国のデータセンター反発から学ぶべきと日経アジア論説",
-      "summary": "日経アジアが日本のデータセンター整備に関する論説を掲載。米国の住民反発を教訓に、インフラ建設だけでなくAI利用者への投資を訴えた。",
-      "source": "Nikkei Asia",
-      "source_url": "https://asia.nikkei.com/opinion/japan-should-learn-from-how-us-residents-have-soured-on-data-centers",
-      "published_date": "2026-10-12"
     }
   ]
 }
