@@ -1,13 +1,13 @@
 {
-  "dispatchNo": "215",
-  "dateLabel": "2026.10.13",
+  "dispatchNo": "216",
+  "dateLabel": "2026.10.14",
   "top1": {
-    "title": "【2026-10-13】ASUS、NVIDIA Vera CPU搭載のAIエージェント向けサーバーを発表",
-    "lead1": "ASUSはOCP Global Summitで、AIエージェントと強化学習向けの2Uサーバー「XA P2N-E2」を発表した。",
-    "lead2": "公式記事の公開は米東部時間10月12日11時30分。夏時間を日本時間へ換算すると10月13日0時30分となる。",
-    "manga_url": "news/top1_manga_2026-10-13.png",
+    "title": "【2026-10-14】Google、Gemini 4 ArgonをAI Pro・Ultra向けに展開、APIでも提供開始",
+    "lead1": "Googleの最上位モデルGemini 4 Argonが、AI Pro・Ultra向けアプリや検索へ展開されました。",
+    "lead2": "APIの導入価格は100万入力トークン2ドル。macOSアプリでは会話とエージェント型開発を切り替えられます。",
+    "manga_url": "news/top1_manga_2026-10-14.png",
     "video_url": "",
-    "media_updated_at": "2026-10-13"
+    "media_updated_at": "2026-10-14"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -18,10 +18,27 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [],
-  "topCards": [],
+  "breaking": [
+    "【2026-10-14】Anthropic、AI開発の急増に対応しソース管理をgitから自社製「Scion」へ移行"
+  ],
+  "topCards": [
+    {
+      "rank": 2,
+      "title": "【2026-10-14】Anthropic、AI開発の急増に対応しソース管理をgitから自社製「Scion」へ移行",
+      "summary": "AI生成コードの増加で日次マージ数が10倍超に。AnthropicはScionへ移行し、CIのコード取得を分単位から秒単位に短縮したという。",
+      "manga_url": "",
+      "video_url": ""
+    }
+  ],
   "topList": [],
   "archive": [
+    {
+      "no": "215",
+      "kind": "✨ ラミッカ",
+      "date": "10.13",
+      "img": "news/top1_manga_2026-10-13.png",
+      "title": "【2026-10-13】ASUS、NVIDIA Vera CPU搭載のAIエージェント向けサーバーを発表"
+    },
     {
       "no": "214",
       "kind": "✨ ラミッカ",

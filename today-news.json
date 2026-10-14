@@ -1,34 +1,63 @@
 {
-  "date": "2026.10.13",
+  "date": "2026.10.14",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-13】ASUS、NVIDIA Vera CPU搭載のAIエージェント向けサーバーを発表",
-      "summary": "ASUSが「XA P2N-E2」を発表。コード実行やツール利用などAIエージェントの処理を支える。公開は米東部時間12日11時30分、日本時間13日0時30分。",
-      "source": "PR Newswire（ASUS公式発表）",
-      "source_url": "https://www.prnewswire.com/news-releases/asus-unveils-xa-p2n-e2-powered-by-nvidia-vera-cpu-for-agentic-ai-workloads-at-ocp-2026-302905781.html",
-      "published_date": "2026-10-13",
+      "title": "【2026-10-14】Google、Gemini 4 ArgonをAI Pro・Ultra向けに展開、APIでも提供開始",
+      "summary": "Gemini 4 Argonがアプリや検索へ展開。APIの導入価格は100万入力トークン2ドル。macOSアプリではAntigravityの開発画面も利用できる。",
+      "source": "9to5Google",
+      "source_url": "https://9to5google.com/2026/10/13/gemini-app-4-argon",
+      "published_date": "2026-10-14",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！専用サーバー？",
+            "speech": "スマホに速報！アルゴン解禁？",
             "narration": ""
           },
           {
-            "speech": "ええっ！行動するＡＩ向け！",
+            "speech": "えっ！プロでも使えるの！",
             "narration": ""
           },
           {
-            "speech": "答えるだけじゃないんだ",
-            "narration": "ASUSがNVIDIA Vera CPU搭載サーバーを発表。AIエージェントのコード実行、ツール利用、データ処理などを支える。"
+            "speech": "開発の入口も変わるね",
+            "narration": "Gemini 4 ArgonがAI Pro・Ultra向けアプリや検索に展開。API提供も始まり、macOSアプリにはAntigravityの開発画面が加わる。"
           },
           {
-            "speech": "みなみの仕事も手伝える？",
+            "speech": "みなみは実力を試したい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "ASUSがAIエージェント向けサーバーを発表、コード実行やツール利用を支える"
+        "telop_text": "Gemini 4 ArgonがAI Pro・Ultraへ展開、APIは導入価格で提供開始"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "【2026-10-14】Anthropic、AI開発の急増に対応しソース管理をgitから自社製「Scion」へ移行",
+      "summary": "AI生成コードの増加で日次マージ数が10倍超に。AnthropicはScionへ移行し、CIのコード取得を分単位から秒単位に短縮したという。",
+      "source": "ビジネス＋IT（Yahoo!ニュース掲載）",
+      "source_url": "https://news.yahoo.co.jp/articles/eb7c5f5be10e8e5f186e9c562025e63188607e35",
+      "published_date": "2026-10-14",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！ギット卒業？",
+            "narration": ""
+          },
+          {
+            "speech": "ええっ！統合数が１０倍超！",
+            "narration": ""
+          },
+          {
+            "speech": "コード管理が詰まったんだ",
+            "narration": "AnthropicはAI生成コードの急増に対応し、社内モノレポをScionへ移行。サーバ側で統合処理を行い、CIのコード取得時間を短縮した。"
+          },
+          {
+            "speech": "みなみは管理の進化に注目",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "AnthropicがScionへ移行、AI開発のボトルネックはコード生成から管理基盤へ"
       }
     }
   ]
