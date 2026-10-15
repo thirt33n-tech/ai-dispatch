@@ -1,13 +1,13 @@
 {
-  "dispatchNo": "216",
-  "dateLabel": "2026.10.14",
+  "dispatchNo": "217",
+  "dateLabel": "2026.10.16",
   "top1": {
-    "title": "【2026-10-14】Google、Gemini 4 ArgonをAI Pro・Ultra向けに展開、APIでも提供開始",
-    "lead1": "Googleの最上位モデルGemini 4 Argonが、AI Pro・Ultra向けアプリや検索へ展開されました。",
-    "lead2": "APIの導入価格は100万入力トークン2ドル。macOSアプリでは会話とエージェント型開発を切り替えられます。",
-    "manga_url": "news/top1_manga_2026-10-14.png",
+    "title": "【2026-10-16】米8州がOpenAIを提訴、ChatGPTによる子どもへの危害を主張",
+    "lead1": "アイオワ州など米8州が、ChatGPTが子どもに危害を加えていると主張し、OpenAIを提訴しました。",
+    "lead2": "各州は安全対策の強化などを要求。同社は年齢別の保護機能を組み込んでいると反論しており、双方の主張が争点です。",
+    "manga_url": "news/top1_manga_2026-10-16.png",
     "video_url": "",
-    "media_updated_at": "2026-10-14"
+    "media_updated_at": "2026-10-16"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -19,19 +19,40 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-10-14】Anthropic、AI開発の急増に対応しソース管理をgitから自社製「Scion」へ移行"
+    "【2026-10-16】Bluesky、AIアプリAttieを拡張しサイトやゲームの作成に対応",
+    "【2026-10-16】Rivian、他社製AIエージェントの車載構想を明らかに",
+    "【2026-10-16】Amazon端末責任者、アプリ操作より先回りする環境型AIの将来像を説明"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-10-14】Anthropic、AI開発の急増に対応しソース管理をgitから自社製「Scion」へ移行",
-      "summary": "AI生成コードの増加で日次マージ数が10倍超に。AnthropicはScionへ移行し、CIのコード取得を分単位から秒単位に短縮したという。",
+      "title": "【2026-10-16】Bluesky、AIアプリAttieを拡張しサイトやゲームの作成に対応",
+      "summary": "BlueskyがAttieの新機能を発表。一般ユーザーがAIでサイトやゲーム、クイズなどを作成し、AT Protocol上で展開できる。",
+      "manga_url": "",
+      "video_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "【2026-10-16】Rivian、他社製AIエージェントの車載構想を明らかに",
+      "summary": "RivianのCEOが他社製AIエージェントを車内で利用する構想を説明。導入時期は未定で、ブレーキや操舵は任せない方針を示した。",
       "manga_url": "",
       "video_url": ""
     }
   ],
-  "topList": [],
+  "topList": [
+    {
+      "rank": 4,
+      "title": "【2026-10-16】Amazon端末責任者、アプリ操作より先回りする環境型AIの将来像を説明"
+    }
+  ],
   "archive": [
+    {
+      "no": "216",
+      "kind": "✨ ラミッカ",
+      "date": "10.14",
+      "img": "news/top1_manga_2026-10-14.png",
+      "title": "【2026-10-14】Google、Gemini 4 ArgonをAI Pro・Ultra向けに展開、APIでも提供開始"
+    },
     {
       "no": "215",
       "kind": "✨ ラミッカ",

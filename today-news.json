@@ -1,63 +1,121 @@
 {
-  "date": "2026.10.14",
+  "date": "2026.10.16",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-14】Google、Gemini 4 ArgonをAI Pro・Ultra向けに展開、APIでも提供開始",
-      "summary": "Gemini 4 Argonがアプリや検索へ展開。APIの導入価格は100万入力トークン2ドル。macOSアプリではAntigravityの開発画面も利用できる。",
-      "source": "9to5Google",
-      "source_url": "https://9to5google.com/2026/10/13/gemini-app-4-argon",
-      "published_date": "2026-10-14",
+      "title": "【2026-10-16】米8州がOpenAIを提訴、ChatGPTによる子どもへの危害を主張",
+      "summary": "アイオワ州など米8州がOpenAIを提訴。子どもへの危害を主張し、安全対策強化などを要求した。同社は年齢別の保護機能を設けていると反論。",
+      "source": "KFB福島放送",
+      "source_url": "https://www.kfb.co.jp/news/article/16968972",
+      "published_date": "2026-10-16",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！アルゴン解禁？",
+            "speech": "スマホに速報、８州が提訴？",
             "narration": ""
           },
           {
-            "speech": "えっ！プロでも使えるの！",
+            "speech": "子どもの安全が争点に！",
             "narration": ""
           },
           {
-            "speech": "開発の入口も変わるね",
-            "narration": "Gemini 4 ArgonがAI Pro・Ultra向けアプリや検索に展開。API提供も始まり、macOSアプリにはAntigravityの開発画面が加わる。"
+            "speech": "双方の主張を確認しよう",
+            "narration": "米8州がChatGPTによる子どもへの危害を主張し、OpenAIを提訴。同社は年齢別の保護機能を設けていると反論している。"
           },
           {
-            "speech": "みなみは実力を試したい",
+            "speech": "みなみは安全対策を見守る",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Gemini 4 ArgonがAI Pro・Ultraへ展開、APIは導入価格で提供開始"
+        "telop_text": "米8州がOpenAIを提訴、子どもの保護策が争点に。同社は安全機能を説明し反論"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-10-14】Anthropic、AI開発の急増に対応しソース管理をgitから自社製「Scion」へ移行",
-      "summary": "AI生成コードの増加で日次マージ数が10倍超に。AnthropicはScionへ移行し、CIのコード取得を分単位から秒単位に短縮したという。",
-      "source": "ビジネス＋IT（Yahoo!ニュース掲載）",
-      "source_url": "https://news.yahoo.co.jp/articles/eb7c5f5be10e8e5f186e9c562025e63188607e35",
-      "published_date": "2026-10-14",
+      "title": "【2026-10-16】Bluesky、AIアプリAttieを拡張しサイトやゲームの作成に対応",
+      "summary": "BlueskyがAttieの新機能を発表。一般ユーザーがAIでサイトやゲーム、クイズなどを作成し、AT Protocol上で展開できる。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
+      "published_date": "2026-10-16",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！ギット卒業？",
+            "speech": "スマホに速報、ゲームも作れる？",
             "narration": ""
           },
           {
-            "speech": "ええっ！統合数が１０倍超！",
+            "speech": "投稿だけじゃないんだ！",
             "narration": ""
           },
           {
-            "speech": "コード管理が詰まったんだ",
-            "narration": "AnthropicはAI生成コードの急増に対応し、社内モノレポをScionへ移行。サーバ側で統合処理を行い、CIのコード取得時間を短縮した。"
+            "speech": "交流の場そのものを作る",
+            "narration": "BlueskyがAttieを拡張。AIでサイト、ゲーム、クイズなどを作成し、Blueskyと同じAT Protocol上で展開する。"
           },
           {
-            "speech": "みなみは管理の進化に注目",
+            "speech": "みなみはクイズを作りたい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "AnthropicがScionへ移行、AI開発のボトルネックはコード生成から管理基盤へ"
+        "telop_text": "BlueskyのAttieがAIによるサイト・ゲーム作成へ拡張、コミュニティ向け体験を支援"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "【2026-10-16】Rivian、他社製AIエージェントの車載構想を明らかに",
+      "summary": "RivianのCEOが他社製AIエージェントを車内で利用する構想を説明。導入時期は未定で、ブレーキや操舵は任せない方針を示した。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars",
+      "published_date": "2026-10-16",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報、車に外部ＡＩ？",
+            "narration": ""
+          },
+          {
+            "speech": "車内でもエージェント！",
+            "narration": ""
+          },
+          {
+            "speech": "運転操作とは切り分ける",
+            "narration": "Rivianは他社製AIエージェントとの連携を構想。導入時期は未定で、操舵やブレーキなどの車両制御は任せないとしている。"
+          },
+          {
+            "speech": "便利さにも安全な境界を",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Rivianが外部AIエージェントとの連携を構想、操舵・ブレーキは対象外"
+      }
+    },
+    {
+      "rank": 4,
+      "title": "【2026-10-16】Amazon端末責任者、アプリ操作より先回りする環境型AIの将来像を説明",
+      "summary": "Amazonのパノス・パネイ氏が、センサーとAIで利用者の必要を捉え、指示を待たず背景で支援する端末の将来像を語った。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
+      "published_date": "2026-10-16",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報、操作が変わる？",
+            "narration": ""
+          },
+          {
+            "speech": "指示を待たずに支援する！",
+            "narration": ""
+          },
+          {
+            "speech": "背景で働くＡＩという構想",
+            "narration": "Amazonの端末責任者が、センサーとAIで状況を理解し、利用者を先回りして支援する環境型コンピューティングの将来像を説明した。"
+          },
+          {
+            "speech": "先回りにも停止ボタンを",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Amazonが語る環境型AIの将来像、アプリへの指示から背景での支援へ"
       }
     }
   ]
