@@ -165,7 +165,7 @@
 
     <section style="padding:18px 0 34px;">
       <div style="display:flex;align-items:center;gap:14px;margin-bottom:20px;">
-        <h2 style="margin:0;font-family:'Space Mono',monospace;font-weight:700;font-size:clamp(15px,2vw,19px);letter-spacing:.16em;color:#EEF3F8;">AI NEWS <span style="color:#3CE7F2;">TOP 2–10</span></h2>
+        <h2 style="margin:0;font-family:'Space Mono',monospace;font-weight:700;font-size:clamp(15px,2vw,19px);letter-spacing:.16em;color:#EEF3F8;">AI NEWS <span id="other-news-heading" style="color:#3CE7F2;">その他の当日ニュース</span></h2>
         <div style="flex:1;height:1px;background:#1B2433;"></div>
       </div>
       <div id="top-cards" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin-bottom:22px;"></div>
@@ -305,6 +305,8 @@ function render(d){
   document.getElementById('desk-bonus-note').textContent=ed.bonusNote||'';
   document.getElementById('desk-bonus').addEventListener('click',()=>openVideo(d.heroVideoUrl));
 
+  const otherNewsCount=(d.topCards||[]).length+(d.topList||[]).length;
+  document.getElementById('other-news-heading').textContent='その他の当日ニュース（'+otherNewsCount+'件）';
   document.getElementById('top-cards').innerHTML=(d.topCards||[]).map(c=>
     '<article style="padding:20px;border:1px solid #1B2433;border-radius:12px;background:rgba(12,17,27,.55);">'
     +'<div style="display:flex;align-items:baseline;gap:12px;margin-bottom:10px;"><span style="font-family:\'Archivo Black\',sans-serif;font-size:30px;color:'+safeColor(c.accent)+';line-height:1;">'+esc(c.rank)+'</span><span style="font-family:\'Space Mono\',monospace;font-size:11px;letter-spacing:.08em;color:#566783;">'+esc(c.category)+'</span></div>'
