@@ -1,121 +1,63 @@
 {
-  "date": "2026.10.16",
+  "date": "2026.10.17",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-16】米8州がOpenAIを提訴、ChatGPTによる子どもへの危害を主張",
-      "summary": "アイオワ州など米8州がOpenAIを提訴。子どもへの危害を主張し、安全対策強化などを要求した。同社は年齢別の保護機能を設けていると反論。",
-      "source": "KFB福島放送",
-      "source_url": "https://www.kfb.co.jp/news/article/16968972",
-      "published_date": "2026-10-16",
+      "title": "【2026-10-17】Elorian、画像を見直しながら推論するAIモデル「Glimpse」を公開",
+      "summary": "Elorianが視覚推論モデルGlimpseを研究プレビューとして公開。画像の拡大や動画の再確認を推論に組み込み、科学・ロボット分野などへの応用を目指す。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+      "published_date": "2026-10-17",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報、８州が提訴？",
+            "speech": "スマホに速報！画像で考える？",
             "narration": ""
           },
           {
-            "speech": "子どもの安全が争点に！",
+            "speech": "えっ、画像を見直して推論！？",
             "narration": ""
           },
           {
-            "speech": "双方の主張を確認しよう",
-            "narration": "米8州がChatGPTによる子どもへの危害を主張し、OpenAIを提訴。同社は年齢別の保護機能を設けていると反論している。"
+            "speech": "拡大して確かめるんだ",
+            "narration": "ElorianがGlimpseを研究プレビュー公開。画像の一部や動画を再確認しながら推論する。性能評価は同社によるもの。"
           },
           {
-            "speech": "みなみは安全対策を見守る",
+            "speech": "みなみも見直しは忘れない",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "米8州がOpenAIを提訴、子どもの保護策が争点に。同社は安全機能を説明し反論"
+        "telop_text": "ElorianのGlimpse、画像や動画を再確認する視覚推論を研究プレビュー公開"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-10-16】Bluesky、AIアプリAttieを拡張しサイトやゲームの作成に対応",
-      "summary": "BlueskyがAttieの新機能を発表。一般ユーザーがAIでサイトやゲーム、クイズなどを作成し、AT Protocol上で展開できる。",
+      "title": "【2026-10-17】判断特化AI「Jev」、Vercelで公開後２週間の採用速度が過去最高に",
+      "summary": "VercelのデータでJevが公開後２週間に有料チームの35％に利用された。選択肢を絞る軽量モデルの普及を示す一方、同社基盤内に限った集計である。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
-      "published_date": "2026-10-16",
+      "source_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
+      "published_date": "2026-10-17",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報、ゲームも作れる？",
+            "speech": "スマホに速報！ジェブが急伸？",
             "narration": ""
           },
           {
-            "speech": "投稿だけじゃないんだ！",
+            "speech": "２週間で３５％も！？",
             "narration": ""
           },
           {
-            "speech": "交流の場そのものを作る",
-            "narration": "BlueskyがAttieを拡張。AIでサイト、ゲーム、クイズなどを作成し、Blueskyと同じAT Protocol上で展開する。"
+            "speech": "選ぶ仕事に特化してるんだ",
+            "narration": "Vercelの集計でJevが有料チームの35％に利用された。公開後２週間の採用速度は同社で過去最高。市場全体のシェアではない。"
           },
           {
-            "speech": "みなみはクイズを作りたい",
+            "speech": "みなみも適材適所で選ぼう",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "BlueskyのAttieがAIによるサイト・ゲーム作成へ拡張、コミュニティ向け体験を支援"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "【2026-10-16】Rivian、他社製AIエージェントの車載構想を明らかに",
-      "summary": "RivianのCEOが他社製AIエージェントを車内で利用する構想を説明。導入時期は未定で、ブレーキや操舵は任せない方針を示した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars",
-      "published_date": "2026-10-16",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに速報、車に外部ＡＩ？",
-            "narration": ""
-          },
-          {
-            "speech": "車内でもエージェント！",
-            "narration": ""
-          },
-          {
-            "speech": "運転操作とは切り分ける",
-            "narration": "Rivianは他社製AIエージェントとの連携を構想。導入時期は未定で、操舵やブレーキなどの車両制御は任せないとしている。"
-          },
-          {
-            "speech": "便利さにも安全な境界を",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Rivianが外部AIエージェントとの連携を構想、操舵・ブレーキは対象外"
-      }
-    },
-    {
-      "rank": 4,
-      "title": "【2026-10-16】Amazon端末責任者、アプリ操作より先回りする環境型AIの将来像を説明",
-      "summary": "Amazonのパノス・パネイ氏が、センサーとAIで利用者の必要を捉え、指示を待たず背景で支援する端末の将来像を語った。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
-      "published_date": "2026-10-16",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに速報、操作が変わる？",
-            "narration": ""
-          },
-          {
-            "speech": "指示を待たずに支援する！",
-            "narration": ""
-          },
-          {
-            "speech": "背景で働くＡＩという構想",
-            "narration": "Amazonの端末責任者が、センサーとAIで状況を理解し、利用者を先回りして支援する環境型コンピューティングの将来像を説明した。"
-          },
-          {
-            "speech": "先回りにも停止ボタンを",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Amazonが語る環境型AIの将来像、アプリへの指示から背景での支援へ"
+        "telop_text": "判断特化AIのJev、Vercel内で公開後２週間の採用速度が過去最高"
       }
     }
   ]

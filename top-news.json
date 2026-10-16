@@ -1,13 +1,13 @@
 {
-  "dispatchNo": "217",
-  "dateLabel": "2026.10.16",
+  "dispatchNo": "218",
+  "dateLabel": "2026.10.17",
   "top1": {
-    "title": "【2026-10-16】米8州がOpenAIを提訴、ChatGPTによる子どもへの危害を主張",
-    "lead1": "アイオワ州など米8州が、ChatGPTが子どもに危害を加えていると主張し、OpenAIを提訴しました。",
-    "lead2": "各州は安全対策の強化などを要求。同社は年齢別の保護機能を組み込んでいると反論しており、双方の主張が争点です。",
-    "manga_url": "news/top1_manga_2026-10-16.png",
+    "title": "【2026-10-17】Elorian、画像を見直しながら推論するAIモデル「Glimpse」を公開",
+    "lead1": "Elorianが初のAIモデルGlimpseを研究プレビューとして公開。画像や動画を見直しながら答えを導く視覚推論を特徴とする。",
+    "lead2": "科学図表の分析やロボット映像の理解への応用を想定。性能の比較結果は同社評価であり、実利用での検証が注目される。",
+    "manga_url": "news/top1_manga_2026-10-17.png",
     "video_url": "",
-    "media_updated_at": "2026-10-16"
+    "media_updated_at": "2026-10-17"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -19,33 +19,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-10-16】Bluesky、AIアプリAttieを拡張しサイトやゲームの作成に対応",
-    "【2026-10-16】Rivian、他社製AIエージェントの車載構想を明らかに",
-    "【2026-10-16】Amazon端末責任者、アプリ操作より先回りする環境型AIの将来像を説明"
+    "【2026-10-17】判断特化AI「Jev」、Vercelで公開後２週間の採用速度が過去最高に"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-10-16】Bluesky、AIアプリAttieを拡張しサイトやゲームの作成に対応",
-      "summary": "BlueskyがAttieの新機能を発表。一般ユーザーがAIでサイトやゲーム、クイズなどを作成し、AT Protocol上で展開できる。",
-      "manga_url": "",
-      "video_url": ""
-    },
-    {
-      "rank": 3,
-      "title": "【2026-10-16】Rivian、他社製AIエージェントの車載構想を明らかに",
-      "summary": "RivianのCEOが他社製AIエージェントを車内で利用する構想を説明。導入時期は未定で、ブレーキや操舵は任せない方針を示した。",
+      "title": "【2026-10-17】判断特化AI「Jev」、Vercelで公開後２週間の採用速度が過去最高に",
+      "summary": "VercelのデータでJevが公開後２週間に有料チームの35％に利用された。選択肢を絞る軽量モデルの普及を示す一方、同社基盤内に限った集計である。",
       "manga_url": "",
       "video_url": ""
     }
   ],
-  "topList": [
-    {
-      "rank": 4,
-      "title": "【2026-10-16】Amazon端末責任者、アプリ操作より先回りする環境型AIの将来像を説明"
-    }
-  ],
+  "topList": [],
   "archive": [
+    {
+      "no": "217",
+      "kind": "✨ ラミッカ",
+      "date": "10.16",
+      "img": "news/top1_manga_2026-10-16.png",
+      "title": "【2026-10-16】米8州がOpenAIを提訴、ChatGPTによる子どもへの危害を主張"
+    },
     {
       "no": "216",
       "kind": "✨ ラミッカ",
