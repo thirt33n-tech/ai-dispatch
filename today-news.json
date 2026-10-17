@@ -1,63 +1,92 @@
 {
-  "date": "2026.10.17",
+  "date": "2026.10.18",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-17】Elorian、画像を見直しながら推論するAIモデル「Glimpse」を公開",
-      "summary": "Elorianが視覚推論モデルGlimpseを研究プレビューとして公開。画像の拡大や動画の再確認を推論に組み込み、科学・ロボット分野などへの応用を目指す。",
+      "title": "【2026-10-18】Anthropicの社内報告、若手採用の比率低下と会議時間の増加が明らかに",
+      "summary": "Anthropicの社内報告をTechCrunchが紹介。技術職の若手採用比率が低下し、社員の会議時間は増加。AI活用が進む職場で、人間の判断と調整が課題となっている。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
-      "published_date": "2026-10-17",
+      "source_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "published_date": "2026-10-18",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！画像で考える？",
+            "speech": "スマホに速報！若手採用が減少？",
             "narration": ""
           },
           {
-            "speech": "えっ、画像を見直して推論！？",
+            "speech": "ええっ、会議は増えてる！",
             "narration": ""
           },
           {
-            "speech": "拡大して確かめるんだ",
-            "narration": "ElorianがGlimpseを研究プレビュー公開。画像の一部や動画を再確認しながら推論する。性能評価は同社によるもの。"
+            "speech": "人の判断が鍵なんだね",
+            "narration": "Anthropicの社内報告では技術職の若手採用比率が低下。AI活用が進む一方、社員の会議時間は増え、人間の注意力と判断が生産性の制約になっている。"
           },
           {
-            "speech": "みなみも見直しは忘れない",
+            "speech": "みなみも確認力を磨こう",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "ElorianのGlimpse、画像や動画を再確認する視覚推論を研究プレビュー公開"
+        "telop_text": "Anthropicの社内報告：若手採用比率が低下、AI活用下でも人間の判断と調整が重要に"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-10-17】判断特化AI「Jev」、Vercelで公開後２週間の採用速度が過去最高に",
-      "summary": "VercelのデータでJevが公開後２週間に有料チームの35％に利用された。選択肢を絞る軽量モデルの普及を示す一方、同社基盤内に限った集計である。",
+      "title": "【2026-10-18】Meta、サイト収集・AI学習への懸念を招いた商用規約の文言を削除",
+      "summary": "Metaが商用規約から、外部サイトの内容をAI学習に使えると解釈された文言を削除。同社はウェブ収集方法の変更ではなく、広告・事業者向け条項の明確化だと説明した。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
-      "published_date": "2026-10-17",
+      "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "published_date": "2026-10-18",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！ジェブが急伸？",
+            "speech": "スマホに速報！規約を撤回？",
             "narration": ""
           },
           {
-            "speech": "２週間で３５％も！？",
+            "speech": "えっ、学習の権利に関わるの！",
             "narration": ""
           },
           {
-            "speech": "選ぶ仕事に特化してるんだ",
-            "narration": "Vercelの集計でJevが有料チームの35％に利用された。公開後２週間の採用速度は同社で過去最高。市場全体のシェアではない。"
+            "speech": "収集方法は変えないと説明",
+            "narration": "Metaは、事業者の外部サイトをAI学習に利用できると解釈された商用規約の文言を削除。ウェブ収集方法に変更はなく、対象範囲を明確にしたと説明している。"
           },
           {
-            "speech": "みなみも適材適所で選ぼう",
+            "speech": "みなみも規約は読み飛ばせない",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "判断特化AIのJev、Vercel内で公開後２週間の採用速度が過去最高"
+        "telop_text": "MetaがAI学習への懸念を招いた規約文言を削除、ウェブ収集方法の変更は否定"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "【2026-10-18】【社説】読売新聞、米AI自主規制に政府関与と業界横断の仕組みを求める",
+      "summary": "読売新聞の社説は、米政府とAI企業の安全確保策について、法的義務のない自主規制だけでは不十分と指摘。政府関与、業界横断の規制、国際的なリスク管理を求めた。",
+      "source": "読売新聞",
+      "source_url": "https://www.yomiuri.co.jp/editorial/20261017-GYT1T00337/",
+      "published_date": "2026-10-18",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホの社説、自主規制に警鐘？",
+            "narration": ""
+          },
+          {
+            "speech": "企業任せでは足りないって！",
+            "narration": ""
+          },
+          {
+            "speech": "安全を誰が確かめるの？",
+            "narration": "読売新聞の社説は米AI安全確保策を論評。企業の自主規制だけでは不十分として、政府の関与や業界横断の仕組み、国際協力を求めた。新たな規制の成立を伝える記事ではない。"
+          },
+          {
+            "speech": "みなみは実効性に注目する",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "【社説】読売新聞が米AI自主規制の限界を指摘、政府関与と国際協力を提言"
       }
     }
   ]
