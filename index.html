@@ -59,6 +59,14 @@
             mask:radial-gradient(circle var(--bg-grid-reveal) at var(--bg-grid-mx) var(--bg-grid-my),#000 0%,rgba(0,0,0,.35) 45%,transparent 75%);
   }
 </style>
+<style>
+  .language-switch{display:flex;justify-content:flex-end;align-items:center;gap:4px;padding:12px 0;}
+  .language-switch button{min-width:90px;min-height:44px;border:1px solid #566783;background:#0C111B;color:#EEF3F8;border-radius:8px;cursor:pointer;font:700 14px 'Space Mono',sans-serif;transition:background .2s,color .2s;}
+  .language-switch button[aria-pressed="true"]{background:#3CE7F2;color:#04161a;border-color:#3CE7F2;}
+  .language-switch button:focus-visible{outline:2px solid #EEF3F8;outline-offset:3px;}
+  .language-switch button:disabled{cursor:default;opacity:.55;}
+  #language-notice{font-size:13px;color:#8A99B0;text-align:right;margin:0 0 10px;}
+</style>
 </head>
 <body>
 <div style="position:relative;width:100%;min-height:100vh;background:#06080F;overflow-x:hidden;">
@@ -94,6 +102,12 @@
       </div>
     </header>
 
+    <div class="language-switch" role="group" aria-label="表示言語 / Language">
+      <button id="lang-ja" type="button" lang="ja" aria-pressed="true">日本語</button>
+      <button id="lang-en" type="button" lang="en" aria-pressed="false">English</button>
+    </div>
+    <p id="language-notice" role="status" aria-live="polite"></p>
+
     <div style="position:relative;width:100%;overflow:hidden;border-bottom:1px solid #1B2433;background:linear-gradient(90deg, rgba(255,61,94,.1), rgba(6,8,15,0) 60%);">
       <div style="display:flex;align-items:stretch;">
         <div style="flex:none;display:flex;align-items:center;gap:7px;padding:11px 20px;background:#FF3D5E;color:#0a0307;font-family:'Space Mono',monospace;font-weight:700;font-size:12px;letter-spacing:.14em;clip-path:polygon(0 0,calc(100% - 14px) 0,100% 50%,calc(100% - 14px) 100%,0 100%);z-index:2;">BREAKING</div>
@@ -104,7 +118,7 @@
     </div>
 
     <section style="padding:46px 0 30px;">
-      <div style="font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.2em;color:#3CE7F2;margin-bottom:16px;">◆ TOP 1 · 本日のリード</div>
+      <div id="lead-kicker" style="font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.2em;color:#3CE7F2;margin-bottom:16px;">◆ TOP 1 · 本日のリード</div>
       <div id="lead-grid" style="display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);grid-template-rows:auto auto;gap:34px;align-items:start;">
         <div class="lead-media" style="grid-column:1;grid-row:1 / span 2;">
           <div style="position:relative;width:100%;aspect-ratio:4/5;border-radius:14px;overflow:hidden;border:1px solid #1B2433;background:#0C111B;box-shadow:0 30px 70px rgba(0,0,0,.6);">
@@ -124,19 +138,19 @@
         </div>
         <div class="lead-pitch" style="grid-column:2;grid-row:2;">
           <div style="padding:18px 20px;border:1px solid #1B2433;border-left:2px solid #3CE7F2;border-radius:10px;background:rgba(12,17,27,.6);margin-bottom:24px;">
-            <p style="margin:0;font-size:15px;line-height:1.8;color:#EEF3F8;font-weight:700;">今日のAI最重要ニュースを、<span style="color:#3CE7F2;">4コマ漫画とアニメ</span>で。毎朝更新。</p>
+            <p id="site-pitch" style="margin:0;font-size:15px;line-height:1.8;color:#EEF3F8;font-weight:700;">今日のAI最重要ニュースを、4コマ漫画で。毎朝更新。</p>
           </div>
           <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;">
             <button id="btn-anime2" class="cta" style="display:inline-flex;align-items:center;gap:8px;padding:13px 22px;border:none;border-radius:10px;cursor:pointer;background:#3CE7F2;color:#04161a;font-weight:700;font-size:14px;box-shadow:0 0 26px rgba(60,231,242,.35);">▶ 今日のアニメを見る</button>
             <a href="https://www.threads.com/@0xashviri" target="_blank" rel="noopener" class="threads-cta" style="display:inline-flex;align-items:center;gap:8px;padding:13px 20px;border:1px solid #1B2433;border-radius:10px;background:#0C111B;color:#EEF3F8;text-decoration:none;font-weight:700;font-size:14px;transition:border-color .25s,box-shadow .25s,color .25s;">Threadsでフォロー</a>
             <button id="btn-share" class="cta toplink" style="display:inline-flex;align-items:center;gap:8px;padding:13px 18px;border:1px solid #1B2433;border-radius:10px;cursor:pointer;background:transparent;color:#8A99B0;font-weight:700;font-size:14px;transition:background .2s;">↗ シェア</button>
           </div>
-          <div style="margin-top:18px;font-family:'Space Mono',monospace;font-size:11.5px;letter-spacing:.1em;color:#566783;">次回更新 — 明朝 7:00 JST</div>
+          <div id="next-update" style="margin-top:18px;font-family:'Space Mono',monospace;font-size:11.5px;letter-spacing:.1em;color:#8A99B0;">毎朝収集・生成し、本人承認後に公開します（日本時間）</div>
         </div>
       </div>
     </section>
 
-    <section style="padding:18px 0 34px;">
+    <section id="editors-section" style="padding:18px 0 34px;">
       <div style="display:flex;align-items:center;gap:14px;margin-bottom:18px;">
         <span style="font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.2em;color:#8A99B0;">EDITOR'S DESK</span>
         <div style="flex:1;height:1px;background:#1B2433;"></div>
@@ -177,14 +191,14 @@
 
     <section style="padding:18px 0 34px;">
       <div style="display:flex;align-items:center;gap:14px;margin-bottom:8px;">
-        <h2 style="margin:0;font-family:'Space Mono',monospace;font-weight:700;font-size:clamp(15px,2vw,19px);letter-spacing:.16em;color:#EEF3F8;">漫画アーカイブ</h2>
+        <h2 id="archive-heading" style="margin:0;font-family:'Space Mono',monospace;font-weight:700;font-size:clamp(15px,2vw,19px);letter-spacing:.16em;color:#EEF3F8;">漫画アーカイブ</h2>
         <div style="flex:1;height:1px;background:#1B2433;"></div>
-        <span style="font-family:'Space Mono',monospace;font-size:11px;color:#566783;letter-spacing:.08em;">過去のディスパッチを一気読み</span>
+        <span id="archive-note" style="font-family:'Space Mono',monospace;font-size:11px;color:#8A99B0;letter-spacing:.08em;">過去のディスパッチを一気読み</span>
       </div>
       <div id="archive-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:16px;margin-top:18px;"></div>
     </section>
 
-    <section style="padding:50px 0 34px;text-align:center;">
+    <section id="subscription-section" style="padding:50px 0 34px;text-align:center;">
       <div style="max-width:560px;margin:0 auto;">
         <h2 style="margin:0 0 8px;font-weight:900;font-size:clamp(22px,3.4vw,32px);color:#EEF3F8;">毎朝の4コマAIニュースを、メールで先取り</h2>
         <p style="margin:0 0 26px;font-size:14px;color:#8A99B0;line-height:1.7;">TOP1の漫画とアニメを、配信前にいち早く。読むのは1分。</p>
@@ -255,7 +269,52 @@ function openImage(src){
 function closeModal(){ modal.style.display='none'; modalInner.innerHTML=''; }
 modal.addEventListener('click',(e)=>{ if(e.target===modal||e.target.getAttribute('data-close')==='1') closeModal(); });
 
-let DATA=null, top1View='manga';
+let DATA=null, BASE_DATA=null, LINK_NEWS=null, LANGUAGE='ja', MANUAL_LANGUAGE=null, top1View='manga';
+function preferredLanguage(){
+  try{const saved=localStorage.getItem('ai-dispatch-language');if(saved==='ja'||saved==='en')return saved;}catch{}
+  for(const language of navigator.languages||[navigator.language||'ja']){
+    const code=String(language).toLowerCase().split('-')[0];
+    if(code==='ja'||code==='en')return code;
+  }
+  return 'ja';
+}
+function englishEdition(base){
+  const e=base?.top1?.editions?.en;
+  if(!e||e.language!=='en'||e.date!==base.dateLabel.replaceAll('.','-')||!Array.isArray(e.top10))return null;
+  if(e.manga_url!=='news/top1_manga_'+e.date+'_en.png'||!/^[a-f0-9]{64}$/.test(e.manga_sha256))return null;
+  const count=1+(base.topCards||[]).length+(base.topList||[]).length;
+  if(e.top10.length!==count||e.top10.some((row,i)=>!row||row.rank!==i+1||typeof row.title!=='string'||typeof row.summary!=='string'||row.published_date!==e.date))return null;
+  const localize=row=>({...row,title:e.top10[row.rank-1].title,summary:e.top10[row.rank-1].summary,category:'AI'});
+  return {...base,top1:{...base.top1,title:e.top10[0].title,lead1:e.top10[0].summary,lead2:'',manga_url:e.manga_url,video_url:''},
+    topCards:(base.topCards||[]).map(localize),topList:(base.topList||[]).map(localize),breaking:e.top10.slice(1,8).map(row=>row.title)};
+}
+function chooseLanguage(language,persist=false){
+  if(!BASE_DATA)return;
+  const english=englishEdition(BASE_DATA);
+  LANGUAGE=language==='en'&&english?'en':'ja';
+  if(persist){MANUAL_LANGUAGE=language;try{localStorage.setItem('ai-dispatch-language',language);}catch{}}
+  closeModal();
+  const display=LANGUAGE==='en'?english:BASE_DATA;
+  render(display);
+  const news=LANGUAGE==='en'?{date:BASE_DATA.dateLabel,top10:BASE_DATA.top1.editions.en.top10}:LINK_NEWS;
+  if(news)linkArticleTitles(display,news);
+  document.documentElement.lang=LANGUAGE;
+  for(const code of ['ja','en'])document.getElementById('lang-'+code).setAttribute('aria-pressed',String(LANGUAGE===code));
+  document.getElementById('lang-en').disabled=!english;
+  document.getElementById('language-notice').textContent=!english?(language==='en'?'This issue is available in Japanese only.':'この号は日本語版のみです。'):'';
+  const en=LANGUAGE==='en';
+  document.getElementById('lead-kicker').textContent=en?'◆ TOP 1 · Today’s lead':'◆ TOP 1 · 本日のリード';
+  document.getElementById('site-pitch').textContent=en?'Today’s leading AI story in a four-panel comic. Updated every morning.':'今日のAI最重要ニュースを、4コマ漫画で。毎朝更新。';
+  document.getElementById('next-update').textContent=en?'Collected each morning (JST), published after owner approval.':'毎朝収集・生成し、本人承認後に公開します（日本時間）';
+  document.getElementById('btn-manga').textContent=en?'Comic':'漫画';
+  document.getElementById('btn-share').textContent=en?'Share':'シェア';
+  document.querySelector('.threads-cta').textContent=en?'Follow on Threads':'Threadsでフォロー';
+  document.getElementById('lead-manga').alt=en?'Today’s lead story — English four-panel comic':'本日のリード — 日本語4コマ漫画';
+  document.getElementById('archive-heading').textContent=en?'Comic archive (Japanese)':'漫画アーカイブ';
+  document.getElementById('archive-note').textContent=en?'Older issues are currently in Japanese.':'過去のディスパッチを一気読み';
+  document.getElementById('editors-section').hidden=en;
+  document.getElementById('subscription-section').hidden=en;
+}
 function safeArticleUrl(value){
   if(typeof value!=='string'||/[\u0000-\u0020\u007f]/.test(value)||!/^https?:\/\//i.test(value)) return '';
   try{
@@ -275,8 +334,8 @@ function linkArticleTitles(d,news){
     if(!node||!url||node.textContent!==item.title) return;
     const link=document.createElement('a');
     link.className='article-source-link'; link.href=url; link.target='_blank'; link.rel='noopener noreferrer';
-    link.textContent=item.title; link.title='掲載元の記事を新しいタブで開く';
-    link.setAttribute('aria-label',item.title+'（掲載元・新しいタブで開きます）');
+    link.textContent=item.title; link.title=LANGUAGE==='en'?'Open source article in a new tab':'掲載元の記事を新しいタブで開く';
+    link.setAttribute('aria-label',item.title+(LANGUAGE==='en'?' (source article, opens in a new tab)':'（掲載元・新しいタブで開きます）'));
     node.replaceChildren(link);
   };
   linkTitle(document.getElementById('lead-title'),1);
@@ -287,7 +346,7 @@ function setView(v){
   document.getElementById('lead-manga').style.opacity=isM?'1':'0';
   const an=document.getElementById('lead-anime');
   an.style.opacity=isM?'0':'1'; an.style.pointerEvents=isM?'none':'auto';
-  document.getElementById('lead-label').textContent=isM?'4コマ漫画':'アニメ — 音声オン';
+  document.getElementById('lead-label').textContent=isM?(LANGUAGE==='en'?'4-panel comic':'4コマ漫画'):'アニメ — 音声オン';
   const bm=document.getElementById('btn-manga'), ba=document.getElementById('btn-anime');
   bm.style.background=isM?'#3CE7F2':'transparent'; bm.style.color=isM?'#04161a':'#8A99B0';
   ba.style.background=isM?'transparent':'#3CE7F2'; ba.style.color=isM?'#8A99B0':'#04161a';
@@ -310,11 +369,11 @@ function render(d){
   ).join('');
 
   document.getElementById('lead-manga').src=d.top1.manga_url||'';
-  if(!has(d.top1.manga_url)) document.getElementById('lead-manga').style.display='none';
+  document.getElementById('lead-manga').style.display=has(d.top1.manga_url)?'':'none';
   document.getElementById('lead-title').textContent=d.top1.title||'';
   document.getElementById('lead-lead1').textContent=d.top1.lead1||'';
   document.getElementById('lead-lead2').textContent=d.top1.lead2||'';
-  document.getElementById('lead-manga').addEventListener('click',()=>{ if(top1View==='manga') openImage(d.top1.manga_url); });
+  document.getElementById('lead-manga').onclick=()=>{ if(top1View==='manga') openImage(DATA.top1.manga_url); };
 
   // 動画なし（video_provider=disabled 等で video_url 空）の日は「アニメ」導線を隠し、漫画のみ
   // 表示にする。旧い無関係な動画を「本日のアニメ」として誤再生させないためのビュー層ガード。
@@ -328,14 +387,14 @@ function render(d){
   document.getElementById('desk-rec-img').src=ed.recImg||'';
   document.getElementById('desk-rec-title').textContent=ed.recTitle||'';
   document.getElementById('desk-rec-note').textContent=ed.recNote||'';
-  document.getElementById('desk-rec').addEventListener('click',()=>openImage(ed.recImg));
+  document.getElementById('desk-rec').onclick=()=>openImage(DATA.editorsDesk?.recImg);
   document.getElementById('desk-bonus-img').src=ed.bonusPoster||'';
   document.getElementById('desk-bonus-title').textContent=ed.bonusTitle||'';
   document.getElementById('desk-bonus-note').textContent=ed.bonusNote||'';
-  document.getElementById('desk-bonus').addEventListener('click',()=>openVideo(d.heroVideoUrl));
+  document.getElementById('desk-bonus').onclick=()=>openVideo(DATA.heroVideoUrl);
 
   const otherNewsCount=(d.topCards||[]).length+(d.topList||[]).length;
-  document.getElementById('other-news-heading').textContent='その他の当日ニュース（'+otherNewsCount+'件）';
+  document.getElementById('other-news-heading').textContent=LANGUAGE==='en'?'More news today ('+otherNewsCount+')':'その他の当日ニュース（'+otherNewsCount+'件）';
   document.getElementById('top-cards').innerHTML=(d.topCards||[]).map(c=>
     '<article style="padding:20px;border:1px solid #1B2433;border-radius:12px;background:rgba(12,17,27,.55);">'
     +'<div style="display:flex;align-items:baseline;gap:12px;margin-bottom:10px;"><span style="font-family:\'Archivo Black\',sans-serif;font-size:30px;color:'+safeColor(c.accent)+';line-height:1;">'+esc(c.rank)+'</span><span style="font-family:\'Space Mono\',monospace;font-size:11px;letter-spacing:.08em;color:#566783;">'+esc(c.category)+'</span></div>'
@@ -369,6 +428,8 @@ function render(d){
 }
 
 document.getElementById('btn-manga').addEventListener('click',()=>setView('manga'));
+document.getElementById('lang-ja').addEventListener('click',()=>chooseLanguage('ja',true));
+document.getElementById('lang-en').addEventListener('click',()=>chooseLanguage('en',true));
 document.getElementById('btn-anime').addEventListener('click',()=>setView('anime'));
 document.getElementById('btn-anime2').addEventListener('click',()=>setView('anime'));
 document.getElementById('btn-share').addEventListener('click',async()=>{
@@ -416,11 +477,12 @@ initGridBg();
 fetch('top-news.json',{cache:'no-store'})
   .then(r=>{if(!r.ok)throw new Error('top-news.json '+r.status);return r.json();})
   .then(d=>{
-    render(d);
+    BASE_DATA=d;
+    chooseLanguage(preferredLanguage());
     // Link metadata is optional: its failure must not hide the news or manga.
     return fetch('today-news.json',{cache:'no-store'})
       .then(r=>{if(!r.ok)throw new Error('today-news.json '+r.status);return r.json();})
-      .then(news=>linkArticleTitles(d,news))
+      .then(news=>{LINK_NEWS=news;chooseLanguage(MANUAL_LANGUAGE||preferredLanguage());})
       .catch(err=>console.warn('掲載元リンクを読み込めませんでした:',err));
   })
   .catch(err=>{ console.error('読み込み失敗:',err); document.getElementById('lead-title').textContent='ニュースデータを読み込めませんでした（top-news.json を確認してください）'; });
