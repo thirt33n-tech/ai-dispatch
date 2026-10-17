@@ -26,6 +26,9 @@
   .cta:hover{filter:brightness(1.12);}
   .arch:hover{border-color:rgba(60,231,242,.55) !important;transform:translateY(-3px);}
   .toplink:hover{background:rgba(60,231,242,.06) !important;}
+  .article-source-link{color:inherit;text-decoration:underline;text-decoration-color:rgba(60,231,242,.55);text-underline-offset:.18em;cursor:pointer;}
+  .article-source-link:hover{color:#3CE7F2;}
+  .article-source-link:focus-visible{outline:2px solid #3CE7F2;outline-offset:4px;border-radius:2px;}
   .threads-cta:hover{border-color:rgba(60,231,242,1) !important;box-shadow:0 0 24px rgba(60,231,242,.85),0 0 55px rgba(60,231,242,.6),0 0 90px rgba(60,231,242,.35),inset 0 0 16px rgba(60,231,242,.25) !important;color:#d6fbff !important;text-shadow:0 0 12px rgba(60,231,242,.8) !important;}
   .wire{display:flex;align-items:center;justify-content:space-between;padding:22px 4px 18px;border-bottom:1px solid #1B2433;}
   @media (max-width:860px){
@@ -253,6 +256,32 @@ function closeModal(){ modal.style.display='none'; modalInner.innerHTML=''; }
 modal.addEventListener('click',(e)=>{ if(e.target===modal||e.target.getAttribute('data-close')==='1') closeModal(); });
 
 let DATA=null, top1View='manga';
+function safeArticleUrl(value){
+  if(typeof value!=='string'||/[\u0000-\u0020\u007f]/.test(value)||!/^https?:\/\//i.test(value)) return '';
+  try{
+    const url=new URL(value);
+    return ['http:','https:'].includes(url.protocol)&&url.hostname&&!url.username&&!url.password?url.href:'';
+  }catch{return '';}
+}
+function linkArticleTitles(d,news){
+  // Both public files must describe the same issue. Never guess a URL from a title.
+  if(DATA!==d||!news||news.date!==d.dateLabel||!Array.isArray(news.top10)) return;
+  const displayed=[{rank:1,title:d.top1.title},...(d.topCards||[]),...(d.topList||[])];
+  if(news.top10.length!==displayed.length||news.top10.some(it=>!it||!Number.isInteger(it.rank))) return;
+  const byRank=new Map(news.top10.map(it=>[it.rank,it]));
+  if(byRank.size!==news.top10.length||displayed.some(it=>byRank.get(it.rank)?.title!==it.title)) return;
+  const linkTitle=(node,rank)=>{
+    const item=byRank.get(rank), url=safeArticleUrl(item?.source_url);
+    if(!node||!url||node.textContent!==item.title) return;
+    const link=document.createElement('a');
+    link.className='article-source-link'; link.href=url; link.target='_blank'; link.rel='noopener noreferrer';
+    link.textContent=item.title; link.title='掲載元の記事を新しいタブで開く';
+    link.setAttribute('aria-label',item.title+'（掲載元・新しいタブで開きます）');
+    node.replaceChildren(link);
+  };
+  linkTitle(document.getElementById('lead-title'),1);
+  document.querySelectorAll('[data-news-rank]').forEach(node=>linkTitle(node,Number(node.dataset.newsRank)));
+}
 function setView(v){
   top1View=v; const isM=v==='manga';
   document.getElementById('lead-manga').style.opacity=isM?'1':'0';
@@ -310,7 +339,7 @@ function render(d){
   document.getElementById('top-cards').innerHTML=(d.topCards||[]).map(c=>
     '<article style="padding:20px;border:1px solid #1B2433;border-radius:12px;background:rgba(12,17,27,.55);">'
     +'<div style="display:flex;align-items:baseline;gap:12px;margin-bottom:10px;"><span style="font-family:\'Archivo Black\',sans-serif;font-size:30px;color:'+safeColor(c.accent)+';line-height:1;">'+esc(c.rank)+'</span><span style="font-family:\'Space Mono\',monospace;font-size:11px;letter-spacing:.08em;color:#566783;">'+esc(c.category)+'</span></div>'
-    +'<h4 style="margin:0 0 8px;font-size:17px;font-weight:900;color:#EEF3F8;line-height:1.45;">'+esc(c.title)+'</h4>'
+    +'<h4 data-news-rank="'+esc(c.rank)+'" style="margin:0 0 8px;font-size:17px;font-weight:900;color:#EEF3F8;line-height:1.45;">'+esc(c.title)+'</h4>'
     +'<p style="margin:0 0 12px;font-size:13.5px;line-height:1.7;color:#8A99B0;">'+esc(c.summary)+'</p>'
     +'<span style="font-family:\'Space Mono\',monospace;font-size:11px;color:#566783;letter-spacing:.06em;">'+esc(c.date)+'</span></article>'
   ).join('');
@@ -318,7 +347,7 @@ function render(d){
   document.getElementById('top-list').innerHTML=(d.topList||[]).map(it=>
     '<div class="toplink" style="display:flex;align-items:center;gap:16px;padding:14px 18px;border-top:1px solid rgba(27,36,51,.7);transition:background .2s;">'
     +'<span style="flex:none;width:30px;font-family:\'Archivo Black\',sans-serif;font-size:16px;color:#3CE7F2;">'+esc(it.rank)+'</span>'
-    +'<span style="flex:1;min-width:0;font-size:14.5px;font-weight:500;color:#EEF3F8;line-height:1.4;">'+esc(it.title)+'</span>'
+    +'<span data-news-rank="'+esc(it.rank)+'" style="flex:1;min-width:0;font-size:14.5px;font-weight:500;color:#EEF3F8;line-height:1.4;">'+esc(it.title)+'</span>'
     +'<span style="flex:none;font-family:\'Space Mono\',monospace;font-size:11px;color:#566783;">'+esc(it.date)+'</span></div>'
   ).join('');
 
@@ -386,7 +415,14 @@ function initGridBg(){
 initGridBg();
 fetch('top-news.json',{cache:'no-store'})
   .then(r=>{if(!r.ok)throw new Error('top-news.json '+r.status);return r.json();})
-  .then(render)
+  .then(d=>{
+    render(d);
+    // Link metadata is optional: its failure must not hide the news or manga.
+    return fetch('today-news.json',{cache:'no-store'})
+      .then(r=>{if(!r.ok)throw new Error('today-news.json '+r.status);return r.json();})
+      .then(news=>linkArticleTitles(d,news))
+      .catch(err=>console.warn('掲載元リンクを読み込めませんでした:',err));
+  })
   .catch(err=>{ console.error('読み込み失敗:',err); document.getElementById('lead-title').textContent='ニュースデータを読み込めませんでした（top-news.json を確認してください）'; });
 </script>
 </body>
