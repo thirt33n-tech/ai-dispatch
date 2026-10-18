@@ -1,92 +1,63 @@
 {
-  "date": "2026.10.18",
+  "date": "2026.10.19",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-18】Anthropicの社内報告、若手採用の比率低下と会議時間の増加が明らかに",
-      "summary": "Anthropicの社内報告をTechCrunchが紹介。技術職の若手採用比率が低下し、社員の会議時間は増加。AI活用が進む職場で、人間の判断と調整が課題となっている。",
+      "title": "【2026-10-19】ディズニー、経営破綻のCharacter.AI従業員の過半数に採用提示へ",
+      "summary": "裁判所提出書類によると、ディズニーはCharacter.AIの従業員60人以上に採用を提示することで合意。大多数が受諾したが、他社の高値提案で取引が変わる可能性もある。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "published_date": "2026-10-18",
+      "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "published_date": "2026-10-19",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！若手採用が減少？",
+            "speech": "スマホに速報！ディズニーが？",
             "narration": ""
           },
           {
-            "speech": "ええっ、会議は増えてる！",
+            "speech": "ＡＩ企業の過半数を採用！？",
             "narration": ""
           },
           {
-            "speech": "人の判断が鍵なんだね",
-            "narration": "Anthropicの社内報告では技術職の若手採用比率が低下。AI活用が進む一方、社員の会議時間は増え、人間の注意力と判断が生産性の制約になっている。"
+            "speech": "６０人以上に採用提示だって",
+            "narration": "裁判所提出書類によると、ディズニーは経営破綻したCharacter.AIの従業員60人以上への採用提示で合意。提示を受けた大多数が受諾した。"
           },
           {
-            "speech": "みなみも確認力を磨こう",
+            "speech": "みなみは取引の行方も追う",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Anthropicの社内報告：若手採用比率が低下、AI活用下でも人間の判断と調整が重要に"
+        "telop_text": "ディズニーがCharacter.AI従業員の過半数に採用提示へ。他社の高値提案で取引が変わる可能性も。"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-10-18】Meta、サイト収集・AI学習への懸念を招いた商用規約の文言を削除",
-      "summary": "Metaが商用規約から、外部サイトの内容をAI学習に使えると解釈された文言を削除。同社はウェブ収集方法の変更ではなく、広告・事業者向け条項の明確化だと説明した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "published_date": "2026-10-18",
+      "title": "【2026-10-19】米フィラデルフィアで配送ロボットを妨害した女性が逮捕、雇用への抗議と説明",
+      "summary": "Uberの配送ロボットの進路を塞ぎ、警察の移動要請を拒んだ女性が逮捕された。女性は人間の配達員の仕事が奪われることへの抗議だったと説明している。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "published_date": "2026-10-19",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！規約を撤回？",
+            "speech": "スマホに速報！ロボを塞いで逮捕？",
             "narration": ""
           },
           {
-            "speech": "えっ、学習の権利に関わるの！",
+            "speech": "配送ロボへの抗議で逮捕！？",
             "narration": ""
           },
           {
-            "speech": "収集方法は変えないと説明",
-            "narration": "Metaは、事業者の外部サイトをAI学習に利用できると解釈された商用規約の文言を削除。ウェブ収集方法に変更はなく、対象範囲を明確にしたと説明している。"
+            "speech": "仕事を守りたいとの訴えだね",
+            "narration": "米フィラデルフィアで女性がUberの配送ロボットの進路を塞ぎ、警察の移動要請を拒んで逮捕。女性は配達員の雇用を守る抗議だったと説明した。"
           },
           {
-            "speech": "みなみも規約は読み飛ばせない",
+            "speech": "みなみは共存のルールが気になる",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "MetaがAI学習への懸念を招いた規約文言を削除、ウェブ収集方法の変更は否定"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "【2026-10-18】【社説】読売新聞、米AI自主規制に政府関与と業界横断の仕組みを求める",
-      "summary": "読売新聞の社説は、米政府とAI企業の安全確保策について、法的義務のない自主規制だけでは不十分と指摘。政府関与、業界横断の規制、国際的なリスク管理を求めた。",
-      "source": "読売新聞",
-      "source_url": "https://www.yomiuri.co.jp/editorial/20261017-GYT1T00337/",
-      "published_date": "2026-10-18",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホの社説、自主規制に警鐘？",
-            "narration": ""
-          },
-          {
-            "speech": "企業任せでは足りないって！",
-            "narration": ""
-          },
-          {
-            "speech": "安全を誰が確かめるの？",
-            "narration": "読売新聞の社説は米AI安全確保策を論評。企業の自主規制だけでは不十分として、政府の関与や業界横断の仕組み、国際協力を求めた。新たな規制の成立を伝える記事ではない。"
-          },
-          {
-            "speech": "みなみは実効性に注目する",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "【社説】読売新聞が米AI自主規制の限界を指摘、政府関与と国際協力を提言"
+        "telop_text": "配送ロボットの進路を塞いだ女性が逮捕。自動化と配達員の雇用を巡る摩擦が表面化。"
       }
     }
   ]

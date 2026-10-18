@@ -1,49 +1,41 @@
 {
-  "dispatchNo": "219",
-  "dateLabel": "2026.10.18",
+  "dispatchNo": "220",
+  "dateLabel": "2026.10.19",
   "top1": {
-    "title": "【2026-10-18】Anthropicの社内報告、若手採用の比率低下と会議時間の増加が明らかに",
-    "lead1": "AIを業務に深く組み込むAnthropicで、若手採用の比率低下と会議時間の増加が報告された。",
-    "lead2": "TechCrunchが社内報告を紹介。AIの出力が増えるなか、人間の判断力や対面での調整の重要性が浮かぶ。",
-    "manga_url": "news/top1_manga_2026-10-18.png",
+    "title": "【2026-10-19】ディズニー、経営破綻のCharacter.AI従業員の過半数に採用提示へ",
+    "lead1": "ディズニーが、経営破綻したCharacter.AIの従業員60人以上に採用を提示することで合意したとTechCrunchが報じました。",
+    "lead2": "裁判所提出書類では、提示を受けた従業員の大多数が受諾。ただし、他社がより高い買収条件を提示する可能性が残っています。",
+    "manga_url": "news/top1_manga_2026-10-19.png",
     "video_url": "",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-18",
-        "manga_url": "news/top1_manga_2026-10-18_en.png",
-        "manga_sha256": "9acae4d39719b9d8f637fb980bbc228c0a11ce990aa5c7916b1918c8f0e28371",
-        "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "104ae5ac0515ee90fe2deeae115aa25f8eb2e578af0d9b2a07822a35eac54da6",
+        "date": "2026-10-19",
+        "manga_url": "news/top1_manga_2026-10-19_en.png",
+        "manga_sha256": "241ffd5ceccf4fccca2f1423eb824700a527cf8aebb9b17de0449b68853246df",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-18] Internal Anthropic report reveals declining share of junior hires and increased meeting time",
-            "summary": "TechCrunch reported on an internal Anthropic report. The share of junior hires in technical roles has declined, while employees' meeting time has increased. Human judgment and coordination are emerging as challenges in workplaces where AI use is expanding.",
+            "title": "[2026-10-19] Disney to offer jobs to more than half of bankrupt Character.AI's employees",
+            "summary": "According to court filings, Disney has agreed to offer jobs to more than 60 Character.AI employees. The vast majority have accepted, but a higher offer from another company could still change the deal.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-            "published_date": "2026-10-18"
+            "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+            "published_date": "2026-10-19"
           },
           {
             "rank": 2,
-            "title": "[2026-10-18] Meta removes wording from commercial terms that raised concerns over website scraping and AI training",
-            "summary": "Meta removed wording from its commercial terms that had been interpreted as allowing content from external websites to be used for AI training. The company explained that this clarified provisions for advertisers and businesses rather than changing its web scraping methods.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-            "published_date": "2026-10-18"
-          },
-          {
-            "rank": 3,
-            "title": "[2026-10-18] [Editorial] Yomiuri Shimbun calls for government involvement and an industry-wide framework for US AI self-regulation",
-            "summary": "A Yomiuri Shimbun editorial argued that voluntary self-regulation without legal obligations is insufficient for the safety measures pursued by the US government and AI companies. It called for government involvement, industry-wide regulation and international risk management.",
-            "source": "読売新聞",
-            "source_url": "https://www.yomiuri.co.jp/editorial/20261017-GYT1T00337/",
-            "published_date": "2026-10-18"
+            "title": "[2026-10-19] Woman arrested for obstructing delivery robot in Philadelphia, US, says she was protesting job losses",
+            "summary": "A woman was arrested after blocking an Uber delivery robot's path and refusing police requests to move. She says she was protesting the loss of jobs for human delivery workers.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+            "published_date": "2026-10-19"
           }
-        ]
+        ],
+        "manga_mode": "text-localization-v1",
+        "source_manga_sha256": "7d52814cffe5f818e62a50456478559c233044e22a8b000de4e458c0f1e56e9a"
       }
     },
-    "media_updated_at": "2026-10-18"
+    "media_updated_at": "2026-10-19"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -55,27 +47,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-10-18】Meta、サイト収集・AI学習への懸念を招いた商用規約の文言を削除",
-    "【2026-10-18】【社説】読売新聞、米AI自主規制に政府関与と業界横断の仕組みを求める"
+    "【2026-10-19】米フィラデルフィアで配送ロボットを妨害した女性が逮捕、雇用への抗議と説明"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-10-18】Meta、サイト収集・AI学習への懸念を招いた商用規約の文言を削除",
-      "summary": "Metaが商用規約から、外部サイトの内容をAI学習に使えると解釈された文言を削除。同社はウェブ収集方法の変更ではなく、広告・事業者向け条項の明確化だと説明した。",
-      "manga_url": "",
-      "video_url": ""
-    },
-    {
-      "rank": 3,
-      "title": "【2026-10-18】【社説】読売新聞、米AI自主規制に政府関与と業界横断の仕組みを求める",
-      "summary": "読売新聞の社説は、米政府とAI企業の安全確保策について、法的義務のない自主規制だけでは不十分と指摘。政府関与、業界横断の規制、国際的なリスク管理を求めた。",
+      "title": "【2026-10-19】米フィラデルフィアで配送ロボットを妨害した女性が逮捕、雇用への抗議と説明",
+      "summary": "Uberの配送ロボットの進路を塞ぎ、警察の移動要請を拒んだ女性が逮捕された。女性は人間の配達員の仕事が奪われることへの抗議だったと説明している。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [],
   "archive": [
+    {
+      "no": "219",
+      "kind": "✨ ラミッカ",
+      "date": "10.18",
+      "img": "news/top1_manga_2026-10-18.png",
+      "title": "【2026-10-18】Anthropicの社内報告、若手採用の比率低下と会議時間の増加が明らかに"
+    },
     {
       "no": "218",
       "kind": "✨ ラミッカ",
