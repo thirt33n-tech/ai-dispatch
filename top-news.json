@@ -1,41 +1,33 @@
 {
-  "dispatchNo": "220",
-  "dateLabel": "2026.10.19",
+  "dispatchNo": "221",
+  "dateLabel": "2026.10.20",
   "top1": {
-    "title": "【2026-10-19】ディズニー、経営破綻のCharacter.AI従業員の過半数に採用提示へ",
-    "lead1": "ディズニーが、経営破綻したCharacter.AIの従業員60人以上に採用を提示することで合意したとTechCrunchが報じました。",
-    "lead2": "裁判所提出書類では、提示を受けた従業員の大多数が受諾。ただし、他社がより高い買収条件を提示する可能性が残っています。",
-    "manga_url": "news/top1_manga_2026-10-19.png",
+    "title": "【2026-10-20】AIでスマートテレビの広告や追跡機能を除去する動き",
+    "lead1": "AIコーディング支援を使って、スマートテレビの広告や不要アプリを取り除く事例をTechCrunchが報じました。",
+    "lead2": "新製品発表ではなく利用動向の報道です。関連ツールは開発途上で、機種ごとの動作検証が続いています。",
+    "manga_url": "news/top1_manga_2026-10-20.png",
     "video_url": "",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-19",
-        "manga_url": "news/top1_manga_2026-10-19_en.png",
-        "manga_sha256": "241ffd5ceccf4fccca2f1423eb824700a527cf8aebb9b17de0449b68853246df",
+        "date": "2026-10-20",
+        "manga_url": "news/top1_manga_2026-10-20_en.png",
+        "manga_sha256": "66b4b36f836d84b6ec025d61c690dc95b9d825fe3879c0dbe95ef907f17ed767",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-19] Disney to offer jobs to more than half of bankrupt Character.AI's employees",
-            "summary": "According to court filings, Disney has agreed to offer jobs to more than 60 Character.AI employees. The vast majority have accepted, but a higher offer from another company could still change the deal.",
+            "title": "[2026-10-20] Efforts to use AI to remove ads and tracking features from smart TVs",
+            "summary": "TechCrunch reported on a trend of users turning to AI coding assistance to remove ads, unwanted apps and tracking features from televisions. The tools involved are still under development, and testing to determine which models are supported is ongoing.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-            "published_date": "2026-10-19"
-          },
-          {
-            "rank": 2,
-            "title": "[2026-10-19] Woman arrested for obstructing delivery robot in Philadelphia, US, says she was protesting job losses",
-            "summary": "A woman was arrested after blocking an Uber delivery robot's path and refusing police requests to move. She says she was protesting the loss of jobs for human delivery workers.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-            "published_date": "2026-10-19"
+            "source_url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+            "published_date": "2026-10-20"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "7d52814cffe5f818e62a50456478559c233044e22a8b000de4e458c0f1e56e9a"
+        "source_manga_sha256": "15bdf752aa2deb5acd25c1bc1ceadbfe4ec3e1b2ff7aeb1fe504d63f062c5b59"
       }
     },
-    "media_updated_at": "2026-10-19"
+    "media_updated_at": "2026-10-20"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -46,20 +38,17 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [
-    "【2026-10-19】米フィラデルフィアで配送ロボットを妨害した女性が逮捕、雇用への抗議と説明"
-  ],
-  "topCards": [
-    {
-      "rank": 2,
-      "title": "【2026-10-19】米フィラデルフィアで配送ロボットを妨害した女性が逮捕、雇用への抗議と説明",
-      "summary": "Uberの配送ロボットの進路を塞ぎ、警察の移動要請を拒んだ女性が逮捕された。女性は人間の配達員の仕事が奪われることへの抗議だったと説明している。",
-      "manga_url": "",
-      "video_url": ""
-    }
-  ],
+  "breaking": [],
+  "topCards": [],
   "topList": [],
   "archive": [
+    {
+      "no": "220",
+      "kind": "✨ ラミッカ",
+      "date": "10.19",
+      "img": "news/top1_manga_2026-10-19.png",
+      "title": "【2026-10-19】ディズニー、経営破綻のCharacter.AI従業員の過半数に採用提示へ"
+    },
     {
       "no": "219",
       "kind": "✨ ラミッカ",

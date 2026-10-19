@@ -1,63 +1,34 @@
 {
-  "date": "2026.10.19",
+  "date": "2026.10.20",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-19】ディズニー、経営破綻のCharacter.AI従業員の過半数に採用提示へ",
-      "summary": "裁判所提出書類によると、ディズニーはCharacter.AIの従業員60人以上に採用を提示することで合意。大多数が受諾したが、他社の高値提案で取引が変わる可能性もある。",
+      "title": "【2026-10-20】AIでスマートテレビの広告や追跡機能を除去する動き",
+      "summary": "TechCrunchが、AIコーディング支援でテレビの広告や不要アプリ、追跡機能を取り除く利用動向を報道。関連ツールは開発途上で、対応機種の検証が続く。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "published_date": "2026-10-19",
+      "source_url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "published_date": "2026-10-20",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！ディズニーが？",
+            "speech": "えっ、スマホにテレビ改造の速報！",
             "narration": ""
           },
           {
-            "speech": "ＡＩ企業の過半数を採用！？",
+            "speech": "ＡＩで広告まで消せるの！？",
             "narration": ""
           },
           {
-            "speech": "６０人以上に採用提示だって",
-            "narration": "裁判所提出書類によると、ディズニーは経営破綻したCharacter.AIの従業員60人以上への採用提示で合意。提示を受けた大多数が受諾した。"
+            "speech": "不要な機能を整理するんだね",
+            "narration": "AIコーディング支援を使い、テレビの広告や不要アプリ、追跡機能を取り除く事例が広がる。関連ツールは開発途上で、機種ごとの検証が続いている。"
           },
           {
-            "speech": "みなみは取引の行方も追う",
+            "speech": "みなみは対応機種を先に確認！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "ディズニーがCharacter.AI従業員の過半数に採用提示へ。他社の高値提案で取引が変わる可能性も。"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "【2026-10-19】米フィラデルフィアで配送ロボットを妨害した女性が逮捕、雇用への抗議と説明",
-      "summary": "Uberの配送ロボットの進路を塞ぎ、警察の移動要請を拒んだ女性が逮捕された。女性は人間の配達員の仕事が奪われることへの抗議だったと説明している。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "published_date": "2026-10-19",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに速報！ロボを塞いで逮捕？",
-            "narration": ""
-          },
-          {
-            "speech": "配送ロボへの抗議で逮捕！？",
-            "narration": ""
-          },
-          {
-            "speech": "仕事を守りたいとの訴えだね",
-            "narration": "米フィラデルフィアで女性がUberの配送ロボットの進路を塞ぎ、警察の移動要請を拒んで逮捕。女性は配達員の雇用を守る抗議だったと説明した。"
-          },
-          {
-            "speech": "みなみは共存のルールが気になる",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "配送ロボットの進路を塞いだ女性が逮捕。自動化と配達員の雇用を巡る摩擦が表面化。"
+        "telop_text": "AIでスマートテレビをシンプルにする利用動向を報道。広告・追跡機能の除去ツールは開発途上"
       }
     }
   ]
