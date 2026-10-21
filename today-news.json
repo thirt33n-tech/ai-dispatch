@@ -1,34 +1,63 @@
 {
-  "date": "2026.10.20",
+  "date": "2026.10.21",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-20】AIでスマートテレビの広告や追跡機能を除去する動き",
-      "summary": "TechCrunchが、AIコーディング支援でテレビの広告や不要アプリ、追跡機能を取り除く利用動向を報道。関連ツールは開発途上で、対応機種の検証が続く。",
+      "title": "【2026-10-21】ChatGPTに会話ロック機能、PINや生体認証で閲覧を制限",
+      "summary": "OpenAIが会話をPINや生体認証で保護する機能を順次提供。通常の履歴やメモリから分離するが、暗号化やデータ保持条件は変わらない。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "published_date": "2026-10-20",
+      "source_url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "published_date": "2026-10-21",
       "script": {
         "panels": [
           {
-            "speech": "えっ、スマホにテレビ改造の速報！",
+            "speech": "スマホに速報！会話に鍵？",
             "narration": ""
           },
           {
-            "speech": "ＡＩで広告まで消せるの！？",
+            "speech": "えっ、生体認証も使える！",
             "narration": ""
           },
           {
-            "speech": "不要な機能を整理するんだね",
-            "narration": "AIコーディング支援を使い、テレビの広告や不要アプリ、追跡機能を取り除く事例が広がる。関連ツールは開発途上で、機種ごとの検証が続いている。"
+            "speech": "暗号化とは別の機能だね",
+            "narration": "ChatGPTが会話ロックを順次提供。PINや対応端末の生体認証で閲覧を制限し、通常の履歴やメモリから分離する。データ保持や学習設定は変わらない。"
           },
           {
-            "speech": "みなみは対応機種を先に確認！",
+            "speech": "みなみも設定を確認しよう",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "AIでスマートテレビをシンプルにする利用動向を報道。広告・追跡機能の除去ツールは開発途上"
+        "telop_text": "ChatGPTが会話ロックを順次提供、閲覧制限とデータ保護の違いに注意"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "【2026-10-21】エリック・シュミット氏がAnthropic株の約1％を保有と報道",
+      "summary": "TechCrunchがBloomberg報道を引用し、元Google CEOのシュミット氏がAnthropic株約1％を保有と報道。同社と本人は取材に即答していない。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "published_date": "2026-10-21",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに株主の速報！",
+            "narration": ""
+          },
+          {
+            "speech": "えっ、約１％を保有！？",
+            "narration": ""
+          },
+          {
+            "speech": "報道段階の数字なんだね",
+            "narration": "Bloomberg報道によると、元Google CEOのシュミット氏はAnthropic株の約1％を保有。TechCrunchの取材に本人と同社は即答していない。"
+          },
+          {
+            "speech": "評価額の予想とは分けよう",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "シュミット氏がAnthropic株約1％を保有と報道、本人と同社の確認回答はなし"
       }
     }
   ]
