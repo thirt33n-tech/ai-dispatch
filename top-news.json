@@ -1,41 +1,33 @@
 {
-  "dispatchNo": "222",
-  "dateLabel": "2026.10.21",
+  "dispatchNo": "223",
+  "dateLabel": "2026.10.22",
   "top1": {
-    "title": "【2026-10-21】ChatGPTに会話ロック機能、PINや生体認証で閲覧を制限",
-    "lead1": "OpenAIがChatGPTの会話ロックを順次提供。PINや対応端末の生体認証で、他人による会話の閲覧を制限できる。",
-    "lead2": "ロック後の会話は通常の履歴やメモリから分離。ただし、エンドツーエンド暗号化の追加やデータ保持条件の変更ではない。",
-    "manga_url": "news/top1_manga_2026-10-21.png",
+    "title": "【2026-10-22】ウォルマート、AIエージェントによる代理購入を受け入れへ",
+    "lead1": "ウォルマートがAIエージェントによる代理購入を受け入れる。11月から、利用者自身のエージェントを接続できる仕組みを導入予定だ。",
+    "lead2": "購入ごとの承認や予算上限を設定でき、専用プロフィールで履歴も確認可能。AIによる買い物を利用者が管理する設計となる。",
+    "manga_url": "news/top1_manga_2026-10-22.png",
     "video_url": "",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-21",
-        "manga_url": "news/top1_manga_2026-10-21_en.png",
-        "manga_sha256": "c393442c77b2780b6aaca3038a10880bbba2cd929df9828161afb8d06f58e6eb",
+        "date": "2026-10-22",
+        "manga_url": "news/top1_manga_2026-10-22_en.png",
+        "manga_sha256": "730af4756a16349dc8246d12830a822bfefbabe508e15a427fa75a35ab7efeb6",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-21] ChatGPT adds conversation locking, restricting access with a PIN or biometric authentication",
-            "summary": "OpenAI is gradually rolling out a feature that protects conversations with a PIN or biometric authentication. It separates them from regular chat history and memory, but encryption and data retention terms remain unchanged.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-            "published_date": "2026-10-21"
-          },
-          {
-            "rank": 2,
-            "title": "[2026-10-21] Eric Schmidt reportedly holds about 1% of Anthropic shares",
-            "summary": "TechCrunch, citing Bloomberg reporting, reported that former Google CEO Eric Schmidt holds about 1% of Anthropic shares. Neither the company nor Schmidt immediately responded to requests for comment.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-            "published_date": "2026-10-21"
+            "title": "[2026-10-22] Walmart to allow AI agents to make purchases on users' behalf",
+            "summary": "Walmart plans to introduce a system starting in November that will let users connect AI agents to make purchases on their behalf. Users will manage the process through purchase approvals, spending limits and dedicated profiles.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+            "published_date": "2026-10-22"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "14e88de8d1ef2cbff45165354326249bd984199c3f933c2d21fc1d326c3483e8"
+        "source_manga_sha256": "5b8313ba58f9531fb4f3bc45c52e72e23c1fc694dc8204973079138219b0c253"
       }
     },
-    "media_updated_at": "2026-10-21"
+    "media_updated_at": "2026-10-22"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -46,20 +38,17 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [
-    "【2026-10-21】エリック・シュミット氏がAnthropic株の約1％を保有と報道"
-  ],
-  "topCards": [
-    {
-      "rank": 2,
-      "title": "【2026-10-21】エリック・シュミット氏がAnthropic株の約1％を保有と報道",
-      "summary": "TechCrunchがBloomberg報道を引用し、元Google CEOのシュミット氏がAnthropic株約1％を保有と報道。同社と本人は取材に即答していない。",
-      "manga_url": "",
-      "video_url": ""
-    }
-  ],
+  "breaking": [],
+  "topCards": [],
   "topList": [],
   "archive": [
+    {
+      "no": "222",
+      "kind": "✨ ラミッカ",
+      "date": "10.21",
+      "img": "news/top1_manga_2026-10-21.png",
+      "title": "【2026-10-21】ChatGPTに会話ロック機能、PINや生体認証で閲覧を制限"
+    },
     {
       "no": "221",
       "kind": "✨ ラミッカ",

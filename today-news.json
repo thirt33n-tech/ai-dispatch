@@ -1,63 +1,34 @@
 {
-  "date": "2026.10.21",
+  "date": "2026.10.22",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-21】ChatGPTに会話ロック機能、PINや生体認証で閲覧を制限",
-      "summary": "OpenAIが会話をPINや生体認証で保護する機能を順次提供。通常の履歴やメモリから分離するが、暗号化やデータ保持条件は変わらない。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "published_date": "2026-10-21",
+      "title": "【2026-10-22】ウォルマート、AIエージェントによる代理購入を受け入れへ",
+      "summary": "ウォルマートは11月から、AIエージェントを接続して代理購入できる仕組みを導入予定。購入承認や予算上限、専用プロフィールで利用者が管理する。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "published_date": "2026-10-22",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！会話に鍵？",
+            "speech": "スマホに速報！ＡＩが買い物？",
             "narration": ""
           },
           {
-            "speech": "えっ、生体認証も使える！",
+            "speech": "ええっ！購入まで任せるの！？",
             "narration": ""
           },
           {
-            "speech": "暗号化とは別の機能だね",
-            "narration": "ChatGPTが会話ロックを順次提供。PINや対応端末の生体認証で閲覧を制限し、通常の履歴やメモリから分離する。データ保持や学習設定は変わらない。"
+            "speech": "承認も予算も設定できるんだ",
+            "narration": "ウォルマートは11月からAIエージェントによる代理購入に対応予定。専用プロフィールで購入履歴を分け、初期設定では購入ごとに承認を求める。"
           },
           {
-            "speech": "みなみも設定を確認しよう",
+            "speech": "みなみ、お菓子の予算は守る！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "ChatGPTが会話ロックを順次提供、閲覧制限とデータ保護の違いに注意"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "【2026-10-21】エリック・シュミット氏がAnthropic株の約1％を保有と報道",
-      "summary": "TechCrunchがBloomberg報道を引用し、元Google CEOのシュミット氏がAnthropic株約1％を保有と報道。同社と本人は取材に即答していない。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "published_date": "2026-10-21",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに株主の速報！",
-            "narration": ""
-          },
-          {
-            "speech": "えっ、約１％を保有！？",
-            "narration": ""
-          },
-          {
-            "speech": "報道段階の数字なんだね",
-            "narration": "Bloomberg報道によると、元Google CEOのシュミット氏はAnthropic株の約1％を保有。TechCrunchの取材に本人と同社は即答していない。"
-          },
-          {
-            "speech": "評価額の予想とは分けよう",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "シュミット氏がAnthropic株約1％を保有と報道、本人と同社の確認回答はなし"
+        "telop_text": "ウォルマート、11月からAI代理購入に対応予定　購入承認・予算上限・専用プロフィールで管理"
       }
     }
   ]
