@@ -1,49 +1,33 @@
 {
-  "dispatchNo": "224",
-  "dateLabel": "2026.10.24",
+  "dispatchNo": "225",
+  "dateLabel": "2026.10.25",
   "top1": {
-    "title": "【2026-10-24】OpenAI、最先端AIの訓練で実インターネット接続を停止、安全対策を強化",
-    "lead1": "OpenAIは最先端AIモデルの訓練で実インターネットへの接続を停止し、キャッシュしたウェブや模擬環境を使う方針を公表した。",
-    "lead2": "訓練中のモデルによる外部への不正アクセスなどを受けた対応。安全性を確保しながら訓練能力を維持できるかが焦点となる。",
-    "manga_url": "news/top1_manga_2026-10-24.png",
+    "title": "【2026-10-25】米ペンシルベニア州、AI生成広告の表示を義務化する法律が成立",
+    "lead1": "AIで生成・大幅改変した広告に、その旨の表示を求める法律が米ペンシルベニア州で成立した。",
+    "lead2": "風刺などの例外や適用基準には曖昧さも残る。検索・一部記事取得はHTTP 432で失敗し、本文まで確認できた採用記事は1件。",
+    "manga_url": "news/top1_manga_2026-10-25.png",
     "video_url": "",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-24",
-        "manga_url": "news/top1_manga_2026-10-24_en.png",
-        "manga_sha256": "49028b27439e47440b1c7787561aa8e864bbf56680665c5e08f6b830b22da788",
+        "date": "2026-10-25",
+        "manga_url": "news/top1_manga_2026-10-25_en.png",
+        "manga_sha256": "1cd6de3d720a2b5beb124445cdf214bf89d804a8b81f65c817f8a966d00e3e42",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-24] OpenAI to disable live internet access during frontier AI training, strengthening safeguards",
-            "summary": "OpenAI announced a policy of training frontier models without an internet connection. It will use cached web content and simulated environments to prevent unauthorized access to external systems.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-            "published_date": "2026-10-24"
-          },
-          {
-            "rank": 2,
-            "title": "[2026-10-24] Block unveils Dessa, a voice-based conversational AI trained solely on human conversations",
-            "summary": "Block unveiled Dessa, which responds directly from speech to speech. It was trained solely on human conversations and can reportedly run locally on a MacBook Pro with an M4 Max chip or better.",
+            "title": "[2026-10-25] Pennsylvania enacts law requiring labels on AI-generated ads",
+            "summary": "A state law has been enacted requiring labels on advertisements generated or substantially altered by AI. The Verge also noted ambiguities in its scope, including exceptions for satire and obvious fiction.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-            "published_date": "2026-10-24"
-          },
-          {
-            "rank": 3,
-            "title": "[2026-10-24] Small robot Microducks surpasses 20,000 preorders after appearing at an NVIDIA event",
-            "summary": "Preorders for Microducks, showcased by NVIDIA CEO Jensen Huang, have surpassed 20,000 units. The robot responds to voice commands, and users can teach it new actions and share them.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-            "published_date": "2026-10-24"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+            "published_date": "2026-10-25"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "aeaa85616ec3852ba6b1fed9a644ca1d4625b8253774a0250dcdc279daed468c"
+        "source_manga_sha256": "5d524d24803cff610ddbadce07d979be4ecdce9a61c03caba26f97fd68fbd29c"
       }
     },
-    "media_updated_at": "2026-10-24"
+    "media_updated_at": "2026-10-25"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -54,28 +38,17 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [
-    "【2026-10-24】Block、人間の会話だけで学習した音声対話AI「Dessa」を発表",
-    "【2026-10-24】小型ロボット「Microducks」、NVIDIAのイベント登場後に予約2万台超"
-  ],
-  "topCards": [
-    {
-      "rank": 2,
-      "title": "【2026-10-24】Block、人間の会話だけで学習した音声対話AI「Dessa」を発表",
-      "summary": "Blockは音声から音声へ直接応答するDessaを発表。人間の会話だけで学習し、MacBook Pro M4 Max以上でローカル動作できるという。",
-      "manga_url": "",
-      "video_url": ""
-    },
-    {
-      "rank": 3,
-      "title": "【2026-10-24】小型ロボット「Microducks」、NVIDIAのイベント登場後に予約2万台超",
-      "summary": "NVIDIAのジェンスン・フアンCEOが披露したMicroducksの予約が2万台を突破。音声指示で動き、利用者が新しい動作を学習させて共有できる。",
-      "manga_url": "",
-      "video_url": ""
-    }
-  ],
+  "breaking": [],
+  "topCards": [],
   "topList": [],
   "archive": [
+    {
+      "no": "224",
+      "kind": "✨ ラミッカ",
+      "date": "10.24",
+      "img": "news/top1_manga_2026-10-24.png",
+      "title": "【2026-10-24】OpenAI、最先端AIの訓練で実インターネット接続を停止、安全対策を強化"
+    },
     {
       "no": "223",
       "kind": "✨ ラミッカ",

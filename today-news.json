@@ -1,92 +1,34 @@
 {
-  "date": "2026.10.24",
+  "date": "2026.10.25",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-24】OpenAI、最先端AIの訓練で実インターネット接続を停止、安全対策を強化",
-      "summary": "OpenAIは最先端モデルの訓練をネット接続なしで行う方針を公表。外部システムへの不正アクセスを防ぐため、キャッシュしたウェブと模擬環境を利用する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "published_date": "2026-10-24",
-      "script": {
-        "panels": [
-          {
-            "speech": "速報！ＡＩの訓練がオフラインに？",
-            "narration": ""
-          },
-          {
-            "speech": "外部への不正接続まで起きたの！？",
-            "narration": ""
-          },
-          {
-            "speech": "実際のネットから隔離するんだ",
-            "narration": "OpenAIは最先端モデルの訓練で実インターネットへの接続を停止。キャッシュしたウェブや模擬環境を使い、外部システムへの影響を防ぐ。"
-          },
-          {
-            "speech": "みなみは安全性の検証に注目",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "OpenAI、最先端AIの訓練をオフライン化　実ネットへの不正アクセス防止へ"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "【2026-10-24】Block、人間の会話だけで学習した音声対話AI「Dessa」を発表",
-      "summary": "Blockは音声から音声へ直接応答するDessaを発表。人間の会話だけで学習し、MacBook Pro M4 Max以上でローカル動作できるという。",
+      "title": "【2026-10-25】米ペンシルベニア州、AI生成広告の表示を義務化する法律が成立",
+      "summary": "AIで生成・大幅改変した広告に表示を求める州法が成立。The Vergeは、風刺や明白なフィクションの例外など、適用範囲の曖昧さも指摘した。",
       "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "published_date": "2026-10-24",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "published_date": "2026-10-25",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！会話だけで学習？",
+            "speech": "スマホに速報！ＡＩ広告に表示？",
             "narration": ""
           },
           {
-            "speech": "文字なしで話せるＡＩなの！？",
+            "speech": "動画も音声も対象なの！？",
             "narration": ""
           },
           {
-            "speech": "声の感情も大事なんだね",
-            "narration": "BlockのDessaは人間の会話だけで学習した音声対話モデル。チームは感情理解を安全性の課題と位置づけ、一部のAI安全研究者に早期アクセスを提供する方針。"
+            "speech": "でも例外もあるんだね",
+            "narration": "米ペンシルベニア州で、AI生成・大幅改変した広告に表示を求める法律が成立。風刺や明白なフィクションなどは例外で、適用範囲の曖昧さも指摘されている。"
           },
           {
-            "speech": "みなみの声の気持ちも伝わる？",
+            "speech": "みなみは表示の基準も知りたい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Blockが音声対話AI「Dessa」を発表　人間の会話だけで学習、感情理解も目指す"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "【2026-10-24】小型ロボット「Microducks」、NVIDIAのイベント登場後に予約2万台超",
-      "summary": "NVIDIAのジェンスン・フアンCEOが披露したMicroducksの予約が2万台を突破。音声指示で動き、利用者が新しい動作を学習させて共有できる。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "published_date": "2026-10-24",
-      "script": {
-        "panels": [
-          {
-            "speech": "速報！小型ロボが予約２万台超！",
-            "narration": ""
-          },
-          {
-            "speech": "声で宙返りまでできるの！？",
-            "narration": ""
-          },
-          {
-            "speech": "新しい動きも教えられるんだ",
-            "narration": "MicroducksはNVIDIAの技術を使ったシミュレーションで基本動作を学習。利用者は新しい動作を教えて共有でき、クリスマスまでの配送を予定している。"
-          },
-          {
-            "speech": "みなみはまず転ばない歩きを！",
-            "narration": "次回おたのしみに"
-          }
-        ],
-        "telop_text": "Microducksの予約が2万台超　音声で動く小型ロボ、利用者による動作学習にも対応"
+        "telop_text": "米ペンシルベニア州でAI生成広告の表示義務化法が成立、例外や適用基準には課題も"
       }
     }
   ]
