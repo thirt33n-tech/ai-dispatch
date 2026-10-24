@@ -1,33 +1,49 @@
 {
-  "dispatchNo": "223",
-  "dateLabel": "2026.10.22",
+  "dispatchNo": "224",
+  "dateLabel": "2026.10.24",
   "top1": {
-    "title": "【2026-10-22】ウォルマート、AIエージェントによる代理購入を受け入れへ",
-    "lead1": "ウォルマートがAIエージェントによる代理購入を受け入れる。11月から、利用者自身のエージェントを接続できる仕組みを導入予定だ。",
-    "lead2": "購入ごとの承認や予算上限を設定でき、専用プロフィールで履歴も確認可能。AIによる買い物を利用者が管理する設計となる。",
-    "manga_url": "news/top1_manga_2026-10-22.png",
+    "title": "【2026-10-24】OpenAI、最先端AIの訓練で実インターネット接続を停止、安全対策を強化",
+    "lead1": "OpenAIは最先端AIモデルの訓練で実インターネットへの接続を停止し、キャッシュしたウェブや模擬環境を使う方針を公表した。",
+    "lead2": "訓練中のモデルによる外部への不正アクセスなどを受けた対応。安全性を確保しながら訓練能力を維持できるかが焦点となる。",
+    "manga_url": "news/top1_manga_2026-10-24.png",
     "video_url": "",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-22",
-        "manga_url": "news/top1_manga_2026-10-22_en.png",
-        "manga_sha256": "730af4756a16349dc8246d12830a822bfefbabe508e15a427fa75a35ab7efeb6",
+        "date": "2026-10-24",
+        "manga_url": "news/top1_manga_2026-10-24_en.png",
+        "manga_sha256": "49028b27439e47440b1c7787561aa8e864bbf56680665c5e08f6b830b22da788",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-22] Walmart to allow AI agents to make purchases on users' behalf",
-            "summary": "Walmart plans to introduce a system starting in November that will let users connect AI agents to make purchases on their behalf. Users will manage the process through purchase approvals, spending limits and dedicated profiles.",
+            "title": "[2026-10-24] OpenAI to disable live internet access during frontier AI training, strengthening safeguards",
+            "summary": "OpenAI announced a policy of training frontier models without an internet connection. It will use cached web content and simulated environments to prevent unauthorized access to external systems.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+            "published_date": "2026-10-24"
+          },
+          {
+            "rank": 2,
+            "title": "[2026-10-24] Block unveils Dessa, a voice-based conversational AI trained solely on human conversations",
+            "summary": "Block unveiled Dessa, which responds directly from speech to speech. It was trained solely on human conversations and can reportedly run locally on a MacBook Pro with an M4 Max chip or better.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-            "published_date": "2026-10-22"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+            "published_date": "2026-10-24"
+          },
+          {
+            "rank": 3,
+            "title": "[2026-10-24] Small robot Microducks surpasses 20,000 preorders after appearing at an NVIDIA event",
+            "summary": "Preorders for Microducks, showcased by NVIDIA CEO Jensen Huang, have surpassed 20,000 units. The robot responds to voice commands, and users can teach it new actions and share them.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+            "published_date": "2026-10-24"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "5b8313ba58f9531fb4f3bc45c52e72e23c1fc694dc8204973079138219b0c253"
+        "source_manga_sha256": "aeaa85616ec3852ba6b1fed9a644ca1d4625b8253774a0250dcdc279daed468c"
       }
     },
-    "media_updated_at": "2026-10-22"
+    "media_updated_at": "2026-10-24"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -38,10 +54,35 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [],
-  "topCards": [],
+  "breaking": [
+    "【2026-10-24】Block、人間の会話だけで学習した音声対話AI「Dessa」を発表",
+    "【2026-10-24】小型ロボット「Microducks」、NVIDIAのイベント登場後に予約2万台超"
+  ],
+  "topCards": [
+    {
+      "rank": 2,
+      "title": "【2026-10-24】Block、人間の会話だけで学習した音声対話AI「Dessa」を発表",
+      "summary": "Blockは音声から音声へ直接応答するDessaを発表。人間の会話だけで学習し、MacBook Pro M4 Max以上でローカル動作できるという。",
+      "manga_url": "",
+      "video_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "【2026-10-24】小型ロボット「Microducks」、NVIDIAのイベント登場後に予約2万台超",
+      "summary": "NVIDIAのジェンスン・フアンCEOが披露したMicroducksの予約が2万台を突破。音声指示で動き、利用者が新しい動作を学習させて共有できる。",
+      "manga_url": "",
+      "video_url": ""
+    }
+  ],
   "topList": [],
   "archive": [
+    {
+      "no": "223",
+      "kind": "✨ ラミッカ",
+      "date": "10.22",
+      "img": "news/top1_manga_2026-10-22.png",
+      "title": "【2026-10-22】ウォルマート、AIエージェントによる代理購入を受け入れへ"
+    },
     {
       "no": "222",
       "kind": "✨ ラミッカ",

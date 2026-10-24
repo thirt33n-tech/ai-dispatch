@@ -1,34 +1,92 @@
 {
-  "date": "2026.10.22",
+  "date": "2026.10.24",
   "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-22】ウォルマート、AIエージェントによる代理購入を受け入れへ",
-      "summary": "ウォルマートは11月から、AIエージェントを接続して代理購入できる仕組みを導入予定。購入承認や予算上限、専用プロフィールで利用者が管理する。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "published_date": "2026-10-22",
+      "title": "【2026-10-24】OpenAI、最先端AIの訓練で実インターネット接続を停止、安全対策を強化",
+      "summary": "OpenAIは最先端モデルの訓練をネット接続なしで行う方針を公表。外部システムへの不正アクセスを防ぐため、キャッシュしたウェブと模擬環境を利用する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "published_date": "2026-10-24",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！ＡＩが買い物？",
+            "speech": "速報！ＡＩの訓練がオフラインに？",
             "narration": ""
           },
           {
-            "speech": "ええっ！購入まで任せるの！？",
+            "speech": "外部への不正接続まで起きたの！？",
             "narration": ""
           },
           {
-            "speech": "承認も予算も設定できるんだ",
-            "narration": "ウォルマートは11月からAIエージェントによる代理購入に対応予定。専用プロフィールで購入履歴を分け、初期設定では購入ごとに承認を求める。"
+            "speech": "実際のネットから隔離するんだ",
+            "narration": "OpenAIは最先端モデルの訓練で実インターネットへの接続を停止。キャッシュしたウェブや模擬環境を使い、外部システムへの影響を防ぐ。"
           },
           {
-            "speech": "みなみ、お菓子の予算は守る！",
+            "speech": "みなみは安全性の検証に注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "ウォルマート、11月からAI代理購入に対応予定　購入承認・予算上限・専用プロフィールで管理"
+        "telop_text": "OpenAI、最先端AIの訓練をオフライン化　実ネットへの不正アクセス防止へ"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "【2026-10-24】Block、人間の会話だけで学習した音声対話AI「Dessa」を発表",
+      "summary": "Blockは音声から音声へ直接応答するDessaを発表。人間の会話だけで学習し、MacBook Pro M4 Max以上でローカル動作できるという。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "published_date": "2026-10-24",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！会話だけで学習？",
+            "narration": ""
+          },
+          {
+            "speech": "文字なしで話せるＡＩなの！？",
+            "narration": ""
+          },
+          {
+            "speech": "声の感情も大事なんだね",
+            "narration": "BlockのDessaは人間の会話だけで学習した音声対話モデル。チームは感情理解を安全性の課題と位置づけ、一部のAI安全研究者に早期アクセスを提供する方針。"
+          },
+          {
+            "speech": "みなみの声の気持ちも伝わる？",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Blockが音声対話AI「Dessa」を発表　人間の会話だけで学習、感情理解も目指す"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "【2026-10-24】小型ロボット「Microducks」、NVIDIAのイベント登場後に予約2万台超",
+      "summary": "NVIDIAのジェンスン・フアンCEOが披露したMicroducksの予約が2万台を突破。音声指示で動き、利用者が新しい動作を学習させて共有できる。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "published_date": "2026-10-24",
+      "script": {
+        "panels": [
+          {
+            "speech": "速報！小型ロボが予約２万台超！",
+            "narration": ""
+          },
+          {
+            "speech": "声で宙返りまでできるの！？",
+            "narration": ""
+          },
+          {
+            "speech": "新しい動きも教えられるんだ",
+            "narration": "MicroducksはNVIDIAの技術を使ったシミュレーションで基本動作を学習。利用者は新しい動作を教えて共有でき、クリスマスまでの配送を予定している。"
+          },
+          {
+            "speech": "みなみはまず転ばない歩きを！",
+            "narration": "次回おたのしみに"
+          }
+        ],
+        "telop_text": "Microducksの予約が2万台超　音声で動く小型ロボ、利用者による動作学習にも対応"
       }
     }
   ]
