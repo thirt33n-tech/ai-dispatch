@@ -1,34 +1,63 @@
 {
-  "date": "2026.10.25",
-  "fetched_via": "web_search",
+  "date": "2026.10.26",
+  "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-25】米ペンシルベニア州、AI生成広告の表示を義務化する法律が成立",
-      "summary": "AIで生成・大幅改変した広告に表示を求める州法が成立。The Vergeは、風刺や明白なフィクションの例外など、適用範囲の曖昧さも指摘した。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "published_date": "2026-10-25",
+      "title": "【2026-10-26】非テック企業のAI投資に利益効果は見えず、アポロのエコノミストが分析",
+      "summary": "アポロの首席エコノミストは、主要テック7社を除くS&P500企業で利益率や従業員当たり売上高が横ばいだと指摘。AIの財務効果に懐疑的な分析を示した。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published_date": "2026-10-26",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！ＡＩ広告に表示？",
+            "speech": "スマホに速報！AIの利益は？",
             "narration": ""
           },
           {
-            "speech": "動画も音声も対象なの！？",
+            "speech": "えっ、投資の成果が見えない！",
             "narration": ""
           },
           {
-            "speech": "でも例外もあるんだね",
-            "narration": "米ペンシルベニア州で、AI生成・大幅改変した広告に表示を求める法律が成立。風刺や明白なフィクションなどは例外で、適用範囲の曖昧さも指摘されている。"
+            "speech": "非テック企業の分析なのね",
+            "narration": "アポロの首席エコノミストは、主要テック7社を除くS&P500企業の利益率と従業員当たり売上高が横ばいで、AIによる改善は確認できないと分析した。"
           },
           {
-            "speech": "みなみは表示の基準も知りたい",
+            "speech": "みなみは導入後の成果も見たい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "米ペンシルベニア州でAI生成広告の表示義務化法が成立、例外や適用基準には課題も"
+        "telop_text": "アポロの分析：主要テック7社を除く企業では、AIによる財務改善の証拠が見えず"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "【2026-10-26】GrokがAI生成『オデュッセイア』の7分間を公開、TechCrunchが批評",
+      "summary": "GrokはGrok Imagineで制作した『オデュッセイア』シリーズ第1話を公開。TechCrunchの批評記事は、一部映像の写実性に触れつつ、物語性や演出を厳しく評価した。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published_date": "2026-10-26",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホにAI映画の記事！",
+            "narration": ""
+          },
+          {
+            "speech": "えっ、まずは７分の第１話！",
+            "narration": ""
+          },
+          {
+            "speech": "映像と物語は別の評価なのね",
+            "narration": "GrokはWonder Studiosらと制作したAI生成『オデュッセイア』第1話を公開。TechCrunchの批評は一部映像の写実性を認める一方、演出や物語への没入感を厳しく評価した。"
+          },
+          {
+            "speech": "みなみは続きが気になるかな？",
+            "narration": "次回おたのしみに"
+          }
+        ],
+        "telop_text": "GrokのAI生成『オデュッセイア』第1話をTechCrunchが批評、写実性と物語性を論評"
       }
     }
   ]

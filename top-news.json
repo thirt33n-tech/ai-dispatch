@@ -1,33 +1,41 @@
 {
-  "dispatchNo": "225",
-  "dateLabel": "2026.10.25",
+  "dispatchNo": "226",
+  "dateLabel": "2026.10.26",
   "top1": {
-    "title": "【2026-10-25】米ペンシルベニア州、AI生成広告の表示を義務化する法律が成立",
-    "lead1": "AIで生成・大幅改変した広告に、その旨の表示を求める法律が米ペンシルベニア州で成立した。",
-    "lead2": "風刺などの例外や適用基準には曖昧さも残る。検索・一部記事取得はHTTP 432で失敗し、本文まで確認できた採用記事は1件。",
-    "manga_url": "news/top1_manga_2026-10-25.png",
+    "title": "【2026-10-26】非テック企業のAI投資に利益効果は見えず、アポロのエコノミストが分析",
+    "lead1": "アポロの首席エコノミストが、主要テック7社を除くS&P500企業の業績から、AI投資の財務効果に疑問を呈しました。",
+    "lead2": "利益率や従業員当たり売上高は横ばいとの分析です。AI全般の無効性を証明したものではなく、非テック企業の収益化への問題提起です。",
+    "manga_url": "news/top1_manga_2026-10-26.png",
     "video_url": "",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-25",
-        "manga_url": "news/top1_manga_2026-10-25_en.png",
-        "manga_sha256": "1cd6de3d720a2b5beb124445cdf214bf89d804a8b81f65c817f8a966d00e3e42",
+        "date": "2026-10-26",
+        "manga_url": "news/top1_manga_2026-10-26_en.png",
+        "manga_sha256": "1fb1c25bd5bd69a1d37977b05b4708a530e24eec58772bc46dd6b057c904a307",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-25] Pennsylvania enacts law requiring labels on AI-generated ads",
-            "summary": "A state law has been enacted requiring labels on advertisements generated or substantially altered by AI. The Verge also noted ambiguities in its scope, including exceptions for satire and obvious fiction.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-            "published_date": "2026-10-25"
+            "title": "[2026-10-26] No apparent profit gains from AI investment at non-tech companies, Apollo economist finds",
+            "summary": "Apollo's chief economist noted that profit margins and revenue per employee were flat at S&P 500 companies excluding the seven major tech firms. The analysis expressed skepticism about AI's financial impact.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+            "published_date": "2026-10-26"
+          },
+          {
+            "rank": 2,
+            "title": "[2026-10-26] Grok releases seven minutes of AI-generated 'The Odyssey'; TechCrunch reviews it",
+            "summary": "Grok released the first episode of its 'The Odyssey' series, created with Grok Imagine. A TechCrunch review acknowledged the photorealism of some footage while sharply criticizing the storytelling and direction.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+            "published_date": "2026-10-26"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "5d524d24803cff610ddbadce07d979be4ecdce9a61c03caba26f97fd68fbd29c"
+        "source_manga_sha256": "400e49150f4a8bc57205c901319be4b2a200776a212e437e046f3e3c3343953a"
       }
     },
-    "media_updated_at": "2026-10-25"
+    "media_updated_at": "2026-10-26"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -38,10 +46,27 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [],
-  "topCards": [],
+  "breaking": [
+    "【2026-10-26】GrokがAI生成『オデュッセイア』の7分間を公開、TechCrunchが批評"
+  ],
+  "topCards": [
+    {
+      "rank": 2,
+      "title": "【2026-10-26】GrokがAI生成『オデュッセイア』の7分間を公開、TechCrunchが批評",
+      "summary": "GrokはGrok Imagineで制作した『オデュッセイア』シリーズ第1話を公開。TechCrunchの批評記事は、一部映像の写実性に触れつつ、物語性や演出を厳しく評価した。",
+      "manga_url": "",
+      "video_url": ""
+    }
+  ],
   "topList": [],
   "archive": [
+    {
+      "no": "225",
+      "kind": "✨ ラミッカ",
+      "date": "10.25",
+      "img": "news/top1_manga_2026-10-25.png",
+      "title": "【2026-10-25】米ペンシルベニア州、AI生成広告の表示を義務化する法律が成立"
+    },
     {
       "no": "224",
       "kind": "✨ ラミッカ",
