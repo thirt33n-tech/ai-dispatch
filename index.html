@@ -145,7 +145,7 @@
             <a href="https://www.threads.com/@0xashviri" target="_blank" rel="noopener" class="threads-cta" style="display:inline-flex;align-items:center;gap:8px;padding:13px 20px;border:1px solid #1B2433;border-radius:10px;background:#0C111B;color:#EEF3F8;text-decoration:none;font-weight:700;font-size:14px;transition:border-color .25s,box-shadow .25s,color .25s;">Threadsでフォロー</a>
             <button id="btn-share" class="cta toplink" style="display:inline-flex;align-items:center;gap:8px;padding:13px 18px;border:1px solid #1B2433;border-radius:10px;cursor:pointer;background:transparent;color:#8A99B0;font-weight:700;font-size:14px;transition:background .2s;">↗ シェア</button>
           </div>
-          <div id="next-update" style="margin-top:18px;font-family:'Space Mono',monospace;font-size:11.5px;letter-spacing:.1em;color:#8A99B0;">毎朝収集・生成し、本人承認後に公開します（日本時間）</div>
+          <div id="next-update" style="margin-top:18px;font-family:'Space Mono',monospace;font-size:11.5px;letter-spacing:.1em;color:#8A99B0;">毎朝収集・生成し、自動で公開します（日本時間）</div>
         </div>
       </div>
     </section>
@@ -305,7 +305,7 @@ function chooseLanguage(language,persist=false){
   const en=LANGUAGE==='en';
   document.getElementById('lead-kicker').textContent=en?'◆ TOP 1 · Today’s lead':'◆ TOP 1 · 本日のリード';
   document.getElementById('site-pitch').textContent=en?'Today’s leading AI story in a four-panel comic. Updated every morning.':'今日のAI最重要ニュースを、4コマ漫画で。毎朝更新。';
-  document.getElementById('next-update').textContent=en?'Collected each morning (JST), published after owner approval.':'毎朝収集・生成し、本人承認後に公開します（日本時間）';
+  document.getElementById('next-update').textContent=en?'Collected and published automatically each morning (JST).':'毎朝収集・生成し、自動で公開します（日本時間）';
   document.getElementById('btn-manga').textContent=en?'Comic':'漫画';
   document.getElementById('btn-share').textContent=en?'Share':'シェア';
   document.querySelector('.threads-cta').textContent=en?'Follow on Threads':'Threadsでフォロー';
@@ -416,12 +416,16 @@ function render(d){
     const inner=hasImg
       ? '<img src="'+esc(a.img)+'" alt="'+esc(a.title||'')+'" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top;">'
       : '<div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:14px;text-align:center;"><div style="font-family:\'Archivo Black\',sans-serif;font-size:34px;color:rgba(60,231,242,.5);letter-spacing:.04em;">№'+esc(a.no)+'</div><div style="margin-top:8px;font-size:12px;color:#8A99B0;line-height:1.5;font-weight:700;">'+esc(a.title||'')+'</div></div>';
-    return '<div class="arch" data-img="'+(hasImg?esc(a.img):'')+'" style="border:1px solid #1B2433;border-radius:10px;overflow:hidden;background:#0C111B;transition:border-color .2s,transform .2s;cursor:pointer;">'
-      +'<div style="position:relative;width:100%;aspect-ratio:4/5;background:'+bg+';overflow:hidden;">'+inner
-      +'<span style="position:absolute;top:8px;left:8px;font-family:\'Space Mono\',monospace;font-size:10px;letter-spacing:.08em;color:#EEF3F8;background:rgba(6,8,15,.7);border:1px solid #1B2433;padding:3px 7px;border-radius:5px;">'+esc(a.kind)+'</span></div>'
-      +'<div style="padding:10px 12px;display:flex;align-items:center;justify-content:space-between;"><span style="font-family:\'Space Mono\',monospace;font-size:10.5px;color:#566783;">№'+esc(a.no)+'</span><span style="font-family:\'Space Mono\',monospace;font-size:10.5px;color:#566783;">'+esc(a.date)+'</span></div></div>';
+    const source=safeArticleUrl(a.source_url);
+    const title=source?'<a class="article-source-link" href="'+esc(source)+'" target="_blank" rel="noopener noreferrer">'+esc(a.title||'')+' ↗</a>':esc(a.title||'');
+    const preview=hasImg?'<button type="button" class="archive-open" data-img="'+esc(a.img)+'" aria-label="'+esc(LANGUAGE==='en'?'Open comic: '+(a.title||''):'漫画を拡大: '+(a.title||''))+'"':'<div';
+    return '<article class="arch" style="border:1px solid #1B2433;border-radius:10px;overflow:hidden;background:#0C111B;transition:border-color .2s,transform .2s;">'
+      +preview+' style="position:relative;display:block;padding:0;border:0;width:100%;aspect-ratio:4/5;background:'+bg+';overflow:hidden;'+(hasImg?'cursor:zoom-in;':'')+'">'+inner
+      +'<span style="position:absolute;top:8px;left:8px;font-family:\'Space Mono\',monospace;font-size:10px;letter-spacing:.08em;color:#EEF3F8;background:rgba(6,8,15,.7);border:1px solid #1B2433;padding:3px 7px;border-radius:5px;">'+esc(a.kind)+'</span>'+(hasImg?'</button>':'</div>')
+      +'<div style="padding:12px;"><h3 style="margin:0 0 10px;font-size:13px;font-weight:700;color:#EEF3F8;line-height:1.65;overflow-wrap:anywhere;">'+title+'</h3>'
+      +'<div style="display:flex;align-items:center;justify-content:space-between;"><span style="font-family:\'Space Mono\',monospace;font-size:10.5px;color:#566783;">№'+esc(a.no)+'</span><span style="font-family:\'Space Mono\',monospace;font-size:10.5px;color:#566783;">'+esc(a.date)+'</span></div></div></article>';
   }).join('');
-  document.querySelectorAll('#archive-grid .arch').forEach(el=>{
+  document.querySelectorAll('#archive-grid .archive-open').forEach(el=>{
     const img=el.getAttribute('data-img');
     if(has(img)) el.addEventListener('click',()=>openImage(img));
   });
