@@ -1,63 +1,121 @@
 {
-  "date": "2026.10.26",
+  "date": "2026.10.27",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-26】非テック企業のAI投資に利益効果は見えず、アポロのエコノミストが分析",
-      "summary": "アポロの首席エコノミストは、主要テック7社を除くS&P500企業で利益率や従業員当たり売上高が横ばいだと指摘。AIの財務効果に懐疑的な分析を示した。",
+      "title": "【2026-10-27】SpaceX、Apolloと約400億ドルのAI向けGPU設備資金調達で合意",
+      "summary": "Apollo傘下の事業体がGPUなどを購入し、SpaceXにリースする契約。年内の取引完了、2027年前半のリース開始を見込む。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "published_date": "2026-10-26",
+      "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "published_date": "2026-10-27",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！AIの利益は？",
+            "speech": "スマホに速報！宇宙企業が？",
             "narration": ""
           },
           {
-            "speech": "えっ、投資の成果が見えない！",
+            "speech": "ＧＰＵに４００億ドル！？",
             "narration": ""
           },
           {
-            "speech": "非テック企業の分析なのね",
-            "narration": "アポロの首席エコノミストは、主要テック7社を除くS&P500企業の利益率と従業員当たり売上高が横ばいで、AIによる改善は確認できないと分析した。"
+            "speech": "購入ではなくリースなんだ",
+            "narration": "Apollo傘下の事業体がGPUと関連設備を購入し、SpaceXへリース。取引完了には条件があり、リース開始は2027年前半の見込み。"
           },
           {
-            "speech": "みなみは導入後の成果も見たい",
+            "speech": "みなみは資金回収にも注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "アポロの分析：主要テック7社を除く企業では、AIによる財務改善の証拠が見えず"
+        "telop_text": "SpaceXが約400億ドルのGPU設備リース調達で合意、AI計算基盤を拡張へ"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-10-26】GrokがAI生成『オデュッセイア』の7分間を公開、TechCrunchが批評",
-      "summary": "GrokはGrok Imagineで制作した『オデュッセイア』シリーズ第1話を公開。TechCrunchの批評記事は、一部映像の写実性に触れつつ、物語性や演出を厳しく評価した。",
+      "title": "【2026-10-27】【解説】Anthropicの上場申請書に見る、Claudeの企業顧客定着戦略",
+      "summary": "年間10万ドル以上を支出する顧客の過半数がClaude基盤と自社アプリを併用。TechCrunchが製品横断戦略と顧客集中などのリスクを解説。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "published_date": "2026-10-26",
+      "source_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "published_date": "2026-10-27",
       "script": {
         "panels": [
           {
-            "speech": "スマホにAI映画の記事！",
+            "speech": "スマホに企業利用の新情報！",
             "narration": ""
           },
           {
-            "speech": "えっ、まずは７分の第１話！",
+            "speech": "大口顧客の過半数が併用！？",
             "narration": ""
           },
           {
-            "speech": "映像と物語は別の評価なのね",
-            "narration": "GrokはWonder Studiosらと制作したAI生成『オデュッセイア』第1話を公開。TechCrunchの批評は一部映像の写実性を認める一方、演出や物語への没入感を厳しく評価した。"
+            "speech": "基盤とアプリがつながる",
+            "narration": "上場申請書によると、年間10万ドル以上を支出する顧客の過半数がClaude基盤と自社アプリを併用。記事は顧客定着戦略と事業リスクを分析。"
           },
           {
-            "speech": "みなみは続きが気になるかな？",
-            "narration": "次回おたのしみに"
+            "speech": "みなみは顧客集中も気になる",
+            "narration": "次回に続く"
           }
         ],
-        "telop_text": "GrokのAI生成『オデュッセイア』第1話をTechCrunchが批評、写実性と物語性を論評"
+        "telop_text": "解説：Anthropicの企業向け戦略、Claude基盤と自社アプリの併用が拡大"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "【2026-10-27】Microsoft、AI部門を含む最大6万人に希望退職制度を提示",
+      "summary": "米英加印の最大6万人が対象。The VergeによるとCopilotやCoreAIなども含まれ、一部部門は対象外。退職者数が確定したわけではない。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "published_date": "2026-10-27",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに希望退職の速報！",
+            "narration": ""
+          },
+          {
+            "speech": "対象は最大６万人！？",
+            "narration": ""
+          },
+          {
+            "speech": "ＡＩ部門も対象なんだ",
+            "narration": "Microsoftが米英加印で希望退職制度を提示。報道ではCopilotやCoreAIなども対象に含まれる。最大6万人は対象者数で、退職決定人数ではない。"
+          },
+          {
+            "speech": "みなみは対象と実数を分ける",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Microsoftが最大6万人に希望退職制度を提示、CopilotなどAI関連部門も対象"
+      }
+    },
+    {
+      "rank": 4,
+      "title": "【2026-10-27】The RealReal、AIエージェントによる商品の長時間取り置き対策を強化",
+      "summary": "MetaのMuseで商品を繰り返しカートに入れ、他客の購入を妨げられると判明。The RealRealはボット対策を更新し、自動購入操作を制限した。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "published_date": "2026-10-27",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホにＡＩ買い物の問題！",
+            "narration": ""
+          },
+          {
+            "speech": "カートで何時間も独占！？",
+            "narration": ""
+          },
+          {
+            "speech": "取り置きの反復が問題に",
+            "narration": "The VergeがMuseによる商品の再投入を検証。The RealRealはボット対策を更新し、エージェントによるログインやカート操作、決済を難しくした。"
+          },
+          {
+            "speech": "みなみは買える公平さも大事",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "The RealRealがAI買い物エージェント対策を強化、商品取り置きの反復を問題視"
       }
     }
   ]

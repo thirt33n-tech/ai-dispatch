@@ -1,41 +1,58 @@
 {
-  "dispatchNo": "226",
-  "dateLabel": "2026.10.26",
+  "dispatchNo": "227",
+  "dateLabel": "2026.10.27",
   "top1": {
-    "title": "【2026-10-26】非テック企業のAI投資に利益効果は見えず、アポロのエコノミストが分析",
-    "lead1": "アポロの首席エコノミストが、主要テック7社を除くS&P500企業の業績から、AI投資の財務効果に疑問を呈しました。",
-    "lead2": "利益率や従業員当たり売上高は横ばいとの分析です。AI全般の無効性を証明したものではなく、非テック企業の収益化への問題提起です。",
-    "manga_url": "news/top1_manga_2026-10-26.png",
+    "title": "【2026-10-27】SpaceX、Apolloと約400億ドルのAI向けGPU設備資金調達で合意",
+    "lead1": "SpaceXは、AI用GPUと関連設備について約400億ドルの資金調達契約で合意したと開示しました。",
+    "lead2": "Apollo傘下の事業体が設備を購入してリースする仕組みで、条件充足を経て年内の取引完了を見込んでいます。",
+    "manga_url": "news/top1_manga_2026-10-27.png",
     "video_url": "",
+    "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-26",
-        "manga_url": "news/top1_manga_2026-10-26_en.png",
-        "manga_sha256": "1fb1c25bd5bd69a1d37977b05b4708a530e24eec58772bc46dd6b057c904a307",
+        "date": "2026-10-27",
+        "manga_url": "news/top1_manga_2026-10-27_en.png",
+        "manga_sha256": "8ea0d7985260d039987b406041d342c8989f0227a6004eea5f0753993e4b2aaf",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-26] No apparent profit gains from AI investment at non-tech companies, Apollo economist finds",
-            "summary": "Apollo's chief economist noted that profit margins and revenue per employee were flat at S&P 500 companies excluding the seven major tech firms. The analysis expressed skepticism about AI's financial impact.",
+            "title": "[2026-10-27] SpaceX reaches agreement with Apollo on roughly $40 billion in financing for AI GPU equipment",
+            "summary": "Under the agreement, an Apollo-affiliated entity will purchase GPUs and other equipment and lease them to SpaceX. The transaction is expected to close by year-end, with leasing expected to begin in the first half of 2027.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-            "published_date": "2026-10-26"
+            "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+            "published_date": "2026-10-27"
           },
           {
             "rank": 2,
-            "title": "[2026-10-26] Grok releases seven minutes of AI-generated 'The Odyssey'; TechCrunch reviews it",
-            "summary": "Grok released the first episode of its 'The Odyssey' series, created with Grok Imagine. A TechCrunch review acknowledged the photorealism of some footage while sharply criticizing the storytelling and direction.",
+            "title": "[2026-10-27] [Analysis] Anthropic's listing application reveals Claude's enterprise customer retention strategy",
+            "summary": "More than half of customers spending at least $100,000 annually use both the Claude platform and their own applications. TechCrunch examines the cross-product strategy and risks including customer concentration.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-            "published_date": "2026-10-26"
+            "source_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+            "published_date": "2026-10-27"
+          },
+          {
+            "rank": 3,
+            "title": "[2026-10-27] Microsoft offers voluntary departures to up to 60,000 employees, including in AI divisions",
+            "summary": "Up to 60,000 employees in the United States, United Kingdom, Canada and India are eligible. According to The Verge, Copilot and CoreAI are among the divisions included, while some divisions are excluded. The number of employees who will leave has not been determined.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+            "published_date": "2026-10-27"
+          },
+          {
+            "rank": 4,
+            "title": "[2026-10-27] The RealReal strengthens measures against AI agents holding items for extended periods",
+            "summary": "Meta's Muse was found capable of repeatedly adding items to carts to prevent other customers from buying them. The RealReal updated its anti-bot measures and restricted automated purchasing actions.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+            "published_date": "2026-10-27"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "400e49150f4a8bc57205c901319be4b2a200776a212e437e046f3e3c3343953a"
+        "source_manga_sha256": "f883fa07274b6299b30c442870bb4cd78d3ed3221d607ebee4191b99fbaa9dd2"
       }
     },
-    "media_updated_at": "2026-10-26"
+    "media_updated_at": "2026-10-27"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -47,19 +64,41 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-10-26】GrokがAI生成『オデュッセイア』の7分間を公開、TechCrunchが批評"
+    "【2026-10-27】【解説】Anthropicの上場申請書に見る、Claudeの企業顧客定着戦略",
+    "【2026-10-27】Microsoft、AI部門を含む最大6万人に希望退職制度を提示",
+    "【2026-10-27】The RealReal、AIエージェントによる商品の長時間取り置き対策を強化"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-10-26】GrokがAI生成『オデュッセイア』の7分間を公開、TechCrunchが批評",
-      "summary": "GrokはGrok Imagineで制作した『オデュッセイア』シリーズ第1話を公開。TechCrunchの批評記事は、一部映像の写実性に触れつつ、物語性や演出を厳しく評価した。",
+      "title": "【2026-10-27】【解説】Anthropicの上場申請書に見る、Claudeの企業顧客定着戦略",
+      "summary": "年間10万ドル以上を支出する顧客の過半数がClaude基盤と自社アプリを併用。TechCrunchが製品横断戦略と顧客集中などのリスクを解説。",
+      "manga_url": "",
+      "video_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "【2026-10-27】Microsoft、AI部門を含む最大6万人に希望退職制度を提示",
+      "summary": "米英加印の最大6万人が対象。The VergeによるとCopilotやCoreAIなども含まれ、一部部門は対象外。退職者数が確定したわけではない。",
       "manga_url": "",
       "video_url": ""
     }
   ],
-  "topList": [],
+  "topList": [
+    {
+      "rank": 4,
+      "title": "【2026-10-27】The RealReal、AIエージェントによる商品の長時間取り置き対策を強化"
+    }
+  ],
   "archive": [
+    {
+      "no": "226",
+      "kind": "✨ ラミッカ",
+      "date": "10.26",
+      "img": "news/top1_manga_2026-10-26.png",
+      "title": "【2026-10-26】非テック企業のAI投資に利益効果は見えず、アポロのエコノミストが分析",
+      "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+    },
     {
       "no": "225",
       "kind": "✨ ラミッカ",
