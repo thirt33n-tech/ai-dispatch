@@ -1,121 +1,179 @@
 {
-  "date": "2026.10.27",
+  "date": "2026.10.28",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-27】SpaceX、Apolloと約400億ドルのAI向けGPU設備資金調達で合意",
-      "summary": "Apollo傘下の事業体がGPUなどを購入し、SpaceXにリースする契約。年内の取引完了、2027年前半のリース開始を見込む。",
+      "title": "【2026-10-28】Google、世界モデル「Genie 4」を研究公開　音声生成とリアルタイム編集に対応",
+      "summary": "Google DeepMindがGenie 4を限定的に研究公開。音声付きの仮想世界を生成し、実行中の編集に対応。場面の一貫性には課題も残る。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "published_date": "2026-10-27",
+      "source_url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "published_date": "2026-10-28",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！宇宙企業が？",
+            "speech": "スマホに速報！世界が動く？",
             "narration": ""
           },
           {
-            "speech": "ＧＰＵに４００億ドル！？",
+            "speech": "音までその場で生成！？",
             "narration": ""
           },
           {
-            "speech": "購入ではなくリースなんだ",
-            "narration": "Apollo傘下の事業体がGPUと関連設備を購入し、SpaceXへリース。取引完了には条件があり、リース開始は2027年前半の見込み。"
+            "speech": "動かしながら編集できる",
+            "narration": "Genie 4は音声生成とリアルタイム編集に対応。信頼されたテスター向けの研究プレビューで、場面の一貫性には課題が残る。"
           },
           {
-            "speech": "みなみは資金回収にも注目",
+            "speech": "みなみも映画を試作したい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "SpaceXが約400億ドルのGPU設備リース調達で合意、AI計算基盤を拡張へ"
+        "telop_text": "GoogleのGenie 4、音声付き仮想世界と実行中の編集に対応　研究プレビューで提供"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-10-27】【解説】Anthropicの上場申請書に見る、Claudeの企業顧客定着戦略",
-      "summary": "年間10万ドル以上を支出する顧客の過半数がClaude基盤と自社アプリを併用。TechCrunchが製品横断戦略と顧客集中などのリスクを解説。",
+      "title": "【2026-10-28】AIによる「指数時間仮説の反証」主張を解説　研究者が検証と議論へ",
+      "summary": "OpenAIとAnthropicによる指数時間仮説の反証主張を解説。研究者は証明の検証や影響の議論を進めるが、P＝NPが証明されたわけではない。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "published_date": "2026-10-27",
+      "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "published_date": "2026-10-28",
       "script": {
         "panels": [
           {
-            "speech": "スマホに企業利用の新情報！",
+            "speech": "スマホに難問反証の報道！",
             "narration": ""
           },
           {
-            "speech": "大口顧客の過半数が併用！？",
+            "speech": "計算の常識が変わる！？",
             "narration": ""
           },
           {
-            "speech": "基盤とアプリがつながる",
-            "narration": "上場申請書によると、年間10万ドル以上を支出する顧客の過半数がClaude基盤と自社アプリを併用。記事は顧客定着戦略と事業リスクを分析。"
+            "speech": "まず証明の検証が必要",
+            "narration": "解説記事は両社による指数時間仮説の反証主張と研究者の対応を紹介。主張の検証が必要で、P＝NPの証明を意味しない。"
           },
           {
-            "speech": "みなみは顧客集中も気になる",
+            "speech": "みなみは検証の続報を待つ",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "解説：Anthropicの企業向け戦略、Claude基盤と自社アプリの併用が拡大"
+        "telop_text": "解説：AI研究所が指数時間仮説の反証を主張　証明の検証と学術的な議論が焦点"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-10-27】Microsoft、AI部門を含む最大6万人に希望退職制度を提示",
-      "summary": "米英加印の最大6万人が対象。The VergeによるとCopilotやCoreAIなども含まれ、一部部門は対象外。退職者数が確定したわけではない。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "published_date": "2026-10-27",
+      "title": "【2026-10-28】Disruptive、AI・防衛分野を狙う100億ドルのファンドを発表",
+      "summary": "投資会社Disruptiveが100億ドルのファンドを発表。AI・防衛分野の後期企業を中心に、少なくとも10社へ投資する方針。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "published_date": "2026-10-28",
       "script": {
         "panels": [
           {
-            "speech": "スマホに希望退職の速報！",
+            "speech": "スマホに巨額ファンド速報！",
             "narration": ""
           },
           {
-            "speech": "対象は最大６万人！？",
+            "speech": "１００億ドルも集めた！？",
             "narration": ""
           },
           {
-            "speech": "ＡＩ部門も対象なんだ",
-            "narration": "Microsoftが米英加印で希望退職制度を提示。報道ではCopilotやCoreAIなども対象に含まれる。最大6万人は対象者数で、退職決定人数ではない。"
+            "speech": "ＡＩと防衛への大型投資",
+            "narration": "Disruptiveは100億ドルのファンドを発表。少なくとも10社の後期企業を対象に、1社あたり最大10億ドルを投資する方針。"
           },
           {
-            "speech": "みなみは対象と実数を分ける",
+            "speech": "みなみは投資先が気になる",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Microsoftが最大6万人に希望退職制度を提示、CopilotなどAI関連部門も対象"
+        "telop_text": "Disruptiveが100億ドルのファンド　資本集約的なAI・防衛分野への大型投資を狙う"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-10-27】The RealReal、AIエージェントによる商品の長時間取り置き対策を強化",
-      "summary": "MetaのMuseで商品を繰り返しカートに入れ、他客の購入を妨げられると判明。The RealRealはボット対策を更新し、自動購入操作を制限した。",
+      "title": "【2026-10-28】Anthropicの上場計画を解説　安全性を守る統治構造と市場圧力の限界",
+      "summary": "The VergeがAnthropicの上場に向けた統治構造を分析。信託と創業者の権限で安全性を守る設計だが、資金需要や競争の圧力は残る。",
       "source": "The Verge",
-      "source_url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "published_date": "2026-10-27",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "published_date": "2026-10-28",
       "script": {
         "panels": [
           {
-            "speech": "スマホにＡＩ買い物の問題！",
+            "speech": "スマホに上場計画の解説！",
             "narration": ""
           },
           {
-            "speech": "カートで何時間も独占！？",
+            "speech": "株主が取締役を選べない！？",
             "narration": ""
           },
           {
-            "speech": "取り置きの反復が問題に",
-            "narration": "The VergeがMuseによる商品の再投入を検証。The RealRealはボット対策を更新し、エージェントによるログインやカート操作、決済を難しくした。"
+            "speech": "信託と創業者が権限を持つ",
+            "narration": "解説記事によると、提案された構造では信託が取締役7人中4人を選任。安全性を守る設計だが、競争や資金需要の圧力は残る。"
           },
           {
-            "speech": "みなみは買える公平さも大事",
+            "speech": "みなみは制度と実行を見る",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "The RealRealがAI買い物エージェント対策を強化、商品取り置きの反復を問題視"
+        "telop_text": "解説：Anthropicの上場後の統治構造　安全性を守る仕組みと市場圧力への課題"
+      }
+    },
+    {
+      "rank": 5,
+      "title": "【2026-10-28】FirefoxのSmart Window、AIフォーム入力とウェブページ監視を追加",
+      "summary": "MozillaがSmart Windowにタブ情報を使うフォーム入力とページ監視を追加。米国・カナダのデスクトップ版ベータで順次提供する。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "published_date": "2026-10-28",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに入力支援の新機能！",
+            "narration": ""
+          },
+          {
+            "speech": "開いたタブから書ける！？",
+            "narration": ""
+          },
+          {
+            "speech": "共有する情報は確認しよう",
+            "narration": "Smart Windowは選択したタブから入力候補を生成。参照ページのデータはGoogleのAIに共有される。ページ監視はブラウザー起動中に動作する。"
+          },
+          {
+            "speech": "みなみは送信前に見直す",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "FirefoxがAI入力支援とページ監視を追加　米国・カナダのSmart Windowベータから提供"
+      }
+    },
+    {
+      "rank": 6,
+      "title": "【2026-10-28】『VisionQuest』レビュー　架空のAIと現実の「暴走」言説を問い直す",
+      "summary": "The Vergeの作品評は『VisionQuest』を通じ、AIの擬人化や「暴走」という表現を考察。フィクションの意識と現実の技術を区別する。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "published_date": "2026-10-28",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホにＡＩ作品の批評！",
+            "narration": ""
+          },
+          {
+            "speech": "物語と現実が混ざってる！？",
+            "narration": ""
+          },
+          {
+            "speech": "意識と予想外の動作は別",
+            "narration": "『VisionQuest』のレビューは、架空の人格を持つAIと現実の生成AIを対比。擬人化や「暴走」という表現が理解に与える影響を論じる。"
+          },
+          {
+            "speech": "みなみは言葉も吟味する",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "作品評：『VisionQuest』から考えるAIの擬人化　物語上の意識と現実の技術を区別"
       }
     }
   ]

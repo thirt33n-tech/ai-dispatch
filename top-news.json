@@ -1,58 +1,74 @@
 {
-  "dispatchNo": "227",
-  "dateLabel": "2026.10.27",
+  "dispatchNo": "228",
+  "dateLabel": "2026.10.28",
   "top1": {
-    "title": "【2026-10-27】SpaceX、Apolloと約400億ドルのAI向けGPU設備資金調達で合意",
-    "lead1": "SpaceXは、AI用GPUと関連設備について約400億ドルの資金調達契約で合意したと開示しました。",
-    "lead2": "Apollo傘下の事業体が設備を購入してリースする仕組みで、条件充足を経て年内の取引完了を見込んでいます。",
-    "manga_url": "news/top1_manga_2026-10-27.png",
+    "title": "【2026-10-28】Google、世界モデル「Genie 4」を研究公開　音声生成とリアルタイム編集に対応",
+    "lead1": "Google DeepMindがGenie 4を研究プレビューで公開。仮想世界の生成に音声と実行中の編集機能を加えた。",
+    "lead2": "映画の試作やゲーム、ロボット訓練への活用を想定。当初は限定提供で、長時間の場面整合性などに課題が残る。",
+    "manga_url": "news/top1_manga_2026-10-28.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "source_url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-27",
-        "manga_url": "news/top1_manga_2026-10-27_en.png",
-        "manga_sha256": "8ea0d7985260d039987b406041d342c8989f0227a6004eea5f0753993e4b2aaf",
+        "date": "2026-10-28",
+        "manga_url": "news/top1_manga_2026-10-28_en.png",
+        "manga_sha256": "af452158ff07ffa4f69641ee09c9b3f6bdec6baf58047e38d07eacc0b8d869c9",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-27] SpaceX reaches agreement with Apollo on roughly $40 billion in financing for AI GPU equipment",
-            "summary": "Under the agreement, an Apollo-affiliated entity will purchase GPUs and other equipment and lease them to SpaceX. The transaction is expected to close by year-end, with leasing expected to begin in the first half of 2027.",
+            "title": "[2026-10-28] Google releases world model Genie 4 for research, supporting audio generation and real-time editing",
+            "summary": "Google DeepMind has released Genie 4 for research on a limited basis. It generates virtual worlds with audio and supports editing while they are running. Challenges remain in maintaining scene consistency.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-            "published_date": "2026-10-27"
+            "source_url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+            "published_date": "2026-10-28"
           },
           {
             "rank": 2,
-            "title": "[2026-10-27] [Analysis] Anthropic's listing application reveals Claude's enterprise customer retention strategy",
-            "summary": "More than half of customers spending at least $100,000 annually use both the Claude platform and their own applications. TechCrunch examines the cross-product strategy and risks including customer concentration.",
+            "title": "[2026-10-28] Explaining AI's claimed refutation of the Exponential Time Hypothesis as researchers begin verification and debate",
+            "summary": "An explanation of OpenAI and Anthropic's claimed refutation of the Exponential Time Hypothesis. Researchers are verifying the proof and discussing its implications, but P = NP has not been proven.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-            "published_date": "2026-10-27"
+            "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+            "published_date": "2026-10-28"
           },
           {
             "rank": 3,
-            "title": "[2026-10-27] Microsoft offers voluntary departures to up to 60,000 employees, including in AI divisions",
-            "summary": "Up to 60,000 employees in the United States, United Kingdom, Canada and India are eligible. According to The Verge, Copilot and CoreAI are among the divisions included, while some divisions are excluded. The number of employees who will leave has not been determined.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-            "published_date": "2026-10-27"
+            "title": "[2026-10-28] Disruptive announces $10 billion fund targeting AI and defense",
+            "summary": "Investment firm Disruptive has announced a $10 billion fund. It plans to invest in at least 10 companies, focusing on late-stage companies in AI and defense.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+            "published_date": "2026-10-28"
           },
           {
             "rank": 4,
-            "title": "[2026-10-27] The RealReal strengthens measures against AI agents holding items for extended periods",
-            "summary": "Meta's Muse was found capable of repeatedly adding items to carts to prevent other customers from buying them. The RealReal updated its anti-bot measures and restricted automated purchasing actions.",
+            "title": "[2026-10-28] Explaining Anthropic's IPO plans: governance to safeguard safety and the limits of protection against market pressure",
+            "summary": "The Verge analyzes Anthropic's governance structure ahead of its planned public listing. The structure is designed to safeguard safety through the authority of a trust and the founders, but funding needs and competitive pressures remain.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-            "published_date": "2026-10-27"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+            "published_date": "2026-10-28"
+          },
+          {
+            "rank": 5,
+            "title": "[2026-10-28] Firefox's Smart Window adds AI form filling and webpage monitoring",
+            "summary": "Mozilla has added form filling that uses tab information and page monitoring to Smart Window. The features will roll out gradually in the desktop beta in the United States and Canada.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+            "published_date": "2026-10-28"
+          },
+          {
+            "rank": 6,
+            "title": "[2026-10-28] VisionQuest review: reexamining fictional AI and real-world talk of AI 'going rogue'",
+            "summary": "The Verge's review uses VisionQuest to examine the anthropomorphization of AI and the expression 'going rogue.' It distinguishes fictional consciousness from real-world technology.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+            "published_date": "2026-10-28"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "f883fa07274b6299b30c442870bb4cd78d3ed3221d607ebee4191b99fbaa9dd2"
+        "source_manga_sha256": "0812d98994017e56425429d76468d26800be6a189f040ebf85b233d91346b03f"
       }
     },
-    "media_updated_at": "2026-10-27"
+    "media_updated_at": "2026-10-28"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -64,22 +80,24 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-10-27】【解説】Anthropicの上場申請書に見る、Claudeの企業顧客定着戦略",
-    "【2026-10-27】Microsoft、AI部門を含む最大6万人に希望退職制度を提示",
-    "【2026-10-27】The RealReal、AIエージェントによる商品の長時間取り置き対策を強化"
+    "【2026-10-28】AIによる「指数時間仮説の反証」主張を解説　研究者が検証と議論へ",
+    "【2026-10-28】Disruptive、AI・防衛分野を狙う100億ドルのファンドを発表",
+    "【2026-10-28】Anthropicの上場計画を解説　安全性を守る統治構造と市場圧力の限界",
+    "【2026-10-28】FirefoxのSmart Window、AIフォーム入力とウェブページ監視を追加",
+    "【2026-10-28】『VisionQuest』レビュー　架空のAIと現実の「暴走」言説を問い直す"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-10-27】【解説】Anthropicの上場申請書に見る、Claudeの企業顧客定着戦略",
-      "summary": "年間10万ドル以上を支出する顧客の過半数がClaude基盤と自社アプリを併用。TechCrunchが製品横断戦略と顧客集中などのリスクを解説。",
+      "title": "【2026-10-28】AIによる「指数時間仮説の反証」主張を解説　研究者が検証と議論へ",
+      "summary": "OpenAIとAnthropicによる指数時間仮説の反証主張を解説。研究者は証明の検証や影響の議論を進めるが、P＝NPが証明されたわけではない。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-10-27】Microsoft、AI部門を含む最大6万人に希望退職制度を提示",
-      "summary": "米英加印の最大6万人が対象。The VergeによるとCopilotやCoreAIなども含まれ、一部部門は対象外。退職者数が確定したわけではない。",
+      "title": "【2026-10-28】Disruptive、AI・防衛分野を狙う100億ドルのファンドを発表",
+      "summary": "投資会社Disruptiveが100億ドルのファンドを発表。AI・防衛分野の後期企業を中心に、少なくとも10社へ投資する方針。",
       "manga_url": "",
       "video_url": ""
     }
@@ -87,10 +105,26 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-10-27】The RealReal、AIエージェントによる商品の長時間取り置き対策を強化"
+      "title": "【2026-10-28】Anthropicの上場計画を解説　安全性を守る統治構造と市場圧力の限界"
+    },
+    {
+      "rank": 5,
+      "title": "【2026-10-28】FirefoxのSmart Window、AIフォーム入力とウェブページ監視を追加"
+    },
+    {
+      "rank": 6,
+      "title": "【2026-10-28】『VisionQuest』レビュー　架空のAIと現実の「暴走」言説を問い直す"
     }
   ],
   "archive": [
+    {
+      "no": "227",
+      "kind": "✨ ラミッカ",
+      "date": "10.27",
+      "img": "news/top1_manga_2026-10-27.png",
+      "title": "【2026-10-27】SpaceX、Apolloと約400億ドルのAI向けGPU設備資金調達で合意",
+      "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+    },
     {
       "no": "226",
       "kind": "✨ ラミッカ",
