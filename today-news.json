@@ -1,179 +1,237 @@
 {
-  "date": "2026.10.28",
+  "date": "2026.10.29",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-28】Google、世界モデル「Genie 4」を研究公開　音声生成とリアルタイム編集に対応",
-      "summary": "Google DeepMindがGenie 4を限定的に研究公開。音声付きの仮想世界を生成し、実行中の編集に対応。場面の一貫性には課題も残る。",
+      "title": "【2026-10-29】Google、Geminiと検索に外部アプリを接続する開発者向け基盤を公開",
+      "summary": "Connected Apps Platformを米国開発者向けにプレビュー公開。外部サービスをGeminiや検索につなぎ、登録・テスト・利用状況の確認ができる。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "published_date": "2026-10-28",
+      "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "published_date": "2026-10-29",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！世界が動く？",
+            "speech": "速報！検索からアプリ操作？",
             "narration": ""
           },
           {
-            "speech": "音までその場で生成！？",
+            "speech": "アプリの入口が変わる！",
             "narration": ""
           },
           {
-            "speech": "動かしながら編集できる",
-            "narration": "Genie 4は音声生成とリアルタイム編集に対応。信頼されたテスター向けの研究プレビューで、場面の一貫性には課題が残る。"
+            "speech": "まず米国の開発者向けだね",
+            "narration": "Googleが接続アプリ基盤をプレビュー公開。開発者は外部サービスをGeminiや検索に接続し、登録・テスト・稼働状況の確認ができる。"
           },
           {
-            "speech": "みなみも映画を試作したい",
+            "speech": "みなみの入口も検索になる？",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "GoogleのGenie 4、音声付き仮想世界と実行中の編集に対応　研究プレビューで提供"
+        "telop_text": "Googleが接続アプリ基盤を公開、Geminiと検索を外部サービスの入口へ"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-10-28】AIによる「指数時間仮説の反証」主張を解説　研究者が検証と議論へ",
-      "summary": "OpenAIとAnthropicによる指数時間仮説の反証主張を解説。研究者は証明の検証や影響の議論を進めるが、P＝NPが証明されたわけではない。",
+      "title": "【2026-10-29】Nvidia、40言語の文字起こしに対応する公開重みモデルを発表",
+      "summary": "Nemotron 3.5 Transcribeと音声データセットGranaryの新版を公開。最大１時間の録音と８人の話者識別に対応するが、ライブ音声は対象外。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "published_date": "2026-10-28",
+      "source_url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "published_date": "2026-10-29",
       "script": {
         "panels": [
           {
-            "speech": "スマホに難問反証の報道！",
+            "speech": "速報！音声ＡＩの新モデル！",
             "narration": ""
           },
           {
-            "speech": "計算の常識が変わる！？",
+            "speech": "４０言語も文字起こし！？",
             "narration": ""
           },
           {
-            "speech": "まず証明の検証が必要",
-            "narration": "解説記事は両社による指数時間仮説の反証主張と研究者の対応を紹介。主張の検証が必要で、P＝NPの証明を意味しない。"
+            "speech": "録音向けなのがポイント",
+            "narration": "NvidiaがNemotron 3.5 Transcribeを公開。最大１時間の録音と８人の話者識別に対応。ライブ音声には対応しない。"
           },
           {
-            "speech": "みなみは検証の続報を待つ",
+            "speech": "議事録も確認は忘れずに",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "解説：AI研究所が指数時間仮説の反証を主張　証明の検証と学術的な議論が焦点"
+        "telop_text": "NvidiaがNemotron 3.5 Transcribeを公開、録音の多言語文字起こしを支援"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-10-28】Disruptive、AI・防衛分野を狙う100億ドルのファンドを発表",
-      "summary": "投資会社Disruptiveが100億ドルのファンドを発表。AI・防衛分野の後期企業を中心に、少なくとも10社へ投資する方針。",
+      "title": "【2026-10-29】Anthropic、企業のAI利用効果と費用を可視化するレポート機能を発表",
+      "summary": "社内分析と従業員調査を基に、チームの成果・費用・作業上の問題を可視化。改善提案やチーム共通のトークン予算管理も提供する。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "published_date": "2026-10-28",
+      "source_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "published_date": "2026-10-29",
       "script": {
         "panels": [
           {
-            "speech": "スマホに巨額ファンド速報！",
+            "speech": "速報！ＡＩの費用が見える？",
             "narration": ""
           },
           {
-            "speech": "１００億ドルも集めた！？",
+            "speech": "成果まで比べられるの！？",
             "narration": ""
           },
           {
-            "speech": "ＡＩと防衛への大型投資",
-            "narration": "Disruptiveは100億ドルのファンドを発表。少なくとも10社の後期企業を対象に、1社あたり最大10億ドルを投資する方針。"
+            "speech": "使った量だけじゃないんだ",
+            "narration": "Anthropicが企業向けレポート機能を発表。チームの成果、費用、作業の問題を示し、改善提案や共通予算の管理も提供する。"
           },
           {
-            "speech": "みなみは投資先が気になる",
+            "speech": "みなみも成果で説明しよう",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Disruptiveが100億ドルのファンド　資本集約的なAI・防衛分野への大型投資を狙う"
+        "telop_text": "Anthropicが企業向け分析を強化、AI支出と成果の関係を可視化"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-10-28】Anthropicの上場計画を解説　安全性を守る統治構造と市場圧力の限界",
-      "summary": "The VergeがAnthropicの上場に向けた統治構造を分析。信託と創業者の権限で安全性を守る設計だが、資金需要や競争の圧力は残る。",
+      "title": "【2026-10-29】Meta、AI学習への懸念を受け事業者向け新規約の再延期を示唆",
+      "summary": "出版社がAI学習への利用を懸念する新規約について、Metaは協議が長引けば11月20日以降へ施行を延期すると説明。現行規約は維持される。",
       "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "published_date": "2026-10-28",
+      "source_url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "published_date": "2026-10-29",
       "script": {
         "panels": [
           {
-            "speech": "スマホに上場計画の解説！",
+            "speech": "速報！Ｍｅｔａ規約に動き！",
             "narration": ""
           },
           {
-            "speech": "株主が取締役を選べない！？",
+            "speech": "また延期の可能性！？",
             "narration": ""
           },
           {
-            "speech": "信託と創業者が権限を持つ",
-            "narration": "解説記事によると、提案された構造では信託が取締役7人中4人を選任。安全性を守る設計だが、競争や資金需要の圧力は残る。"
+            "speech": "まだ延期確定ではないよ",
+            "narration": "AI学習への利用を懸念する出版社の反発を受け、Metaは協議が長引けば新規約の施行を11月20日以降に延期すると説明した。"
           },
           {
-            "speech": "みなみは制度と実行を見る",
+            "speech": "同意の範囲こそ読みたいね",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "解説：Anthropicの上場後の統治構造　安全性を守る仕組みと市場圧力への課題"
+        "telop_text": "Metaの事業者向け新規約、出版社との協議次第で再延期の可能性"
       }
     },
     {
       "rank": 5,
-      "title": "【2026-10-28】FirefoxのSmart Window、AIフォーム入力とウェブページ監視を追加",
-      "summary": "MozillaがSmart Windowにタブ情報を使うフォーム入力とページ監視を追加。米国・カナダのデスクトップ版ベータで順次提供する。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "published_date": "2026-10-28",
+      "title": "【2026-10-29】Chrome、Gmailの予約番号や配送情報をAIでフォーム入力に活用",
+      "summary": "GeminiのPersonal Intelligenceを利用した自動入力を米国で展開。Gmail内の予約番号や追跡番号などを提案し、利用者は設定で無効化できる。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "published_date": "2026-10-29",
       "script": {
         "panels": [
           {
-            "speech": "スマホに入力支援の新機能！",
+            "speech": "速報！メールから自動入力？",
             "narration": ""
           },
           {
-            "speech": "開いたタブから書ける！？",
+            "speech": "予約番号も探してくれる！",
             "narration": ""
           },
           {
-            "speech": "共有する情報は確認しよう",
-            "narration": "Smart Windowは選択したタブから入力候補を生成。参照ページのデータはGoogleのAIに共有される。ページ監視はブラウザー起動中に動作する。"
+            "speech": "使うかは設定で選べるよ",
+            "narration": "ChromeのAI自動入力がGmail内の予約番号や配送情報を参照。米国で展開し、利用者は設定で有効・無効を選択できる。"
           },
           {
-            "speech": "みなみは送信前に見直す",
+            "speech": "便利さと権限を見比べよう",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "FirefoxがAI入力支援とページ監視を追加　米国・カナダのSmart Windowベータから提供"
+        "telop_text": "ChromeのAI自動入力がGmailと連携、予約番号などの転記を支援"
       }
     },
     {
       "rank": 6,
-      "title": "【2026-10-28】『VisionQuest』レビュー　架空のAIと現実の「暴走」言説を問い直す",
-      "summary": "The Vergeの作品評は『VisionQuest』を通じ、AIの擬人化や「暴走」という表現を考察。フィクションの意識と現実の技術を区別する。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "published_date": "2026-10-28",
+      "title": "【2026-10-29】Xreal、Geminiを利用できるAndroid XR搭載グラス「Aura」を発売",
+      "summary": "外付け処理端末につなぐ有線型グラスを発表。Geminiが画面の文脈理解を支援する。日本を含む４カ国で注文受付を開始し、11月中旬までの出荷開始を予定。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "published_date": "2026-10-29",
       "script": {
         "panels": [
           {
-            "speech": "スマホにＡＩ作品の批評！",
+            "speech": "速報！Ａｕｒａが注文開始！",
             "narration": ""
           },
           {
-            "speech": "物語と現実が混ざってる！？",
+            "speech": "メガネでＧｅｍｉｎｉ！？",
             "narration": ""
           },
           {
-            "speech": "意識と予想外の動作は別",
-            "narration": "『VisionQuest』のレビューは、架空の人格を持つAIと現実の生成AIを対比。擬人化や「暴走」という表現が理解に与える影響を論じる。"
+            "speech": "処理端末とは有線接続だよ",
+            "narration": "Xreal AuraはAndroid XR搭載のグラス。Geminiが画面の文脈理解を支援する。日本でも注文を受け付け、出荷開始は11月中旬までを予定。"
           },
           {
-            "speech": "みなみは言葉も吟味する",
+            "speech": "未来の画面にもケーブルだ",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "作品評：『VisionQuest』から考えるAIの擬人化　物語上の意識と現実の技術を区別"
+        "telop_text": "Xreal Auraが日本でも注文受付、Android XRとGeminiを搭載"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "【2026-10-29】Microsoft、スマートテレビ向けCopilotのサポート終了へ",
+      "summary": "LGテレビの画面通知から、テレビ向けCopilotを2026年中に終了する方針が判明したと報道。具体的な停止日は示されていない。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "published_date": "2026-10-29",
+      "script": {
+        "panels": [
+          {
+            "speech": "速報！テレビのＡＩが終了？",
+            "narration": ""
+          },
+          {
+            "speech": "Ｃｏｐｉｌｏｔが撤退！？",
+            "narration": ""
+          },
+          {
+            "speech": "具体的な停止日は未定だよ",
+            "narration": "LGテレビの通知を基に、Microsoftがテレビ向けCopilotを2026年中に終了すると報道。具体的な停止日は示されていない。"
+          },
+          {
+            "speech": "家電の機能も永遠じゃない",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "テレビ向けCopilotが年内終了へ、LGの画面通知から判明と報道"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "【2026-10-29】【論評】AI幹部の生活観と一般利用者の感覚の隔たりをTechCrunchが指摘",
+      "summary": "育児や人間関係をAIに委ねる幹部の発言を取り上げた論評。効率化を重視する開発側の価値観が、利用者の期待とずれる可能性を論じる。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "published_date": "2026-10-29",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホにＡＩ幹部の論評！",
+            "narration": ""
+          },
+          {
+            "speech": "人間関係まで効率化！？",
+            "narration": ""
+          },
+          {
+            "speech": "製品発表ではなく論評だよ",
+            "narration": "TechCrunchの論評は、育児や人間関係へのAI利用を勧める幹部の発言から、開発側と一般利用者の価値観の隔たりを指摘する。"
+          },
+          {
+            "speech": "みなみは自分で話したいな",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "【論評】AIによる効率化と人間関係、開発側と利用者の感覚を問う"
       }
     }
   ]
