@@ -1,90 +1,90 @@
 {
-  "dispatchNo": "229",
-  "dateLabel": "2026.10.29",
+  "dispatchNo": "230",
+  "dateLabel": "2026.10.30",
   "top1": {
-    "title": "【2026-10-29】Google、Geminiと検索に外部アプリを接続する開発者向け基盤を公開",
-    "lead1": "GoogleがConnected Apps Platformを米国開発者向けにプレビュー公開した。",
-    "lead2": "外部サービスをGeminiや検索から利用する仕組みを拡大。開発者は接続アプリの登録やテスト、稼働状況の確認ができる。",
-    "manga_url": "news/top1_manga_2026-10-29.png",
+    "title": "【2026-10-30】Mistral、1兆パラメータの「Large 4」重みを公開、サイバー防御への活用を訴求",
+    "lead1": "MistralがLarge 4のモデル重みを公開。企業や政府が自前の環境で導入できるようになった。",
+    "lead2": "サイバー防御での活用とデータ管理の自由度を訴求。競合に対する性能・効率の優位性は同社の主張だ。",
+    "manga_url": "news/top1_manga_2026-10-30.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "source_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-29",
-        "manga_url": "news/top1_manga_2026-10-29_en.png",
-        "manga_sha256": "62886e63c4ca1349049efd2d10b49941db51d59fac5513bf42c40bdd1987340d",
+        "date": "2026-10-30",
+        "manga_url": "news/top1_manga_2026-10-30_en.png",
+        "manga_sha256": "047978f2a3acbdd76c742437aacd2082a1e8d0bdb37dbb478926743b8a9e2b85",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-29] Google unveils developer platform for connecting external apps to Gemini and Search",
-            "summary": "Google released a preview of Connected Apps Platform for U.S. developers. It connects external services to Gemini and Search, allowing developers to register and test them and monitor usage.",
+            "title": "[2026-10-30] Mistral releases weights for trillion-parameter Large 4, touting cybersecurity defense applications",
+            "summary": "Mistral has released the model weights for Large 4. Companies and governments can deploy it themselves, with cybersecurity defense among its intended uses. Claims of superior performance and efficiency come from the company.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-            "published_date": "2026-10-29"
+            "source_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+            "published_date": "2026-10-30"
           },
           {
             "rank": 2,
-            "title": "[2026-10-29] Nvidia announces open-weight model supporting transcription in 40 languages",
-            "summary": "Nvidia released Nemotron 3.5 Transcribe and a new version of the Granary audio dataset. The model supports recordings up to one hour long and identification of up to eight speakers, but does not support live audio.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-            "published_date": "2026-10-29"
+            "title": "[2026-10-30] Gemini adds document and PDF creation and editing within chats",
+            "summary": "Gemini has begun rolling out file preview and editing features to all users. PDFs are supported on the web and mobile, while other formats are currently limited to the web.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+            "published_date": "2026-10-30"
           },
           {
             "rank": 3,
-            "title": "[2026-10-29] Anthropic announces reporting features to visualize the impact and costs of enterprise AI use",
-            "summary": "Based on internal analytics and employee surveys, the features visualize team outcomes, costs and workflow issues. They also provide improvement suggestions and management of shared team token budgets.",
+            "title": "[2026-10-30] OpenAI-backed Thrive Holdings announces acquisition of security giant ADT",
+            "summary": "Thrive Holdings announced that it will acquire ADT at an equity valuation of approximately $7.6 billion. It aims to strengthen the business using AI, but no specific new products have been announced.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-            "published_date": "2026-10-29"
+            "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+            "published_date": "2026-10-30"
           },
           {
             "rank": 4,
-            "title": "[2026-10-29] Meta signals another delay to new business terms amid concerns over AI training",
-            "summary": "Regarding new terms that have prompted publishers' concerns about use of their content for AI training, Meta said it would postpone implementation until November 20 or later if discussions drag on. The current terms will remain in place.",
+            "title": "[2026-10-30] Analysis: Microsoft's AI spending and workforce cuts, including voluntary buyout offers to about 60,000 employees",
+            "summary": "An analysis by The Verge reports that Microsoft offered voluntary buyouts to approximately 60,000 employees. It examines the move in the context of cost and workforce reductions intended to sustain AI infrastructure investment.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-            "published_date": "2026-10-29"
+            "source_url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+            "published_date": "2026-10-30"
           },
           {
             "rank": 5,
-            "title": "[2026-10-29] Chrome uses AI to fill forms with booking references and shipping information from Gmail",
-            "summary": "Autofill powered by Gemini's Personal Intelligence is rolling out in the U.S. It suggests booking references, tracking numbers and other information from Gmail, and users can disable it in settings.",
+            "title": "[2026-10-30] US intelligence agencies reportedly investigated outreach to Nvidia CEO; company denies sharing confidential information",
+            "summary": "US authorities reportedly investigated contacts between an AI cloud company executive and Nvidia's CEO. Nvidia said the interactions were routine customer engagement and denied sharing confidential information.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-            "published_date": "2026-10-29"
+            "source_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+            "published_date": "2026-10-30"
           },
           {
             "rank": 6,
-            "title": "[2026-10-29] Xreal launches Aura glasses running Android XR with access to Gemini",
-            "summary": "Xreal announced wired glasses that connect to an external processing device. Gemini helps interpret on-screen context. Orders have opened in four countries, including Japan, with shipping scheduled to begin by mid-November.",
+            "title": "[2026-10-30] Meta launches Style Sketch, an AI app that suggests outfits using clothes users already own",
+            "summary": "Meta's Style Sketch is available in Indonesia, Singapore and Thailand. Users can add clothing items from photos, receive outfit suggestions and virtually try on clothes tailored to their body shape and skin tone.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-            "published_date": "2026-10-29"
+            "source_url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+            "published_date": "2026-10-30"
           },
           {
             "rank": 7,
-            "title": "[2026-10-29] Microsoft to end support for Copilot on smart TVs",
-            "summary": "Reports say an on-screen notice on LG TVs revealed plans to discontinue Copilot for TVs during 2026. No specific shutdown date has been given.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-            "published_date": "2026-10-29"
+            "title": "[2026-10-30] Dream, founded by a former Palantir executive, raises $17 million for an AI world model for architecture",
+            "summary": "Dream has raised $17 million in a round led by a16z. It aims to assist with designs that account for physics and building codes and, according to its founder, is being used on 10 projects in the United States.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+            "published_date": "2026-10-30"
           },
           {
             "rank": 8,
-            "title": "[2026-10-29] [Commentary] TechCrunch highlights gap between AI executives' outlook on life and ordinary users' perspectives",
-            "summary": "The commentary examines executives' remarks about entrusting parenting and personal relationships to AI. It discusses how developers' emphasis on efficiency may diverge from users' expectations.",
+            "title": "[2026-10-30] Granola launches voice input across Mac apps",
+            "summary": "Granola, an AI meeting-notes tool, has launched a voice input feature. It can format spoken words and enter them into apps across the Mac, with support for iOS and Windows also planned.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-            "published_date": "2026-10-29"
+            "source_url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+            "published_date": "2026-10-30"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "41cf779316a6d1d9bec097b76e038949d1db66eef1240921228a2e981eae9635"
+        "source_manga_sha256": "42e0b9664d4a34350fa6a7f486212a5d4ca5254b54ee0f09719c8975c3d742c2"
       }
     },
-    "media_updated_at": "2026-10-29"
+    "media_updated_at": "2026-10-30"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -96,26 +96,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-10-29】Nvidia、40言語の文字起こしに対応する公開重みモデルを発表",
-    "【2026-10-29】Anthropic、企業のAI利用効果と費用を可視化するレポート機能を発表",
-    "【2026-10-29】Meta、AI学習への懸念を受け事業者向け新規約の再延期を示唆",
-    "【2026-10-29】Chrome、Gmailの予約番号や配送情報をAIでフォーム入力に活用",
-    "【2026-10-29】Xreal、Geminiを利用できるAndroid XR搭載グラス「Aura」を発売",
-    "【2026-10-29】Microsoft、スマートテレビ向けCopilotのサポート終了へ",
-    "【2026-10-29】【論評】AI幹部の生活観と一般利用者の感覚の隔たりをTechCrunchが指摘"
+    "【2026-10-30】Gemini、チャット内で文書やPDFの生成・編集が可能に",
+    "【2026-10-30】OpenAIが出資するThrive Holdings、警備大手ADTの買収を発表",
+    "【2026-10-30】【解説】MicrosoftのAI投資と人員削減、約6万人への希望退職提案を分析",
+    "【2026-10-30】Nvidia CEOへの接近巡り米情報機関が調査と報道、同社は機密共有を否定",
+    "【2026-10-30】Meta、手持ちの服でコーデを提案するAIアプリ「Style Sketch」を公開",
+    "【2026-10-30】元Palantir幹部のDream、建築向けAI世界モデルで1700万ドルを調達",
+    "【2026-10-30】Granola、Macの各アプリで使える音声入力機能を公開"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-10-29】Nvidia、40言語の文字起こしに対応する公開重みモデルを発表",
-      "summary": "Nemotron 3.5 Transcribeと音声データセットGranaryの新版を公開。最大１時間の録音と８人の話者識別に対応するが、ライブ音声は対象外。",
+      "title": "【2026-10-30】Gemini、チャット内で文書やPDFの生成・編集が可能に",
+      "summary": "Geminiがファイルのプレビュー・編集機能を全ユーザー向けに提供開始。PDFはウェブとモバイルに対応し、その他の形式は当面ウェブ限定。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-10-29】Anthropic、企業のAI利用効果と費用を可視化するレポート機能を発表",
-      "summary": "社内分析と従業員調査を基に、チームの成果・費用・作業上の問題を可視化。改善提案やチーム共通のトークン予算管理も提供する。",
+      "title": "【2026-10-30】OpenAIが出資するThrive Holdings、警備大手ADTの買収を発表",
+      "summary": "Thrive HoldingsがADTを株式価値約76億ドルで買収すると発表。AIを活用した事業強化を目指すが、具体的な新製品は未発表。",
       "manga_url": "",
       "video_url": ""
     }
@@ -123,26 +123,34 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-10-29】Meta、AI学習への懸念を受け事業者向け新規約の再延期を示唆"
+      "title": "【2026-10-30】【解説】MicrosoftのAI投資と人員削減、約6万人への希望退職提案を分析"
     },
     {
       "rank": 5,
-      "title": "【2026-10-29】Chrome、Gmailの予約番号や配送情報をAIでフォーム入力に活用"
+      "title": "【2026-10-30】Nvidia CEOへの接近巡り米情報機関が調査と報道、同社は機密共有を否定"
     },
     {
       "rank": 6,
-      "title": "【2026-10-29】Xreal、Geminiを利用できるAndroid XR搭載グラス「Aura」を発売"
+      "title": "【2026-10-30】Meta、手持ちの服でコーデを提案するAIアプリ「Style Sketch」を公開"
     },
     {
       "rank": 7,
-      "title": "【2026-10-29】Microsoft、スマートテレビ向けCopilotのサポート終了へ"
+      "title": "【2026-10-30】元Palantir幹部のDream、建築向けAI世界モデルで1700万ドルを調達"
     },
     {
       "rank": 8,
-      "title": "【2026-10-29】【論評】AI幹部の生活観と一般利用者の感覚の隔たりをTechCrunchが指摘"
+      "title": "【2026-10-30】Granola、Macの各アプリで使える音声入力機能を公開"
     }
   ],
   "archive": [
+    {
+      "no": "229",
+      "kind": "✨ ラミッカ",
+      "date": "10.29",
+      "img": "news/top1_manga_2026-10-29.png",
+      "title": "【2026-10-29】Google、Geminiと検索に外部アプリを接続する開発者向け基盤を公開",
+      "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+    },
     {
       "no": "228",
       "kind": "✨ ラミッカ",

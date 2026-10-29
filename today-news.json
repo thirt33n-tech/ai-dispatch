@@ -1,237 +1,237 @@
 {
-  "date": "2026.10.29",
+  "date": "2026.10.30",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-29】Google、Geminiと検索に外部アプリを接続する開発者向け基盤を公開",
-      "summary": "Connected Apps Platformを米国開発者向けにプレビュー公開。外部サービスをGeminiや検索につなぎ、登録・テスト・利用状況の確認ができる。",
+      "title": "【2026-10-30】Mistral、1兆パラメータの「Large 4」重みを公開、サイバー防御への活用を訴求",
+      "summary": "MistralがLarge 4のモデル重みを公開。企業や政府が自前で導入でき、サイバー防御への活用を想定する。性能や効率の優位性は同社の主張。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "published_date": "2026-10-29",
+      "source_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "published_date": "2026-10-30",
       "script": {
         "panels": [
           {
-            "speech": "速報！検索からアプリ操作？",
+            "speech": "スマホに速報！重み公開？",
             "narration": ""
           },
           {
-            "speech": "アプリの入口が変わる！",
+            "speech": "１兆パラメータ級だって！",
             "narration": ""
           },
           {
-            "speech": "まず米国の開発者向けだね",
-            "narration": "Googleが接続アプリ基盤をプレビュー公開。開発者は外部サービスをGeminiや検索に接続し、登録・テスト・稼働状況の確認ができる。"
+            "speech": "自前の環境で守れる？",
+            "narration": "MistralがLarge 4の重みを公開。企業や政府による自前導入とサイバー防御への活用を訴求している。"
           },
           {
-            "speech": "みなみの入口も検索になる？",
+            "speech": "みなみは運用の安全も注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Googleが接続アプリ基盤を公開、Geminiと検索を外部サービスの入口へ"
+        "telop_text": "Mistral Large 4の重み公開、企業・政府の自前導入とサイバー防御を訴求"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-10-29】Nvidia、40言語の文字起こしに対応する公開重みモデルを発表",
-      "summary": "Nemotron 3.5 Transcribeと音声データセットGranaryの新版を公開。最大１時間の録音と８人の話者識別に対応するが、ライブ音声は対象外。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "published_date": "2026-10-29",
+      "title": "【2026-10-30】Gemini、チャット内で文書やPDFの生成・編集が可能に",
+      "summary": "Geminiがファイルのプレビュー・編集機能を全ユーザー向けに提供開始。PDFはウェブとモバイルに対応し、その他の形式は当面ウェブ限定。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "published_date": "2026-10-30",
       "script": {
         "panels": [
           {
-            "speech": "速報！音声ＡＩの新モデル！",
+            "speech": "スマホに速報！文書も編集？",
             "narration": ""
           },
           {
-            "speech": "４０言語も文字起こし！？",
+            "speech": "チャットから出なくていい！",
             "narration": ""
           },
           {
-            "speech": "録音向けなのがポイント",
-            "narration": "NvidiaがNemotron 3.5 Transcribeを公開。最大１時間の録音と８人の話者識別に対応。ライブ音声には対応しない。"
+            "speech": "端末で対応が違うんだ",
+            "narration": "Gemini内で文書などの生成・編集が可能に。PDFはウェブとモバイル、その他の形式は当面ウェブのみ対応。"
           },
           {
-            "speech": "議事録も確認は忘れずに",
+            "speech": "みなみは仕上げを確認する",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "NvidiaがNemotron 3.5 Transcribeを公開、録音の多言語文字起こしを支援"
+        "telop_text": "Geminiでファイルを直接編集、PDF以外は当面ウェブ版に対応"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-10-29】Anthropic、企業のAI利用効果と費用を可視化するレポート機能を発表",
-      "summary": "社内分析と従業員調査を基に、チームの成果・費用・作業上の問題を可視化。改善提案やチーム共通のトークン予算管理も提供する。",
+      "title": "【2026-10-30】OpenAIが出資するThrive Holdings、警備大手ADTの買収を発表",
+      "summary": "Thrive HoldingsがADTを株式価値約76億ドルで買収すると発表。AIを活用した事業強化を目指すが、具体的な新製品は未発表。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "published_date": "2026-10-29",
+      "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "published_date": "2026-10-30",
       "script": {
         "panels": [
           {
-            "speech": "速報！ＡＩの費用が見える？",
+            "speech": "スマホに速報！ＡＤＴ買収？",
             "narration": ""
           },
           {
-            "speech": "成果まで比べられるの！？",
+            "speech": "警備とＡＩが大きく動く！",
             "narration": ""
           },
           {
-            "speech": "使った量だけじゃないんだ",
-            "narration": "Anthropicが企業向けレポート機能を発表。チームの成果、費用、作業の問題を示し、改善提案や共通予算の管理も提供する。"
+            "speech": "新製品はまだ未発表だね",
+            "narration": "OpenAIが出資・提携するThrive HoldingsがADT買収を発表。株式価値は約76億ドルで、具体的なAI新製品は未発表。"
           },
           {
-            "speech": "みなみも成果で説明しよう",
+            "speech": "みなみは暮らしへの効果待ち",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Anthropicが企業向け分析を強化、AI支出と成果の関係を可視化"
+        "telop_text": "Thrive HoldingsがADT買収を発表、AI活用の具体的な新製品は未発表"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-10-29】Meta、AI学習への懸念を受け事業者向け新規約の再延期を示唆",
-      "summary": "出版社がAI学習への利用を懸念する新規約について、Metaは協議が長引けば11月20日以降へ施行を延期すると説明。現行規約は維持される。",
+      "title": "【2026-10-30】【解説】MicrosoftのAI投資と人員削減、約6万人への希望退職提案を分析",
+      "summary": "The Vergeの解説は、Microsoftが約6万人に希望退職を提案したと報道。AIインフラ投資を維持するためのコスト・人員削減という文脈を分析する。",
       "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "published_date": "2026-10-29",
+      "source_url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "published_date": "2026-10-30",
       "script": {
         "panels": [
           {
-            "speech": "速報！Ｍｅｔａ規約に動き！",
+            "speech": "スマホに解説！６万人対象？",
             "narration": ""
           },
           {
-            "speech": "また延期の可能性！？",
+            "speech": "全員が退職する話じゃない！",
             "narration": ""
           },
           {
-            "speech": "まだ延期確定ではないよ",
-            "narration": "AI学習への利用を懸念する出版社の反発を受け、Metaは協議が長引けば新規約の施行を11月20日以降に延期すると説明した。"
+            "speech": "ＡＩ投資と雇用の転換か",
+            "narration": "The Vergeの解説記事。Microsoftによる約6万人への希望退職提案を、AI投資維持と人員コスト削減の観点から分析する。"
           },
           {
-            "speech": "同意の範囲こそ読みたいね",
+            "speech": "みなみは働く人への影響注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Metaの事業者向け新規約、出版社との協議次第で再延期の可能性"
+        "telop_text": "解説：Microsoftの希望退職提案、対象約6万人と実際の退職人数は別"
       }
     },
     {
       "rank": 5,
-      "title": "【2026-10-29】Chrome、Gmailの予約番号や配送情報をAIでフォーム入力に活用",
-      "summary": "GeminiのPersonal Intelligenceを利用した自動入力を米国で展開。Gmail内の予約番号や追跡番号などを提案し、利用者は設定で無効化できる。",
+      "title": "【2026-10-30】Nvidia CEOへの接近巡り米情報機関が調査と報道、同社は機密共有を否定",
+      "summary": "AIクラウド企業幹部とNvidia CEOの接触を米当局が調べたと報道。Nvidiaは通常の顧客対応だったとし、機密情報の共有を否定した。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "published_date": "2026-10-29",
+      "source_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "published_date": "2026-10-30",
       "script": {
         "panels": [
           {
-            "speech": "速報！メールから自動入力？",
+            "speech": "スマホに速報！接触を調査？",
             "narration": ""
           },
           {
-            "speech": "予約番号も探してくれる！",
+            "speech": "疑惑を事実と決めないで！",
             "narration": ""
           },
           {
-            "speech": "使うかは設定で選べるよ",
-            "narration": "ChromeのAI自動入力がGmail内の予約番号や配送情報を参照。米国で展開し、利用者は設定で有効・無効を選択できる。"
+            "speech": "会社側は機密共有を否定",
+            "narration": "米情報機関がAIクラウド企業幹部とNvidia CEOの接触を調査したとの報道。同社は通常の顧客対応で、機密共有はないと説明。"
           },
           {
-            "speech": "便利さと権限を見比べよう",
+            "speech": "みなみは裏付けを見守る",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "ChromeのAI自動入力がGmailと連携、予約番号などの転記を支援"
+        "telop_text": "Nvidia CEOへの接触を巡る調査報道、同社は機密情報の共有を否定"
       }
     },
     {
       "rank": 6,
-      "title": "【2026-10-29】Xreal、Geminiを利用できるAndroid XR搭載グラス「Aura」を発売",
-      "summary": "外付け処理端末につなぐ有線型グラスを発表。Geminiが画面の文脈理解を支援する。日本を含む４カ国で注文受付を開始し、11月中旬までの出荷開始を予定。",
+      "title": "【2026-10-30】Meta、手持ちの服でコーデを提案するAIアプリ「Style Sketch」を公開",
+      "summary": "MetaのStyle Sketchがインドネシア、シンガポール、タイで提供。写真から服を登録し、コーデ提案や体形・肌色に合わせた仮想試着ができる。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-      "published_date": "2026-10-29",
+      "source_url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "published_date": "2026-10-30",
       "script": {
         "panels": [
           {
-            "speech": "速報！Ａｕｒａが注文開始！",
+            "speech": "スマホに速報！服選びＡＩ？",
             "narration": ""
           },
           {
-            "speech": "メガネでＧｅｍｉｎｉ！？",
+            "speech": "手持ちの服で試着まで！",
             "narration": ""
           },
           {
-            "speech": "処理端末とは有線接続だよ",
-            "narration": "Xreal AuraはAndroid XR搭載のグラス。Geminiが画面の文脈理解を支援する。日本でも注文を受け付け、出荷開始は11月中旬までを予定。"
+            "speech": "まずは東南アジア３か国",
+            "narration": "MetaのStyle Sketchは服の写真からコーデを提案し、仮想試着にも対応。インドネシア、シンガポール、タイで提供されている。"
           },
           {
-            "speech": "未来の画面にもケーブルだ",
+            "speech": "みなみの服も活躍するかな",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Xreal Auraが日本でも注文受付、Android XRとGeminiを搭載"
+        "telop_text": "MetaのStyle Sketch、手持ちの服のコーデ提案と仮想試着に対応"
       }
     },
     {
       "rank": 7,
-      "title": "【2026-10-29】Microsoft、スマートテレビ向けCopilotのサポート終了へ",
-      "summary": "LGテレビの画面通知から、テレビ向けCopilotを2026年中に終了する方針が判明したと報道。具体的な停止日は示されていない。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "published_date": "2026-10-29",
+      "title": "【2026-10-30】元Palantir幹部のDream、建築向けAI世界モデルで1700万ドルを調達",
+      "summary": "Dreamがa16z主導で1700万ドルを調達。物理や建築基準を踏まえた設計支援を目指し、創業者によると米国内の10案件で導入されている。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "published_date": "2026-10-30",
       "script": {
         "panels": [
           {
-            "speech": "速報！テレビのＡＩが終了？",
+            "speech": "スマホに速報！建築のＡＩ？",
             "narration": ""
           },
           {
-            "speech": "Ｃｏｐｉｌｏｔが撤退！？",
+            "speech": "見た目だけの設計じゃない！",
             "narration": ""
           },
           {
-            "speech": "具体的な停止日は未定だよ",
-            "narration": "LGテレビの通知を基に、Microsoftがテレビ向けCopilotを2026年中に終了すると報道。具体的な停止日は示されていない。"
+            "speech": "構造や設備も考慮するんだ",
+            "narration": "Dreamが1700万ドルを調達。物理や建築基準を踏まえた設計支援モデルを開発し、創業者は米国内10案件での導入を説明した。"
           },
           {
-            "speech": "家電の機能も永遠じゃない",
+            "speech": "みなみは現場での検証に注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "テレビ向けCopilotが年内終了へ、LGの画面通知から判明と報道"
+        "telop_text": "Dreamが1700万ドル調達、建築の構造や設備を考慮するAIモデルを開発"
       }
     },
     {
       "rank": 8,
-      "title": "【2026-10-29】【論評】AI幹部の生活観と一般利用者の感覚の隔たりをTechCrunchが指摘",
-      "summary": "育児や人間関係をAIに委ねる幹部の発言を取り上げた論評。効率化を重視する開発側の価値観が、利用者の期待とずれる可能性を論じる。",
+      "title": "【2026-10-30】Granola、Macの各アプリで使える音声入力機能を公開",
+      "summary": "会議メモAIのGranolaが音声入力機能を公開。Macの各アプリで発話を整形して入力でき、iOSとWindowsへの対応も予定する。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "published_date": "2026-10-29",
+      "source_url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "published_date": "2026-10-30",
       "script": {
         "panels": [
           {
-            "speech": "スマホにＡＩ幹部の論評！",
+            "speech": "スマホに速報！音声入力も？",
             "narration": ""
           },
           {
-            "speech": "人間関係まで効率化！？",
+            "speech": "会議メモの外にも広がった！",
             "narration": ""
           },
           {
-            "speech": "製品発表ではなく論評だよ",
-            "narration": "TechCrunchの論評は、育児や人間関係へのAI利用を勧める幹部の発言から、開発側と一般利用者の価値観の隔たりを指摘する。"
+            "speech": "まずはＭａｃで使えるよ",
+            "narration": "Granolaが各アプリで使える音声入力を公開。発話を整形して入力し、iOSとWindowsへの対応も予定している。"
           },
           {
-            "speech": "みなみは自分で話したいな",
+            "speech": "みなみは送信前に読み直す",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "【論評】AIによる効率化と人間関係、開発側と利用者の感覚を問う"
+        "telop_text": "GranolaがMac向け音声入力を公開、iOS・Windowsにも対応予定"
       }
     }
   ]
