@@ -1,90 +1,58 @@
 {
-  "dispatchNo": "230",
-  "dateLabel": "2026.10.30",
+  "dispatchNo": "231",
+  "dateLabel": "2026.10.31",
   "top1": {
-    "title": "【2026-10-30】Mistral、1兆パラメータの「Large 4」重みを公開、サイバー防御への活用を訴求",
-    "lead1": "MistralがLarge 4のモデル重みを公開。企業や政府が自前の環境で導入できるようになった。",
-    "lead2": "サイバー防御での活用とデータ管理の自由度を訴求。競合に対する性能・効率の優位性は同社の主張だ。",
-    "manga_url": "news/top1_manga_2026-10-30.png",
+    "title": "【2026-10-31】Googleの宇宙AI実証衛星が稼働、搭載モデルが俳句を生成",
+    "lead1": "GoogleのSuncatcher実証衛星が稼働し、搭載AIモデルのGemma 4が宇宙を題材にした俳句を生成した。",
+    "lead2": "今後は熱や放射線によるTPUへの影響を検証。電力制約があり、大規模な宇宙データセンターの実現はまだ先の段階だ。",
+    "manga_url": "news/top1_manga_2026-10-31.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-30",
-        "manga_url": "news/top1_manga_2026-10-30_en.png",
-        "manga_sha256": "047978f2a3acbdd76c742437aacd2082a1e8d0bdb37dbb478926743b8a9e2b85",
+        "date": "2026-10-31",
+        "manga_url": "news/top1_manga_2026-10-31_en.png",
+        "manga_sha256": "10cb2254b424069419621f5a3211281da21fdff44e06ac6869bc524ec789fd8f",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-30] Mistral releases weights for trillion-parameter Large 4, touting cybersecurity defense applications",
-            "summary": "Mistral has released the model weights for Large 4. Companies and governments can deploy it themselves, with cybersecurity defense among its intended uses. Claims of superior performance and efficiency come from the company.",
+            "title": "[2026-10-31] Google's space AI demonstration satellite becomes operational, onboard model generates haiku",
+            "summary": "Google's Suncatcher demonstration satellite has become operational and generated haiku using its onboard Gemma 4 model. It will next examine the effects of heat and radiation in orbit on TPUs.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-            "published_date": "2026-10-30"
+            "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+            "published_date": "2026-10-31"
           },
           {
             "rank": 2,
-            "title": "[2026-10-30] Gemini adds document and PDF creation and editing within chats",
-            "summary": "Gemini has begun rolling out file preview and editing features to all users. PDFs are supported on the web and mobile, while other formats are currently limited to the web.",
+            "title": "[2026-10-31] Starbucks considers AI-personalized drive-through menus",
+            "summary": "Starbucks is considering digital menus tailored to individual customers. It also plans to begin testing AI to assist with order entry in 2027; no timeline has been set for introducing the menus.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-            "published_date": "2026-10-30"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+            "published_date": "2026-10-31"
           },
           {
             "rank": 3,
-            "title": "[2026-10-30] OpenAI-backed Thrive Holdings announces acquisition of security giant ADT",
-            "summary": "Thrive Holdings announced that it will acquire ADT at an equity valuation of approximately $7.6 billion. It aims to strengthen the business using AI, but no specific new products have been announced.",
+            "title": "[2026-10-31] Zest introduces AI for finding and booking restaurants through messages",
+            "summary": "Restaurant discovery app Zest has introduced AI that suggests restaurants and makes reservations within messages. It reconciles preferences in group chats and also supports voting.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-            "published_date": "2026-10-30"
+            "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+            "published_date": "2026-10-31"
           },
           {
             "rank": 4,
-            "title": "[2026-10-30] Analysis: Microsoft's AI spending and workforce cuts, including voluntary buyout offers to about 60,000 employees",
-            "summary": "An analysis by The Verge reports that Microsoft offered voluntary buyouts to approximately 60,000 employees. It examines the move in the context of cost and workforce reductions intended to sustain AI infrastructure investment.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-            "published_date": "2026-10-30"
-          },
-          {
-            "rank": 5,
-            "title": "[2026-10-30] US intelligence agencies reportedly investigated outreach to Nvidia CEO; company denies sharing confidential information",
-            "summary": "US authorities reportedly investigated contacts between an AI cloud company executive and Nvidia's CEO. Nvidia said the interactions were routine customer engagement and denied sharing confidential information.",
+            "title": "[2026-10-31] [Analysis] Theranos whistleblower warns of difficulties vetting AI investments and fraud risks",
+            "summary": "An analysis article presents remarks by Tyler Shultz. It highlights the importance of technical due diligence by investors, noting the difficulty of distinguishing proprietary technology from applications of existing AI.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-            "published_date": "2026-10-30"
-          },
-          {
-            "rank": 6,
-            "title": "[2026-10-30] Meta launches Style Sketch, an AI app that suggests outfits using clothes users already own",
-            "summary": "Meta's Style Sketch is available in Indonesia, Singapore and Thailand. Users can add clothing items from photos, receive outfit suggestions and virtually try on clothes tailored to their body shape and skin tone.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-            "published_date": "2026-10-30"
-          },
-          {
-            "rank": 7,
-            "title": "[2026-10-30] Dream, founded by a former Palantir executive, raises $17 million for an AI world model for architecture",
-            "summary": "Dream has raised $17 million in a round led by a16z. It aims to assist with designs that account for physics and building codes and, according to its founder, is being used on 10 projects in the United States.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-            "published_date": "2026-10-30"
-          },
-          {
-            "rank": 8,
-            "title": "[2026-10-30] Granola launches voice input across Mac apps",
-            "summary": "Granola, an AI meeting-notes tool, has launched a voice input feature. It can format spoken words and enter them into apps across the Mac, with support for iOS and Windows also planned.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-            "published_date": "2026-10-30"
+            "source_url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+            "published_date": "2026-10-31"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "42e0b9664d4a34350fa6a7f486212a5d4ca5254b54ee0f09719c8975c3d742c2"
+        "source_manga_sha256": "f2cb0c5a4f30891b0dfefde6a72915c95f552188ca7eb7c6016fff51cccfad31"
       }
     },
-    "media_updated_at": "2026-10-30"
+    "media_updated_at": "2026-10-31"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -96,26 +64,22 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-10-30】Gemini、チャット内で文書やPDFの生成・編集が可能に",
-    "【2026-10-30】OpenAIが出資するThrive Holdings、警備大手ADTの買収を発表",
-    "【2026-10-30】【解説】MicrosoftのAI投資と人員削減、約6万人への希望退職提案を分析",
-    "【2026-10-30】Nvidia CEOへの接近巡り米情報機関が調査と報道、同社は機密共有を否定",
-    "【2026-10-30】Meta、手持ちの服でコーデを提案するAIアプリ「Style Sketch」を公開",
-    "【2026-10-30】元Palantir幹部のDream、建築向けAI世界モデルで1700万ドルを調達",
-    "【2026-10-30】Granola、Macの各アプリで使える音声入力機能を公開"
+    "【2026-10-31】Starbucks、AIで個別化するドライブスルーメニューを検討",
+    "【2026-10-31】Zest、メッセージで飲食店探しから予約まで行うAIを導入",
+    "【2026-10-31】【解説】Theranos内部告発者、AI投資の検証難と詐欺リスクを警告"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-10-30】Gemini、チャット内で文書やPDFの生成・編集が可能に",
-      "summary": "Geminiがファイルのプレビュー・編集機能を全ユーザー向けに提供開始。PDFはウェブとモバイルに対応し、その他の形式は当面ウェブ限定。",
+      "title": "【2026-10-31】Starbucks、AIで個別化するドライブスルーメニューを検討",
+      "summary": "Starbucksは顧客に合わせたデジタルメニューを検討。2027年から注文入力を支援するAIも試験予定で、メニューの導入時期は未定。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-10-30】OpenAIが出資するThrive Holdings、警備大手ADTの買収を発表",
-      "summary": "Thrive HoldingsがADTを株式価値約76億ドルで買収すると発表。AIを活用した事業強化を目指すが、具体的な新製品は未発表。",
+      "title": "【2026-10-31】Zest、メッセージで飲食店探しから予約まで行うAIを導入",
+      "summary": "飲食店発見アプリのZestが、メッセージ内で店の提案や予約を行うAIを導入。グループチャットで好みを調整し、投票にも対応する。",
       "manga_url": "",
       "video_url": ""
     }
@@ -123,26 +87,18 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-10-30】【解説】MicrosoftのAI投資と人員削減、約6万人への希望退職提案を分析"
-    },
-    {
-      "rank": 5,
-      "title": "【2026-10-30】Nvidia CEOへの接近巡り米情報機関が調査と報道、同社は機密共有を否定"
-    },
-    {
-      "rank": 6,
-      "title": "【2026-10-30】Meta、手持ちの服でコーデを提案するAIアプリ「Style Sketch」を公開"
-    },
-    {
-      "rank": 7,
-      "title": "【2026-10-30】元Palantir幹部のDream、建築向けAI世界モデルで1700万ドルを調達"
-    },
-    {
-      "rank": 8,
-      "title": "【2026-10-30】Granola、Macの各アプリで使える音声入力機能を公開"
+      "title": "【2026-10-31】【解説】Theranos内部告発者、AI投資の検証難と詐欺リスクを警告"
     }
   ],
   "archive": [
+    {
+      "no": "230",
+      "kind": "✨ ラミッカ",
+      "date": "10.30",
+      "img": "news/top1_manga_2026-10-30.png",
+      "title": "【2026-10-30】Mistral、1兆パラメータの「Large 4」重みを公開、サイバー防御への活用を訴求",
+      "source_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+    },
     {
       "no": "229",
       "kind": "✨ ラミッカ",
