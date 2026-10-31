@@ -1,58 +1,34 @@
 {
-  "dispatchNo": "231",
-  "dateLabel": "2026.10.31",
+  "dispatchNo": "232",
+  "dateLabel": "2026.11.01",
   "top1": {
-    "title": "【2026-10-31】Googleの宇宙AI実証衛星が稼働、搭載モデルが俳句を生成",
-    "lead1": "GoogleのSuncatcher実証衛星が稼働し、搭載AIモデルのGemma 4が宇宙を題材にした俳句を生成した。",
-    "lead2": "今後は熱や放射線によるTPUへの影響を検証。電力制約があり、大規模な宇宙データセンターの実現はまだ先の段階だ。",
-    "manga_url": "news/top1_manga_2026-10-31.png",
+    "title": "【2026-11-01】OpenAI、資金調達目標を200億ドルに引き下げたと報道",
+    "lead1": "TechCrunchは、OpenAIが資金調達目標を300億ドルから200億ドルへ引き下げたとの報道を紹介した。",
+    "lead2": "大型投資家の反応の鈍さも報じられた。記事はOpenAIにコメントを求めたとしており、会社側の回答は記載していない。",
+    "manga_url": "news/top1_manga_2026-11-01.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-10-31",
-        "manga_url": "news/top1_manga_2026-10-31_en.png",
-        "manga_sha256": "10cb2254b424069419621f5a3211281da21fdff44e06ac6869bc524ec789fd8f",
+        "date": "2026-11-01",
+        "manga_url": "news/top1_manga_2026-11-01_en.png",
+        "manga_sha256": "b52f67e09492efb99a0f415ee6891a09081a1d08db2fd02377a8bcd1859357ee",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-10-31] Google's space AI demonstration satellite becomes operational, onboard model generates haiku",
-            "summary": "Google's Suncatcher demonstration satellite has become operational and generated haiku using its onboard Gemma 4 model. It will next examine the effects of heat and radiation in orbit on TPUs.",
+            "title": "[2026-11-01] OpenAI reportedly lowers fundraising target to $20 billion",
+            "summary": "According to TechCrunch, OpenAI reportedly lowered its fundraising target from $30 billion to $20 billion. Major investors showed limited interest, and the article does not include a response to a request for comment from the company.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-            "published_date": "2026-10-31"
-          },
-          {
-            "rank": 2,
-            "title": "[2026-10-31] Starbucks considers AI-personalized drive-through menus",
-            "summary": "Starbucks is considering digital menus tailored to individual customers. It also plans to begin testing AI to assist with order entry in 2027; no timeline has been set for introducing the menus.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-            "published_date": "2026-10-31"
-          },
-          {
-            "rank": 3,
-            "title": "[2026-10-31] Zest introduces AI for finding and booking restaurants through messages",
-            "summary": "Restaurant discovery app Zest has introduced AI that suggests restaurants and makes reservations within messages. It reconciles preferences in group chats and also supports voting.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-            "published_date": "2026-10-31"
-          },
-          {
-            "rank": 4,
-            "title": "[2026-10-31] [Analysis] Theranos whistleblower warns of difficulties vetting AI investments and fraud risks",
-            "summary": "An analysis article presents remarks by Tyler Shultz. It highlights the importance of technical due diligence by investors, noting the difficulty of distinguishing proprietary technology from applications of existing AI.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-            "published_date": "2026-10-31"
+            "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+            "published_date": "2026-11-01"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "f2cb0c5a4f30891b0dfefde6a72915c95f552188ca7eb7c6016fff51cccfad31"
+        "source_manga_sha256": "9a6315406108b6a0f68998113d7d2999273bc598a2f0caa664dda0c6c5e7b22a"
       }
     },
-    "media_updated_at": "2026-10-31"
+    "media_updated_at": "2026-11-01"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -63,34 +39,18 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [
-    "【2026-10-31】Starbucks、AIで個別化するドライブスルーメニューを検討",
-    "【2026-10-31】Zest、メッセージで飲食店探しから予約まで行うAIを導入",
-    "【2026-10-31】【解説】Theranos内部告発者、AI投資の検証難と詐欺リスクを警告"
-  ],
-  "topCards": [
-    {
-      "rank": 2,
-      "title": "【2026-10-31】Starbucks、AIで個別化するドライブスルーメニューを検討",
-      "summary": "Starbucksは顧客に合わせたデジタルメニューを検討。2027年から注文入力を支援するAIも試験予定で、メニューの導入時期は未定。",
-      "manga_url": "",
-      "video_url": ""
-    },
-    {
-      "rank": 3,
-      "title": "【2026-10-31】Zest、メッセージで飲食店探しから予約まで行うAIを導入",
-      "summary": "飲食店発見アプリのZestが、メッセージ内で店の提案や予約を行うAIを導入。グループチャットで好みを調整し、投票にも対応する。",
-      "manga_url": "",
-      "video_url": ""
-    }
-  ],
-  "topList": [
-    {
-      "rank": 4,
-      "title": "【2026-10-31】【解説】Theranos内部告発者、AI投資の検証難と詐欺リスクを警告"
-    }
-  ],
+  "breaking": [],
+  "topCards": [],
+  "topList": [],
   "archive": [
+    {
+      "no": "231",
+      "kind": "✨ ラミッカ",
+      "date": "10.31",
+      "img": "news/top1_manga_2026-10-31.png",
+      "title": "【2026-10-31】Googleの宇宙AI実証衛星が稼働、搭載モデルが俳句を生成",
+      "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+    },
     {
       "no": "230",
       "kind": "✨ ラミッカ",

@@ -1,121 +1,34 @@
 {
-  "date": "2026.10.31",
+  "date": "2026.11.01",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-10-31】Googleの宇宙AI実証衛星が稼働、搭載モデルが俳句を生成",
-      "summary": "GoogleのSuncatcher実証衛星が稼働し、搭載したGemma 4で俳句を生成。今後は軌道上の熱や放射線がTPUに及ぼす影響を検証する。",
+      "title": "【2026-11-01】OpenAI、資金調達目標を200億ドルに引き下げたと報道",
+      "summary": "TechCrunchによると、OpenAIは資金調達目標を300億ドルから200億ドルへ引き下げたと報じられた。大型投資家の反応は鈍く、同社へのコメント要請への回答は記事に記載されていない。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "published_date": "2026-10-31",
+      "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published_date": "2026-11-01",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！宇宙でＡＩ？",
+            "speech": "スマホに速報！調達目標減？",
             "narration": ""
           },
           {
-            "speech": "衛星が俳句を詠んだ！",
+            "speech": "えっ、２００億ドルに！？",
             "narration": ""
           },
           {
-            "speech": "次は宇宙環境で検証だね",
-            "narration": "Googleの実証衛星でGemma 4が応答。搭載TPUは４基だが、電力の制約で同時に動かせるのは１基、約20分間に限られる。"
+            "speech": "投資家の反応が鈍いの？",
+            "narration": "TechCrunchは、OpenAIが調達目標を300億ドルから200億ドルへ引き下げたとの報道を紹介。WSJによると、確保済みの資金は110億ドルという。"
           },
           {
-            "speech": "みなみは地上で続きを待つ",
+            "speech": "みなみは会社の説明も待つ",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Googleの宇宙AI実証衛星が稼働、今後はTPUの耐熱・放射線影響を検証"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "【2026-10-31】Starbucks、AIで個別化するドライブスルーメニューを検討",
-      "summary": "Starbucksは顧客に合わせたデジタルメニューを検討。2027年から注文入力を支援するAIも試験予定で、メニューの導入時期は未定。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "published_date": "2026-10-31",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに速報！スタバもＡＩ？",
-            "narration": ""
-          },
-          {
-            "speech": "メニューが私向けに変わる！？",
-            "narration": ""
-          },
-          {
-            "speech": "まだ検討段階なんだね",
-            "narration": "Starbucksは来店客に合わせたメニュー表示を検討。2027年からは注文入力を支援するAIも試験する予定だが、個別化メニューの導入時期は未定。"
-          },
-          {
-            "speech": "みなみの定番も見抜かれる？",
-            "narration": "次回おたのしみに"
-          }
-        ],
-        "telop_text": "Starbucksが個別化メニューを検討、注文入力支援AIは2027年から試験予定"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "【2026-10-31】Zest、メッセージで飲食店探しから予約まで行うAIを導入",
-      "summary": "飲食店発見アプリのZestが、メッセージ内で店の提案や予約を行うAIを導入。グループチャットで好みを調整し、投票にも対応する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "published_date": "2026-10-31",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに速報！店探しＡＩ？",
-            "narration": ""
-          },
-          {
-            "speech": "予約まで会話で済むの！？",
-            "narration": ""
-          },
-          {
-            "speech": "グループの好みも合わせる",
-            "narration": "ZestのAIはメッセージ内で飲食店を提案し、連携サービス経由で予約する。グループチャットでは参加者の好みを合わせ、投票で店を決められる。"
-          },
-          {
-            "speech": "みなみの店選び会議も終結？",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "ZestのAIがメッセージで飲食店を提案・予約、グループの店選びにも対応"
-      }
-    },
-    {
-      "rank": 4,
-      "title": "【2026-10-31】【解説】Theranos内部告発者、AI投資の検証難と詐欺リスクを警告",
-      "summary": "Tyler Shultz氏の発言を紹介する解説記事。独自技術と既存AIの応用を見分けにくいとして、投資家による技術検証の重要性を指摘する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "published_date": "2026-10-31",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに警鐘！ＡＩ投資に？",
-            "narration": ""
-          },
-          {
-            "speech": "独自技術か見抜けない！？",
-            "narration": ""
-          },
-          {
-            "speech": "宣伝より検証が大切だね",
-            "narration": "解説記事はTheranos内部告発者Shultz氏の警告を紹介。AIの独自性を調べる難しさが、投資家を欺く余地につながると指摘している。"
-          },
-          {
-            "speech": "みなみは根拠も確かめたい",
-            "narration": "次回おたのしみに"
-          }
-        ],
-        "telop_text": "解説：Theranos内部告発者がAI投資の検証難を指摘、独自技術の見極めに警鐘"
+        "telop_text": "OpenAIの資金調達目標引き下げが報道、会社側の見解は記事に記載なし"
       }
     }
   ]
