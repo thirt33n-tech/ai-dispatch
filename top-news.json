@@ -1,34 +1,34 @@
 {
-  "dispatchNo": "232",
-  "dateLabel": "2026.11.01",
+  "dispatchNo": "233",
+  "dateLabel": "2026.11.02",
   "top1": {
-    "title": "【2026-11-01】OpenAI、資金調達目標を200億ドルに引き下げたと報道",
-    "lead1": "TechCrunchは、OpenAIが資金調達目標を300億ドルから200億ドルへ引き下げたとの報道を紹介した。",
-    "lead2": "大型投資家の反応の鈍さも報じられた。記事はOpenAIにコメントを求めたとしており、会社側の回答は記載していない。",
-    "manga_url": "news/top1_manga_2026-11-01.png",
+    "title": "【2026-11-02】【解説】AIは誰の生活を便利にするのか、TechCrunchが経営者と一般利用者の認識差を議論",
+    "lead1": "TechCrunchの「Equity」が、AI企業経営者による育児や交際へのAI活用論を取り上げた。",
+    "lead2": "製品と宣伝の両面で一般利用者との隔たりを指摘し、人間同士の交流まで効率化することの是非を問う。",
+    "manga_url": "news/top1_manga_2026-11-02.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-01",
-        "manga_url": "news/top1_manga_2026-11-01_en.png",
-        "manga_sha256": "b52f67e09492efb99a0f415ee6891a09081a1d08db2fd02377a8bcd1859357ee",
+        "date": "2026-11-02",
+        "manga_url": "news/top1_manga_2026-11-02_en.png",
+        "manga_sha256": "4c9c752f077219b084ec213b36d7cc92facc8425e95bbc84343a14276e9dc276",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-01] OpenAI reportedly lowers fundraising target to $20 billion",
-            "summary": "According to TechCrunch, OpenAI reportedly lowered its fundraising target from $30 billion to $20 billion. Major investors showed limited interest, and the article does not include a response to a request for comment from the company.",
+            "title": "[2026-11-02] [Analysis] Whose lives does AI make easier? TechCrunch discusses the perception gap between executives and everyday users",
+            "summary": "TechCrunch's show Equity examined AI company executives' arguments for using AI in parenting, dating and other areas. It discussed the perception gap between executives and everyday users, and whether even human interactions should be made more efficient.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-            "published_date": "2026-11-01"
+            "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+            "published_date": "2026-11-02"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "9a6315406108b6a0f68998113d7d2999273bc598a2f0caa664dda0c6c5e7b22a"
+        "source_manga_sha256": "3146571fc0d049af1be01edc794de3b16db4f77ef9f6341a64f5bd45ca419cfa"
       }
     },
-    "media_updated_at": "2026-11-01"
+    "media_updated_at": "2026-11-02"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -43,6 +43,14 @@
   "topCards": [],
   "topList": [],
   "archive": [
+    {
+      "no": "232",
+      "kind": "✨ ラミッカ",
+      "date": "11.01",
+      "img": "news/top1_manga_2026-11-01.png",
+      "title": "【2026-11-01】OpenAI、資金調達目標を200億ドルに引き下げたと報道",
+      "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+    },
     {
       "no": "231",
       "kind": "✨ ラミッカ",

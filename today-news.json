@@ -1,34 +1,34 @@
 {
-  "date": "2026.11.01",
+  "date": "2026.11.02",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-01】OpenAI、資金調達目標を200億ドルに引き下げたと報道",
-      "summary": "TechCrunchによると、OpenAIは資金調達目標を300億ドルから200億ドルへ引き下げたと報じられた。大型投資家の反応は鈍く、同社へのコメント要請への回答は記事に記載されていない。",
+      "title": "【2026-11-02】【解説】AIは誰の生活を便利にするのか、TechCrunchが経営者と一般利用者の認識差を議論",
+      "summary": "TechCrunchの番組「Equity」が、AI企業経営者の育児・交際などへのAI活用論を検討。一般利用者との認識差や、人間同士の交流まで効率化することの是非を議論した。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "published_date": "2026-11-01",
+      "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "published_date": "2026-11-02",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！調達目標減？",
+            "speech": "スマホに速報！育児もＡＩ？",
             "narration": ""
           },
           {
-            "speech": "えっ、２００億ドルに！？",
+            "speech": "ええっ！交際まで任せるの！？",
             "narration": ""
           },
           {
-            "speech": "投資家の反応が鈍いの？",
-            "narration": "TechCrunchは、OpenAIが調達目標を300億ドルから200億ドルへ引き下げたとの報道を紹介。WSJによると、確保済みの資金は110億ドルという。"
+            "speech": "便利さは誰のため？",
+            "narration": "TechCrunchの解説番組が、AI経営者の活用論と一般利用者のニーズの隔たりを議論。人間同士の交流まで効率化することに疑問を投げかけた。"
           },
           {
-            "speech": "みなみは会社の説明も待つ",
+            "speech": "みなみは会話を省きたくない",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "OpenAIの資金調達目標引き下げが報道、会社側の見解は記事に記載なし"
+        "telop_text": "TechCrunch解説：育児や交際へのAI活用は、一般利用者が求める便利さと一致するのか"
       }
     }
   ]
