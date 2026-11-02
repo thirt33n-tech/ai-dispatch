@@ -1,34 +1,179 @@
 {
-  "date": "2026.11.02",
+  "date": "2026.11.03",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-02】【解説】AIは誰の生活を便利にするのか、TechCrunchが経営者と一般利用者の認識差を議論",
-      "summary": "TechCrunchの番組「Equity」が、AI企業経営者の育児・交際などへのAI活用論を検討。一般利用者との認識差や、人間同士の交流まで効率化することの是非を議論した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "published_date": "2026-11-02",
+      "title": "【2026-11-03】OpenAI、非常時に地域の電力を確保するデータセンター計画を発表",
+      "summary": "OpenAIは米ジョージア州で、異常気象や緊急時に最大1000メガワットの電力余力を確保する計画を試行すると発表。地域の電力網への負担軽減を掲げる。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "published_date": "2026-11-03",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！育児もＡＩ？",
+            "speech": "スマホに速報！電力を守る？",
             "narration": ""
           },
           {
-            "speech": "ええっ！交際まで任せるの！？",
+            "speech": "最大千メガワットも！？",
             "narration": ""
           },
           {
-            "speech": "便利さは誰のため？",
-            "narration": "TechCrunchの解説番組が、AI経営者の活用論と一般利用者のニーズの隔たりを議論。人間同士の交流まで効率化することに疑問を投げかけた。"
+            "speech": "非常時は地域を優先？",
+            "narration": "OpenAIはジョージア州の新設拠点で、非常時に最大1000メガワットの電力余力を確保する計画を試行する。"
           },
           {
-            "speech": "みなみは会話を省きたくない",
+            "speech": "みなみは実効性に注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "TechCrunch解説：育児や交際へのAI活用は、一般利用者が求める便利さと一致するのか"
+        "telop_text": "OpenAI、非常時の電力確保計画を試行へ。地域負担の軽減につながるか"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "【2026-11-03】NYタイムズなどがBraveを提訴、AI企業への記事提供を問題視",
+      "summary": "NYタイムズなどがBraveを提訴。著作権で保護された記事の無断収集やAI企業への提供、有料記事の閲覧制限回避などを問題視している。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "published_date": "2026-11-03",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！ブラウザ提訴？",
+            "narration": ""
+          },
+          {
+            "speech": "記事の供給元まで訴訟に！",
+            "narration": ""
+          },
+          {
+            "speech": "争点は無断収集と提供",
+            "narration": "NYタイムズなどは、Braveが記事を無断収集してAI企業に提供したなどと主張。違法性は訴訟で争われる。"
+          },
+          {
+            "speech": "みなみは権利の行方を追う",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "NYタイムズなどがBraveを提訴。AI向け記事提供の権利処理が争点に"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "【2026-11-03】Anthropic、Claude Codeによる既存ゲームの再現を抑制",
+      "summary": "AnthropicはOpus 5.5のClaude Codeの指示を変更し、特定の既存ゲームの再現を抑制。独自作品や利用者自身の素材による制作は引き続き認める。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "published_date": "2026-11-03",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！ゲーム再現制限？",
+            "narration": ""
+          },
+          {
+            "speech": "既存作の丸ごとはダメ！？",
+            "narration": ""
+          },
+          {
+            "speech": "独自ゲームは作れるよ",
+            "narration": "AnthropicはClaude Codeの指示を変更。特定の既存ゲームの再現を避け、独自作品や自作素材での制作は維持する。"
+          },
+          {
+            "speech": "みなみなら独自作で勝負",
+            "narration": "次回おたのしみに"
+          }
+        ],
+        "telop_text": "Claude Code、既存ゲームの再現を抑制。独自ゲームの制作は継続"
+      }
+    },
+    {
+      "rank": 4,
+      "title": "【2026-11-03】Grok Bot、提供コストを理由に利用上限を厳格化",
+      "summary": "Grok Botで週間利用枠が突然尽きたとの報告が相次いだ。マスク氏は提供コストが収益に比べ持続不可能なほど高いと説明。今後の上限は未説明だ。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "published_date": "2026-11-03",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！利用枠が満杯？",
+            "narration": ""
+          },
+          {
+            "speech": "使ってないのに上限！？",
+            "narration": ""
+          },
+          {
+            "speech": "提供コストが重いんだ",
+            "narration": "Grok Botの利用枠が突然尽きたとの報告に、マスク氏は提供コストが収益に比べ高すぎると説明。今後の上限は未説明。"
+          },
+          {
+            "speech": "みなみは上限説明を待つ",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Grok Botの利用制限、背景は提供コスト。今後の上限の説明はまだない"
+      }
+    },
+    {
+      "rank": 5,
+      "title": "【2026-11-03】42AI、人の行動予測モデルを公表、6250万ドルのシード資金",
+      "summary": "42AIが行動予測モデルと6250万ドルのシード資金を公表。金融仲介業者で活用するが、予測精度には文脈依存の限界があり、個人分析の悪用懸念も残る。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "published_date": "2026-11-03",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！行動を予測？",
+            "narration": ""
+          },
+          {
+            "speech": "決める前に読まれるの！？",
+            "narration": ""
+          },
+          {
+            "speech": "未来の断定ではないよ",
+            "narration": "42AIは心理傾向などから行動の確率を示すと説明。資金には創業者側の拠出も含み、精度の限界や悪用への懸念も残る。"
+          },
+          {
+            "speech": "みなみは使い道も気になる",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "42AIが行動予測モデルを公表。確率予測の限界と利用倫理にも注意"
+      }
+    },
+    {
+      "rank": 6,
+      "title": "【2026-11-03】Omen AI、冷却水監視を強化へAquatic Labsを1600万ドルで買収",
+      "summary": "Omen AIがAquatic Labsを現金・株式で1600万ドルで買収。水中成分とアルカリ度の監視技術を統合し、データセンターの冷却水管理改善を目指す。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "published_date": "2026-11-03",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！冷却水で買収？",
+            "narration": ""
+          },
+          {
+            "speech": "千六百万ドルの水センサー！",
+            "narration": ""
+          },
+          {
+            "speech": "水の異変を早く見つける",
+            "narration": "Omen AIはAquatic Labsを買収。水中成分とアルカリ度の監視技術を統合し、冷却水の長期利用や稼働停止の抑制を目指す。"
+          },
+          {
+            "speech": "みなみは水の節約にも期待",
+            "narration": "次回おたのしみに"
+          }
+        ],
+        "telop_text": "Omen AI、冷却水監視の技術を買収。AIインフラの水管理改善へ"
       }
     }
   ]

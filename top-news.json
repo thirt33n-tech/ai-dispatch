@@ -1,34 +1,74 @@
 {
-  "dispatchNo": "233",
-  "dateLabel": "2026.11.02",
+  "dispatchNo": "234",
+  "dateLabel": "2026.11.03",
   "top1": {
-    "title": "【2026-11-02】【解説】AIは誰の生活を便利にするのか、TechCrunchが経営者と一般利用者の認識差を議論",
-    "lead1": "TechCrunchの「Equity」が、AI企業経営者による育児や交際へのAI活用論を取り上げた。",
-    "lead2": "製品と宣伝の両面で一般利用者との隔たりを指摘し、人間同士の交流まで効率化することの是非を問う。",
-    "manga_url": "news/top1_manga_2026-11-02.png",
+    "title": "【2026-11-03】OpenAI、非常時に地域の電力を確保するデータセンター計画を発表",
+    "lead1": "OpenAIは米ジョージア州の新設データセンターで、非常時に最大1000メガワットの電力余力を確保する計画を試行する。",
+    "lead2": "電力網への負担や住民の反発が課題となる中、地域への貢献を掲げる。実際の負担軽減につながるかが焦点だ。",
+    "manga_url": "news/top1_manga_2026-11-03.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-02",
-        "manga_url": "news/top1_manga_2026-11-02_en.png",
-        "manga_sha256": "4c9c752f077219b084ec213b36d7cc92facc8425e95bbc84343a14276e9dc276",
+        "date": "2026-11-03",
+        "manga_url": "news/top1_manga_2026-11-03_en.png",
+        "manga_sha256": "0592ff855898f1cea1da65d99b2188cd5be510f6fbafcc1346ec4089fd874549",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-02] [Analysis] Whose lives does AI make easier? TechCrunch discusses the perception gap between executives and everyday users",
-            "summary": "TechCrunch's show Equity examined AI company executives' arguments for using AI in parenting, dating and other areas. It discussed the perception gap between executives and everyday users, and whether even human interactions should be made more efficient.",
+            "title": "[2026-11-03] OpenAI announces data center plan to secure power for local communities during emergencies",
+            "summary": "OpenAI announced it will pilot a plan in the U.S. state of Georgia to secure up to 1,000 megawatts of spare power capacity during extreme weather or emergencies. It says the aim is to reduce strain on the local power grid.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+            "published_date": "2026-11-03"
+          },
+          {
+            "rank": 2,
+            "title": "[2026-11-03] New York Times and others sue Brave over supplying articles to AI companies",
+            "summary": "The New York Times and others have sued Brave, challenging its alleged unauthorized collection of copyrighted articles, provision of those articles to AI companies, and circumvention of access restrictions on paid articles, among other practices.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-            "published_date": "2026-11-02"
+            "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+            "published_date": "2026-11-03"
+          },
+          {
+            "rank": 3,
+            "title": "[2026-11-03] Anthropic curbs recreation of existing games using Claude Code",
+            "summary": "Anthropic changed the instructions for Claude Code with Opus 5.5 to curb the recreation of specific existing games. It continues to allow original works and projects using users' own materials.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+            "published_date": "2026-11-03"
+          },
+          {
+            "rank": 4,
+            "title": "[2026-11-03] Grok Bot tightens usage limits, citing service costs",
+            "summary": "A succession of users reported that their weekly Grok Bot usage allowances had suddenly run out. Musk explained that the cost of providing the service was unsustainably high relative to revenue. Future limits have not yet been explained.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+            "published_date": "2026-11-03"
+          },
+          {
+            "rank": 5,
+            "title": "[2026-11-03] 42AI unveils human behavior prediction model and $62.5 million in seed funding",
+            "summary": "42AI unveiled a behavior prediction model and $62.5 million in seed funding. The model will be used by financial intermediaries, but its predictive accuracy has context-dependent limitations, and concerns remain about misuse of individual-level analysis.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+            "published_date": "2026-11-03"
+          },
+          {
+            "rank": 6,
+            "title": "[2026-11-03] Omen AI acquires Aquatic Labs for $16 million to strengthen cooling-water monitoring",
+            "summary": "Omen AI acquired Aquatic Labs for $16 million in cash and stock. It aims to improve data center cooling-water management by integrating technology for monitoring substances in water and alkalinity.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+            "published_date": "2026-11-03"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "3146571fc0d049af1be01edc794de3b16db4f77ef9f6341a64f5bd45ca419cfa"
+        "source_manga_sha256": "9c95bff146ff8060783d9e7bd2e8e7f91b7642010c3ae909fdf97755e78c92cf"
       }
     },
-    "media_updated_at": "2026-11-02"
+    "media_updated_at": "2026-11-03"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -39,10 +79,52 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [],
-  "topCards": [],
-  "topList": [],
+  "breaking": [
+    "【2026-11-03】NYタイムズなどがBraveを提訴、AI企業への記事提供を問題視",
+    "【2026-11-03】Anthropic、Claude Codeによる既存ゲームの再現を抑制",
+    "【2026-11-03】Grok Bot、提供コストを理由に利用上限を厳格化",
+    "【2026-11-03】42AI、人の行動予測モデルを公表、6250万ドルのシード資金",
+    "【2026-11-03】Omen AI、冷却水監視を強化へAquatic Labsを1600万ドルで買収"
+  ],
+  "topCards": [
+    {
+      "rank": 2,
+      "title": "【2026-11-03】NYタイムズなどがBraveを提訴、AI企業への記事提供を問題視",
+      "summary": "NYタイムズなどがBraveを提訴。著作権で保護された記事の無断収集やAI企業への提供、有料記事の閲覧制限回避などを問題視している。",
+      "manga_url": "",
+      "video_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "【2026-11-03】Anthropic、Claude Codeによる既存ゲームの再現を抑制",
+      "summary": "AnthropicはOpus 5.5のClaude Codeの指示を変更し、特定の既存ゲームの再現を抑制。独自作品や利用者自身の素材による制作は引き続き認める。",
+      "manga_url": "",
+      "video_url": ""
+    }
+  ],
+  "topList": [
+    {
+      "rank": 4,
+      "title": "【2026-11-03】Grok Bot、提供コストを理由に利用上限を厳格化"
+    },
+    {
+      "rank": 5,
+      "title": "【2026-11-03】42AI、人の行動予測モデルを公表、6250万ドルのシード資金"
+    },
+    {
+      "rank": 6,
+      "title": "【2026-11-03】Omen AI、冷却水監視を強化へAquatic Labsを1600万ドルで買収"
+    }
+  ],
   "archive": [
+    {
+      "no": "233",
+      "kind": "✨ ラミッカ",
+      "date": "11.02",
+      "img": "news/top1_manga_2026-11-02.png",
+      "title": "【2026-11-02】【解説】AIは誰の生活を便利にするのか、TechCrunchが経営者と一般利用者の認識差を議論",
+      "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+    },
     {
       "no": "232",
       "kind": "✨ ラミッカ",
