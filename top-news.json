@@ -1,74 +1,98 @@
 {
-  "dispatchNo": "234",
-  "dateLabel": "2026.11.03",
+  "dispatchNo": "235",
+  "dateLabel": "2026.11.04",
   "top1": {
-    "title": "【2026-11-03】OpenAI、非常時に地域の電力を確保するデータセンター計画を発表",
-    "lead1": "OpenAIは米ジョージア州の新設データセンターで、非常時に最大1000メガワットの電力余力を確保する計画を試行する。",
-    "lead2": "電力網への負担や住民の反発が課題となる中、地域への貢献を掲げる。実際の負担軽減につながるかが焦点だ。",
-    "manga_url": "news/top1_manga_2026-11-03.png",
+    "title": "【2026-11-04】Google、学校でAIを無効にすると検索も利用不可になる方針",
+    "lead1": "Googleは来年、学校管理者が明示的に有効化しない限り、児童生徒向けAIツールを無効にする方針を示した。",
+    "lead2": "ただしAIを全面制限するとGoogle検索も利用不可に。学校はAI利用と調べ学習の手段をどう両立するか判断を迫られる。",
+    "manga_url": "news/top1_manga_2026-11-04.png",
     "video_url": "",
-    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "source_url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-03",
-        "manga_url": "news/top1_manga_2026-11-03_en.png",
-        "manga_sha256": "0592ff855898f1cea1da65d99b2188cd5be510f6fbafcc1346ec4089fd874549",
+        "date": "2026-11-04",
+        "manga_url": "news/top1_manga_2026-11-04_en.png",
+        "manga_sha256": "db0daa2fc74a7ac707181dfe2567084d6bf7c66d725c842ebcc882e35abecd3d",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-03] OpenAI announces data center plan to secure power for local communities during emergencies",
-            "summary": "OpenAI announced it will pilot a plan in the U.S. state of Georgia to secure up to 1,000 megawatts of spare power capacity during extreme weather or emergencies. It says the aim is to reduce strain on the local power grid.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-            "published_date": "2026-11-03"
+            "title": "[2026-11-04] Google policy to make Search unavailable at schools that disable AI",
+            "summary": "Next year, Google will disable AI for schoolchildren unless school administrators explicitly enable it. Schools that fully restrict AI will also lose access to Google Search.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+            "published_date": "2026-11-04"
           },
           {
             "rank": 2,
-            "title": "[2026-11-03] New York Times and others sue Brave over supplying articles to AI companies",
-            "summary": "The New York Times and others have sued Brave, challenging its alleged unauthorized collection of copyrighted articles, provision of those articles to AI companies, and circumvention of access restrictions on paid articles, among other practices.",
+            "title": "[2026-11-04] Anthropic's computing costs rise to 58% of revenue: Analysis of new disclosures",
+            "summary": "[Analysis] Anthropic's new disclosures show that quarterly revenue grew to $17 billion, while computing costs as a share of revenue rose from 48% to 58%.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-            "published_date": "2026-11-03"
+            "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+            "published_date": "2026-11-04"
           },
           {
             "rank": 3,
-            "title": "[2026-11-03] Anthropic curbs recreation of existing games using Claude Code",
-            "summary": "Anthropic changed the instructions for Claude Code with Opus 5.5 to curb the recreation of specific existing games. It continues to allow original works and projects using users' own materials.",
+            "title": "[2026-11-04] OpenAI claims ChatGPT search volume equals 20% of Google's",
+            "summary": "OpenAI says ChatGPT's search volume has reached the equivalent of 20% of Google's. However, it has not identified the source of the Google search figures used in the comparison.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-            "published_date": "2026-11-03"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+            "published_date": "2026-11-04"
           },
           {
             "rank": 4,
-            "title": "[2026-11-03] Grok Bot tightens usage limits, citing service costs",
-            "summary": "A succession of users reported that their weekly Grok Bot usage allowances had suddenly run out. Musk explained that the cost of providing the service was unsustainably high relative to revenue. Future limits have not yet been explained.",
+            "title": "[2026-11-04] AI inference company Fal raises $1.3 billion at a $16 billion valuation",
+            "summary": "Fal, which provides inference infrastructure for image, video and audio models, has raised $1.3 billion. Its valuation doubled from $8 billion in April to $16 billion.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-            "published_date": "2026-11-03"
+            "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+            "published_date": "2026-11-04"
           },
           {
             "rank": 5,
-            "title": "[2026-11-03] 42AI unveils human behavior prediction model and $62.5 million in seed funding",
-            "summary": "42AI unveiled a behavior prediction model and $62.5 million in seed funding. The model will be used by financial intermediaries, but its predictive accuracy has context-dependent limitations, and concerns remain about misuse of individual-level analysis.",
+            "title": "[2026-11-04] Apple requires 18+ ratings for AI companions involving romance or sexual content",
+            "summary": "Apple requires an 18+ rating for AI companions and other offerings involving romantic relationships or sexual content. Developers will need to comply with new content descriptors starting November 16.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-            "published_date": "2026-11-03"
+            "source_url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+            "published_date": "2026-11-04"
           },
           {
             "rank": 6,
-            "title": "[2026-11-03] Omen AI acquires Aquatic Labs for $16 million to strengthen cooling-water monitoring",
-            "summary": "Omen AI acquired Aquatic Labs for $16 million in cash and stock. It aims to improve data center cooling-water management by integrating technology for monitoring substances in water and alkalinity.",
+            "title": "[2026-11-04] Apple Watch adds conversation summaries and transcription of the preceding 15 seconds in developer beta",
+            "summary": "The watchOS 27.3 developer beta introduces Siri Recap, which summarizes conversations, and Live Rewind, which transcribes the preceding 15 seconds of audio.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+            "published_date": "2026-11-04"
+          },
+          {
+            "rank": 7,
+            "title": "[2026-11-04] Netflix tests mood-based title discovery with AI Discover in the US",
+            "summary": "Netflix is introducing AI Discover, which lets users find titles based on their mood, available viewing time and other factors. It is beginning a phased rollout for English-language users on supported TVs in the US.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-            "published_date": "2026-11-03"
+            "source_url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+            "published_date": "2026-11-04"
+          },
+          {
+            "rank": 8,
+            "title": "[2026-11-04] Analysis of Apple's AI revenue strategy, centered on device sales and services",
+            "summary": "[Analysis] The Verge analyzes Apple's AI strategy. In addition to device sales and app commissions, Apple plans to offer purchases of additional usage allowances for its own server-based AI features.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+            "published_date": "2026-11-04"
+          },
+          {
+            "rank": 9,
+            "title": "[2026-11-04] OpenAI's \"compute campus\" label draws criticism: Examining power measures and their effectiveness",
+            "summary": "[Analysis] OpenAI described data centers as \"compute campuses\" in an announcement about measures to address electricity needs. The Verge reported on measures to address burdens on local communities and on critics' views.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+            "published_date": "2026-11-04"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "9c95bff146ff8060783d9e7bd2e8e7f91b7642010c3ae909fdf97755e78c92cf"
+        "source_manga_sha256": "5500b68e2e92738c55640a8d65cdadd56e19280979742eefcfbcc3d8d7495d5e"
       }
     },
-    "media_updated_at": "2026-11-03"
+    "media_updated_at": "2026-11-04"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -80,24 +104,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-03】NYタイムズなどがBraveを提訴、AI企業への記事提供を問題視",
-    "【2026-11-03】Anthropic、Claude Codeによる既存ゲームの再現を抑制",
-    "【2026-11-03】Grok Bot、提供コストを理由に利用上限を厳格化",
-    "【2026-11-03】42AI、人の行動予測モデルを公表、6250万ドルのシード資金",
-    "【2026-11-03】Omen AI、冷却水監視を強化へAquatic Labsを1600万ドルで買収"
+    "【2026-11-04】Anthropicの計算費用が売上高の58％に上昇、新規開示を分析",
+    "【2026-11-04】OpenAI、ChatGPTの検索件数がGoogleの20％相当と主張",
+    "【2026-11-04】AI推論のFalが13億ドル調達、評価額160億ドルに",
+    "【2026-11-04】Apple、恋愛・性的内容を扱うAIコンパニオンに18歳以上の年齢区分",
+    "【2026-11-04】Apple Watch、会話要約と直前15秒の文字起こしを開発者ベータに追加",
+    "【2026-11-04】Netflix、気分に合わせて作品を探す「AI Discover」を米国で試験展開",
+    "【2026-11-04】AppleのAI収益戦略を分析、端末販売とサービスを軸に"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-03】NYタイムズなどがBraveを提訴、AI企業への記事提供を問題視",
-      "summary": "NYタイムズなどがBraveを提訴。著作権で保護された記事の無断収集やAI企業への提供、有料記事の閲覧制限回避などを問題視している。",
+      "title": "【2026-11-04】Anthropicの計算費用が売上高の58％に上昇、新規開示を分析",
+      "summary": "【解説】Anthropicの新規開示では四半期売上高が170億ドルに拡大した一方、計算費用の売上高比率は48％から58％へ上昇した。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-11-03】Anthropic、Claude Codeによる既存ゲームの再現を抑制",
-      "summary": "AnthropicはOpus 5.5のClaude Codeの指示を変更し、特定の既存ゲームの再現を抑制。独自作品や利用者自身の素材による制作は引き続き認める。",
+      "title": "【2026-11-04】OpenAI、ChatGPTの検索件数がGoogleの20％相当と主張",
+      "summary": "OpenAIはChatGPTの検索件数がGoogleの20％相当に達したと説明。ただし比較に使ったGoogleの検索件数の出典は示していない。",
       "manga_url": "",
       "video_url": ""
     }
@@ -105,18 +131,38 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-11-03】Grok Bot、提供コストを理由に利用上限を厳格化"
+      "title": "【2026-11-04】AI推論のFalが13億ドル調達、評価額160億ドルに"
     },
     {
       "rank": 5,
-      "title": "【2026-11-03】42AI、人の行動予測モデルを公表、6250万ドルのシード資金"
+      "title": "【2026-11-04】Apple、恋愛・性的内容を扱うAIコンパニオンに18歳以上の年齢区分"
     },
     {
       "rank": 6,
-      "title": "【2026-11-03】Omen AI、冷却水監視を強化へAquatic Labsを1600万ドルで買収"
+      "title": "【2026-11-04】Apple Watch、会話要約と直前15秒の文字起こしを開発者ベータに追加"
+    },
+    {
+      "rank": 7,
+      "title": "【2026-11-04】Netflix、気分に合わせて作品を探す「AI Discover」を米国で試験展開"
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-04】AppleのAI収益戦略を分析、端末販売とサービスを軸に"
+    },
+    {
+      "rank": 9,
+      "title": "【2026-11-04】OpenAIの「計算キャンパス」呼称に批判、電力対策と実効性を検証"
     }
   ],
   "archive": [
+    {
+      "no": "234",
+      "kind": "✨ ラミッカ",
+      "date": "11.03",
+      "img": "news/top1_manga_2026-11-03.png",
+      "title": "【2026-11-03】OpenAI、非常時に地域の電力を確保するデータセンター計画を発表",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
+    },
     {
       "no": "233",
       "kind": "✨ ラミッカ",
