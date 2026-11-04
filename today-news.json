@@ -1,14 +1,43 @@
 {
-  "date": "2026.11.04",
+  "date": "2026.11.05",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-04】Google、学校でAIを無効にすると検索も利用不可になる方針",
-      "summary": "Googleは来年、学校管理者が明示的に有効化しない限り児童生徒向けAIを無効にする。AIを全面制限する学校ではGoogle検索も利用できなくなる。",
+      "title": "【2026-11-05】ChatGPTがGIF生成に対応、Images 2.6で画像生成も高速化",
+      "summary": "OpenAIがImages 2.6を展開。ChatGPTで文章や写真からGIFを生成し、再生速度や個別フレームを編集できる。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "published_date": "2026-11-05",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！ＧＩＦも作れる？",
+            "narration": ""
+          },
+          {
+            "speech": "ええっ、写真から動かせる！",
+            "narration": ""
+          },
+          {
+            "speech": "速度もコマも編集できるんだ",
+            "narration": "ChatGPTが文章や写真からのGIF生成に対応。Images 2.6では画像生成も高速化する。"
+          },
+          {
+            "speech": "みなみの猫も踊らせたい",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "ChatGPTがGIF生成に対応、再生速度・フレーム編集も可能に"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "【2026-11-05】Googleの学校向け検索とAIの一体化方針に反発、選択権が争点に",
+      "summary": "学校でAIを制限すると検索も使えなくなる方針に批判。GoogleはGeminiなどと検索を個別に有効化できると説明した。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "published_date": "2026-11-04",
+      "source_url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "published_date": "2026-11-05",
       "script": {
         "panels": [
           {
@@ -16,251 +45,77 @@
             "narration": ""
           },
           {
-            "speech": "ＡＩを切ると検索も使えない！",
+            "speech": "ＡＩを断ると検索まで！？",
             "narration": ""
           },
           {
-            "speech": "学校はどう選べばいいの？",
-            "narration": "Googleは来年、児童生徒向けAIを管理者の明示的な有効化が必要な方式へ変更。AIを全面制限すると検索も利用できなくなる。"
+            "speech": "検索内のＡＩが争点なんだ",
+            "narration": "学校向け検索とAIの一体化に批判。Googleは検索とGeminiなどを個別に有効化できると説明した。"
           },
           {
-            "speech": "みなみは別々に選びたい",
+            "speech": "みなみは選べる学校がいい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Google、学校向けAIの全面制限で検索も利用不可にする方針"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "【2026-11-04】Anthropicの計算費用が売上高の58％に上昇、新規開示を分析",
-      "summary": "【解説】Anthropicの新規開示では四半期売上高が170億ドルに拡大した一方、計算費用の売上高比率は48％から58％へ上昇した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "published_date": "2026-11-04",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに売上急増の記事！",
-            "narration": ""
-          },
-          {
-            "speech": "計算費用も膨らんでる！",
-            "narration": ""
-          },
-          {
-            "speech": "需要増でも楽じゃないね",
-            "narration": "開示資料を分析した記事。四半期売上高は170億ドルに伸びたが、計算費用は売上高の58％に上昇。高価な短期契約が負担となった。"
-          },
-          {
-            "speech": "みなみは費用にも注目",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "解説：Anthropic、急成長の裏で計算費用の負担が拡大"
+        "telop_text": "学校のAI利用と検索の選択権を巡りGoogleに批判"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-11-04】OpenAI、ChatGPTの検索件数がGoogleの20％相当と主張",
-      "summary": "OpenAIはChatGPTの検索件数がGoogleの20％相当に達したと説明。ただし比較に使ったGoogleの検索件数の出典は示していない。",
+      "title": "【2026-11-05】Nothing、画面のない初のAI機器を12月に出荷へ",
+      "summary": "Nothingのカール・ペイCEOが初のAIネイティブ製品を予告。画面を持たず、アプリでは実現できない機器と説明した。",
       "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "published_date": "2026-11-04",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "published_date": "2026-11-05",
       "script": {
         "panels": [
           {
-            "speech": "スマホに検索競争の速報！",
+            "speech": "スマホに速報！画面なしＡＩ？",
             "narration": ""
           },
           {
-            "speech": "グーグルの２割相当だって！",
+            "speech": "ええっ、来月もう出荷！？",
             "narration": ""
           },
           {
-            "speech": "比較の根拠も知りたいね",
-            "narration": "OpenAIは、ウェブ検索を伴うChatGPTの入力件数がGoogleの検索件数の20％相当と説明。Google側の数値の出典は明示していない。"
+            "speech": "形も使い道も気になるね",
+            "narration": "NothingのCEOが12月出荷予定のAI機器を予告。画面は搭載せず、具体的な形状や用途は明かしていない。"
           },
           {
-            "speech": "みなみは数字を慎重に見る",
+            "speech": "みなみは正体が知りたい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "ChatGPT検索がGoogleの20％相当とOpenAIが説明、比較元の出典は未提示"
+        "telop_text": "Nothingが画面なしのAI機器を予告、詳細は未公表"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-11-04】AI推論のFalが13億ドル調達、評価額160億ドルに",
-      "summary": "画像・動画・音声モデルの推論基盤を提供するFalが13億ドルを調達。評価額は4月の80億ドルから160億ドルへ倍増した。",
+      "title": "【2026-11-05】【試用レビュー】AppleのSiri Recaps、会話要約の便利さと常時記録への懸念",
+      "summary": "TechCrunchがApple Watchの会話要約機能を試用。重要事項を残せる一方、不要な会話の記録や話題の混在を課題に挙げた。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "published_date": "2026-11-04",
+      "source_url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "published_date": "2026-11-05",
       "script": {
         "panels": [
           {
-            "speech": "スマホにＦａｌの調達速報！",
+            "speech": "スマホで発見！会話を要約？",
             "narration": ""
           },
           {
-            "speech": "評価額が倍になった！",
+            "speech": "えっ、雑談まで残るの！？",
             "narration": ""
           },
           {
-            "speech": "推論の需要が伸びてるね",
-            "narration": "AIモデルの実行基盤を提供するFalが13億ドルを調達。評価額は160億ドルとなり、4月の評価額から倍増した。"
+            "speech": "便利さと記録範囲が課題ね",
+            "narration": "Siri Recapsの試用レビュー。修理費用などを記録できた一方、不要な雑談の保存や話題の混在も報告された。"
           },
           {
-            "speech": "みなみは採算にも注目",
+            "speech": "みなみは使う場面を選びたい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Falが13億ドルを調達、AI推論需要を背景に評価額が倍増"
-      }
-    },
-    {
-      "rank": 5,
-      "title": "【2026-11-04】Apple、恋愛・性的内容を扱うAIコンパニオンに18歳以上の年齢区分",
-      "summary": "Appleは恋愛関係や性的内容を扱うAIコンパニオンなどに18歳以上の区分を要求。開発者は11月16日から新たな内容記述への対応が必要になる。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "published_date": "2026-11-04",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホにアプリ規約の速報！",
-            "narration": ""
-          },
-          {
-            "speech": "恋愛ＡＩも１８歳以上に！",
-            "narration": ""
-          },
-          {
-            "speech": "機能に応じた区分なんだね",
-            "narration": "Appleは恋愛関係や性的内容を扱うAIコンパニオンなどに18歳以上の区分を要求。11月16日から新しい内容記述が必要になる。"
-          },
-          {
-            "speech": "みなみは対象機能を確認",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Apple、恋愛・性的内容を扱うAIコンパニオンなどの年齢区分を厳格化"
-      }
-    },
-    {
-      "rank": 6,
-      "title": "【2026-11-04】Apple Watch、会話要約と直前15秒の文字起こしを開発者ベータに追加",
-      "summary": "watchOS 27.3開発者ベータに会話を要約するSiri Recapと、直前15秒の音声を文字化するLive Rewindが登場した。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-      "published_date": "2026-11-04",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに時計の新機能速報！",
-            "narration": ""
-          },
-          {
-            "speech": "直前１５秒を文字にできる！",
-            "narration": ""
-          },
-          {
-            "speech": "まだ開発者向けの試験だね",
-            "narration": "watchOS 27.3開発者ベータに、会話要約のSiri Recapと直前15秒の文字起こしを行うLive Rewindが追加された。"
-          },
-          {
-            "speech": "みなみは周囲への配慮も確認",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Apple Watchの開発者ベータに会話要約と直前15秒の文字起こし"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "【2026-11-04】Netflix、気分に合わせて作品を探す「AI Discover」を米国で試験展開",
-      "summary": "Netflixは気分や視聴時間などに応じて作品を探せるAI Discoverを導入。米国の対応テレビで英語利用者向けに段階的な展開を始める。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "published_date": "2026-11-04",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホにネトフリの新機能！",
-            "narration": ""
-          },
-          {
-            "speech": "気分で作品を探せるの！",
-            "narration": ""
-          },
-          {
-            "speech": "まず米国で試すんだね",
-            "narration": "AI Discoverは気分や視聴時間などに合う作品を提案する試験機能。米国の対応テレビで英語利用者向けに展開を開始する。"
-          },
-          {
-            "speech": "みなみの作品選びも短縮？",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "NetflixがAI Discoverを試験展開、気分や空き時間に合わせて作品を提案"
-      }
-    },
-    {
-      "rank": 8,
-      "title": "【2026-11-04】AppleのAI収益戦略を分析、端末販売とサービスを軸に",
-      "summary": "【解説】The VergeはAppleのAI戦略を分析。端末販売やアプリ手数料に加え、自社のサーバー型AI機能で利用枠の追加購入を計画している。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "published_date": "2026-11-04",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホにアップル決算の解説！",
-            "narration": ""
-          },
-          {
-            "speech": "ＡＩの稼ぎ方は一つじゃない！",
-            "narration": ""
-          },
-          {
-            "speech": "端末もサービスも柱なんだ",
-            "narration": "決算を基にした解説記事。Appleは端末販売や外部AIアプリの手数料に加え、自社のサーバー型AI機能で利用枠の追加購入を計画している。"
-          },
-          {
-            "speech": "みなみは料金設計が気になる",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "解説：AppleのAI収益戦略、端末・手数料・追加利用枠を組み合わせ"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "【2026-11-04】OpenAIの「計算キャンパス」呼称に批判、電力対策と実効性を検証",
-      "summary": "【解説】OpenAIが電力対策の発表でデータセンターを「計算キャンパス」と表現。The Vergeは地域負担への対策と批判側の見解を報じた。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-      "published_date": "2026-11-04",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホにＡＩ施設の呼称記事！",
-            "narration": ""
-          },
-          {
-            "speech": "今度は計算キャンパス！",
-            "narration": ""
-          },
-          {
-            "speech": "名前より地域への影響だね",
-            "narration": "OpenAIは電力対策の発表で「計算キャンパス」という呼称を使用。記事は同社の費用負担の約束と、名称変更では環境問題は解決しないとの批判を紹介した。"
-          },
-          {
-            "speech": "みなみは対策の実行を見たい",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "解説：OpenAIの「計算キャンパス」呼称、地域の電力・環境負担への対応が焦点"
+        "telop_text": "Siri Recaps試用レビュー、会話要約の実用性と記録範囲の課題"
       }
     }
   ]

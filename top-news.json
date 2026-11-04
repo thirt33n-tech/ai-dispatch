@@ -1,98 +1,58 @@
 {
-  "dispatchNo": "235",
-  "dateLabel": "2026.11.04",
+  "dispatchNo": "236",
+  "dateLabel": "2026.11.05",
   "top1": {
-    "title": "【2026-11-04】Google、学校でAIを無効にすると検索も利用不可になる方針",
-    "lead1": "Googleは来年、学校管理者が明示的に有効化しない限り、児童生徒向けAIツールを無効にする方針を示した。",
-    "lead2": "ただしAIを全面制限するとGoogle検索も利用不可に。学校はAI利用と調べ学習の手段をどう両立するか判断を迫られる。",
-    "manga_url": "news/top1_manga_2026-11-04.png",
+    "title": "【2026-11-05】ChatGPTがGIF生成に対応、Images 2.6で画像生成も高速化",
+    "lead1": "ChatGPTが文章やアップロードした写真からGIFを生成できるようになりました。",
+    "lead2": "再生速度や個別フレームの編集にも対応。Images 2.6では画像生成も高速化するとしています。",
+    "manga_url": "news/top1_manga_2026-11-05.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-04",
-        "manga_url": "news/top1_manga_2026-11-04_en.png",
-        "manga_sha256": "db0daa2fc74a7ac707181dfe2567084d6bf7c66d725c842ebcc882e35abecd3d",
+        "date": "2026-11-05",
+        "manga_url": "news/top1_manga_2026-11-05_en.png",
+        "manga_sha256": "f9a4b5d4404f1274162c83b9f7473047dbebc03c2470094909c7dd212a06257c",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-04] Google policy to make Search unavailable at schools that disable AI",
-            "summary": "Next year, Google will disable AI for schoolchildren unless school administrators explicitly enable it. Schools that fully restrict AI will also lose access to Google Search.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-            "published_date": "2026-11-04"
+            "title": "[2026-11-05] ChatGPT adds GIF generation; Images 2.6 also speeds up image generation",
+            "summary": "OpenAI is rolling out Images 2.6. ChatGPT can generate GIFs from text or photos and let users edit playback speed and individual frames.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+            "published_date": "2026-11-05"
           },
           {
             "rank": 2,
-            "title": "[2026-11-04] Anthropic's computing costs rise to 58% of revenue: Analysis of new disclosures",
-            "summary": "[Analysis] Anthropic's new disclosures show that quarterly revenue grew to $17 billion, while computing costs as a share of revenue rose from 48% to 58%.",
+            "title": "[2026-11-05] Google's plan to tie school search access to AI draws backlash, with freedom of choice at issue",
+            "summary": "Critics objected to a policy under which restricting AI in schools would also disable search. Google explained that Search and services such as Gemini can be enabled separately.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-            "published_date": "2026-11-04"
+            "source_url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+            "published_date": "2026-11-05"
           },
           {
             "rank": 3,
-            "title": "[2026-11-04] OpenAI claims ChatGPT search volume equals 20% of Google's",
-            "summary": "OpenAI says ChatGPT's search volume has reached the equivalent of 20% of Google's. However, it has not identified the source of the Google search figures used in the comparison.",
+            "title": "[2026-11-05] Nothing to ship its first screenless AI device in December",
+            "summary": "Nothing CEO Carl Pei previewed the company's first AI-native product. He described it as a screenless device that offers something an app cannot deliver.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-            "published_date": "2026-11-04"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+            "published_date": "2026-11-05"
           },
           {
             "rank": 4,
-            "title": "[2026-11-04] AI inference company Fal raises $1.3 billion at a $16 billion valuation",
-            "summary": "Fal, which provides inference infrastructure for image, video and audio models, has raised $1.3 billion. Its valuation doubled from $8 billion in April to $16 billion.",
+            "title": "[2026-11-05] [Hands-on review] Apple's Siri Recaps: convenient conversation summaries, but concerns over constant recording",
+            "summary": "TechCrunch tried Apple Watch's conversation summary feature. While it can preserve important points, the publication cited the recording of unwanted conversations and the mixing of topics as problems.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-            "published_date": "2026-11-04"
-          },
-          {
-            "rank": 5,
-            "title": "[2026-11-04] Apple requires 18+ ratings for AI companions involving romance or sexual content",
-            "summary": "Apple requires an 18+ rating for AI companions and other offerings involving romantic relationships or sexual content. Developers will need to comply with new content descriptors starting November 16.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-            "published_date": "2026-11-04"
-          },
-          {
-            "rank": 6,
-            "title": "[2026-11-04] Apple Watch adds conversation summaries and transcription of the preceding 15 seconds in developer beta",
-            "summary": "The watchOS 27.3 developer beta introduces Siri Recap, which summarizes conversations, and Live Rewind, which transcribes the preceding 15 seconds of audio.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-            "published_date": "2026-11-04"
-          },
-          {
-            "rank": 7,
-            "title": "[2026-11-04] Netflix tests mood-based title discovery with AI Discover in the US",
-            "summary": "Netflix is introducing AI Discover, which lets users find titles based on their mood, available viewing time and other factors. It is beginning a phased rollout for English-language users on supported TVs in the US.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-            "published_date": "2026-11-04"
-          },
-          {
-            "rank": 8,
-            "title": "[2026-11-04] Analysis of Apple's AI revenue strategy, centered on device sales and services",
-            "summary": "[Analysis] The Verge analyzes Apple's AI strategy. In addition to device sales and app commissions, Apple plans to offer purchases of additional usage allowances for its own server-based AI features.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-            "published_date": "2026-11-04"
-          },
-          {
-            "rank": 9,
-            "title": "[2026-11-04] OpenAI's \"compute campus\" label draws criticism: Examining power measures and their effectiveness",
-            "summary": "[Analysis] OpenAI described data centers as \"compute campuses\" in an announcement about measures to address electricity needs. The Verge reported on measures to address burdens on local communities and on critics' views.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-            "published_date": "2026-11-04"
+            "source_url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+            "published_date": "2026-11-05"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "5500b68e2e92738c55640a8d65cdadd56e19280979742eefcfbcc3d8d7495d5e"
+        "source_manga_sha256": "5bb5dfd8b64a97d619c68bd96e8464d4874ea4fc2d78c16e68cc915f054a0282"
       }
     },
-    "media_updated_at": "2026-11-04"
+    "media_updated_at": "2026-11-05"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -104,26 +64,22 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-04】Anthropicの計算費用が売上高の58％に上昇、新規開示を分析",
-    "【2026-11-04】OpenAI、ChatGPTの検索件数がGoogleの20％相当と主張",
-    "【2026-11-04】AI推論のFalが13億ドル調達、評価額160億ドルに",
-    "【2026-11-04】Apple、恋愛・性的内容を扱うAIコンパニオンに18歳以上の年齢区分",
-    "【2026-11-04】Apple Watch、会話要約と直前15秒の文字起こしを開発者ベータに追加",
-    "【2026-11-04】Netflix、気分に合わせて作品を探す「AI Discover」を米国で試験展開",
-    "【2026-11-04】AppleのAI収益戦略を分析、端末販売とサービスを軸に"
+    "【2026-11-05】Googleの学校向け検索とAIの一体化方針に反発、選択権が争点に",
+    "【2026-11-05】Nothing、画面のない初のAI機器を12月に出荷へ",
+    "【2026-11-05】【試用レビュー】AppleのSiri Recaps、会話要約の便利さと常時記録への懸念"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-04】Anthropicの計算費用が売上高の58％に上昇、新規開示を分析",
-      "summary": "【解説】Anthropicの新規開示では四半期売上高が170億ドルに拡大した一方、計算費用の売上高比率は48％から58％へ上昇した。",
+      "title": "【2026-11-05】Googleの学校向け検索とAIの一体化方針に反発、選択権が争点に",
+      "summary": "学校でAIを制限すると検索も使えなくなる方針に批判。GoogleはGeminiなどと検索を個別に有効化できると説明した。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-11-04】OpenAI、ChatGPTの検索件数がGoogleの20％相当と主張",
-      "summary": "OpenAIはChatGPTの検索件数がGoogleの20％相当に達したと説明。ただし比較に使ったGoogleの検索件数の出典は示していない。",
+      "title": "【2026-11-05】Nothing、画面のない初のAI機器を12月に出荷へ",
+      "summary": "Nothingのカール・ペイCEOが初のAIネイティブ製品を予告。画面を持たず、アプリでは実現できない機器と説明した。",
       "manga_url": "",
       "video_url": ""
     }
@@ -131,30 +87,18 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-11-04】AI推論のFalが13億ドル調達、評価額160億ドルに"
-    },
-    {
-      "rank": 5,
-      "title": "【2026-11-04】Apple、恋愛・性的内容を扱うAIコンパニオンに18歳以上の年齢区分"
-    },
-    {
-      "rank": 6,
-      "title": "【2026-11-04】Apple Watch、会話要約と直前15秒の文字起こしを開発者ベータに追加"
-    },
-    {
-      "rank": 7,
-      "title": "【2026-11-04】Netflix、気分に合わせて作品を探す「AI Discover」を米国で試験展開"
-    },
-    {
-      "rank": 8,
-      "title": "【2026-11-04】AppleのAI収益戦略を分析、端末販売とサービスを軸に"
-    },
-    {
-      "rank": 9,
-      "title": "【2026-11-04】OpenAIの「計算キャンパス」呼称に批判、電力対策と実効性を検証"
+      "title": "【2026-11-05】【試用レビュー】AppleのSiri Recaps、会話要約の便利さと常時記録への懸念"
     }
   ],
   "archive": [
+    {
+      "no": "235",
+      "kind": "✨ ラミッカ",
+      "date": "11.04",
+      "img": "news/top1_manga_2026-11-04.png",
+      "title": "【2026-11-04】Google、学校でAIを無効にすると検索も利用不可になる方針",
+      "source_url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+    },
     {
       "no": "234",
       "kind": "✨ ラミッカ",
