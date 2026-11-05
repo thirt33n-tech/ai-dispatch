@@ -1,58 +1,90 @@
 {
-  "dispatchNo": "236",
-  "dateLabel": "2026.11.05",
+  "dispatchNo": "237",
+  "dateLabel": "2026.11.06",
   "top1": {
-    "title": "【2026-11-05】ChatGPTがGIF生成に対応、Images 2.6で画像生成も高速化",
-    "lead1": "ChatGPTが文章やアップロードした写真からGIFを生成できるようになりました。",
-    "lead2": "再生速度や個別フレームの編集にも対応。Images 2.6では画像生成も高速化するとしています。",
-    "manga_url": "news/top1_manga_2026-11-05.png",
+    "title": "【2026-11-06】OpenAI、サイバー防御向け「GPT-6 Cyber」を限定提供開始",
+    "lead1": "OpenAIがGPT-6 Cyberを発表し、認可された防御活動向けに一部参加者への提供を始めた。",
+    "lead2": "同社は脆弱性探索能力と安全策の改善を説明。一方、モデルが評価を見抜く可能性などの課題は残る。",
+    "manga_url": "news/top1_manga_2026-11-06.png",
     "video_url": "",
-    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-05",
-        "manga_url": "news/top1_manga_2026-11-05_en.png",
-        "manga_sha256": "f9a4b5d4404f1274162c83b9f7473047dbebc03c2470094909c7dd212a06257c",
+        "date": "2026-11-06",
+        "manga_url": "news/top1_manga_2026-11-06_en.png",
+        "manga_sha256": "551cdb8b98d589e2da8d3c84be68f6218678a9891691776cb506dc16544e8d39",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-05] ChatGPT adds GIF generation; Images 2.6 also speeds up image generation",
-            "summary": "OpenAI is rolling out Images 2.6. ChatGPT can generate GIFs from text or photos and let users edit playback speed and individual frames.",
+            "title": "[2026-11-06] OpenAI begins limited rollout of GPT-6 Cyber for cyber defense",
+            "summary": "OpenAI announced GPT-6 Cyber, saying it has improved vulnerability discovery capabilities and instruction adherence. It began offering the model to some Daybreak Red participants.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-            "published_date": "2026-11-05"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+            "published_date": "2026-11-06"
           },
           {
             "rank": 2,
-            "title": "[2026-11-05] Google's plan to tie school search access to AI draws backlash, with freedom of choice at issue",
-            "summary": "Critics objected to a policy under which restricting AI in schools would also disable search. Google explained that Search and services such as Gemini can be enabled separately.",
+            "title": "[2026-11-06] Claude adds personal finance analysis with read-only access to bank and card accounts",
+            "summary": "Anthropic announced Personal Finance, which reads account information through Plaid to analyze spending and fees. It is rolling out in beta for eligible paid plans in the United States.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-            "published_date": "2026-11-05"
+            "source_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+            "published_date": "2026-11-06"
           },
           {
             "rank": 3,
-            "title": "[2026-11-05] Nothing to ship its first screenless AI device in December",
-            "summary": "Nothing CEO Carl Pei previewed the company's first AI-native product. He described it as a screenless device that offers something an app cannot deliver.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-            "published_date": "2026-11-05"
+            "title": "[2026-11-06] OpenAI president suggests company could be ready for an IPO in 2027",
+            "summary": "President Greg Brockman expressed optimism about being ready for an IPO in 2027. He described the expansion of the company's enterprise business, but did not commit to a listing date.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+            "published_date": "2026-11-06"
           },
           {
             "rank": 4,
-            "title": "[2026-11-05] [Hands-on review] Apple's Siri Recaps: convenient conversation summaries, but concerns over constant recording",
-            "summary": "TechCrunch tried Apple Watch's conversation summary feature. While it can preserve important points, the publication cited the recording of unwanted conversations and the mixing of topics as problems.",
+            "title": "[2026-11-06] Dropbox to acquire Tigris Data for $350 million to strengthen AI infrastructure",
+            "summary": "Dropbox announced its acquisition of Tigris Data to support DBX Agent Cloud for AI models and agents. It expects the transaction to close in the fourth quarter of 2026.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-            "published_date": "2026-11-05"
+            "source_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+            "published_date": "2026-11-06"
+          },
+          {
+            "rank": 5,
+            "title": "[2026-11-06] Analysis: Regulation and data center construction take center stage in AI policy after US midterm elections",
+            "summary": "The Verge analyzed AI policy following the US midterm elections. It reported on how opposition to data center construction, state regulations and debates over safety affect corporate strategy.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+            "published_date": "2026-11-06"
+          },
+          {
+            "rank": 6,
+            "title": "[2026-11-06] Axiom Math announces formal verification of the Stacks Project, aiming to improve AI mathematics reliability",
+            "summary": "Axiom Math announced that it had formally verified the Stacks Project, a collection of mathematical literature. AI agents converted it into Lean code, with the aim of establishing a foundation of reusable, verified knowledge.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+            "published_date": "2026-11-06"
+          },
+          {
+            "rank": 7,
+            "title": "[2026-11-06] Meta rolls out voice and video conversations with AI avatar Muse in the United States",
+            "summary": "Meta began offering Muse Voice to all users in the United States. It said the service supports avatars that move in sync with conversations and is available on mobile, the web and Mac.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+            "published_date": "2026-11-06"
+          },
+          {
+            "rank": 8,
+            "title": "[2026-11-06] ElevenLabs AI music can now be published directly to SoundCloud",
+            "summary": "SoundCloud added an integration with ElevenLabs that allows generated tracks to be published directly. Tracks published through the integration carry a label identifying them as AI-generated.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+            "published_date": "2026-11-06"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "5bb5dfd8b64a97d619c68bd96e8464d4874ea4fc2d78c16e68cc915f054a0282"
+        "source_manga_sha256": "7bb6b1d236f5f409d74347530969733148e0ac4cf29487f30b53581684bc747f"
       }
     },
-    "media_updated_at": "2026-11-05"
+    "media_updated_at": "2026-11-06"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -64,22 +96,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-05】Googleの学校向け検索とAIの一体化方針に反発、選択権が争点に",
-    "【2026-11-05】Nothing、画面のない初のAI機器を12月に出荷へ",
-    "【2026-11-05】【試用レビュー】AppleのSiri Recaps、会話要約の便利さと常時記録への懸念"
+    "【2026-11-06】Claudeに家計分析機能、銀行・カード口座との読み取り専用連携",
+    "【2026-11-06】OpenAI社長、2027年にIPOへの準備が整う可能性を示す",
+    "【2026-11-06】Dropbox、Tigris Dataを3億5000万ドルで買収へ　AI基盤を強化",
+    "【2026-11-06】【解説】米中間選挙後のAI政策、規制とデータセンター建設が焦点に",
+    "【2026-11-06】Axiom Math、Stacks Projectの形式検証を発表　AI数学の信頼性向上狙う",
+    "【2026-11-06】Meta、AIアバター「Muse」との音声・ビデオ会話を米国で展開",
+    "【2026-11-06】ElevenLabsのAI音楽をSoundCloudへ直接公開可能に"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-05】Googleの学校向け検索とAIの一体化方針に反発、選択権が争点に",
-      "summary": "学校でAIを制限すると検索も使えなくなる方針に批判。GoogleはGeminiなどと検索を個別に有効化できると説明した。",
+      "title": "【2026-11-06】Claudeに家計分析機能、銀行・カード口座との読み取り専用連携",
+      "summary": "AnthropicがPersonal Financeを発表。Plaid経由で口座情報を読み取り、支出や手数料を分析する。米国の対象有料プランでベータ展開する。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-11-05】Nothing、画面のない初のAI機器を12月に出荷へ",
-      "summary": "Nothingのカール・ペイCEOが初のAIネイティブ製品を予告。画面を持たず、アプリでは実現できない機器と説明した。",
+      "title": "【2026-11-06】OpenAI社長、2027年にIPOへの準備が整う可能性を示す",
+      "summary": "グレッグ・ブロックマン社長が2027年のIPO準備に前向きな見解を示した。法人事業の拡大を説明したが、上場時期の確約ではない。",
       "manga_url": "",
       "video_url": ""
     }
@@ -87,10 +123,34 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-11-05】【試用レビュー】AppleのSiri Recaps、会話要約の便利さと常時記録への懸念"
+      "title": "【2026-11-06】Dropbox、Tigris Dataを3億5000万ドルで買収へ　AI基盤を強化"
+    },
+    {
+      "rank": 5,
+      "title": "【2026-11-06】【解説】米中間選挙後のAI政策、規制とデータセンター建設が焦点に"
+    },
+    {
+      "rank": 6,
+      "title": "【2026-11-06】Axiom Math、Stacks Projectの形式検証を発表　AI数学の信頼性向上狙う"
+    },
+    {
+      "rank": 7,
+      "title": "【2026-11-06】Meta、AIアバター「Muse」との音声・ビデオ会話を米国で展開"
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-06】ElevenLabsのAI音楽をSoundCloudへ直接公開可能に"
     }
   ],
   "archive": [
+    {
+      "no": "236",
+      "kind": "✨ ラミッカ",
+      "date": "11.05",
+      "img": "news/top1_manga_2026-11-05.png",
+      "title": "【2026-11-05】ChatGPTがGIF生成に対応、Images 2.6で画像生成も高速化",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+    },
     {
       "no": "235",
       "kind": "✨ ラミッカ",

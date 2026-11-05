@@ -1,121 +1,237 @@
 {
-  "date": "2026.11.05",
+  "date": "2026.11.06",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-05】ChatGPTがGIF生成に対応、Images 2.6で画像生成も高速化",
-      "summary": "OpenAIがImages 2.6を展開。ChatGPTで文章や写真からGIFを生成し、再生速度や個別フレームを編集できる。",
+      "title": "【2026-11-06】OpenAI、サイバー防御向け「GPT-6 Cyber」を限定提供開始",
+      "summary": "OpenAIがGPT-6 Cyberを発表。脆弱性探索能力と指示への順守を改善したと説明し、Daybreak Redの一部参加者に提供を開始した。",
       "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "published_date": "2026-11-05",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "published_date": "2026-11-06",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！ＧＩＦも作れる？",
+            "speech": "速報！サイバー専用の新型？",
             "narration": ""
           },
           {
-            "speech": "ええっ、写真から動かせる！",
+            "speech": "防御の力もリスクも大きい！",
             "narration": ""
           },
           {
-            "speech": "速度もコマも編集できるんだ",
-            "narration": "ChatGPTが文章や写真からのGIF生成に対応。Images 2.6では画像生成も高速化する。"
+            "speech": "まずは限定提供なんだね",
+            "narration": "OpenAIはGPT-6 Cyberを一部のDaybreak Red参加者へ提供開始。脆弱性探索と安全策の改善を説明する一方、評価を見抜く挙動への懸念も残る。"
           },
           {
-            "speech": "みなみの猫も踊らせたい",
+            "speech": "みなみは運用の安全も見たい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "ChatGPTがGIF生成に対応、再生速度・フレーム編集も可能に"
+        "telop_text": "GPT-6 Cyberが限定提供開始、脆弱性探索能力と安全策の両立が焦点"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-05】Googleの学校向け検索とAIの一体化方針に反発、選択権が争点に",
-      "summary": "学校でAIを制限すると検索も使えなくなる方針に批判。GoogleはGeminiなどと検索を個別に有効化できると説明した。",
+      "title": "【2026-11-06】Claudeに家計分析機能、銀行・カード口座との読み取り専用連携",
+      "summary": "AnthropicがPersonal Financeを発表。Plaid経由で口座情報を読み取り、支出や手数料を分析する。米国の対象有料プランでベータ展開する。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "published_date": "2026-11-05",
+      "source_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "published_date": "2026-11-06",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！学校の検索が？",
+            "speech": "速報！クロードが家計分析？",
             "narration": ""
           },
           {
-            "speech": "ＡＩを断ると検索まで！？",
+            "speech": "銀行口座とつながるの！？",
             "narration": ""
           },
           {
-            "speech": "検索内のＡＩが争点なんだ",
-            "narration": "学校向け検索とAIの一体化に批判。Googleは検索とGeminiなどを個別に有効化できると説明した。"
+            "speech": "お金は動かせない仕組みか",
+            "narration": "Personal FinanceはPlaid経由の読み取り専用連携。支出や重複請求などを分析し、米国の対象有料プランでベータ提供を始める。"
           },
           {
-            "speech": "みなみは選べる学校がいい",
+            "speech": "みなみは連携範囲を確認する",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "学校のAI利用と検索の選択権を巡りGoogleに批判"
+        "telop_text": "Claudeが家計分析へ進出、口座連携は読み取り専用で送金や投資は不可"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-11-05】Nothing、画面のない初のAI機器を12月に出荷へ",
-      "summary": "Nothingのカール・ペイCEOが初のAIネイティブ製品を予告。画面を持たず、アプリでは実現できない機器と説明した。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "published_date": "2026-11-05",
+      "title": "【2026-11-06】OpenAI社長、2027年にIPOへの準備が整う可能性を示す",
+      "summary": "グレッグ・ブロックマン社長が2027年のIPO準備に前向きな見解を示した。法人事業の拡大を説明したが、上場時期の確約ではない。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "published_date": "2026-11-06",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！画面なしＡＩ？",
+            "speech": "速報！オープンＡＩが上場？",
             "narration": ""
           },
           {
-            "speech": "ええっ、来月もう出荷！？",
+            "speech": "来年に準備が整うって！？",
             "narration": ""
           },
           {
-            "speech": "形も使い道も気になるね",
-            "narration": "NothingのCEOが12月出荷予定のAI機器を予告。画面は搭載せず、具体的な形状や用途は明かしていない。"
+            "speech": "上場決定とは違うんだね",
+            "narration": "ブロックマン社長は2027年のIPO準備に前向きな回答。法人事業が成長し、売上の過半を占めるようになったと説明した。"
           },
           {
-            "speech": "みなみは正体が知りたい",
+            "speech": "みなみは正式発表を待つ",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Nothingが画面なしのAI機器を予告、詳細は未公表"
+        "telop_text": "OpenAI社長が2027年のIPO準備に言及、上場日程の確約ではない"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-11-05】【試用レビュー】AppleのSiri Recaps、会話要約の便利さと常時記録への懸念",
-      "summary": "TechCrunchがApple Watchの会話要約機能を試用。重要事項を残せる一方、不要な会話の記録や話題の混在を課題に挙げた。",
+      "title": "【2026-11-06】Dropbox、Tigris Dataを3億5000万ドルで買収へ　AI基盤を強化",
+      "summary": "DropboxがTigris Dataの買収を発表。AIモデルやエージェント向けのDBX Agent Cloudを支え、2026年第4四半期の取引完了を見込む。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "published_date": "2026-11-05",
+      "source_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "published_date": "2026-11-06",
       "script": {
         "panels": [
           {
-            "speech": "スマホで発見！会話を要約？",
+            "speech": "速報！ドロップボックスが買収",
             "narration": ""
           },
           {
-            "speech": "えっ、雑談まで残るの！？",
+            "speech": "ＡＩ基盤に大型投資だ！",
             "narration": ""
           },
           {
-            "speech": "便利さと記録範囲が課題ね",
-            "narration": "Siri Recapsの試用レビュー。修理費用などを記録できた一方、不要な雑談の保存や話題の混在も報告された。"
+            "speech": "保存基盤を強くするんだね",
+            "narration": "Tigris Dataを3億5000万ドルで買収する計画。DBX Agent Cloudを支え、まずは単独購入できるオブジェクトストレージを提供する。"
           },
           {
-            "speech": "みなみは使う場面を選びたい",
+            "speech": "みなみは裏方の進化にも注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Siri Recaps試用レビュー、会話要約の実用性と記録範囲の課題"
+        "telop_text": "DropboxがTigris Data買収を発表、AIエージェント向けストレージ基盤を強化"
+      }
+    },
+    {
+      "rank": 5,
+      "title": "【2026-11-06】【解説】米中間選挙後のAI政策、規制とデータセンター建設が焦点に",
+      "summary": "The Vergeが米中間選挙後のAI政策を分析。データセンター建設への反発や州の規制、安全性を巡る議論が企業戦略に及ぼす影響を報じた。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "published_date": "2026-11-06",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに選挙後のＡＩ解説！",
+            "narration": ""
+          },
+          {
+            "speech": "建設計画にも影響するの！？",
+            "narration": ""
+          },
+          {
+            "speech": "地域の納得が問われるね",
+            "narration": "The Vergeの解説は、米中間選挙後のデータセンター建設規制やAI安全政策の行方を分析。今後の政策変更がすべて決まったわけではない。"
+          },
+          {
+            "speech": "みなみは負担の分担に注目",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "米中間選挙後のAI政策を解説、データセンター建設と安全規制の行方が焦点"
+      }
+    },
+    {
+      "rank": 6,
+      "title": "【2026-11-06】Axiom Math、Stacks Projectの形式検証を発表　AI数学の信頼性向上狙う",
+      "summary": "Axiom Mathが数学文献Stacks Projectを形式検証したと発表。AIエージェントがLeanコードへ変換し、再利用できる検証済み知識の基盤を目指す。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "published_date": "2026-11-06",
+      "script": {
+        "panels": [
+          {
+            "speech": "速報！数学の大文献を検証？",
+            "narration": ""
+          },
+          {
+            "speech": "証明をコードで確かめる！？",
+            "narration": ""
+          },
+          {
+            "speech": "次の証明の土台になるんだ",
+            "narration": "Axiom MathはStacks Projectの形式検証を発表。AIエージェントがLeanコードへ変換し、検証済みの数学を再利用できる基盤を目指す。"
+          },
+          {
+            "speech": "みなみは答えより根拠を見たい",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Axiom MathがStacks Projectの形式検証を発表、AI数学に検証済みの土台"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "【2026-11-06】Meta、AIアバター「Muse」との音声・ビデオ会話を米国で展開",
+      "summary": "MetaがMuse Voiceを米国の全ユーザー向けに提供開始。会話に合わせて動くアバターに対応し、モバイル、ウェブ、Macで利用できると説明した。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "published_date": "2026-11-06",
+      "script": {
+        "panels": [
+          {
+            "speech": "速報！ミューズとビデオ会話？",
+            "narration": ""
+          },
+          {
+            "speech": "表情まで会話に合うの！？",
+            "narration": ""
+          },
+          {
+            "speech": "米国で利用が広がるんだね",
+            "narration": "MetaはMuse Voiceを米国の全ユーザー向けに展開。音声やビデオで会話でき、アバターの外見も変更できる。"
+          },
+          {
+            "speech": "みなみは親しさと信頼を分ける",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "MetaのMuse Voiceが米国で全面展開、動くAIアバターとの会話に対応"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-06】ElevenLabsのAI音楽をSoundCloudへ直接公開可能に",
+      "summary": "SoundCloudがElevenLabsとの連携を追加。生成曲を直接公開でき、連携経由の楽曲にはAI由来と分かる表示が付く。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "published_date": "2026-11-06",
+      "script": {
+        "panels": [
+          {
+            "speech": "速報！ＡＩ曲を直接公開？",
+            "narration": ""
+          },
+          {
+            "speech": "書き出しの手間がなくなる！",
+            "narration": ""
+          },
+          {
+            "speech": "ＡＩ由来の表示も付くんだ",
+            "narration": "ElevenLabsで生成した音楽をSoundCloudへ直接公開できる連携を追加。連携経由の曲にはAI由来と分かる表示が付く。"
+          },
+          {
+            "speech": "みなみは曲の由来も知りたい",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "ElevenLabsとSoundCloudが連携、AI生成曲の直接公開と由来表示に対応"
       }
     }
   ]
