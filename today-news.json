@@ -1,237 +1,150 @@
 {
-  "date": "2026.11.06",
+  "date": "2026.11.07",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-06】OpenAI、サイバー防御向け「GPT-6 Cyber」を限定提供開始",
-      "summary": "OpenAIがGPT-6 Cyberを発表。脆弱性探索能力と指示への順守を改善したと説明し、Daybreak Redの一部参加者に提供を開始した。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "published_date": "2026-11-06",
+      "title": "【2026-11-07】AI侵入テストツール「Artex」、800件超が認証なしでネット公開",
+      "summary": "CensysがArtexの800件超の設置環境で認証なしのアクセスを確認。正規の試験用途もあるが、第三者による悪用の危険を指摘した。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published_date": "2026-11-07",
       "script": {
         "panels": [
           {
-            "speech": "速報！サイバー専用の新型？",
+            "speech": "スマホに速報！攻撃用ＡＩが？",
             "narration": ""
           },
           {
-            "speech": "防御の力もリスクも大きい！",
+            "speech": "８００件超が認証なし！？",
             "narration": ""
           },
           {
-            "speech": "まずは限定提供なんだね",
-            "narration": "OpenAIはGPT-6 Cyberを一部のDaybreak Red参加者へ提供開始。脆弱性探索と安全策の改善を説明する一方、評価を見抜く挙動への懸念も残る。"
+            "speech": "正規の試験用もあるんだね",
+            "narration": "CensysはArtexの800件超の設置環境に認証なしでアクセスできると確認。第三者による悪用が懸念される。"
           },
           {
-            "speech": "みなみは運用の安全も見たい",
+            "speech": "みなみはまず設定を確認",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "GPT-6 Cyberが限定提供開始、脆弱性探索能力と安全策の両立が焦点"
+        "telop_text": "Artexの800件超が認証なしで公開状態に。正規利用もあるが、設定不備による悪用リスクが浮上。"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-06】Claudeに家計分析機能、銀行・カード口座との読み取り専用連携",
-      "summary": "AnthropicがPersonal Financeを発表。Plaid経由で口座情報を読み取り、支出や手数料を分析する。米国の対象有料プランでベータ展開する。",
+      "title": "【2026-11-07】Ramp調査、AI利用増でも支出の伸び鈍化　価格競争と節約が背景",
+      "summary": "Rampのデータで夏後半のAI支出の伸びが鈍化。利用量増でも値下げや運用効率化が支出を抑制し、10月には伸びが再加速した。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "published_date": "2026-11-06",
+      "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "published_date": "2026-11-07",
       "script": {
         "panels": [
           {
-            "speech": "速報！クロードが家計分析？",
+            "speech": "スマホに速報！ＡＩ支出鈍化？",
             "narration": ""
           },
           {
-            "speech": "銀行口座とつながるの！？",
+            "speech": "利用増でも売上は別なの！？",
             "narration": ""
           },
           {
-            "speech": "お金は動かせない仕組みか",
-            "narration": "Personal FinanceはPlaid経由の読み取り専用連携。支出や重複請求などを分析し、米国の対象有料プランでベータ提供を始める。"
+            "speech": "値下げと節約が効いてるね",
+            "narration": "Rampは夏後半の支出の伸び鈍化を報告。価格競争や効率化が背景にあり、10月には伸びが再加速した。"
           },
           {
-            "speech": "みなみは連携範囲を確認する",
+            "speech": "みなみは量と金額を分ける",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Claudeが家計分析へ進出、口座連携は読み取り専用で送金や投資は不可"
+        "telop_text": "Ramp調査：AI利用量の増加が支出増に直結せず。夏後半は鈍化、10月には再加速。"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-11-06】OpenAI社長、2027年にIPOへの準備が整う可能性を示す",
-      "summary": "グレッグ・ブロックマン社長が2027年のIPO準備に前向きな見解を示した。法人事業の拡大を説明したが、上場時期の確約ではない。",
+      "title": "【2026-11-07】Meta、Museに「Spaces」導入　会話から用途別の作業空間を作成",
+      "summary": "MetaがMuseに用途別の作業空間を作るSpacesを導入。旅行計画や管理表を会話で作成し、外部アプリ連携で情報を更新できる。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "published_date": "2026-11-06",
+      "source_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "published_date": "2026-11-07",
       "script": {
         "panels": [
           {
-            "speech": "速報！オープンＡＩが上場？",
+            "speech": "スマホに速報！ミューズ新機能",
             "narration": ""
           },
           {
-            "speech": "来年に準備が整うって！？",
+            "speech": "話すだけで作業空間が！？",
             "narration": ""
           },
           {
-            "speech": "上場決定とは違うんだね",
-            "narration": "ブロックマン社長は2027年のIPO準備に前向きな回答。法人事業が成長し、売上の過半を占めるようになったと説明した。"
+            "speech": "旅行も贈り物も別々に管理",
+            "narration": "Spacesは会話から計画表や管理用の空間を作成。外部アプリと連携すると、価格や日程などを背景で更新する。"
           },
           {
-            "speech": "みなみは正式発表を待つ",
+            "speech": "みなみの計画倒れも防げる？",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "OpenAI社長が2027年のIPO準備に言及、上場日程の確約ではない"
+        "telop_text": "MetaのMuseにSpaces。会話で用途別の作業空間を作り、アプリ連携で情報更新も。"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-11-06】Dropbox、Tigris Dataを3億5000万ドルで買収へ　AI基盤を強化",
-      "summary": "DropboxがTigris Dataの買収を発表。AIモデルやエージェント向けのDBX Agent Cloudを支え、2026年第4四半期の取引完了を見込む。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "published_date": "2026-11-06",
+      "title": "【2026-11-07】inMusic、AI支援の楽器改造を後押しへ　コード公開とSDK提供を計画",
+      "summary": "取材記事でinMusicが楽器のコード公開やSDK提供方針を説明。AI支援の改造を受け入れつつ、公式ソフトの安定性と復旧手段を重視する。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "published_date": "2026-11-07",
       "script": {
         "panels": [
           {
-            "speech": "速報！ドロップボックスが買収",
+            "speech": "スマホに楽器改造のニュース！",
             "narration": ""
           },
           {
-            "speech": "ＡＩ基盤に大型投資だ！",
+            "speech": "メーカーが改造を応援！？",
             "narration": ""
           },
           {
-            "speech": "保存基盤を強くするんだね",
-            "narration": "Tigris Dataを3億5000万ドルで買収する計画。DBX Agent Cloudを支え、まずは単独購入できるオブジェクトストレージを提供する。"
+            "speech": "自由と安定の両立が課題だね",
+            "narration": "取材でinMusicはコード公開やSDK提供の方針を説明。AI支援の改造を受け入れ、公式版の安定性と復旧手段も重視する。"
           },
           {
-            "speech": "みなみは裏方の進化にも注目",
+            "speech": "みなみは本番前に戻せる派",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "DropboxがTigris Data買収を発表、AIエージェント向けストレージ基盤を強化"
+        "telop_text": "inMusicが楽器改造コミュニティーを支援する方針。コード公開・SDKと安定性の両立を目指す。"
       }
     },
     {
       "rank": 5,
-      "title": "【2026-11-06】【解説】米中間選挙後のAI政策、規制とデータセンター建設が焦点に",
-      "summary": "The Vergeが米中間選挙後のAI政策を分析。データセンター建設への反発や州の規制、安全性を巡る議論が企業戦略に及ぼす影響を報じた。",
+      "title": "【2026-11-07】【ルポ】AIへの価値観が恋愛にも影響　サンフランシスコの出会い事情",
+      "summary": "The Vergeの現地ルポが、AIへの賛否や安全性への不安、仕事観が交際相手選びに影響する姿を紹介。恋愛活動をAIに任せる事例も取材した。",
       "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "published_date": "2026-11-06",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "published_date": "2026-11-07",
       "script": {
         "panels": [
           {
-            "speech": "スマホに選挙後のＡＩ解説！",
+            "speech": "スマホにＡＩと恋愛のルポ！",
             "narration": ""
           },
           {
-            "speech": "建設計画にも影響するの！？",
+            "speech": "ＡＩ観で交際を判断！？",
             "narration": ""
           },
           {
-            "speech": "地域の納得が問われるね",
-            "narration": "The Vergeの解説は、米中間選挙後のデータセンター建設規制やAI安全政策の行方を分析。今後の政策変更がすべて決まったわけではない。"
+            "speech": "便利さだけの話じゃないね",
+            "narration": "サンフランシスコの取材では、AIへの賛否や将来への不安が相手選びに影響。恋愛活動をAIに任せる事例も登場した。"
           },
           {
-            "speech": "みなみは負担の分担に注目",
+            "speech": "みなみは本人と話したい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "米中間選挙後のAI政策を解説、データセンター建設と安全規制の行方が焦点"
-      }
-    },
-    {
-      "rank": 6,
-      "title": "【2026-11-06】Axiom Math、Stacks Projectの形式検証を発表　AI数学の信頼性向上狙う",
-      "summary": "Axiom Mathが数学文献Stacks Projectを形式検証したと発表。AIエージェントがLeanコードへ変換し、再利用できる検証済み知識の基盤を目指す。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "published_date": "2026-11-06",
-      "script": {
-        "panels": [
-          {
-            "speech": "速報！数学の大文献を検証？",
-            "narration": ""
-          },
-          {
-            "speech": "証明をコードで確かめる！？",
-            "narration": ""
-          },
-          {
-            "speech": "次の証明の土台になるんだ",
-            "narration": "Axiom MathはStacks Projectの形式検証を発表。AIエージェントがLeanコードへ変換し、検証済みの数学を再利用できる基盤を目指す。"
-          },
-          {
-            "speech": "みなみは答えより根拠を見たい",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Axiom MathがStacks Projectの形式検証を発表、AI数学に検証済みの土台"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "【2026-11-06】Meta、AIアバター「Muse」との音声・ビデオ会話を米国で展開",
-      "summary": "MetaがMuse Voiceを米国の全ユーザー向けに提供開始。会話に合わせて動くアバターに対応し、モバイル、ウェブ、Macで利用できると説明した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "published_date": "2026-11-06",
-      "script": {
-        "panels": [
-          {
-            "speech": "速報！ミューズとビデオ会話？",
-            "narration": ""
-          },
-          {
-            "speech": "表情まで会話に合うの！？",
-            "narration": ""
-          },
-          {
-            "speech": "米国で利用が広がるんだね",
-            "narration": "MetaはMuse Voiceを米国の全ユーザー向けに展開。音声やビデオで会話でき、アバターの外見も変更できる。"
-          },
-          {
-            "speech": "みなみは親しさと信頼を分ける",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "MetaのMuse Voiceが米国で全面展開、動くAIアバターとの会話に対応"
-      }
-    },
-    {
-      "rank": 8,
-      "title": "【2026-11-06】ElevenLabsのAI音楽をSoundCloudへ直接公開可能に",
-      "summary": "SoundCloudがElevenLabsとの連携を追加。生成曲を直接公開でき、連携経由の楽曲にはAI由来と分かる表示が付く。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-      "published_date": "2026-11-06",
-      "script": {
-        "panels": [
-          {
-            "speech": "速報！ＡＩ曲を直接公開？",
-            "narration": ""
-          },
-          {
-            "speech": "書き出しの手間がなくなる！",
-            "narration": ""
-          },
-          {
-            "speech": "ＡＩ由来の表示も付くんだ",
-            "narration": "ElevenLabsで生成した音楽をSoundCloudへ直接公開できる連携を追加。連携経由の曲にはAI由来と分かる表示が付く。"
-          },
-          {
-            "speech": "みなみは曲の由来も知りたい",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "ElevenLabsとSoundCloudが連携、AI生成曲の直接公開と由来表示に対応"
+        "telop_text": "現地ルポ：AIへの価値観が恋愛にも。サンフランシスコで交際と技術の関係を取材。"
       }
     }
   ]

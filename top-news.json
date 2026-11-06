@@ -1,90 +1,66 @@
 {
-  "dispatchNo": "237",
-  "dateLabel": "2026.11.06",
+  "dispatchNo": "238",
+  "dateLabel": "2026.11.07",
   "top1": {
-    "title": "【2026-11-06】OpenAI、サイバー防御向け「GPT-6 Cyber」を限定提供開始",
-    "lead1": "OpenAIがGPT-6 Cyberを発表し、認可された防御活動向けに一部参加者への提供を始めた。",
-    "lead2": "同社は脆弱性探索能力と安全策の改善を説明。一方、モデルが評価を見抜く可能性などの課題は残る。",
-    "manga_url": "news/top1_manga_2026-11-06.png",
+    "title": "【2026-11-07】AI侵入テストツール「Artex」、800件超が認証なしでネット公開",
+    "lead1": "Censysが、AI侵入テストツールArtexの800件超の設置環境に認証なしでアクセスできると確認した。",
+    "lead2": "正規の試験用途もある一方、第三者が悪用する危険が浮上。強力なAIツールでも公開設定の不備がリスクになる。",
+    "manga_url": "news/top1_manga_2026-11-07.png",
     "video_url": "",
-    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+    "source_url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-06",
-        "manga_url": "news/top1_manga_2026-11-06_en.png",
-        "manga_sha256": "551cdb8b98d589e2da8d3c84be68f6218678a9891691776cb506dc16544e8d39",
+        "date": "2026-11-07",
+        "manga_url": "news/top1_manga_2026-11-07_en.png",
+        "manga_sha256": "639302142e6bf2d12720a31c8d44ba97c6b32689d6569793d739303fe1655b49",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-06] OpenAI begins limited rollout of GPT-6 Cyber for cyber defense",
-            "summary": "OpenAI announced GPT-6 Cyber, saying it has improved vulnerability discovery capabilities and instruction adherence. It began offering the model to some Daybreak Red participants.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-            "published_date": "2026-11-06"
+            "title": "[2026-11-07] Over 800 deployments of AI penetration-testing tool Artex exposed online without authentication",
+            "summary": "Censys confirmed unauthenticated access to more than 800 Artex deployments. While some serve legitimate testing purposes, it warned of the risk of misuse by third parties.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+            "published_date": "2026-11-07"
           },
           {
             "rank": 2,
-            "title": "[2026-11-06] Claude adds personal finance analysis with read-only access to bank and card accounts",
-            "summary": "Anthropic announced Personal Finance, which reads account information through Plaid to analyze spending and fees. It is rolling out in beta for eligible paid plans in the United States.",
+            "title": "[2026-11-07] Ramp data shows AI spending growth slowing despite increased usage, amid price competition and cost savings",
+            "summary": "Ramp data showed AI spending growth slowing in late summer. Despite increased usage, price cuts and operational efficiencies held spending down, before growth accelerated again in October.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-            "published_date": "2026-11-06"
+            "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+            "published_date": "2026-11-07"
           },
           {
             "rank": 3,
-            "title": "[2026-11-06] OpenAI president suggests company could be ready for an IPO in 2027",
-            "summary": "President Greg Brockman expressed optimism about being ready for an IPO in 2027. He described the expansion of the company's enterprise business, but did not commit to a listing date.",
+            "title": "[2026-11-07] Meta introduces Spaces in Muse to create task-specific workspaces through conversation",
+            "summary": "Meta introduced Spaces in Muse for creating task-specific workspaces. Users can create travel plans and tracking spreadsheets through conversation and update information through integrations with external apps.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-            "published_date": "2026-11-06"
+            "source_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+            "published_date": "2026-11-07"
           },
           {
             "rank": 4,
-            "title": "[2026-11-06] Dropbox to acquire Tigris Data for $350 million to strengthen AI infrastructure",
-            "summary": "Dropbox announced its acquisition of Tigris Data to support DBX Agent Cloud for AI models and agents. It expects the transaction to close in the fourth quarter of 2026.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-            "published_date": "2026-11-06"
+            "title": "[2026-11-07] inMusic plans to release code and offer SDKs to support AI-assisted instrument modifications",
+            "summary": "In a reported article, inMusic outlined plans to release code for its instruments and provide SDKs. While embracing AI-assisted modifications, it emphasizes the stability of official software and ways to restore it.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+            "published_date": "2026-11-07"
           },
           {
             "rank": 5,
-            "title": "[2026-11-06] Analysis: Regulation and data center construction take center stage in AI policy after US midterm elections",
-            "summary": "The Verge analyzed AI policy following the US midterm elections. It reported on how opposition to data center construction, state regulations and debates over safety affect corporate strategy.",
+            "title": "[2026-11-07] Report: Attitudes toward AI shape romance in San Francisco's dating scene",
+            "summary": "An on-the-ground report by The Verge described how support for or opposition to AI, concerns about its safety, and views on work influence people's choice of romantic partners. It also examined cases of people delegating their dating activities to AI.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-            "published_date": "2026-11-06"
-          },
-          {
-            "rank": 6,
-            "title": "[2026-11-06] Axiom Math announces formal verification of the Stacks Project, aiming to improve AI mathematics reliability",
-            "summary": "Axiom Math announced that it had formally verified the Stacks Project, a collection of mathematical literature. AI agents converted it into Lean code, with the aim of establishing a foundation of reusable, verified knowledge.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-            "published_date": "2026-11-06"
-          },
-          {
-            "rank": 7,
-            "title": "[2026-11-06] Meta rolls out voice and video conversations with AI avatar Muse in the United States",
-            "summary": "Meta began offering Muse Voice to all users in the United States. It said the service supports avatars that move in sync with conversations and is available on mobile, the web and Mac.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-            "published_date": "2026-11-06"
-          },
-          {
-            "rank": 8,
-            "title": "[2026-11-06] ElevenLabs AI music can now be published directly to SoundCloud",
-            "summary": "SoundCloud added an integration with ElevenLabs that allows generated tracks to be published directly. Tracks published through the integration carry a label identifying them as AI-generated.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-            "published_date": "2026-11-06"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+            "published_date": "2026-11-07"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "7bb6b1d236f5f409d74347530969733148e0ac4cf29487f30b53581684bc747f"
+        "source_manga_sha256": "3323ad4fe4fc4c263ce672a83f09c18b624f23fcdf57599d89c4ae2367a7bef2"
       }
     },
-    "media_updated_at": "2026-11-06"
+    "media_updated_at": "2026-11-07"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -96,26 +72,23 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-06】Claudeに家計分析機能、銀行・カード口座との読み取り専用連携",
-    "【2026-11-06】OpenAI社長、2027年にIPOへの準備が整う可能性を示す",
-    "【2026-11-06】Dropbox、Tigris Dataを3億5000万ドルで買収へ　AI基盤を強化",
-    "【2026-11-06】【解説】米中間選挙後のAI政策、規制とデータセンター建設が焦点に",
-    "【2026-11-06】Axiom Math、Stacks Projectの形式検証を発表　AI数学の信頼性向上狙う",
-    "【2026-11-06】Meta、AIアバター「Muse」との音声・ビデオ会話を米国で展開",
-    "【2026-11-06】ElevenLabsのAI音楽をSoundCloudへ直接公開可能に"
+    "【2026-11-07】Ramp調査、AI利用増でも支出の伸び鈍化　価格競争と節約が背景",
+    "【2026-11-07】Meta、Museに「Spaces」導入　会話から用途別の作業空間を作成",
+    "【2026-11-07】inMusic、AI支援の楽器改造を後押しへ　コード公開とSDK提供を計画",
+    "【2026-11-07】【ルポ】AIへの価値観が恋愛にも影響　サンフランシスコの出会い事情"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-06】Claudeに家計分析機能、銀行・カード口座との読み取り専用連携",
-      "summary": "AnthropicがPersonal Financeを発表。Plaid経由で口座情報を読み取り、支出や手数料を分析する。米国の対象有料プランでベータ展開する。",
+      "title": "【2026-11-07】Ramp調査、AI利用増でも支出の伸び鈍化　価格競争と節約が背景",
+      "summary": "Rampのデータで夏後半のAI支出の伸びが鈍化。利用量増でも値下げや運用効率化が支出を抑制し、10月には伸びが再加速した。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-11-06】OpenAI社長、2027年にIPOへの準備が整う可能性を示す",
-      "summary": "グレッグ・ブロックマン社長が2027年のIPO準備に前向きな見解を示した。法人事業の拡大を説明したが、上場時期の確約ではない。",
+      "title": "【2026-11-07】Meta、Museに「Spaces」導入　会話から用途別の作業空間を作成",
+      "summary": "MetaがMuseに用途別の作業空間を作るSpacesを導入。旅行計画や管理表を会話で作成し、外部アプリ連携で情報を更新できる。",
       "manga_url": "",
       "video_url": ""
     }
@@ -123,26 +96,22 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-11-06】Dropbox、Tigris Dataを3億5000万ドルで買収へ　AI基盤を強化"
+      "title": "【2026-11-07】inMusic、AI支援の楽器改造を後押しへ　コード公開とSDK提供を計画"
     },
     {
       "rank": 5,
-      "title": "【2026-11-06】【解説】米中間選挙後のAI政策、規制とデータセンター建設が焦点に"
-    },
-    {
-      "rank": 6,
-      "title": "【2026-11-06】Axiom Math、Stacks Projectの形式検証を発表　AI数学の信頼性向上狙う"
-    },
-    {
-      "rank": 7,
-      "title": "【2026-11-06】Meta、AIアバター「Muse」との音声・ビデオ会話を米国で展開"
-    },
-    {
-      "rank": 8,
-      "title": "【2026-11-06】ElevenLabsのAI音楽をSoundCloudへ直接公開可能に"
+      "title": "【2026-11-07】【ルポ】AIへの価値観が恋愛にも影響　サンフランシスコの出会い事情"
     }
   ],
   "archive": [
+    {
+      "no": "237",
+      "kind": "✨ ラミッカ",
+      "date": "11.06",
+      "img": "news/top1_manga_2026-11-06.png",
+      "title": "【2026-11-06】OpenAI、サイバー防御向け「GPT-6 Cyber」を限定提供開始",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+    },
     {
       "no": "236",
       "kind": "✨ ラミッカ",
