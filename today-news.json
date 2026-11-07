@@ -1,150 +1,63 @@
 {
-  "date": "2026.11.07",
+  "date": "2026.11.08",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-07】AI侵入テストツール「Artex」、800件超が認証なしでネット公開",
-      "summary": "CensysがArtexの800件超の設置環境で認証なしのアクセスを確認。正規の試験用途もあるが、第三者による悪用の危険を指摘した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "published_date": "2026-11-07",
+      "title": "【2026-11-08】Nvidia製AI半導体の対中販売承認、実態不明企業への審査に疑問",
+      "summary": "The VergeはNYT報道を引用し、H200の購入承認先に事務所が空の中国企業が含まれると報道。制裁対象企業との関係や審査の不備が懸念されている。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "published_date": "2026-11-08",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！攻撃用ＡＩが？",
+            "speech": "スマホに半導体報道！えっ？",
             "narration": ""
           },
           {
-            "speech": "８００件超が認証なし！？",
+            "speech": "承認先の事務所が空っぽ！？",
             "narration": ""
           },
           {
-            "speech": "正規の試験用もあるんだね",
-            "narration": "CensysはArtexの800件超の設置環境に認証なしでアクセスできると確認。第三者による悪用が懸念される。"
+            "speech": "購入先の確認は十分なの？",
+            "narration": "The VergeがNYT報道を紹介。H200の購入承認先である中国企業New Matrixは事務所が空で、所有者と米国の制裁対象企業との関係も指摘された。"
           },
           {
-            "speech": "みなみはまず設定を確認",
+            "speech": "みなみは審査の中身が気になる",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Artexの800件超が認証なしで公開状態に。正規利用もあるが、設定不備による悪用リスクが浮上。"
+        "telop_text": "Nvidia製H200の対中販売承認先に実態不明企業との報道、購入先審査に疑問"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-07】Ramp調査、AI利用増でも支出の伸び鈍化　価格競争と節約が背景",
-      "summary": "Rampのデータで夏後半のAI支出の伸びが鈍化。利用量増でも値下げや運用効率化が支出を抑制し、10月には伸びが再加速した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "published_date": "2026-11-07",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに速報！ＡＩ支出鈍化？",
-            "narration": ""
-          },
-          {
-            "speech": "利用増でも売上は別なの！？",
-            "narration": ""
-          },
-          {
-            "speech": "値下げと節約が効いてるね",
-            "narration": "Rampは夏後半の支出の伸び鈍化を報告。価格競争や効率化が背景にあり、10月には伸びが再加速した。"
-          },
-          {
-            "speech": "みなみは量と金額を分ける",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Ramp調査：AI利用量の増加が支出増に直結せず。夏後半は鈍化、10月には再加速。"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "【2026-11-07】Meta、Museに「Spaces」導入　会話から用途別の作業空間を作成",
-      "summary": "MetaがMuseに用途別の作業空間を作るSpacesを導入。旅行計画や管理表を会話で作成し、外部アプリ連携で情報を更新できる。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "published_date": "2026-11-07",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに速報！ミューズ新機能",
-            "narration": ""
-          },
-          {
-            "speech": "話すだけで作業空間が！？",
-            "narration": ""
-          },
-          {
-            "speech": "旅行も贈り物も別々に管理",
-            "narration": "Spacesは会話から計画表や管理用の空間を作成。外部アプリと連携すると、価格や日程などを背景で更新する。"
-          },
-          {
-            "speech": "みなみの計画倒れも防げる？",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "MetaのMuseにSpaces。会話で用途別の作業空間を作り、アプリ連携で情報更新も。"
-      }
-    },
-    {
-      "rank": 4,
-      "title": "【2026-11-07】inMusic、AI支援の楽器改造を後押しへ　コード公開とSDK提供を計画",
-      "summary": "取材記事でinMusicが楽器のコード公開やSDK提供方針を説明。AI支援の改造を受け入れつつ、公式ソフトの安定性と復旧手段を重視する。",
+      "title": "【2026-11-08】【レビュー】NYT CookingのAI、食材代替に役立つ一方で分量確認に課題",
+      "summary": "The VergeがNYT CookingのAIを実食検証。食材代替やレシピ変更は有用だったが、元レシピと変更版の混同でバター量を誤りかけた。",
       "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "published_date": "2026-11-07",
+      "source_url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "published_date": "2026-11-08",
       "script": {
         "panels": [
           {
-            "speech": "スマホに楽器改造のニュース！",
+            "speech": "スマホで料理ＡＩ評！えっ？",
             "narration": ""
           },
           {
-            "speech": "メーカーが改造を応援！？",
+            "speech": "バター半分で答えたの！？",
             "narration": ""
           },
           {
-            "speech": "自由と安定の両立が課題だね",
-            "narration": "取材でinMusicはコード公開やSDK提供の方針を説明。AI支援の改造を受け入れ、公式版の安定性と復旧手段も重視する。"
+            "speech": "変更版との混同に注意だね",
+            "narration": "The Vergeのレビューでは食材代替が役立った一方、元レシピの分量を尋ねた際にAIが変更版の量を回答。筆者は分量や調理時間の再確認が必要とした。"
           },
           {
-            "speech": "みなみは本番前に戻せる派",
-            "narration": "次回に続く"
+            "speech": "みなみが最後に分量確認！",
+            "narration": "次回おたのしみに"
           }
         ],
-        "telop_text": "inMusicが楽器改造コミュニティーを支援する方針。コード公開・SDKと安定性の両立を目指す。"
-      }
-    },
-    {
-      "rank": 5,
-      "title": "【2026-11-07】【ルポ】AIへの価値観が恋愛にも影響　サンフランシスコの出会い事情",
-      "summary": "The Vergeの現地ルポが、AIへの賛否や安全性への不安、仕事観が交際相手選びに影響する姿を紹介。恋愛活動をAIに任せる事例も取材した。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "published_date": "2026-11-07",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホにＡＩと恋愛のルポ！",
-            "narration": ""
-          },
-          {
-            "speech": "ＡＩ観で交際を判断！？",
-            "narration": ""
-          },
-          {
-            "speech": "便利さだけの話じゃないね",
-            "narration": "サンフランシスコの取材では、AIへの賛否や将来への不安が相手選びに影響。恋愛活動をAIに任せる事例も登場した。"
-          },
-          {
-            "speech": "みなみは本人と話したい",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "現地ルポ：AIへの価値観が恋愛にも。サンフランシスコで交際と技術の関係を取材。"
+        "telop_text": "NYT CookingのAI実食レビュー：食材代替は便利でも、元レシピと変更版の分量確認が重要"
       }
     }
   ]
