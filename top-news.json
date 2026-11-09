@@ -1,42 +1,98 @@
 {
-  "dispatchNo": "239",
-  "dateLabel": "2026.11.08",
+  "dispatchNo": "240",
+  "dateLabel": "2026.11.10",
   "top1": {
-    "title": "【2026-11-08】Nvidia製AI半導体の対中販売承認、実態不明企業への審査に疑問",
-    "lead1": "The VergeはNYT報道を引用し、NvidiaのH200購入を承認された中国企業の事務所が空だったと伝えた。",
-    "lead2": "所有者と米国の制裁対象企業との関係も指摘され、米商務省とNvidiaによる購入先審査の十分性が問われている。",
-    "manga_url": "news/top1_manga_2026-11-08.png",
+    "title": "【2026-11-10】Anthropic、Claude Mythos 5.2とFable 5.2を発表",
+    "lead1": "Anthropicが新モデル2種を発表。コード・推論・画像理解の改善をうたい、Fableの入力料金も引き下げた。",
+    "lead2": "Fableは応答速度が30％向上したと説明。一方、モデルが評価を察知するなど、能力検証の難しさも報告している。",
+    "manga_url": "news/top1_manga_2026-11-10.png",
     "video_url": "",
-    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-08",
-        "manga_url": "news/top1_manga_2026-11-08_en.png",
-        "manga_sha256": "abfcdd498106283ae2434c1f3c9776868b94bfb57bed496cab707f152e08a75a",
+        "date": "2026-11-10",
+        "manga_url": "news/top1_manga_2026-11-10_en.png",
+        "manga_sha256": "a54f929e1a15857d1208950d3984d96062bfd0f823dd9ad5086138564ff6cf30",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-08] Approval of Nvidia AI chip sales to China raises questions over vetting of companies with unclear operations",
-            "summary": "Citing a New York Times report, The Verge reported that the companies approved to purchase H200 chips include a Chinese company whose office is empty. Concerns have been raised about ties to sanctioned companies and shortcomings in the vetting process.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-            "published_date": "2026-11-08"
+            "title": "【2026-11-10】Anthropic announces Claude Mythos 5.2 and Fable 5.2",
+            "summary": "The company released new models touting improvements in coding, reasoning and image understanding. It says Fable also has lower input pricing and faster responses.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+            "published_date": "2026-11-10"
           },
           {
             "rank": 2,
-            "title": "[2026-11-08] [Review] NYT Cooking AI helps with ingredient substitutions but poses challenges in checking quantities",
-            "summary": "The Verge tested NYT Cooking's AI by preparing and tasting dishes. Ingredient substitutions and recipe modifications were useful, but confusion between the original and modified recipes nearly led to using the wrong amount of butter.",
+            "title": "【2026-11-10】Meta releases Muse Ember, a lightweight AI model for running agents",
+            "summary": "The model is designed for high-volume processing, including tool calls and document analysis. It costs $0.10 per million input tokens and also supports images and audio.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+            "published_date": "2026-11-10"
+          },
+          {
+            "rank": 3,
+            "title": "【2026-11-10】Anthropic reportedly buys $3.4 billion in natural gas power generation facilities",
+            "summary": "According to the FT, the company purchased facilities with up to 1.7 gigawatts of generating capacity. The purchase comes amid difficulties securing electricity for AI.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+            "published_date": "2026-11-10"
+          },
+          {
+            "rank": 4,
+            "title": "【2026-11-10】Disney and Adobe enter multiyear partnership on custom generative AI models for production",
+            "summary": "They will develop custom models tailored to Disney's assets using Firefly Foundry. They will explore applications in production workflows, theme parks and ESPN.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-            "published_date": "2026-11-08"
+            "source_url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+            "published_date": "2026-11-10"
+          },
+          {
+            "rank": 5,
+            "title": "【2026-11-10】Trump expresses willingness to work with Democrats on AI safeguards",
+            "summary": "On \"60 Minutes,\" he argued that AI risks are manageable. While expressing an intention to cooperate on safeguards, he also discussed competition with China.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+            "published_date": "2026-11-10"
+          },
+          {
+            "rank": 6,
+            "title": "【2026-11-10】【Analysis】Nvidia's China AI chip business faces scrutiny over allegations involving its CEO",
+            "summary": "TechCrunch analyzed how allegations involving the CEO and an internal investigation could intensify scrutiny of the company as it seeks an easing of export restrictions to China.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+            "published_date": "2026-11-10"
+          },
+          {
+            "rank": 7,
+            "title": "【2026-11-10】Apple introduces $49.99 pack for additional AI usage in Logic Pro",
+            "summary": "The company introduced a pack allowing additional use of AI features subject to usage limits. Unused allowances can roll over but expire 12 months after purchase.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+            "published_date": "2026-11-10"
+          },
+          {
+            "rank": 8,
+            "title": "【2026-11-10】Medium releases TK, a new app with integrated AI writing assistance",
+            "summary": "The free tool lets users ask AI questions or request revisions within the editor. It also supports notes explaining how AI was used and draft sharing between people.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+            "published_date": "2026-11-10"
+          },
+          {
+            "rank": 9,
+            "title": "【2026-11-10】Instagram offers Effect Builder to create filters from text",
+            "summary": "Available to users over 18 in the United States, the feature generates filters for Stories from text or reference images. A safety review is required before filters can be made available to other users.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+            "published_date": "2026-11-10"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "9fb9d98400ffbd25a447b419c44a4a9781e17197da5cec423f3f25cef6835ece"
+        "source_manga_sha256": "91c3e79e80d811da67a5626815d531707dcb6872caee067b254f3817a09ae584"
       }
     },
-    "media_updated_at": "2026-11-08"
+    "media_updated_at": "2026-11-10"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -48,19 +104,65 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-08】【レビュー】NYT CookingのAI、食材代替に役立つ一方で分量確認に課題"
+    "【2026-11-10】Meta、エージェント実行向け軽量AI「Muse Ember」を公開",
+    "【2026-11-10】Anthropic、34億ドルの天然ガス発電設備購入と報道",
+    "【2026-11-10】DisneyとAdobe、制作向け独自生成AIモデルで複数年提携",
+    "【2026-11-10】トランプ氏、AI安全対策で民主党との協力に意欲",
+    "【2026-11-10】【解説】Nvidiaの対中AI半導体事業、CEO巡る疑惑で scrutiny",
+    "【2026-11-10】Apple、Logic Proに49.99ドルのAI追加利用パック",
+    "【2026-11-10】Medium、執筆支援AIを組み込んだ新アプリ「TK」を公開"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-08】【レビュー】NYT CookingのAI、食材代替に役立つ一方で分量確認に課題",
-      "summary": "The VergeがNYT CookingのAIを実食検証。食材代替やレシピ変更は有用だったが、元レシピと変更版の混同でバター量を誤りかけた。",
+      "title": "【2026-11-10】Meta、エージェント実行向け軽量AI「Muse Ember」を公開",
+      "summary": "ツール呼び出しや文書解析など大量処理向けのモデル。入力100万トークン当たり0.10ドルで、画像・音声にも対応する。",
+      "manga_url": "",
+      "video_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "【2026-11-10】Anthropic、34億ドルの天然ガス発電設備購入と報道",
+      "summary": "FT報道によると、最大1.7ギガワットの発電能力を持つ設備を購入。AI向け電力確保の難しさが背景にある。",
       "manga_url": "",
       "video_url": ""
     }
   ],
-  "topList": [],
+  "topList": [
+    {
+      "rank": 4,
+      "title": "【2026-11-10】DisneyとAdobe、制作向け独自生成AIモデルで複数年提携"
+    },
+    {
+      "rank": 5,
+      "title": "【2026-11-10】トランプ氏、AI安全対策で民主党との協力に意欲"
+    },
+    {
+      "rank": 6,
+      "title": "【2026-11-10】【解説】Nvidiaの対中AI半導体事業、CEO巡る疑惑で scrutiny"
+    },
+    {
+      "rank": 7,
+      "title": "【2026-11-10】Apple、Logic Proに49.99ドルのAI追加利用パック"
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-10】Medium、執筆支援AIを組み込んだ新アプリ「TK」を公開"
+    },
+    {
+      "rank": 9,
+      "title": "【2026-11-10】Instagram、文章からフィルターを作る「Effect Builder」を提供"
+    }
+  ],
   "archive": [
+    {
+      "no": "239",
+      "kind": "✨ ラミッカ",
+      "date": "11.08",
+      "img": "news/top1_manga_2026-11-08.png",
+      "title": "【2026-11-08】Nvidia製AI半導体の対中販売承認、実態不明企業への審査に疑問",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
     {
       "no": "238",
       "kind": "✨ ラミッカ",

@@ -1,63 +1,266 @@
 {
-  "date": "2026.11.08",
+  "date": "2026.11.10",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-08】Nvidia製AI半導体の対中販売承認、実態不明企業への審査に疑問",
-      "summary": "The VergeはNYT報道を引用し、H200の購入承認先に事務所が空の中国企業が含まれると報道。制裁対象企業との関係や審査の不備が懸念されている。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "published_date": "2026-11-08",
+      "title": "【2026-11-10】Anthropic、Claude Mythos 5.2とFable 5.2を発表",
+      "summary": "コード・推論・画像理解の改善をうたう新モデルを公開。Fableは入力料金を引き下げ、応答も高速化したという。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "published_date": "2026-11-10",
       "script": {
         "panels": [
           {
-            "speech": "スマホに半導体報道！えっ？",
+            "speech": "スマホに新型クロードの速報！",
             "narration": ""
           },
           {
-            "speech": "承認先の事務所が空っぽ！？",
+            "speech": "速くなって値下げも！？",
             "narration": ""
           },
           {
-            "speech": "購入先の確認は十分なの？",
-            "narration": "The VergeがNYT報道を紹介。H200の購入承認先である中国企業New Matrixは事務所が空で、所有者と米国の制裁対象企業との関係も指摘された。"
+            "speech": "評価の難しさもあるんだ",
+            "narration": "AnthropicはMythos 5.2とFable 5.2を発表。Fableの高速化と入力料金引き下げを説明する一方、モデルの能力評価には課題が残るとした。"
           },
           {
-            "speech": "みなみは審査の中身が気になる",
+            "speech": "みなみは実力も確かめたい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Nvidia製H200の対中販売承認先に実態不明企業との報道、購入先審査に疑問"
+        "telop_text": "Claude新モデル登場、性能・速度・料金が進化したと説明する一方、評価には課題"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-08】【レビュー】NYT CookingのAI、食材代替に役立つ一方で分量確認に課題",
-      "summary": "The VergeがNYT CookingのAIを実食検証。食材代替やレシピ変更は有用だったが、元レシピと変更版の混同でバター量を誤りかけた。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "published_date": "2026-11-08",
+      "title": "【2026-11-10】Meta、エージェント実行向け軽量AI「Muse Ember」を公開",
+      "summary": "ツール呼び出しや文書解析など大量処理向けのモデル。入力100万トークン当たり0.10ドルで、画像・音声にも対応する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "published_date": "2026-11-10",
       "script": {
         "panels": [
           {
-            "speech": "スマホで料理ＡＩ評！えっ？",
+            "speech": "スマホにメタの新型速報！",
             "narration": ""
           },
           {
-            "speech": "バター半分で答えたの！？",
+            "speech": "大量処理を低価格で！？",
             "narration": ""
           },
           {
-            "speech": "変更版との混同に注意だね",
-            "narration": "The Vergeのレビューでは食材代替が役立った一方、元レシピの分量を尋ねた際にAIが変更版の量を回答。筆者は分量や調理時間の再確認が必要とした。"
+            "speech": "計画と実行を分担するのね",
+            "narration": "Muse Emberはツール呼び出しやコードの部分作業、長文解析向け。Metaは大型モデルが計画し、Emberが大量の実行を担う使い方を示した。"
           },
           {
-            "speech": "みなみが最後に分量確認！",
-            "narration": "次回おたのしみに"
+            "speech": "みなみは総費用も見たい",
+            "narration": "次回に続く"
           }
         ],
-        "telop_text": "NYT CookingのAI実食レビュー：食材代替は便利でも、元レシピと変更版の分量確認が重要"
+        "telop_text": "MetaのMuse Ember、大型モデルと役割分担する低コストの実行役"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "【2026-11-10】Anthropic、34億ドルの天然ガス発電設備購入と報道",
+      "summary": "FT報道によると、最大1.7ギガワットの発電能力を持つ設備を購入。AI向け電力確保の難しさが背景にある。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "published_date": "2026-11-10",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに発電設備購入の報！",
+            "narration": ""
+          },
+          {
+            "speech": "ＡＩ企業が発電設備まで！？",
+            "narration": ""
+          },
+          {
+            "speech": "電力確保も競争なのね",
+            "narration": "FT報道を基に、Anthropicが34億ドルの天然ガス発電設備を購入すると伝えた。設備の最大発電能力は1.7ギガワットという。"
+          },
+          {
+            "speech": "みなみは環境負荷も気になる",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "AIの電力争奪戦、Anthropicが34億ドルの発電設備購入と報道"
+      }
+    },
+    {
+      "rank": 4,
+      "title": "【2026-11-10】DisneyとAdobe、制作向け独自生成AIモデルで複数年提携",
+      "summary": "Disneyの資産に合わせた独自モデルをFirefly Foundryで開発。制作工程やテーマパーク、ESPNでの活用を探る。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "published_date": "2026-11-10",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホにディズニー提携の報！",
+            "narration": ""
+          },
+          {
+            "speech": "独自の生成ＡＩを作る！？",
+            "narration": ""
+          },
+          {
+            "speech": "制作現場を支える狙いね",
+            "narration": "DisneyとAdobeが複数年提携。Firefly Foundryを使い、Disneyの作品資産に合わせた、人間中心でアーティスト主導の独自生成AIモデルを開発する。"
+          },
+          {
+            "speech": "みなみは作り手の声も聞きたい",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "DisneyとAdobeが提携、アーティスト主導の独自生成AIモデル開発へ"
+      }
+    },
+    {
+      "rank": 5,
+      "title": "【2026-11-10】トランプ氏、AI安全対策で民主党との協力に意欲",
+      "summary": "「60 Minutes」でAIリスクは管理可能と主張。安全対策で協力する意向を示す一方、中国との競争にも言及した。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "published_date": "2026-11-10",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホにＡＩ政策の発言速報！",
+            "narration": ""
+          },
+          {
+            "speech": "安全と競争を両立できる！？",
+            "narration": ""
+          },
+          {
+            "speech": "具体策の確認が必要ね",
+            "narration": "トランプ氏は番組で、AIのリスクは管理可能と主張。安全対策で民主党と協力する意向を示したが、中国との競争で後れを取らないことも強調した。"
+          },
+          {
+            "speech": "みなみは制度の中身を追う",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "トランプ氏がAI安全対策で協力に意欲、対中競争も重視"
+      }
+    },
+    {
+      "rank": 6,
+      "title": "【2026-11-10】【解説】Nvidiaの対中AI半導体事業、CEO巡る疑惑で scrutiny",
+      "summary": "TechCrunchは、CEOを巡る疑惑と社内調査が、対中輸出規制緩和を求める同社への監視を強め得ると分析した。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "published_date": "2026-11-10",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに半導体事業の解説！",
+            "narration": ""
+          },
+          {
+            "speech": "対中事業にも影響する！？",
+            "narration": ""
+          },
+          {
+            "speech": "疑惑と事実は分けよう",
+            "narration": "記事はNvidiaのCEOを巡る疑惑と社内調査を取り上げ、対中AI半導体輸出への影響を分析。疑惑は調査対象であり、情報流出を確定したものではない。"
+          },
+          {
+            "speech": "みなみは調査結果を待つ",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "解説：Nvidiaの対中AI半導体事業への影響を分析、疑惑の断定は避ける"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "【2026-11-10】Apple、Logic Proに49.99ドルのAI追加利用パック",
+      "summary": "利用上限のあるAI機能を追加利用できるパックを導入。未使用分は繰り越せるが、購入から12カ月で失効する。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "published_date": "2026-11-10",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに音楽アプリの新情報！",
+            "narration": ""
+          },
+          {
+            "speech": "ＡＩ利用枠を追加購入！？",
+            "narration": ""
+          },
+          {
+            "speech": "期限も確認しなくちゃ",
+            "narration": "Logic Proに49.99ドルのIntelligence Usage Packを導入。未使用の追加利用枠は月をまたいで繰り越せるが、購入から12カ月で失効し、家族共有はできない。"
+          },
+          {
+            "speech": "みなみは使用量を先に見る",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Logic ProにAI追加利用パック、49.99ドルで購入・有効期限は12カ月"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-10】Medium、執筆支援AIを組み込んだ新アプリ「TK」を公開",
+      "summary": "編集画面でAIに質問や推敲を依頼できる無料ツール。AIの利用方法を説明する注記や、人間同士の草稿共有にも対応する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "published_date": "2026-11-10",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに新しい執筆アプリ！",
+            "narration": ""
+          },
+          {
+            "speech": "編集画面でＡＩに相談！？",
+            "narration": ""
+          },
+          {
+            "speech": "使い方の開示もできるのね",
+            "narration": "MediumのTKは「@TK」でAIに質問や編集支援を依頼できる。AIの利用方法を説明する注記や草稿共有を備え、Mediumアカウント保有者向けに無料提供する。"
+          },
+          {
+            "speech": "みなみの言葉は大切にしたい",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Mediumが執筆支援アプリTKを公開、AI利用の透明性を高める注記にも対応"
+      }
+    },
+    {
+      "rank": 9,
+      "title": "【2026-11-10】Instagram、文章からフィルターを作る「Effect Builder」を提供",
+      "summary": "米国の18歳超を対象に、文章や参考画像からStories用フィルターを生成。他の利用者への公開には安全審査が必要となる。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "published_date": "2026-11-10",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホにフィルター生成速報！",
+            "narration": ""
+          },
+          {
+            "speech": "文章から効果が作れる！？",
+            "narration": ""
+          },
+          {
+            "speech": "公開前には安全審査ね",
+            "narration": "InstagramのEffect Builderは、文章と参考画像からStories用フィルターを生成。米国の18歳超が対象で、他の利用者に公開するには安全審査を通過する必要がある。"
+          },
+          {
+            "speech": "みなみも表現を工夫したい",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "InstagramでAIフィルター生成、米国の18歳超向けに提供開始"
       }
     }
   ]
