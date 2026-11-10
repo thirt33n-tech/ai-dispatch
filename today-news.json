@@ -1,266 +1,295 @@
 {
-  "date": "2026.11.10",
+  "date": "2026.11.11",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-10】Anthropic、Claude Mythos 5.2とFable 5.2を発表",
-      "summary": "コード・推論・画像理解の改善をうたう新モデルを公開。Fableは入力料金を引き下げ、応答も高速化したという。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "published_date": "2026-11-10",
+      "title": "【2026-11-11】Google、Gemini 4 Carbonの提供拡大　複数エージェントの協調機能も予告",
+      "summary": "GoogleがGemini 4 Carbonを有料開発者・企業やAI Ultra利用者へ展開。複雑な開発・研究向けと位置付け、エージェント協調機能もプレビューする。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "published_date": "2026-11-11",
       "script": {
         "panels": [
           {
-            "speech": "スマホに新型クロードの速報！",
+            "speech": "スマホに新型ジェミニ速報！",
             "narration": ""
           },
           {
-            "speech": "速くなって値下げも！？",
+            "speech": "今度はチームで動くの！？",
             "narration": ""
           },
           {
-            "speech": "評価の難しさもあるんだ",
-            "narration": "AnthropicはMythos 5.2とFable 5.2を発表。Fableの高速化と入力料金引き下げを説明する一方、モデルの能力評価には課題が残るとした。"
+            "speech": "難しい研究も対象なんだ",
+            "narration": "GoogleがGemini 4 Carbonの提供対象を拡大。Antigravityでは複数エージェントの協調機能もプレビューする。"
           },
           {
-            "speech": "みなみは実力も確かめたい",
+            "speech": "みなみは連携の精度に注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Claude新モデル登場、性能・速度・料金が進化したと説明する一方、評価には課題"
+        "telop_text": "Gemini 4 Carbonの提供拡大、複雑な開発・研究とエージェント協調を狙う"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-10】Meta、エージェント実行向け軽量AI「Muse Ember」を公開",
-      "summary": "ツール呼び出しや文書解析など大量処理向けのモデル。入力100万トークン当たり0.10ドルで、画像・音声にも対応する。",
+      "title": "【2026-11-11】Anthropic、Claude Meetingsなどを発表　会議・表計算・共同作業を支援",
+      "summary": "Anthropicが会議中に作業するClaude Meetingsと、Whiteboards、Sheetsをベータ公開。MeetingsはTeam・Enterprise向けでGoogle Meetに対応する。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "published_date": "2026-11-10",
+      "source_url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "published_date": "2026-11-11",
       "script": {
         "panels": [
           {
-            "speech": "スマホにメタの新型速報！",
+            "speech": "スマホに会議ＡＩの速報！",
             "narration": ""
           },
           {
-            "speech": "大量処理を低価格で！？",
+            "speech": "話してる間に作業するの！？",
             "narration": ""
           },
           {
-            "speech": "計画と実行を分担するのね",
-            "narration": "Muse Emberはツール呼び出しやコードの部分作業、長文解析向け。Metaは大型モデルが計画し、Emberが大量の実行を担う使い方を示した。"
+            "speech": "議事録だけじゃないんだ",
+            "narration": "Claude Meetingsは会話中に計画や作業項目を作成。共同ボードと表計算の新機能もベータ公開された。"
           },
           {
-            "speech": "みなみは総費用も見たい",
+            "speech": "みなみは会議の質も見たい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "MetaのMuse Ember、大型モデルと役割分担する低コストの実行役"
+        "telop_text": "Claudeが会議中の実務へ進出、共同ボード・表計算もベータ公開"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-11-10】Anthropic、34億ドルの天然ガス発電設備購入と報道",
-      "summary": "FT報道によると、最大1.7ギガワットの発電能力を持つ設備を購入。AI向け電力確保の難しさが背景にある。",
+      "title": "【2026-11-11】OpenAI、ChatGPTに企業プロフィールとBusiness Hubを導入",
+      "summary": "OpenAIがBusiness Hubをベータ公開。企業情報の確認・更新や利用動向の把握に対応し、対象企業は顧客の質問に答える専用エージェントも作成できる。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "published_date": "2026-11-10",
+      "source_url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "published_date": "2026-11-11",
       "script": {
         "panels": [
           {
-            "speech": "スマホに発電設備購入の報！",
+            "speech": "スマホに企業紹介の新機能！",
             "narration": ""
           },
           {
-            "speech": "ＡＩ企業が発電設備まで！？",
+            "speech": "企業の代理ＡＩと話せる！？",
             "narration": ""
           },
           {
-            "speech": "電力確保も競争なのね",
-            "narration": "FT報道を基に、Anthropicが34億ドルの天然ガス発電設備を購入すると伝えた。設備の最大発電能力は1.7ギガワットという。"
+            "speech": "情報の確認も大切だね",
+            "narration": "Business Hubでは企業がプロフィールを管理。対象企業は専用エージェントを作成でき、閲覧などの指標も確認できる。"
           },
           {
-            "speech": "みなみは環境負荷も気になる",
+            "speech": "みなみは比較の公平さに注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "AIの電力争奪戦、Anthropicが34億ドルの発電設備購入と報道"
+        "telop_text": "ChatGPTに企業プロフィールと専用エージェント、Business Hubをベータ公開"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-11-10】DisneyとAdobe、制作向け独自生成AIモデルで複数年提携",
-      "summary": "Disneyの資産に合わせた独自モデルをFirefly Foundryで開発。制作工程やテーマパーク、ESPNでの活用を探る。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-      "published_date": "2026-11-10",
+      "title": "【2026-11-11】Google、AI向け新TPUを発表　機密計算と大容量メモリーを強化",
+      "summary": "GoogleがTPU 8txとTPU 8i Maxを発表。8txはAMDと設計し機密データの保護を重視、8i Maxはメモリー容量などを増やして推論用途を広げる。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "published_date": "2026-11-11",
       "script": {
         "panels": [
           {
-            "speech": "スマホにディズニー提携の報！",
+            "speech": "スマホに新ＴＰＵの速報！",
             "narration": ""
           },
           {
-            "speech": "独自の生成ＡＩを作る！？",
+            "speech": "機密データも計算中に保護！？",
             "narration": ""
           },
           {
-            "speech": "制作現場を支える狙いね",
-            "narration": "DisneyとAdobeが複数年提携。Firefly Foundryを使い、Disneyの作品資産に合わせた、人間中心でアーティスト主導の独自生成AIモデルを開発する。"
+            "speech": "用途でチップを分けるんだ",
+            "narration": "TPU 8txは機密性を重視した学習・推論向け。TPU 8i Maxはメモリー容量や処理能力を拡大する。"
           },
           {
-            "speech": "みなみは作り手の声も聞きたい",
+            "speech": "みなみは使い分けに注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "DisneyとAdobeが提携、アーティスト主導の独自生成AIモデル開発へ"
+        "telop_text": "Googleの新TPU、機密計算と大容量推論に特化"
       }
     },
     {
       "rank": 5,
-      "title": "【2026-11-10】トランプ氏、AI安全対策で民主党との協力に意欲",
-      "summary": "「60 Minutes」でAIリスクは管理可能と主張。安全対策で協力する意向を示す一方、中国との競争にも言及した。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "published_date": "2026-11-10",
+      "title": "【2026-11-11】PSI、AIによる科学発見の事業化を模索　量子計算の長年の予想に解法",
+      "summary": "PSIの研究者がFable 5.2を使い量子計算の予想を解いたと報道。Leanによる形式化が示される一方、実世界の物理では実験検証が必要とされる。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "published_date": "2026-11-11",
       "script": {
         "panels": [
           {
-            "speech": "スマホにＡＩ政策の発言速報！",
+            "speech": "スマホに量子研究の速報！",
             "narration": ""
           },
           {
-            "speech": "安全と競争を両立できる！？",
+            "speech": "長年の予想にＡＩで解法！？",
             "narration": ""
           },
           {
-            "speech": "具体策の確認が必要ね",
-            "narration": "トランプ氏は番組で、AIのリスクは管理可能と主張。安全対策で民主党と協力する意向を示したが、中国との競争で後れを取らないことも強調した。"
+            "speech": "証明と実験は別なんだね",
+            "narration": "PSIの研究者による量子計算の予想への解法を報道。Leanで形式化されたが、物理の事業化には実験での検証も必要だ。"
           },
           {
-            "speech": "みなみは制度の中身を追う",
+            "speech": "みなみは検証の過程を見たい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "トランプ氏がAI安全対策で協力に意欲、対中競争も重視"
+        "telop_text": "PSIがAIによる科学発見を事業化へ、数学的証明と実験検証の違いも課題"
       }
     },
     {
       "rank": 6,
-      "title": "【2026-11-10】【解説】Nvidiaの対中AI半導体事業、CEO巡る疑惑で scrutiny",
-      "summary": "TechCrunchは、CEOを巡る疑惑と社内調査が、対中輸出規制緩和を求める同社への監視を強め得ると分析した。",
+      "title": "【2026-11-11】Anthropicの共同創業者7人、IPOで各約2億5000万ドルの株式売却を計画",
+      "summary": "新たなS-1書類によると、共同創業者7人は各約338万株を売却予定。想定価格帯の中央値では各約2億5000万ドルとなり、創業者全体の議決権は過半数を維持する。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "published_date": "2026-11-10",
+      "source_url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "published_date": "2026-11-11",
       "script": {
         "panels": [
           {
-            "speech": "スマホに半導体事業の解説！",
+            "speech": "スマホに創業者の売却計画！",
             "narration": ""
           },
           {
-            "speech": "対中事業にも影響する！？",
+            "speech": "７人それぞれ巨額の売却！？",
             "narration": ""
           },
           {
-            "speech": "疑惑と事実は分けよう",
-            "narration": "記事はNvidiaのCEOを巡る疑惑と社内調査を取り上げ、対中AI半導体輸出への影響を分析。疑惑は調査対象であり、情報流出を確定したものではない。"
+            "speech": "会社の調達額とは別だね",
+            "narration": "Anthropicの共同創業者7人が各約338万株の売却を計画。想定価格帯の中央値なら各約2億5000万ドルとなる。"
+          },
+          {
+            "speech": "みなみは議決権にも注目",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Anthropic創業者7人がIPOで株式売却を計画、創業者全体の議決権は過半数維持"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "【2026-11-11】Oura、AI医療のCounsel Healthを6億2500万ドルで買収へ",
+      "summary": "OuraがCounsel Healthの買収を発表。AIと医師を組み合わせた医療サービスを拡充し、予防・急性期・慢性疾患などへの展開を目指す。完了は2027年末までを予定する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "published_date": "2026-11-11",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホにオーラの買収速報！",
+            "narration": ""
+          },
+          {
+            "speech": "指輪の会社がＡＩ医療へ！？",
+            "narration": ""
+          },
+          {
+            "speech": "医師も関わる仕組みなんだ",
+            "narration": "OuraはCounsel Healthを6億2500万ドルで買収へ。生体データと、AI・医師による医療サービスの連携を広げる。"
+          },
+          {
+            "speech": "みなみは安全な連携を期待",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "OuraがCounsel Health買収へ、健康データとAI・医師によるケアを接続"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-11】eBay、外部AIエージェントの閲覧を制限か　The Vergeが接続不能を再現",
+      "summary": "The VergeがMetaのMuseによるeBay出品情報の取得不能を再現。eBayは一部のエージェントアクセス制限を認めたが、新たな制限の有無には直接回答していない。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "published_date": "2026-11-11",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに買い物ＡＩの異変！",
+            "narration": ""
+          },
+          {
+            "speech": "出品情報を見られない！？",
+            "narration": ""
+          },
+          {
+            "speech": "全面禁止とは言えないね",
+            "narration": "The VergeがMuseによるeBay閲覧の失敗を再現。eBayは一部制限を認めたが、新たな措置の詳細は明らかにしていない。"
+          },
+          {
+            "speech": "みなみは利用条件も確認",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "eBayで外部AIの閲覧制限か、買い物エージェントと販売サイトの摩擦"
+      }
+    },
+    {
+      "rank": 9,
+      "title": "【2026-11-11】MetaのAIエージェントMuse、Apple WatchとWear OSに対応",
+      "summary": "MetaがMuseをApple WatchとWear OSへ展開。スマートウォッチから音声通話、テキスト、音声入力で利用でき、メールや予定管理などを支援する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "published_date": "2026-11-11",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに腕時計ＡＩの速報！",
+            "narration": ""
+          },
+          {
+            "speech": "ミューズが手首に来た！？",
+            "narration": ""
+          },
+          {
+            "speech": "声や文字で頼めるんだね",
+            "narration": "MetaのMuseがApple WatchとWear OSに対応。スマートウォッチから音声通話やテキスト、音声入力で利用できる。"
+          },
+          {
+            "speech": "みなみは誤操作に気をつける",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "MuseがApple Watch・Wear OSに進出、手首からAIエージェントを利用"
+      }
+    },
+    {
+      "rank": 10,
+      "title": "【2026-11-11】【解説】Nvidiaトップを巡る疑惑、米国AI産業への影響を専門家が分析",
+      "summary": "The VergeがNvidiaの経営・安全保障上のリスクを解説。専門家は供給や政策への影響を懸念する一方、CEO自身による規制対象チップ流出の公開証拠はないとする。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "published_date": "2026-11-11",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに半導体業界の解説！",
+            "narration": ""
+          },
+          {
+            "speech": "経営の混乱がＡＩ全体に！？",
+            "narration": ""
+          },
+          {
+            "speech": "疑惑と証拠は分けよう",
+            "narration": "専門家がNvidiaの混乱による供給・政策への影響を分析。CEO自身が規制対象チップを中国へ流したという公開証拠はない。"
           },
           {
             "speech": "みなみは調査結果を待つ",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "解説：Nvidiaの対中AI半導体事業への影響を分析、疑惑の断定は避ける"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "【2026-11-10】Apple、Logic Proに49.99ドルのAI追加利用パック",
-      "summary": "利用上限のあるAI機能を追加利用できるパックを導入。未使用分は繰り越せるが、購入から12カ月で失効する。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "published_date": "2026-11-10",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに音楽アプリの新情報！",
-            "narration": ""
-          },
-          {
-            "speech": "ＡＩ利用枠を追加購入！？",
-            "narration": ""
-          },
-          {
-            "speech": "期限も確認しなくちゃ",
-            "narration": "Logic Proに49.99ドルのIntelligence Usage Packを導入。未使用の追加利用枠は月をまたいで繰り越せるが、購入から12カ月で失効し、家族共有はできない。"
-          },
-          {
-            "speech": "みなみは使用量を先に見る",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Logic ProにAI追加利用パック、49.99ドルで購入・有効期限は12カ月"
-      }
-    },
-    {
-      "rank": 8,
-      "title": "【2026-11-10】Medium、執筆支援AIを組み込んだ新アプリ「TK」を公開",
-      "summary": "編集画面でAIに質問や推敲を依頼できる無料ツール。AIの利用方法を説明する注記や、人間同士の草稿共有にも対応する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-      "published_date": "2026-11-10",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに新しい執筆アプリ！",
-            "narration": ""
-          },
-          {
-            "speech": "編集画面でＡＩに相談！？",
-            "narration": ""
-          },
-          {
-            "speech": "使い方の開示もできるのね",
-            "narration": "MediumのTKは「@TK」でAIに質問や編集支援を依頼できる。AIの利用方法を説明する注記や草稿共有を備え、Mediumアカウント保有者向けに無料提供する。"
-          },
-          {
-            "speech": "みなみの言葉は大切にしたい",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Mediumが執筆支援アプリTKを公開、AI利用の透明性を高める注記にも対応"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "【2026-11-10】Instagram、文章からフィルターを作る「Effect Builder」を提供",
-      "summary": "米国の18歳超を対象に、文章や参考画像からStories用フィルターを生成。他の利用者への公開には安全審査が必要となる。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "published_date": "2026-11-10",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホにフィルター生成速報！",
-            "narration": ""
-          },
-          {
-            "speech": "文章から効果が作れる！？",
-            "narration": ""
-          },
-          {
-            "speech": "公開前には安全審査ね",
-            "narration": "InstagramのEffect Builderは、文章と参考画像からStories用フィルターを生成。米国の18歳超が対象で、他の利用者に公開するには安全審査を通過する必要がある。"
-          },
-          {
-            "speech": "みなみも表現を工夫したい",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "InstagramでAIフィルター生成、米国の18歳超向けに提供開始"
+        "telop_text": "解説：Nvidiaの経営・安全保障リスク、疑惑と確認済み事実を区別"
       }
     }
   ]

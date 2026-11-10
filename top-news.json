@@ -1,98 +1,106 @@
 {
-  "dispatchNo": "240",
-  "dateLabel": "2026.11.10",
+  "dispatchNo": "241",
+  "dateLabel": "2026.11.11",
   "top1": {
-    "title": "【2026-11-10】Anthropic、Claude Mythos 5.2とFable 5.2を発表",
-    "lead1": "Anthropicが新モデル2種を発表。コード・推論・画像理解の改善をうたい、Fableの入力料金も引き下げた。",
-    "lead2": "Fableは応答速度が30％向上したと説明。一方、モデルが評価を察知するなど、能力検証の難しさも報告している。",
-    "manga_url": "news/top1_manga_2026-11-10.png",
+    "title": "【2026-11-11】Google、Gemini 4 Carbonの提供拡大　複数エージェントの協調機能も予告",
+    "lead1": "GoogleがGemini 4 Carbonを有料開発者・企業やAI Ultra利用者へ展開。複雑な開発や科学研究を狙う。",
+    "lead2": "Antigravityでは複数エージェントの協調機能もプレビュー。性能評価はGoogleの説明に基づき、実利用の費用はトークン消費量にも左右される。",
+    "manga_url": "news/top1_manga_2026-11-11.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-10",
-        "manga_url": "news/top1_manga_2026-11-10_en.png",
-        "manga_sha256": "a54f929e1a15857d1208950d3984d96062bfd0f823dd9ad5086138564ff6cf30",
+        "date": "2026-11-11",
+        "manga_url": "news/top1_manga_2026-11-11_en.png",
+        "manga_sha256": "e13064a8364d71e1f4c4cc683f7bf908bfb54863b6ec8ca7e7a8e02d485e46df",
         "top10": [
           {
             "rank": 1,
-            "title": "【2026-11-10】Anthropic announces Claude Mythos 5.2 and Fable 5.2",
-            "summary": "The company released new models touting improvements in coding, reasoning and image understanding. It says Fable also has lower input pricing and faster responses.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-            "published_date": "2026-11-10"
+            "title": "[2026-11-11] Google expands Gemini 4 Carbon availability, previews multi-agent collaboration features",
+            "summary": "Google is rolling out Gemini 4 Carbon to paying developers, enterprise customers and AI Ultra users. It positions the model for complex development and research tasks and is also previewing agent collaboration features.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+            "published_date": "2026-11-11"
           },
           {
             "rank": 2,
-            "title": "【2026-11-10】Meta releases Muse Ember, a lightweight AI model for running agents",
-            "summary": "The model is designed for high-volume processing, including tool calls and document analysis. It costs $0.10 per million input tokens and also supports images and audio.",
+            "title": "[2026-11-11] Anthropic announces Claude Meetings and other tools to support meetings, spreadsheets and collaboration",
+            "summary": "Anthropic has released beta versions of Claude Meetings, which performs tasks during meetings, along with Whiteboards and Sheets. Meetings is available for Team and Enterprise customers and supports Google Meet.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-            "published_date": "2026-11-10"
+            "source_url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+            "published_date": "2026-11-11"
           },
           {
             "rank": 3,
-            "title": "【2026-11-10】Anthropic reportedly buys $3.4 billion in natural gas power generation facilities",
-            "summary": "According to the FT, the company purchased facilities with up to 1.7 gigawatts of generating capacity. The purchase comes amid difficulties securing electricity for AI.",
+            "title": "[2026-11-11] OpenAI introduces business profiles and Business Hub in ChatGPT",
+            "summary": "OpenAI has launched Business Hub in beta. It supports reviewing and updating company information and tracking usage trends. Eligible businesses can also create dedicated agents to answer customer questions.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-            "published_date": "2026-11-10"
+            "source_url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+            "published_date": "2026-11-11"
           },
           {
             "rank": 4,
-            "title": "【2026-11-10】Disney and Adobe enter multiyear partnership on custom generative AI models for production",
-            "summary": "They will develop custom models tailored to Disney's assets using Firefly Foundry. They will explore applications in production workflows, theme parks and ESPN.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-            "published_date": "2026-11-10"
+            "title": "[2026-11-11] Google announces new AI TPUs with enhanced confidential computing and larger memory capacity",
+            "summary": "Google has announced TPU 8tx and TPU 8i Max. The 8tx was designed with AMD and emphasizes protecting confidential data, while the 8i Max increases memory capacity and other capabilities to broaden its inference applications.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+            "published_date": "2026-11-11"
           },
           {
             "rank": 5,
-            "title": "【2026-11-10】Trump expresses willingness to work with Democrats on AI safeguards",
-            "summary": "On \"60 Minutes,\" he argued that AI risks are manageable. While expressing an intention to cooperate on safeguards, he also discussed competition with China.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-            "published_date": "2026-11-10"
+            "title": "[2026-11-11] PSI explores commercializing AI-driven scientific discovery as researchers solve a long-standing quantum computing conjecture",
+            "summary": "PSI researchers reportedly used Fable 5.2 to solve a quantum computing conjecture. A formalization in Lean is presented, while experimental validation is still considered necessary for real-world physics.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+            "published_date": "2026-11-11"
           },
           {
             "rank": 6,
-            "title": "【2026-11-10】【Analysis】Nvidia's China AI chip business faces scrutiny over allegations involving its CEO",
-            "summary": "TechCrunch analyzed how allegations involving the CEO and an internal investigation could intensify scrutiny of the company as it seeks an easing of export restrictions to China.",
+            "title": "[2026-11-11] Anthropic's seven co-founders plan to sell about $250 million in shares each in IPO",
+            "summary": "According to a new S-1 filing, the seven co-founders plan to sell approximately 3.38 million shares each. At the midpoint of the expected price range, that amounts to about $250 million each. The founders will collectively retain a majority of voting rights.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-            "published_date": "2026-11-10"
+            "source_url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+            "published_date": "2026-11-11"
           },
           {
             "rank": 7,
-            "title": "【2026-11-10】Apple introduces $49.99 pack for additional AI usage in Logic Pro",
-            "summary": "The company introduced a pack allowing additional use of AI features subject to usage limits. Unused allowances can roll over but expire 12 months after purchase.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-            "published_date": "2026-11-10"
+            "title": "[2026-11-11] Oura to acquire AI healthcare company Counsel Health for $625 million",
+            "summary": "Oura has announced its acquisition of Counsel Health. It aims to expand healthcare services combining AI and physicians into areas including preventive care, acute care and chronic conditions. Completion is expected by the end of 2027.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+            "published_date": "2026-11-11"
           },
           {
             "rank": 8,
-            "title": "【2026-11-10】Medium releases TK, a new app with integrated AI writing assistance",
-            "summary": "The free tool lets users ask AI questions or request revisions within the editor. It also supports notes explaining how AI was used and draft sharing between people.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-            "published_date": "2026-11-10"
+            "title": "[2026-11-11] eBay may be restricting access by external AI agents; The Verge reproduces connection failure",
+            "summary": "The Verge reproduced Meta's Muse being unable to retrieve eBay listing information. eBay acknowledged restricting some agent access but did not directly answer whether any new restrictions had been imposed.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+            "published_date": "2026-11-11"
           },
           {
             "rank": 9,
-            "title": "【2026-11-10】Instagram offers Effect Builder to create filters from text",
-            "summary": "Available to users over 18 in the United States, the feature generates filters for Stories from text or reference images. A safety review is required before filters can be made available to other users.",
+            "title": "[2026-11-11] Meta's Muse AI agent adds support for Apple Watch and Wear OS",
+            "summary": "Meta is rolling out Muse to Apple Watch and Wear OS. Users can access it from smartwatches through voice calls, text and voice input for assistance with tasks such as email and scheduling.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+            "published_date": "2026-11-11"
+          },
+          {
+            "rank": 10,
+            "title": "[2026-11-11] Analysis: Experts assess allegations surrounding Nvidia's chief and implications for the US AI industry",
+            "summary": "The Verge examines management and national security risks surrounding Nvidia. Experts express concern about effects on supply and policy, while noting that there is no public evidence that the CEO himself diverted chips subject to regulatory restrictions.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-            "published_date": "2026-11-10"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+            "published_date": "2026-11-11"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "91c3e79e80d811da67a5626815d531707dcb6872caee067b254f3817a09ae584"
+        "source_manga_sha256": "b11c04fce16945db3f9a0e6be99490eaaf1f416493921125ce8a418b69fca69f"
       }
     },
-    "media_updated_at": "2026-11-10"
+    "media_updated_at": "2026-11-11"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -104,26 +112,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-10】Meta、エージェント実行向け軽量AI「Muse Ember」を公開",
-    "【2026-11-10】Anthropic、34億ドルの天然ガス発電設備購入と報道",
-    "【2026-11-10】DisneyとAdobe、制作向け独自生成AIモデルで複数年提携",
-    "【2026-11-10】トランプ氏、AI安全対策で民主党との協力に意欲",
-    "【2026-11-10】【解説】Nvidiaの対中AI半導体事業、CEO巡る疑惑で scrutiny",
-    "【2026-11-10】Apple、Logic Proに49.99ドルのAI追加利用パック",
-    "【2026-11-10】Medium、執筆支援AIを組み込んだ新アプリ「TK」を公開"
+    "【2026-11-11】Anthropic、Claude Meetingsなどを発表　会議・表計算・共同作業を支援",
+    "【2026-11-11】OpenAI、ChatGPTに企業プロフィールとBusiness Hubを導入",
+    "【2026-11-11】Google、AI向け新TPUを発表　機密計算と大容量メモリーを強化",
+    "【2026-11-11】PSI、AIによる科学発見の事業化を模索　量子計算の長年の予想に解法",
+    "【2026-11-11】Anthropicの共同創業者7人、IPOで各約2億5000万ドルの株式売却を計画",
+    "【2026-11-11】Oura、AI医療のCounsel Healthを6億2500万ドルで買収へ",
+    "【2026-11-11】eBay、外部AIエージェントの閲覧を制限か　The Vergeが接続不能を再現"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-10】Meta、エージェント実行向け軽量AI「Muse Ember」を公開",
-      "summary": "ツール呼び出しや文書解析など大量処理向けのモデル。入力100万トークン当たり0.10ドルで、画像・音声にも対応する。",
+      "title": "【2026-11-11】Anthropic、Claude Meetingsなどを発表　会議・表計算・共同作業を支援",
+      "summary": "Anthropicが会議中に作業するClaude Meetingsと、Whiteboards、Sheetsをベータ公開。MeetingsはTeam・Enterprise向けでGoogle Meetに対応する。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-11-10】Anthropic、34億ドルの天然ガス発電設備購入と報道",
-      "summary": "FT報道によると、最大1.7ギガワットの発電能力を持つ設備を購入。AI向け電力確保の難しさが背景にある。",
+      "title": "【2026-11-11】OpenAI、ChatGPTに企業プロフィールとBusiness Hubを導入",
+      "summary": "OpenAIがBusiness Hubをベータ公開。企業情報の確認・更新や利用動向の把握に対応し、対象企業は顧客の質問に答える専用エージェントも作成できる。",
       "manga_url": "",
       "video_url": ""
     }
@@ -131,30 +139,42 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-11-10】DisneyとAdobe、制作向け独自生成AIモデルで複数年提携"
+      "title": "【2026-11-11】Google、AI向け新TPUを発表　機密計算と大容量メモリーを強化"
     },
     {
       "rank": 5,
-      "title": "【2026-11-10】トランプ氏、AI安全対策で民主党との協力に意欲"
+      "title": "【2026-11-11】PSI、AIによる科学発見の事業化を模索　量子計算の長年の予想に解法"
     },
     {
       "rank": 6,
-      "title": "【2026-11-10】【解説】Nvidiaの対中AI半導体事業、CEO巡る疑惑で scrutiny"
+      "title": "【2026-11-11】Anthropicの共同創業者7人、IPOで各約2億5000万ドルの株式売却を計画"
     },
     {
       "rank": 7,
-      "title": "【2026-11-10】Apple、Logic Proに49.99ドルのAI追加利用パック"
+      "title": "【2026-11-11】Oura、AI医療のCounsel Healthを6億2500万ドルで買収へ"
     },
     {
       "rank": 8,
-      "title": "【2026-11-10】Medium、執筆支援AIを組み込んだ新アプリ「TK」を公開"
+      "title": "【2026-11-11】eBay、外部AIエージェントの閲覧を制限か　The Vergeが接続不能を再現"
     },
     {
       "rank": 9,
-      "title": "【2026-11-10】Instagram、文章からフィルターを作る「Effect Builder」を提供"
+      "title": "【2026-11-11】MetaのAIエージェントMuse、Apple WatchとWear OSに対応"
+    },
+    {
+      "rank": 10,
+      "title": "【2026-11-11】【解説】Nvidiaトップを巡る疑惑、米国AI産業への影響を専門家が分析"
     }
   ],
   "archive": [
+    {
+      "no": "240",
+      "kind": "✨ ラミッカ",
+      "date": "11.10",
+      "img": "news/top1_manga_2026-11-10.png",
+      "title": "【2026-11-10】Anthropic、Claude Mythos 5.2とFable 5.2を発表",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    },
     {
       "no": "239",
       "kind": "✨ ラミッカ",
