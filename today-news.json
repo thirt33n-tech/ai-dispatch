@@ -1,208 +1,266 @@
 {
-  "date": "2026.11.12",
+  "date": "2026.11.13",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-12】DeepMind、細胞ごとの遺伝子変異の影響を予測するAlphaGenome 2を公開",
-      "summary": "68組織・1億超の細胞プロファイルで学習。疾患研究への活用が期待される一方、従来モデルより計算コストが高い。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "published_date": "2026-11-12",
+      "title": "【2026-11-13】Nvidiaの暫定CEOにコレット・クレス氏、フアン氏の後任探しへ",
+      "summary": "Nvidiaのフアン氏がCEOなどを即時辞任。CFOのコレット・クレス氏が暫定CEOに就き、同社は正式な後任の選定を進める。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "published_date": "2026-11-13",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！遺伝子ＡＩ？",
+            "speech": "スマホに速報、暫定ＣＥＯ！？",
             "narration": ""
           },
           {
-            "speech": "細胞ごとの違いまで！",
+            "speech": "クレス氏が率いるの！？",
             "narration": ""
           },
           {
-            "speech": "病気の研究を助けるんだね",
-            "narration": "AlphaGenome 2は、遺伝子変異の影響を細胞の種類や状態ごとに予測。非商用研究向けにAPIで提供される。"
+            "speech": "財務トップが経営を引き継ぐ",
+            "narration": "フアン氏の辞任を受け、NvidiaはCFOのコレット・クレス氏を暫定CEOに任命。正式な後任を探す。"
           },
           {
-            "speech": "みなみ、計算費用も気になる",
+            "speech": "みなみは次の経営方針に注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "DeepMindがAlphaGenome 2を公開　細胞単位の遺伝子変異予測へ、計算コストには課題"
+        "telop_text": "Nvidiaの暫定CEOにCFOのクレス氏が就任、正式な後任選定へ"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-12】OpenAIの四半期売上高、初の100億ドル超と報道",
-      "summary": "Bloomberg報道によると、モデル需要を背景に四半期売上高が初めて100億ドルを突破。調整後営業利益率はなお赤字。",
+      "title": "【2026-11-13】Google検索にGemini 4 Hydrogen、複雑な質問への回答を強化",
+      "summary": "Googleは検索のAI ModeにGemini 4 Hydrogenを導入。複雑な質問の理解や視覚的回答を改善し、世界の利用者へ順次展開する。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "published_date": "2026-11-12",
+      "source_url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "published_date": "2026-11-13",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！売上が急増？",
+            "speech": "スマホに検索強化の速報！？",
             "narration": ""
           },
           {
-            "speech": "四半期で１００億ドル超！",
+            "speech": "複雑な質問にも速く答える！？",
             "narration": ""
           },
           {
-            "speech": "でも黒字とは違うんだね",
-            "narration": "Bloombergが匿名情報源を基に報道。売上拡大と赤字率改善が伝えられたが、調整後営業利益率は依然マイナス。"
+            "speech": "質問の意図を細かく読む",
+            "narration": "Google検索のAI ModeにGemini 4 Hydrogenを導入。複数条件の理解や画像・比較表などの回答を強化する。"
           },
           {
-            "speech": "みなみ、利益への道も追う",
+            "speech": "みなみも回答元は確かめる",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "OpenAIの四半期売上高が初の100億ドル超と報道　成長する一方、赤字は継続"
+        "telop_text": "Google検索がGemini 4 Hydrogenを導入、複雑な質問への対応を強化"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-11-12】英国のAI半導体企業Fractile、シリーズCで7億2000万ドルを調達",
-      "summary": "英国のSovereign AI Fundも出資。独自半導体とコンパイラで推論高速化を目指し、初のチップとシステムを翌年出荷する計画。",
+      "title": "【2026-11-13】ユナイテッド航空、無許可の第三者AIによる予約操作を制限",
+      "summary": "ユナイテッド航空は、無許可の第三者AIによる予約・管理へのアクセスを制限。認証情報の漏洩や意図しない購入、航空規則への抵触を懸念する。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "published_date": "2026-11-12",
+      "source_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "published_date": "2026-11-13",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！英国の半導体？",
+            "speech": "スマホにＡＩ予約制限の速報！",
             "narration": ""
           },
           {
-            "speech": "７億２０００万ドル調達！",
+            "speech": "航空券の代理予約が制限！？",
             "narration": ""
           },
           {
-            "speech": "推論を速くする挑戦だね",
-            "narration": "Fractileは独自のメモリ構成と機械学習コンパイラを開発。調達資金で翌年の初出荷を目指す。"
+            "speech": "便利さの前に安全確認",
+            "narration": "ユナイテッド航空は無許可の第三者AIのアクセスを制限。認証情報の共有や誤購入、本人による確認の必要性を挙げた。"
           },
           {
-            "speech": "みなみ、出荷後の実力に注目",
+            "speech": "みなみのパスワードは渡さない",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Fractileが7億2000万ドル調達　独自AI半導体とソフトで推論高速化を目指す"
+        "telop_text": "ユナイテッド航空、セキュリティーなどを理由に第三者AIの予約操作を制限"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-11-12】CoreWeave、顧客前払いと短期契約でAIインフラ拡大の資金確保へ",
-      "summary": "顧客の前払いと契約担保融資を重視。短期契約の高価格を狙う一方、需要の持続や契約更新、価格変動のリスクを抱える。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "published_date": "2026-11-12",
+      "title": "【2026-11-13】買い物相談AIが偽通販サイトも提示、Podqiの調査で判明",
+      "summary": "Podqiが3種のAIの買い物回答を調査。偽通販など危険なサイトへの言及を確認したが、集計には注意喚起としての言及も含まれる。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "published_date": "2026-11-13",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！ＡＩの建設費？",
+            "speech": "スマホに偽通販の調査記事！？",
             "narration": ""
           },
           {
-            "speech": "顧客の前払いで拡大！？",
+            "speech": "ＡＩの買い物案内にも偽物！？",
             "narration": ""
           },
           {
-            "speech": "短期契約にも賭けるんだね",
-            "narration": "CoreWeaveは前払いと契約担保融資を活用。高価格の短期契約を増やすが、需要や更新条件への依存も強まる。"
+            "speech": "表示率と推薦率は違う",
+            "narration": "PodqiはChatGPT、Gemini、Perplexityを調査。危険なサイトへの言及を確認したが、警告としての表示も集計に含む。"
           },
           {
-            "speech": "みなみ、需要が続くか見守る",
+            "speech": "みなみは決済前に公式確認",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "CoreWeaveが資金調達戦略を転換　前払いと短期契約の活用には需要持続のリスクも"
+        "telop_text": "買い物AIの回答に偽通販などへの言及、調査は警告表示も含む点に注意"
       }
     },
     {
       "rank": 5,
-      "title": "【2026-11-12】Databricks、複数段階の業務を自律実行するGenieの更新版を発表",
-      "summary": "社内データの文脈を与える仕組みで長時間の複数段階業務に対応。CEOは従業員調査や商談分析での実利用を披露した。",
+      "title": "【2026-11-13】Norwest、過去最大の40億ドルファンドでAI投資を拡大",
+      "summary": "Norwestは過去最大の40億ドルファンドを組成。米国・インド・イスラエルなどで、フィジカルAIや音声AI、サイバーセキュリティーへの投資を拡大する。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "published_date": "2026-11-12",
+      "source_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "published_date": "2026-11-13",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！Ｇｅｎｉｅ更新？",
+            "speech": "スマホに大型ファンドの速報！",
             "narration": ""
           },
           {
-            "speech": "複雑な業務も自律実行！？",
+            "speech": "４０億ドルでＡＩ投資拡大！？",
             "narration": ""
           },
           {
-            "speech": "社内データの文脈が鍵だね",
-            "narration": "Databricksは複数段階の業務に対応するGenieを発表。CEOは従業員調査の課題や失敗した商談の分析を実演した。"
+            "speech": "投資先は幅広い産業へ",
+            "narration": "Norwestが過去最大の40億ドルファンドを組成。フィジカルAI、音声AI、サイバーセキュリティーなどに注力する。"
           },
           {
-            "speech": "みなみ、耳の痛い分析も歓迎",
+            "speech": "みなみは実用化の成果を待つ",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "DatabricksがGenieを更新　社内データを使い複数段階の業務を自律実行"
+        "telop_text": "Norwestが40億ドルファンドを組成、幅広いAI分野への投資を強化"
       }
     },
     {
       "rank": 6,
-      "title": "【2026-11-12】米下院議員、NVIDIAのフアンCEOに疑惑説明を求め召喚状を準備と報道",
-      "summary": "中国のスパイと疑われる人物との関係を巡り、米下院議員が非公開説明を要求。応じなければ召喚状を出す構えと報じられた。",
+      "title": "【2026-11-13】【解説】ソフトバンクの設備関連損失、AI向けガス発電投資のリスクを映す",
+      "summary": "TechCrunchは、ソフトバンクの発電設備関連損失を背景にAI向け電源投資を分析。ガス発電のリスクと、系統接続・蓄電池という選択肢を論じた。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "published_date": "2026-11-12",
+      "source_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "published_date": "2026-11-13",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！議会が説明要求？",
+            "speech": "スマホにＡＩ電源投資の解説！",
             "narration": ""
           },
           {
-            "speech": "召喚状まで準備してるの！？",
+            "speech": "発電設備の先行確保に損失！？",
             "narration": ""
           },
           {
-            "speech": "疑惑と事実は分けよう",
-            "narration": "米下院議員がフアンCEOに非公開説明を要求し、召喚状を準備と報道。関係人物へのスパイ疑惑は確定した事実ではない。"
+            "speech": "ガス発電にもリスクがある",
+            "narration": "ソフトバンクの設備関連損失を取り上げた解説。AI向け電源確保について、ガス発電と系統接続・蓄電池の課題を論じる。"
           },
           {
-            "speech": "みなみ、会社側の説明も待つ",
+            "speech": "みなみは電力の備えも見たい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "米下院議員がNVIDIAのフアンCEOに疑惑説明を要求　召喚状準備と報道、疑惑は未確定"
+        "telop_text": "解説：ソフトバンクの設備関連損失から考えるAI向け電源投資のリスク"
       }
     },
     {
       "rank": 7,
-      "title": "【2026-11-12】Google、共同作業用アプリを言葉で作れる実験ツールTabletopを公開",
-      "summary": "旅行計画や家事表などの共同作業ツールをAIで生成。ベータ版は米国の18歳以上を対象に、待機リスト経由で提供される。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "published_date": "2026-11-12",
+      "title": "【2026-11-13】Nectar、クリエイター探索から連絡まで担うAIエージェントを提供",
+      "summary": "NectarはCreator Agentを世界で提供開始。InstagramとTikTokのクリエイター探索、個別連絡、提携管理や施策の効果把握を支援する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "published_date": "2026-11-13",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！共同アプリ作り？",
+            "speech": "スマホに広告ＡＩの新製品！？",
             "narration": ""
           },
           {
-            "speech": "言葉だけで旅行計画表！？",
+            "speech": "候補探しから連絡まで！？",
             "narration": ""
           },
           {
-            "speech": "みんなで同時に使えるんだね",
-            "narration": "GoogleのTabletopは説明文から共同作業ツールを生成する実験サービス。ベータ版は米国の18歳以上向けで待機登録が必要。"
+            "speech": "ブランドとの相性も調べる",
+            "narration": "NectarのCreator Agentはクリエイターの探索や内容確認、個別メッセージ送信、提携管理と効果把握を支援する。"
           },
           {
-            "speech": "みなみ、日本での提供も待つ",
+            "speech": "みなみなら送信内容も点検",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "GoogleのTabletopが共同作業アプリをAI生成　米国の18歳以上向けにベータ提供"
+        "telop_text": "NectarのCreator Agent、クリエイター探索・連絡・提携管理を自動化支援"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-13】AIによるマヤ遺跡の「新発見」、実際は既存論文で報告済み",
+      "summary": "48のAIエージェントで未登録とされたマヤ遺跡は、既存論文に記載済みだった。研究者は、AIの候補抽出と専門家による検証の違いを指摘する。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "published_date": "2026-11-13",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホにＡＩ遺跡発見の記事！",
+            "narration": ""
+          },
+          {
+            "speech": "えっ、既に論文にあった！？",
+            "narration": ""
+          },
+          {
+            "speech": "未登録と未知は別だった",
+            "narration": "個人の研究でAIが抽出したマヤ遺跡は既存論文で報告済み。候補の発見には先行研究との照合や専門家の検証が必要だ。"
+          },
+          {
+            "speech": "みなみも新発見は裏取りする",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "AIが示したマヤ遺跡は報告済み、候補抽出と学術的な新発見は別"
+      }
+    },
+    {
+      "rank": 9,
+      "title": "【2026-11-13】Phota Labs、人物らしさの保持を目指すAI写真アプリを公開",
+      "summary": "Phota Labsが無料のiOS写真アプリを公開。人物の特徴を保つ独自技術で構図などを変え、AI編集を示す不可視の透かしも付けるという。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "published_date": "2026-11-13",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに写真ＡＩの新アプリ！",
+            "narration": ""
+          },
+          {
+            "speech": "撮った後から構図も変わる！？",
+            "narration": ""
+          },
+          {
+            "speech": "本人らしさの保持を目指す",
+            "narration": "Phota Labsは人物の特徴を保ちながら写真を変えるiOSアプリを公開。AI編集を示す不可視の透かしも付けるという。"
+          },
+          {
+            "speech": "みなみの思い出も盛りすぎ注意",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Phota LabsがiOSアプリを公開、人物らしさを保つAI写真編集を目指す"
       }
     }
   ]
