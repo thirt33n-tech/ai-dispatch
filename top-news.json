@@ -1,98 +1,42 @@
 {
-  "dispatchNo": "243",
-  "dateLabel": "2026.11.13",
+  "dispatchNo": "244",
+  "dateLabel": "2026.11.14",
   "top1": {
-    "title": "【2026-11-13】Nvidiaの暫定CEOにコレット・クレス氏、フアン氏の後任探しへ",
-    "lead1": "AI半導体大手Nvidiaで経営トップが交代。フアン氏の辞任を受け、CFOのクレス氏が暫定CEOに就いた。",
-    "lead2": "同社は正式な後任の選定を進める。クレス氏は顧客や開発者への対応を継続し、AI分野の事業を前進させる方針を示した。",
-    "manga_url": "news/top1_manga_2026-11-13.png",
+    "title": "【2026-11-14】OpenAI、AIが購入を代行する「ChatGPT Wallet」を米国で限定提供",
+    "lead1": "ChatGPTのAIエージェントが、商品選びから購入までを代行する決済機能が登場しました。",
+    "lead2": "対象は米国の18歳以上の一部Pro会員。支払い前の内容確認と生体認証による承認が必要です。",
+    "manga_url": "news/top1_manga_2026-11-14.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+    "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-13",
-        "manga_url": "news/top1_manga_2026-11-13_en.png",
-        "manga_sha256": "2f3246dc67b48b9acd0340ecf3460d2d5fe59a1e96912de8e39e7fa8f3b8707a",
+        "date": "2026-11-14",
+        "manga_url": "news/top1_manga_2026-11-14_en.png",
+        "manga_sha256": "fd61e56b0e8c674a919165ca8015d13294a49f68d37a86ca53a90c34f302b21d",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-13] Colette Kress named Nvidia interim CEO as search begins for Huang's successor",
-            "summary": "Nvidia's Huang resigned immediately as CEO and from other positions. CFO Colette Kress became interim CEO, and the company is proceeding with the selection of a permanent successor.",
+            "title": "[2026-11-14] OpenAI launches limited US rollout of ChatGPT Wallet, letting AI make purchases on users' behalf",
+            "summary": "OpenAI has introduced payment functionality for select Pro subscribers aged 18 and older in the United States, allowing AI agents to make purchases on their behalf. Reviewing the purchase details and approving via biometric authentication are required before payment.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-            "published_date": "2026-11-13"
+            "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+            "published_date": "2026-11-14"
           },
           {
             "rank": 2,
-            "title": "[2026-11-13] Google Search adds Gemini 4 Hydrogen to improve answers to complex questions",
-            "summary": "Google introduced Gemini 4 Hydrogen to AI Mode in Search. It improves understanding of complex questions and visual answers, with a gradual rollout to users worldwide.",
+            "title": "[2026-11-14] Researchers report signs of Blackwell training in publicly available Chinese AI models",
+            "summary": "Researchers analyzed publicly available models from DeepSeek, Moonshot and others and reported signs that they were trained using Blackwell. Overseas facilities may have been used, and the findings do not establish a violation of export restrictions.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-            "published_date": "2026-11-13"
-          },
-          {
-            "rank": 3,
-            "title": "[2026-11-13] United Airlines restricts booking actions by unauthorized third-party AI",
-            "summary": "United Airlines is restricting unauthorized third-party AI access to booking and reservation management, citing concerns about leaked credentials, unintended purchases and violations of aviation rules.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-            "published_date": "2026-11-13"
-          },
-          {
-            "rank": 4,
-            "title": "[2026-11-13] AI shopping assistants also suggest fake shopping sites, Podqi study finds",
-            "summary": "Podqi examined shopping responses from three AI systems. It found references to dangerous sites, including fake shopping sites, but the tally also includes references made as warnings.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-            "published_date": "2026-11-13"
-          },
-          {
-            "rank": 5,
-            "title": "[2026-11-13] Norwest expands AI investment with its largest-ever $4 billion fund",
-            "summary": "Norwest established its largest-ever fund at $4 billion. It will expand investments in physical AI, voice AI and cybersecurity in markets including the United States, India and Israel.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-            "published_date": "2026-11-13"
-          },
-          {
-            "rank": 6,
-            "title": "[2026-11-13] Analysis: SoftBank's equipment-related losses highlight risks of gas-fired power investment for AI",
-            "summary": "TechCrunch analyzed investment in power supplies for AI against the backdrop of SoftBank's power-generation equipment-related losses. It discussed the risks of gas-fired generation and the alternatives of grid connections and battery storage.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-            "published_date": "2026-11-13"
-          },
-          {
-            "rank": 7,
-            "title": "[2026-11-13] Nectar launches AI agent handling creator discovery through outreach",
-            "summary": "Nectar launched Creator Agent worldwide. It supports discovering Instagram and TikTok creators, personalized outreach, partnership management and tracking campaign effectiveness.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-            "published_date": "2026-11-13"
-          },
-          {
-            "rank": 8,
-            "title": "[2026-11-13] Maya site 'newly discovered' by AI had already been reported in an existing paper",
-            "summary": "A Maya archaeological site identified as unregistered by 48 AI agents had already been described in an existing paper. Researchers point out the distinction between AI identifying candidates and experts verifying them.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-            "published_date": "2026-11-13"
-          },
-          {
-            "rank": 9,
-            "title": "[2026-11-13] Phota Labs releases AI photo app aimed at preserving personal likeness",
-            "summary": "Phota Labs released a free iOS photo app. The company says its proprietary technology changes composition and other aspects while preserving a person's distinctive features, and adds an invisible watermark indicating AI editing.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-            "published_date": "2026-11-13"
+            "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+            "published_date": "2026-11-14"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "2931a5a93d04cd4fcf5868629ae8dce0c3e71f206096ebdc0585e61d398c94c8"
+        "source_manga_sha256": "a1c9e208ec464f8a2294dbc9da16cf18160010fd88424e68883e50db529c4a49"
       }
     },
-    "media_updated_at": "2026-11-13"
+    "media_updated_at": "2026-11-14"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -104,57 +48,27 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-13】Google検索にGemini 4 Hydrogen、複雑な質問への回答を強化",
-    "【2026-11-13】ユナイテッド航空、無許可の第三者AIによる予約操作を制限",
-    "【2026-11-13】買い物相談AIが偽通販サイトも提示、Podqiの調査で判明",
-    "【2026-11-13】Norwest、過去最大の40億ドルファンドでAI投資を拡大",
-    "【2026-11-13】【解説】ソフトバンクの設備関連損失、AI向けガス発電投資のリスクを映す",
-    "【2026-11-13】Nectar、クリエイター探索から連絡まで担うAIエージェントを提供",
-    "【2026-11-13】AIによるマヤ遺跡の「新発見」、実際は既存論文で報告済み"
+    "【2026-11-14】中国の公開AIモデルにBlackwell学習の痕跡、研究者が分析"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-13】Google検索にGemini 4 Hydrogen、複雑な質問への回答を強化",
-      "summary": "Googleは検索のAI ModeにGemini 4 Hydrogenを導入。複雑な質問の理解や視覚的回答を改善し、世界の利用者へ順次展開する。",
-      "manga_url": "",
-      "video_url": ""
-    },
-    {
-      "rank": 3,
-      "title": "【2026-11-13】ユナイテッド航空、無許可の第三者AIによる予約操作を制限",
-      "summary": "ユナイテッド航空は、無許可の第三者AIによる予約・管理へのアクセスを制限。認証情報の漏洩や意図しない購入、航空規則への抵触を懸念する。",
+      "title": "【2026-11-14】中国の公開AIモデルにBlackwell学習の痕跡、研究者が分析",
+      "summary": "研究者がDeepSeekやMoonshotなどの公開モデルを分析し、Blackwellで学習した痕跡を報告。海外拠点利用の可能性もあり、輸出規制違反を確定するものではない。",
       "manga_url": "",
       "video_url": ""
     }
   ],
-  "topList": [
-    {
-      "rank": 4,
-      "title": "【2026-11-13】買い物相談AIが偽通販サイトも提示、Podqiの調査で判明"
-    },
-    {
-      "rank": 5,
-      "title": "【2026-11-13】Norwest、過去最大の40億ドルファンドでAI投資を拡大"
-    },
-    {
-      "rank": 6,
-      "title": "【2026-11-13】【解説】ソフトバンクの設備関連損失、AI向けガス発電投資のリスクを映す"
-    },
-    {
-      "rank": 7,
-      "title": "【2026-11-13】Nectar、クリエイター探索から連絡まで担うAIエージェントを提供"
-    },
-    {
-      "rank": 8,
-      "title": "【2026-11-13】AIによるマヤ遺跡の「新発見」、実際は既存論文で報告済み"
-    },
-    {
-      "rank": 9,
-      "title": "【2026-11-13】Phota Labs、人物らしさの保持を目指すAI写真アプリを公開"
-    }
-  ],
+  "topList": [],
   "archive": [
+    {
+      "no": "243",
+      "kind": "✨ ラミッカ",
+      "date": "11.13",
+      "img": "news/top1_manga_2026-11-13.png",
+      "title": "【2026-11-13】Nvidiaの暫定CEOにコレット・クレス氏、フアン氏の後任探しへ",
+      "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+    },
     {
       "no": "242",
       "kind": "✨ ラミッカ",

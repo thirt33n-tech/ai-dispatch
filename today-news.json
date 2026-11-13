@@ -1,266 +1,63 @@
 {
-  "date": "2026.11.13",
+  "date": "2026.11.14",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-13】Nvidiaの暫定CEOにコレット・クレス氏、フアン氏の後任探しへ",
-      "summary": "Nvidiaのフアン氏がCEOなどを即時辞任。CFOのコレット・クレス氏が暫定CEOに就き、同社は正式な後任の選定を進める。",
+      "title": "【2026-11-14】OpenAI、AIが購入を代行する「ChatGPT Wallet」を米国で限定提供",
+      "summary": "OpenAIが決済機能を導入。米国の18歳以上の一部Pro会員向けに、AIエージェントが購入を代行する。決済前には内容確認と生体認証による承認が必要。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "published_date": "2026-11-13",
+      "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "published_date": "2026-11-14",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報、暫定ＣＥＯ！？",
+            "speech": "スマホに速報！ＡＩが決済？",
             "narration": ""
           },
           {
-            "speech": "クレス氏が率いるの！？",
+            "speech": "ええっ！買い物まで代行！",
             "narration": ""
           },
           {
-            "speech": "財務トップが経営を引き継ぐ",
-            "narration": "フアン氏の辞任を受け、NvidiaはCFOのコレット・クレス氏を暫定CEOに任命。正式な後任を探す。"
+            "speech": "支払う前に本人が承認",
+            "narration": "ChatGPT Walletを米国の18歳以上の一部Pro会員に限定提供。エージェントが購入を代行し、利用者は商品や総額を確認して生体認証で承認する。"
           },
           {
-            "speech": "みなみは次の経営方針に注目",
+            "speech": "みなみは買いすぎに注意",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Nvidiaの暫定CEOにCFOのクレス氏が就任、正式な後任選定へ"
+        "telop_text": "ChatGPT Walletが米国で限定提供開始、AIの購入代行は利用者の確認・承認付き"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-13】Google検索にGemini 4 Hydrogen、複雑な質問への回答を強化",
-      "summary": "Googleは検索のAI ModeにGemini 4 Hydrogenを導入。複雑な質問の理解や視覚的回答を改善し、世界の利用者へ順次展開する。",
+      "title": "【2026-11-14】中国の公開AIモデルにBlackwell学習の痕跡、研究者が分析",
+      "summary": "研究者がDeepSeekやMoonshotなどの公開モデルを分析し、Blackwellで学習した痕跡を報告。海外拠点利用の可能性もあり、輸出規制違反を確定するものではない。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "published_date": "2026-11-13",
+      "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "published_date": "2026-11-14",
       "script": {
         "panels": [
           {
-            "speech": "スマホに検索強化の速報！？",
+            "speech": "スマホに速報！学習の痕跡？",
             "narration": ""
           },
           {
-            "speech": "複雑な質問にも速く答える！？",
+            "speech": "えっ！規制対象のチップ？",
             "narration": ""
           },
           {
-            "speech": "質問の意図を細かく読む",
-            "narration": "Google検索のAI ModeにGemini 4 Hydrogenを導入。複数条件の理解や画像・比較表などの回答を強化する。"
+            "speech": "違反確定ではないんだ",
+            "narration": "研究者が中国企業の公開モデルの重みを分析し、Blackwellで学習した痕跡を報告。海外データセンターでの利用も考えられ、規制違反を断定する証拠ではない。"
           },
           {
-            "speech": "みなみも回答元は確かめる",
+            "speech": "みなみは利用場所も確認",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Google検索がGemini 4 Hydrogenを導入、複雑な質問への対応を強化"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "【2026-11-13】ユナイテッド航空、無許可の第三者AIによる予約操作を制限",
-      "summary": "ユナイテッド航空は、無許可の第三者AIによる予約・管理へのアクセスを制限。認証情報の漏洩や意図しない購入、航空規則への抵触を懸念する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "published_date": "2026-11-13",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホにＡＩ予約制限の速報！",
-            "narration": ""
-          },
-          {
-            "speech": "航空券の代理予約が制限！？",
-            "narration": ""
-          },
-          {
-            "speech": "便利さの前に安全確認",
-            "narration": "ユナイテッド航空は無許可の第三者AIのアクセスを制限。認証情報の共有や誤購入、本人による確認の必要性を挙げた。"
-          },
-          {
-            "speech": "みなみのパスワードは渡さない",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "ユナイテッド航空、セキュリティーなどを理由に第三者AIの予約操作を制限"
-      }
-    },
-    {
-      "rank": 4,
-      "title": "【2026-11-13】買い物相談AIが偽通販サイトも提示、Podqiの調査で判明",
-      "summary": "Podqiが3種のAIの買い物回答を調査。偽通販など危険なサイトへの言及を確認したが、集計には注意喚起としての言及も含まれる。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "published_date": "2026-11-13",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに偽通販の調査記事！？",
-            "narration": ""
-          },
-          {
-            "speech": "ＡＩの買い物案内にも偽物！？",
-            "narration": ""
-          },
-          {
-            "speech": "表示率と推薦率は違う",
-            "narration": "PodqiはChatGPT、Gemini、Perplexityを調査。危険なサイトへの言及を確認したが、警告としての表示も集計に含む。"
-          },
-          {
-            "speech": "みなみは決済前に公式確認",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "買い物AIの回答に偽通販などへの言及、調査は警告表示も含む点に注意"
-      }
-    },
-    {
-      "rank": 5,
-      "title": "【2026-11-13】Norwest、過去最大の40億ドルファンドでAI投資を拡大",
-      "summary": "Norwestは過去最大の40億ドルファンドを組成。米国・インド・イスラエルなどで、フィジカルAIや音声AI、サイバーセキュリティーへの投資を拡大する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "published_date": "2026-11-13",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに大型ファンドの速報！",
-            "narration": ""
-          },
-          {
-            "speech": "４０億ドルでＡＩ投資拡大！？",
-            "narration": ""
-          },
-          {
-            "speech": "投資先は幅広い産業へ",
-            "narration": "Norwestが過去最大の40億ドルファンドを組成。フィジカルAI、音声AI、サイバーセキュリティーなどに注力する。"
-          },
-          {
-            "speech": "みなみは実用化の成果を待つ",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Norwestが40億ドルファンドを組成、幅広いAI分野への投資を強化"
-      }
-    },
-    {
-      "rank": 6,
-      "title": "【2026-11-13】【解説】ソフトバンクの設備関連損失、AI向けガス発電投資のリスクを映す",
-      "summary": "TechCrunchは、ソフトバンクの発電設備関連損失を背景にAI向け電源投資を分析。ガス発電のリスクと、系統接続・蓄電池という選択肢を論じた。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "published_date": "2026-11-13",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホにＡＩ電源投資の解説！",
-            "narration": ""
-          },
-          {
-            "speech": "発電設備の先行確保に損失！？",
-            "narration": ""
-          },
-          {
-            "speech": "ガス発電にもリスクがある",
-            "narration": "ソフトバンクの設備関連損失を取り上げた解説。AI向け電源確保について、ガス発電と系統接続・蓄電池の課題を論じる。"
-          },
-          {
-            "speech": "みなみは電力の備えも見たい",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "解説：ソフトバンクの設備関連損失から考えるAI向け電源投資のリスク"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "【2026-11-13】Nectar、クリエイター探索から連絡まで担うAIエージェントを提供",
-      "summary": "NectarはCreator Agentを世界で提供開始。InstagramとTikTokのクリエイター探索、個別連絡、提携管理や施策の効果把握を支援する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "published_date": "2026-11-13",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに広告ＡＩの新製品！？",
-            "narration": ""
-          },
-          {
-            "speech": "候補探しから連絡まで！？",
-            "narration": ""
-          },
-          {
-            "speech": "ブランドとの相性も調べる",
-            "narration": "NectarのCreator Agentはクリエイターの探索や内容確認、個別メッセージ送信、提携管理と効果把握を支援する。"
-          },
-          {
-            "speech": "みなみなら送信内容も点検",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "NectarのCreator Agent、クリエイター探索・連絡・提携管理を自動化支援"
-      }
-    },
-    {
-      "rank": 8,
-      "title": "【2026-11-13】AIによるマヤ遺跡の「新発見」、実際は既存論文で報告済み",
-      "summary": "48のAIエージェントで未登録とされたマヤ遺跡は、既存論文に記載済みだった。研究者は、AIの候補抽出と専門家による検証の違いを指摘する。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "published_date": "2026-11-13",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホにＡＩ遺跡発見の記事！",
-            "narration": ""
-          },
-          {
-            "speech": "えっ、既に論文にあった！？",
-            "narration": ""
-          },
-          {
-            "speech": "未登録と未知は別だった",
-            "narration": "個人の研究でAIが抽出したマヤ遺跡は既存論文で報告済み。候補の発見には先行研究との照合や専門家の検証が必要だ。"
-          },
-          {
-            "speech": "みなみも新発見は裏取りする",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "AIが示したマヤ遺跡は報告済み、候補抽出と学術的な新発見は別"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "【2026-11-13】Phota Labs、人物らしさの保持を目指すAI写真アプリを公開",
-      "summary": "Phota Labsが無料のiOS写真アプリを公開。人物の特徴を保つ独自技術で構図などを変え、AI編集を示す不可視の透かしも付けるという。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "published_date": "2026-11-13",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに写真ＡＩの新アプリ！",
-            "narration": ""
-          },
-          {
-            "speech": "撮った後から構図も変わる！？",
-            "narration": ""
-          },
-          {
-            "speech": "本人らしさの保持を目指す",
-            "narration": "Phota Labsは人物の特徴を保ちながら写真を変えるiOSアプリを公開。AI編集を示す不可視の透かしも付けるという。"
-          },
-          {
-            "speech": "みなみの思い出も盛りすぎ注意",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Phota LabsがiOSアプリを公開、人物らしさを保つAI写真編集を目指す"
+        "telop_text": "中国AIモデルにBlackwell学習の痕跡との研究報告、輸出規制違反の断定はできず"
       }
     }
   ]
