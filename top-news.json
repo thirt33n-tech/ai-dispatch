@@ -1,42 +1,42 @@
 {
-  "dispatchNo": "244",
-  "dateLabel": "2026.11.14",
+  "dispatchNo": "245",
+  "dateLabel": "2026.11.15",
   "top1": {
-    "title": "【2026-11-14】OpenAI、AIが購入を代行する「ChatGPT Wallet」を米国で限定提供",
-    "lead1": "ChatGPTのAIエージェントが、商品選びから購入までを代行する決済機能が登場しました。",
-    "lead2": "対象は米国の18歳以上の一部Pro会員。支払い前の内容確認と生体認証による承認が必要です。",
-    "manga_url": "news/top1_manga_2026-11-14.png",
+    "title": "【2026-11-15】NVIDIAのフアン氏退任にアジア各国が対応、GPU供給やAI事業への影響を確認",
+    "lead1": "TechCrunchは、NVIDIAのフアン氏退任を受けたアジア各国の対応を報じた。",
+    "lead2": "韓国はGPU26万基の供給計画継続を確認。日本は半導体の安定供給を重視し、動向を注視している。",
+    "manga_url": "news/top1_manga_2026-11-15.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-14",
-        "manga_url": "news/top1_manga_2026-11-14_en.png",
-        "manga_sha256": "fd61e56b0e8c674a919165ca8015d13294a49f68d37a86ca53a90c34f302b21d",
+        "date": "2026-11-15",
+        "manga_url": "news/top1_manga_2026-11-15_en.png",
+        "manga_sha256": "f9bebe9405647b9978b3e1b211735d29baabd1dd2cd792796187db4dcb9edad2",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-14] OpenAI launches limited US rollout of ChatGPT Wallet, letting AI make purchases on users' behalf",
-            "summary": "OpenAI has introduced payment functionality for select Pro subscribers aged 18 and older in the United States, allowing AI agents to make purchases on their behalf. Reviewing the purchase details and approving via biometric authentication are required before payment.",
+            "title": "[2026-11-15] Asian countries respond to NVIDIA's Huang stepping down, assess impact on GPU supply and AI operations",
+            "summary": "TechCrunch reported on countries' responses to Huang stepping down. South Korea confirmed that GPU supply plans would continue, while Japan is closely monitoring developments.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-            "published_date": "2026-11-14"
+            "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+            "published_date": "2026-11-15"
           },
           {
             "rank": 2,
-            "title": "[2026-11-14] Researchers report signs of Blackwell training in publicly available Chinese AI models",
-            "summary": "Researchers analyzed publicly available models from DeepSeek, Moonshot and others and reported signs that they were trained using Blackwell. Overseas facilities may have been used, and the findings do not establish a violation of export restrictions.",
+            "title": "[2026-11-15] Analysis: What can be learned from discontinued AI ventures? TechCrunch reviews cases",
+            "summary": "TechCrunch explained withdrawals and strategic shifts involving AI products and companies, outlining factors that hinder continued operations, including funding shortages, technical challenges, competition and weak demand.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-            "published_date": "2026-11-14"
+            "source_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+            "published_date": "2026-11-15"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "a1c9e208ec464f8a2294dbc9da16cf18160010fd88424e68883e50db529c4a49"
+        "source_manga_sha256": "36780367ab6ddcc2d572a80846f510c518dfbaff98a23bf77b874abcc5cca653"
       }
     },
-    "media_updated_at": "2026-11-14"
+    "media_updated_at": "2026-11-15"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -48,19 +48,27 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-14】中国の公開AIモデルにBlackwell学習の痕跡、研究者が分析"
+    "【2026-11-15】【解説】撤退・終了したAI事業から何を学ぶか、TechCrunchが事例を整理"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-14】中国の公開AIモデルにBlackwell学習の痕跡、研究者が分析",
-      "summary": "研究者がDeepSeekやMoonshotなどの公開モデルを分析し、Blackwellで学習した痕跡を報告。海外拠点利用の可能性もあり、輸出規制違反を確定するものではない。",
+      "title": "【2026-11-15】【解説】撤退・終了したAI事業から何を学ぶか、TechCrunchが事例を整理",
+      "summary": "TechCrunchがAI製品・企業の撤退や方針転換を解説。資金不足、技術的課題、競争、需要の弱さなど継続を阻む要因を整理した。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [],
   "archive": [
+    {
+      "no": "244",
+      "kind": "✨ ラミッカ",
+      "date": "11.14",
+      "img": "news/top1_manga_2026-11-14.png",
+      "title": "【2026-11-14】OpenAI、AIが購入を代行する「ChatGPT Wallet」を米国で限定提供",
+      "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
     {
       "no": "243",
       "kind": "✨ ラミッカ",
