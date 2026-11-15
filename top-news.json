@@ -1,42 +1,34 @@
 {
-  "dispatchNo": "245",
-  "dateLabel": "2026.11.15",
+  "dispatchNo": "246",
+  "dateLabel": "2026.11.16",
   "top1": {
-    "title": "【2026-11-15】NVIDIAのフアン氏退任にアジア各国が対応、GPU供給やAI事業への影響を確認",
-    "lead1": "TechCrunchは、NVIDIAのフアン氏退任を受けたアジア各国の対応を報じた。",
-    "lead2": "韓国はGPU26万基の供給計画継続を確認。日本は半導体の安定供給を重視し、動向を注視している。",
-    "manga_url": "news/top1_manga_2026-11-15.png",
+    "title": "【2026-11-16】米議会、対中AI半導体輸出の規制強化へ超党派の動き",
+    "lead1": "米議会で、中国へのAI半導体輸出をさらに制限する動きが超党派で広がっている。",
+    "lead2": "関連法案への関心が再燃し、Nvidia幹部らへの証言要求も。ただし、規制強化の成立は未確定だ。",
+    "manga_url": "news/top1_manga_2026-11-16.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-15",
-        "manga_url": "news/top1_manga_2026-11-15_en.png",
-        "manga_sha256": "f9bebe9405647b9978b3e1b211735d29baabd1dd2cd792796187db4dcb9edad2",
+        "date": "2026-11-16",
+        "manga_url": "news/top1_manga_2026-11-16_en.png",
+        "manga_sha256": "e0fdf155d58a28079dbdec16466d81772c54b96c74295be326552738599ee0fd",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-15] Asian countries respond to NVIDIA's Huang stepping down, assess impact on GPU supply and AI operations",
-            "summary": "TechCrunch reported on countries' responses to Huang stepping down. South Korea confirmed that GPU supply plans would continue, while Japan is closely monitoring developments.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-            "published_date": "2026-11-15"
-          },
-          {
-            "rank": 2,
-            "title": "[2026-11-15] Analysis: What can be learned from discontinued AI ventures? TechCrunch reviews cases",
-            "summary": "TechCrunch explained withdrawals and strategic shifts involving AI products and companies, outlining factors that hinder continued operations, including funding shortages, technical challenges, competition and weak demand.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-            "published_date": "2026-11-15"
+            "title": "[2026-11-16] Bipartisan push in U.S. Congress to tighten restrictions on AI chip exports to China",
+            "summary": "Momentum is growing in the U.S. Congress for tighter restrictions on AI chip exports to China. Bipartisan interest in related legislation has revived, and there have also been calls for Nvidia executives and others to testify before Congress.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+            "published_date": "2026-11-16"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "36780367ab6ddcc2d572a80846f510c518dfbaff98a23bf77b874abcc5cca653"
+        "source_manga_sha256": "83fd0aa41134135b93bb37a6138f1a3d06be5f05bb17a716cfd5cde242497e48"
       }
     },
-    "media_updated_at": "2026-11-15"
+    "media_updated_at": "2026-11-16"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -47,20 +39,18 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [
-    "【2026-11-15】【解説】撤退・終了したAI事業から何を学ぶか、TechCrunchが事例を整理"
-  ],
-  "topCards": [
-    {
-      "rank": 2,
-      "title": "【2026-11-15】【解説】撤退・終了したAI事業から何を学ぶか、TechCrunchが事例を整理",
-      "summary": "TechCrunchがAI製品・企業の撤退や方針転換を解説。資金不足、技術的課題、競争、需要の弱さなど継続を阻む要因を整理した。",
-      "manga_url": "",
-      "video_url": ""
-    }
-  ],
+  "breaking": [],
+  "topCards": [],
   "topList": [],
   "archive": [
+    {
+      "no": "245",
+      "kind": "✨ ラミッカ",
+      "date": "11.15",
+      "img": "news/top1_manga_2026-11-15.png",
+      "title": "【2026-11-15】NVIDIAのフアン氏退任にアジア各国が対応、GPU供給やAI事業への影響を確認",
+      "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    },
     {
       "no": "244",
       "kind": "✨ ラミッカ",
