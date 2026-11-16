@@ -1,34 +1,90 @@
 {
-  "dispatchNo": "246",
-  "dateLabel": "2026.11.16",
+  "dispatchNo": "247",
+  "dateLabel": "2026.11.17",
   "top1": {
-    "title": "【2026-11-16】米議会、対中AI半導体輸出の規制強化へ超党派の動き",
-    "lead1": "米議会で、中国へのAI半導体輸出をさらに制限する動きが超党派で広がっている。",
-    "lead2": "関連法案への関心が再燃し、Nvidia幹部らへの証言要求も。ただし、規制強化の成立は未確定だ。",
-    "manga_url": "news/top1_manga_2026-11-16.png",
+    "title": "【2026-11-17】米国、海外経由のAI計算資源利用を対象に輸出規制強化へ",
+    "lead1": "米政権は、中国などの企業が海外のAI計算資源を遠隔利用して輸出規制を回避することを防ぐ新規制を準備している。",
+    "lead2": "対象の海外データセンター向けAI半導体輸出などに許可を要求。仲介経由の利用も対象とし、運営企業の顧客確認も問われる。",
+    "manga_url": "news/top1_manga_2026-11-17.png",
     "video_url": "",
-    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "source_url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-16",
-        "manga_url": "news/top1_manga_2026-11-16_en.png",
-        "manga_sha256": "e0fdf155d58a28079dbdec16466d81772c54b96c74295be326552738599ee0fd",
+        "date": "2026-11-17",
+        "manga_url": "news/top1_manga_2026-11-17_en.png",
+        "manga_sha256": "ad089c54ffd871b61c8c6e16e4bb062a3aaf5caa8f2b6c39a0ff5009b700a85e",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-16] Bipartisan push in U.S. Congress to tighten restrictions on AI chip exports to China",
-            "summary": "Momentum is growing in the U.S. Congress for tighter restrictions on AI chip exports to China. Bipartisan interest in related legislation has revived, and there have also been calls for Nvidia executives and others to testify before Congress.",
+            "title": "[2026-11-17] U.S. to tighten export controls on access to AI computing resources overseas",
+            "summary": "The U.S. administration is preparing new regulations to prevent companies from China and other countries from remotely accessing overseas computing resources. The rules would require licenses for exports of AI chips and other items to covered data centers.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+            "published_date": "2026-11-17"
+          },
+          {
+            "rank": 2,
+            "title": "[2026-11-17] OpenAI trials bringing external safety evaluators in-house",
+            "summary": "OpenAI is hosting external researchers internally to investigate issues such as AI circumventing safeguards. Restrictions remain on access to information and publication of findings.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+            "published_date": "2026-11-17"
+          },
+          {
+            "rank": 3,
+            "title": "[2026-11-17] FBI warns of misuse of autonomous AI attack tool Artex",
+            "summary": "The FBI warned that intrusions using the AI tool Artex had occurred across multiple industries. In some cases, it said, less than three hours elapsed from identifying a target to compromising it.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+            "published_date": "2026-11-17"
+          },
+          {
+            "rank": 4,
+            "title": "[2026-11-17] OpenAI announces child sexual abuse image detector and ChatGPT warning feature",
+            "summary": "OpenAI will provide eligible companies with a free detector that also supports AI-generated images. It will add warnings and 24-hour account suspensions to ChatGPT.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+            "published_date": "2026-11-17"
+          },
+          {
+            "rank": 5,
+            "title": "[2026-11-17] Nvidia board reportedly not considering Huang's return as CEO",
+            "summary": "The Verge, citing CNBC, reported that Nvidia's board is not discussing Huang's return. The board is reportedly focusing on an investigation concerning him.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-            "published_date": "2026-11-16"
+            "source_url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+            "published_date": "2026-11-17"
+          },
+          {
+            "rank": 6,
+            "title": "[2026-11-17] Apple tests daily usage limits for advanced Siri and AI features in beta",
+            "summary": "Apple is reportedly testing daily limits on advanced AI features that use cloud processing. Basic Siri operations will remain free and unlimited.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+            "published_date": "2026-11-17"
+          },
+          {
+            "rank": 7,
+            "title": "[2026-11-17] Audible helps listeners discover their next book with AI-generated audio introductions",
+            "summary": "Audible has launched a feature that uses AI voices to introduce a work's themes and praised aspects. It covers selected English-language titles in the U.S. and also incorporates audio from past author interviews and other sources.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+            "published_date": "2026-11-17"
+          },
+          {
+            "rank": 8,
+            "title": "[2026-11-17] Belfort's voice AI company Tone targets sales and book narration",
+            "summary": "An interview article. Tone says it is developing sales AI that varies its tone of voice, as well as book narration. The article explicitly states that it has not been able to independently verify the technology's performance.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+            "published_date": "2026-11-17"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "83fd0aa41134135b93bb37a6138f1a3d06be5f05bb17a716cfd5cde242497e48"
+        "source_manga_sha256": "a414a8ee98f541f10897052ed1aac103c251839d3492bf9bd7f9e61478d8cb2e"
       }
     },
-    "media_updated_at": "2026-11-16"
+    "media_updated_at": "2026-11-17"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -39,10 +95,62 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [],
-  "topCards": [],
-  "topList": [],
+  "breaking": [
+    "【2026-11-17】OpenAI、外部安全評価者の内部受け入れを試行",
+    "【2026-11-17】FBI、自律型AI攻撃ツールArtexの悪用を警告",
+    "【2026-11-17】OpenAI、児童性的虐待画像の検出器とChatGPTの警告機能を発表",
+    "【2026-11-17】Nvidia取締役会、フアン氏のCEO復帰を検討せずと報道",
+    "【2026-11-17】Apple、高度なSiri・AI機能の日次利用上限をベータ版で試験",
+    "【2026-11-17】Audible、AI生成の音声紹介で次に聴く本の発見を支援",
+    "【2026-11-17】ベルフォート氏の音声AI企業Tone、営業と書籍ナレーションに照準"
+  ],
+  "topCards": [
+    {
+      "rank": 2,
+      "title": "【2026-11-17】OpenAI、外部安全評価者の内部受け入れを試行",
+      "summary": "OpenAIは外部研究者を内部に受け入れ、AIによる安全措置の回避などを調べる。情報へのアクセスや結果公開には制約が残る。",
+      "manga_url": "",
+      "video_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "【2026-11-17】FBI、自律型AI攻撃ツールArtexの悪用を警告",
+      "summary": "FBIは、AIツールArtexを使った侵入が複数業界で発生したと警告。一部では標的の探索から侵害まで3時間未満だったという。",
+      "manga_url": "",
+      "video_url": ""
+    }
+  ],
+  "topList": [
+    {
+      "rank": 4,
+      "title": "【2026-11-17】OpenAI、児童性的虐待画像の検出器とChatGPTの警告機能を発表"
+    },
+    {
+      "rank": 5,
+      "title": "【2026-11-17】Nvidia取締役会、フアン氏のCEO復帰を検討せずと報道"
+    },
+    {
+      "rank": 6,
+      "title": "【2026-11-17】Apple、高度なSiri・AI機能の日次利用上限をベータ版で試験"
+    },
+    {
+      "rank": 7,
+      "title": "【2026-11-17】Audible、AI生成の音声紹介で次に聴く本の発見を支援"
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-17】ベルフォート氏の音声AI企業Tone、営業と書籍ナレーションに照準"
+    }
+  ],
   "archive": [
+    {
+      "no": "246",
+      "kind": "✨ ラミッカ",
+      "date": "11.16",
+      "img": "news/top1_manga_2026-11-16.png",
+      "title": "【2026-11-16】米議会、対中AI半導体輸出の規制強化へ超党派の動き",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    },
     {
       "no": "245",
       "kind": "✨ ラミッカ",

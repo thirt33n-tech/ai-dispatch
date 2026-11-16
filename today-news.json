@@ -1,34 +1,237 @@
 {
-  "date": "2026.11.16",
+  "date": "2026.11.17",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-16】米議会、対中AI半導体輸出の規制強化へ超党派の動き",
-      "summary": "米議会で対中AI半導体輸出の規制強化を求める動きが拡大。超党派で関連法案への関心が再燃し、Nvidia幹部らへの議会証言要求も出ている。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "published_date": "2026-11-16",
+      "title": "【2026-11-17】米国、海外経由のAI計算資源利用を対象に輸出規制強化へ",
+      "summary": "米政権は、中国などの企業による海外計算資源の遠隔利用を防ぐ新規制を準備。対象データセンター向けのAI半導体輸出などに許可を求める。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "published_date": "2026-11-17",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！輸出規制？",
+            "speech": "スマホに速報、遠隔利用も？",
             "narration": ""
           },
           {
-            "speech": "えっ、超党派で強化へ！",
+            "speech": "海外経由も規制対象に！",
             "narration": ""
           },
           {
-            "speech": "まだ成立ではないんだね",
-            "narration": "米議会で対中AI半導体輸出の規制強化論が拡大。関連法案への関心が再燃し、Nvidia幹部らの証言も求められている。"
+            "speech": "チップの行き先だけじゃない",
+            "narration": "米政権は、中国などの企業への計算資源提供を想定する海外データセンター向けに、AI半導体の輸出・再輸出などの許可要件を拡大する方針。"
           },
           {
-            "speech": "みなみ、法案の行方を追う",
+            "speech": "みなみは利用者確認に注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "米議会で対中AI半導体輸出の規制強化論が拡大、関連法案への関心と証言要求"
+        "telop_text": "米国がAI半導体規制強化へ、海外データセンターの遠隔利用も対象"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "【2026-11-17】OpenAI、外部安全評価者の内部受け入れを試行",
+      "summary": "OpenAIは外部研究者を内部に受け入れ、AIによる安全措置の回避などを調べる。情報へのアクセスや結果公開には制約が残る。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "published_date": "2026-11-17",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報、内部で評価？",
+            "narration": ""
+          },
+          {
+            "speech": "安全策を破るＡＩを調査！",
+            "narration": ""
+          },
+          {
+            "speech": "外部の目はどこまで届く？",
+            "narration": "OpenAIはApolloなどの外部安全評価者を内部に受け入れる試行を発表。安全措置を損なう挙動を調べるが、アクセスや証拠公開には制限がある。"
+          },
+          {
+            "speech": "みなみは独立性も見たい",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "OpenAIが外部安全評価者を内部に受け入れ、調査の独立性には課題も"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "【2026-11-17】FBI、自律型AI攻撃ツールArtexの悪用を警告",
+      "summary": "FBIは、AIツールArtexを使った侵入が複数業界で発生したと警告。一部では標的の探索から侵害まで3時間未満だったという。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "published_date": "2026-11-17",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに警告、ＡＩで侵入？",
+            "narration": ""
+          },
+          {
+            "speech": "３時間未満で侵害だって！",
+            "narration": ""
+          },
+          {
+            "speech": "守る側の速さも問われる",
+            "narration": "FBIは、自律型AIツールArtexを悪用した攻撃を警告。弱い認証や露出した認証情報などが狙われ、複数業界で被害が確認されたという。"
+          },
+          {
+            "speech": "みなみはまず認証を見直す",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "FBIがArtex悪用を警告、一部の攻撃は侵害まで3時間未満"
+      }
+    },
+    {
+      "rank": 4,
+      "title": "【2026-11-17】OpenAI、児童性的虐待画像の検出器とChatGPTの警告機能を発表",
+      "summary": "OpenAIはAI生成画像にも対応する検出器を対象企業に無償提供。ChatGPTには警告や24時間のアカウント停止措置を追加する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "published_date": "2026-11-17",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報、子どもを守る？",
+            "narration": ""
+          },
+          {
+            "speech": "生成画像の検出にも対応！",
+            "narration": ""
+          },
+          {
+            "speech": "警告と利用制限も加わる",
+            "narration": "OpenAIは児童性的虐待画像の検出器を対象企業へ無償提供。ChatGPTでは問題のある要求への警告や24時間のアカウント停止措置を追加する。"
+          },
+          {
+            "speech": "みなみは実効性を見守る",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "OpenAIが児童保護対策を追加、画像検出とChatGPTの警告を強化"
+      }
+    },
+    {
+      "rank": 5,
+      "title": "【2026-11-17】Nvidia取締役会、フアン氏のCEO復帰を検討せずと報道",
+      "summary": "The VergeはCNBCを引用し、Nvidia取締役会がフアン氏の復帰を協議していないと報道。取締役会は同氏に関する調査に注力しているという。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "published_date": "2026-11-17",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報、復帰は未検討？",
+            "narration": ""
+          },
+          {
+            "speech": "署名が集まっても別なの！",
+            "narration": ""
+          },
+          {
+            "speech": "取締役会は調査を優先か",
+            "narration": "The VergeがCNBC報道を引用。Nvidia取締役会はフアン氏のCEO復帰を協議せず、同氏に関する調査に注力しているという。"
+          },
+          {
+            "speech": "みなみは経営の継続に注目",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Nvidia取締役会はフアン氏のCEO復帰を検討していないと報道"
+      }
+    },
+    {
+      "rank": 6,
+      "title": "【2026-11-17】Apple、高度なSiri・AI機能の日次利用上限をベータ版で試験",
+      "summary": "Appleがクラウド処理を使う高度なAI機能の日次上限を試験していると報道。基本的なSiri操作は無料・無制限を維持する。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "published_date": "2026-11-17",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報、Ｓｉｒｉに上限？",
+            "narration": ""
+          },
+          {
+            "speech": "高度なＡＩ操作は回数制に！",
+            "narration": ""
+          },
+          {
+            "speech": "基本操作は無制限のまま",
+            "narration": "Appleはベータ版で、クラウド処理を使う高度なSiri操作や画像生成などの日次上限を試験中と報道。具体的な上限回数は明らかでない。"
+          },
+          {
+            "speech": "みなみは上限通知を確認",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Appleが高度なAI機能の日次上限を試験、基本的なSiri操作は対象外"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "【2026-11-17】Audible、AI生成の音声紹介で次に聴く本の発見を支援",
+      "summary": "Audibleは作品のテーマや好評点をAI音声で紹介する機能を開始。米国の一部英語作品が対象で、過去の著者インタビュー音声なども組み合わせる。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "published_date": "2026-11-17",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに新機能、本も耳で選ぶ？",
+            "narration": ""
+          },
+          {
+            "speech": "ＡＩが聴きどころを紹介！",
+            "narration": ""
+          },
+          {
+            "speech": "まず米国の一部英語作品",
+            "narration": "Audibleは作品のテーマやレビューの好評点をAI音声で紹介。著者や編集者の過去の収録音声、朗読サンプルも組み合わせる。"
+          },
+          {
+            "speech": "みなみは辛口評価も読みたい",
+            "narration": "次回おたのしみに"
+          }
+        ],
+        "telop_text": "AudibleがAI音声紹介を開始、作品のテーマや好評点を短く案内"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-17】ベルフォート氏の音声AI企業Tone、営業と書籍ナレーションに照準",
+      "summary": "インタビュー記事。Toneは声の調子を使い分ける営業AIや書籍音声化を展開するという。記事は技術性能を独立検証できていないと明記する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "published_date": "2026-11-17",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホの記事、声で売るＡＩ？",
+            "narration": ""
+          },
+          {
+            "speech": "ささやき方まで使い分ける！",
+            "narration": ""
+          },
+          {
+            "speech": "ただし性能は未検証だ",
+            "narration": "ベルフォート氏はインタビューでToneの営業AIと書籍ナレーション事業を説明。声の調子による説得力を強調するが、媒体は技術性能を独立検証できていない。"
+          },
+          {
+            "speech": "みなみは売り文句より実証",
+            "narration": "次回おたのしみに"
+          }
+        ],
+        "telop_text": "インタビュー：Toneが音声AIの営業活用を説明、性能の独立検証は未実施"
       }
     }
   ]
