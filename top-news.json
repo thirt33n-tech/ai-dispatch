@@ -1,106 +1,74 @@
 {
-  "dispatchNo": "248",
-  "dateLabel": "2026.11.18",
+  "dispatchNo": "249",
+  "dateLabel": "2026.11.19",
   "top1": {
-    "title": "【2026-11-18】Google、GeminiのAIエージェント「Tasks」を無料化、日本にも提供",
-    "lead1": "GoogleがAIエージェントSparkをTasksに改称し、日本を含む6カ国のユーザーへ無料提供を拡大します。",
-    "lead2": "予定管理などを支援し、米国では電話や購入にも対応。購入などの慎重さが必要な操作では、実行前に利用者へ許可を求めます。",
-    "manga_url": "news/top1_manga_2026-11-18.png",
+    "title": "【2026-11-19】Google検索のAI Mode、一時的な会話機能を世界展開",
+    "lead1": "Googleは検索のAI Modeに、検索履歴や将来のパーソナライズに反映されない一時的な会話機能を導入する。",
+    "lead2": "設定変更は不要で、専用アイコンから利用できる。デスクトップとモバイルの対応する全言語で順次展開する。",
+    "manga_url": "news/top1_manga_2026-11-19.png",
     "video_url": "",
-    "source_url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+    "source_url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-18",
-        "manga_url": "news/top1_manga_2026-11-18_en.png",
-        "manga_sha256": "23045e665139850bc323fb2468206ef7ed94a80caec58e10bc07da4180eee3d2",
+        "date": "2026-11-19",
+        "manga_url": "news/top1_manga_2026-11-19_en.png",
+        "manga_sha256": "d013f77e44880d4c774d2728d402d7c6fe276a90a6aa6ccdc4959aa99bfe7eb1",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-18] Google makes Gemini AI agent Tasks free, including in Japan",
-            "summary": "Google has renamed Spark to Tasks and made it available for free in six countries, including Japan. It assists with scheduling and other tasks, and also supports phone calls and purchases in the United States.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-            "published_date": "2026-11-18"
+            "title": "[2026-11-19] Google Search rolls out temporary conversations in AI Mode worldwide",
+            "summary": "Google has introduced temporary conversations in AI Mode. These conversations will not be reflected in search history or future personalization, and the feature is rolling out gradually in all supported languages.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+            "published_date": "2026-11-19"
           },
           {
             "rank": 2,
-            "title": "[2026-11-18] Vals simulations reveal risk of AI identifying civilians as military targets",
-            "summary": "A Vals study found that leading AI systems identified civilians and others as targets on simulated battlefields. In some cases, describing the scenario as a \"game\" bypassed refusals. The companies involved explained their safeguards.",
+            "title": "[2026-11-19] Major US banks explicitly assign customers responsibility for account activity by external AI agents",
+            "summary": "Citi has changed its terms to explicitly state that customers are responsible for transactions made by external AI and losses following the exposure of authentication credentials. Similar moves have been reported at PNC and Citizens.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-            "published_date": "2026-11-18"
+            "source_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+            "published_date": "2026-11-19"
           },
           {
             "rank": 3,
-            "title": "[2026-11-18] Google to retain Gemini conversations for about two months even with history off",
-            "summary": "Google is extending the retention period for temporary chats and similar conversations from 72 hours to about two months. It explained that chat history and AI training settings are separate and that temporary conversations will not be used for training.",
+            "title": "[2026-11-19] Altman opposes handing decision-making authority to AI",
+            "summary": "OpenAI's Altman said at the DealBook Summit that humans should retain control over the future. Brockman discussed challenges in technologies for monitoring advanced AI.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-            "published_date": "2026-11-18"
+            "source_url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+            "published_date": "2026-11-19"
           },
           {
             "rank": 4,
-            "title": "[2026-11-18] NVIDIA founder Huang willing to return as CEO if board requests it",
-            "summary": "Huang, who stepped down as CEO, expressed willingness to return depending on the board's decision. However, the board is reportedly not considering his return.",
+            "title": "[2026-11-19] Analysis: Semiconductor demand grows despite concerns over a slowdown in frontier AI development",
+            "summary": "The Verge analyzed Nvidia's and AMD's financial performance and demand for inference. It explained that the effects of a development slowdown would take time to emerge and that competition with specialized chips is also important.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-            "published_date": "2026-11-18"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+            "published_date": "2026-11-19"
           },
           {
             "rank": 5,
-            "title": "[2026-11-18] Proton releases desktop version of Lumo AI with granular permission controls",
-            "summary": "Proton has released Lumo for Windows, macOS and Linux. It integrates with files and external services, allowing users to set each action to run automatically, require approval or be prohibited.",
+            "title": "[2026-11-19] Snapchat announces CLI for creating AR lenses from Claude Code and Cursor",
+            "summary": "Snapchat has announced Easy Lens CLI. It allows users to create AR lenses using natural language from tools including Claude Code, Cursor and Codex, and proceed through previewing and publishing.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-            "published_date": "2026-11-18"
+            "source_url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+            "published_date": "2026-11-19"
           },
           {
             "rank": 6,
-            "title": "[2026-11-18] Model ML raises $250 million to automate financial work",
-            "summary": "Model ML has raised $250 million in Series B funding, reaching a valuation of $1.5 billion. Its AI integrates with tools such as Excel to help create financial models and proposal materials.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-            "published_date": "2026-11-18"
-          },
-          {
-            "rank": 7,
-            "title": "[2026-11-18] Analysis: Tuning on proprietary data becomes a competitive focus for decision models that rapidly evaluate options",
-            "summary": "TechCrunch analyzed competition in decision models, covering Microsoft's Azure rollout and developments at Sqwish, which promotes further tuning using customer data as a selling point.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-            "published_date": "2026-11-18"
-          },
-          {
-            "rank": 8,
-            "title": "[2026-11-18] Daydream launches fashion AI agent that assists with everything from try-ons to purchases",
-            "summary": "Daydream has launched an AI agent that remembers preferences and budgets. It supports photo-based virtual try-ons, purchases and price-drop monitoring, with human stylists also providing advice.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-            "published_date": "2026-11-18"
-          },
-          {
-            "rank": 9,
-            "title": "[2026-11-18] Voyage Labs raises $12 million for travel-focused AI Atlas",
-            "summary": "Voyage Labs has raised $12 million. It is offering Atlas, which assists with everything from travel planning to bookings and itinerary management, in private beta, and is expanding its partnerships and development capabilities.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-            "published_date": "2026-11-18"
-          },
-          {
-            "rank": 10,
-            "title": "[2026-11-18] Pedestal AI raises $4.7 million for delivery operations agents",
-            "summary": "Pedestal AI announced $4.7 million in seed funding. It automates tasks such as contacting customers in advance and says it reduced failed deliveries by 20% at a major furniture company.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-            "published_date": "2026-11-18"
+            "title": "[2026-11-19] Disney unveils prototype Star Wars robot that responds to visitors using AWS AI",
+            "summary": "Disney has unveiled an animatronic prototype that responds to visitors using AI running on AWS. Its movements and dialogue are created in advance, and the AI selects among them.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+            "published_date": "2026-11-19"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "759bf66cf14528111f81a6490ea945a2716bd9bfe2e02e3fe910cdd77696c1f6"
+        "source_manga_sha256": "fc09e3c08ccc7f9f96ba36726d1985be07dd3d00025ecc0d33f92a9ee58c2538"
       }
     },
-    "media_updated_at": "2026-11-18"
+    "media_updated_at": "2026-11-19"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -112,26 +80,24 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-18】AIが民間人を軍事標的として識別する危険、Valsの模擬試験で判明",
-    "【2026-11-18】Google、履歴オフのGemini会話も約2カ月保存へ",
-    "【2026-11-18】NVIDIA創業者フアン氏、取締役会が求めればCEO復帰の意向",
-    "【2026-11-18】Proton、権限を細かく管理できるAI「Lumo」のデスクトップ版を公開",
-    "【2026-11-18】金融業務を自動化するModel ML、2億5000万ドル調達",
-    "【2026-11-18】【解説】選択肢を高速判定する「意思決定モデル」、独自データでの調整が競争軸に",
-    "【2026-11-18】Daydream、試着から購入まで支援するファッションAIエージェントを公開"
+    "【2026-11-19】米大手銀行、外部AIエージェントによる口座操作の責任を顧客に明示",
+    "【2026-11-19】アルトマン氏、AIへの意思決定権の移譲に反対",
+    "【2026-11-19】【解説】最先端AIの開発減速懸念でも半導体需要は拡大",
+    "【2026-11-19】Snapchat、Claude CodeやCursorからARレンズを作れるCLIを発表",
+    "【2026-11-19】Disney、AWSのAIで来場者に反応するスター・ウォーズのロボット試作機を公開"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-18】AIが民間人を軍事標的として識別する危険、Valsの模擬試験で判明",
-      "summary": "Valsの研究で、主要AIが模擬戦場の民間人などを標的として識別。「ゲーム」と伝えると拒否を回避する例もあり、各社は対策を説明した。",
+      "title": "【2026-11-19】米大手銀行、外部AIエージェントによる口座操作の責任を顧客に明示",
+      "summary": "Citiが規約を変更し、外部AIによる取引や認証情報流出後の被害は顧客の責任と明示。PNCやCitizensでも同様の動きが報じられた。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-11-18】Google、履歴オフのGemini会話も約2カ月保存へ",
-      "summary": "Googleは一時チャットなどの保存期間を72時間から約2カ月へ延長。履歴保存とAI学習の設定は分離し、一時会話は学習に使わないと説明した。",
+      "title": "【2026-11-19】アルトマン氏、AIへの意思決定権の移譲に反対",
+      "summary": "OpenAIのアルトマン氏はDealBook Summitで、人間が未来の主導権を保つべきだと発言。ブロックマン氏は高度なAIの監視技術の課題を述べた。",
       "manga_url": "",
       "video_url": ""
     }
@@ -139,34 +105,26 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-11-18】NVIDIA創業者フアン氏、取締役会が求めればCEO復帰の意向"
+      "title": "【2026-11-19】【解説】最先端AIの開発減速懸念でも半導体需要は拡大"
     },
     {
       "rank": 5,
-      "title": "【2026-11-18】Proton、権限を細かく管理できるAI「Lumo」のデスクトップ版を公開"
+      "title": "【2026-11-19】Snapchat、Claude CodeやCursorからARレンズを作れるCLIを発表"
     },
     {
       "rank": 6,
-      "title": "【2026-11-18】金融業務を自動化するModel ML、2億5000万ドル調達"
-    },
-    {
-      "rank": 7,
-      "title": "【2026-11-18】【解説】選択肢を高速判定する「意思決定モデル」、独自データでの調整が競争軸に"
-    },
-    {
-      "rank": 8,
-      "title": "【2026-11-18】Daydream、試着から購入まで支援するファッションAIエージェントを公開"
-    },
-    {
-      "rank": 9,
-      "title": "【2026-11-18】Voyage Labs、旅行特化AI「Atlas」に向け1200万ドル調達"
-    },
-    {
-      "rank": 10,
-      "title": "【2026-11-18】Pedestal AI、配送業務向けエージェントで470万ドル調達"
+      "title": "【2026-11-19】Disney、AWSのAIで来場者に反応するスター・ウォーズのロボット試作機を公開"
     }
   ],
   "archive": [
+    {
+      "no": "248",
+      "kind": "✨ ラミッカ",
+      "date": "11.18",
+      "img": "news/top1_manga_2026-11-18.png",
+      "title": "【2026-11-18】Google、GeminiのAIエージェント「Tasks」を無料化、日本にも提供",
+      "source_url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    },
     {
       "no": "247",
       "kind": "✨ ラミッカ",

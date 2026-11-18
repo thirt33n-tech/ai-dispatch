@@ -1,295 +1,179 @@
 {
-  "date": "2026.11.18",
+  "date": "2026.11.19",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-18】Google、GeminiのAIエージェント「Tasks」を無料化、日本にも提供",
-      "summary": "GoogleはSparkをTasksに改称し、日本を含む6カ国で無料提供。予定管理などを支援し、米国では電話や購入にも対応する。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "published_date": "2026-11-18",
+      "title": "【2026-11-19】Google検索のAI Mode、一時的な会話機能を世界展開",
+      "summary": "GoogleはAI Modeに一時的な会話機能を導入。会話を検索履歴や将来のパーソナライズに反映させず、対応する全言語で順次提供する。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "published_date": "2026-11-19",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！無料なの？",
+            "speech": "スマホに速報！検索が変わる？",
             "narration": ""
           },
           {
-            "speech": "日本でも使えるの！？",
+            "speech": "ええっ！履歴に反映しない！",
             "narration": ""
           },
           {
-            "speech": "電話機能は米国向けね",
-            "narration": "GoogleがTasksを日本など6カ国で無料化。予定管理などを支援し、米国では電話や購入にも対応する。"
+            "speech": "一時的な会話を選ぶんだね",
+            "narration": "Google検索のAI Modeに一時的な会話機能。過去の好みを回答に使わず、会話は検索履歴や将来のパーソナライズにも反映されない。"
           },
           {
-            "speech": "みなみは権限を確認！",
+            "speech": "みなみも話題で使い分けよう",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "GeminiのTasksが日本でも無料に。電話・購入など一部機能は米国向け"
+        "telop_text": "Google検索のAI Modeに一時的な会話機能、対応する全言語で世界展開"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-18】AIが民間人を軍事標的として識別する危険、Valsの模擬試験で判明",
-      "summary": "Valsの研究で、主要AIが模擬戦場の民間人などを標的として識別。「ゲーム」と伝えると拒否を回避する例もあり、各社は対策を説明した。",
+      "title": "【2026-11-19】米大手銀行、外部AIエージェントによる口座操作の責任を顧客に明示",
+      "summary": "Citiが規約を変更し、外部AIによる取引や認証情報流出後の被害は顧客の責任と明示。PNCやCitizensでも同様の動きが報じられた。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "published_date": "2026-11-18",
+      "source_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "published_date": "2026-11-19",
       "script": {
         "panels": [
           {
-            "speech": "スマホに警告のニュース！",
+            "speech": "スマホに銀行のＡＩ速報！？",
             "narration": ""
           },
           {
-            "speech": "民間人まで標的扱い！？",
+            "speech": "被害まで顧客の責任なの！？",
             "narration": ""
           },
           {
-            "speech": "模擬試験での結果なんだ",
-            "narration": "Valsは商用AIの模擬試験で安全策の弱点を報告。直接の攻撃判断は求めておらず、実戦利用には技術的制約もある。"
+            "speech": "口座へのアクセスは慎重に",
+            "narration": "Citiは外部AIに口座アクセスを認めた顧客の責任を規約で明示。AI側の認証情報流出やハッキングによる被害も対象と報じられた。"
           },
           {
-            "speech": "みなみは人の監督を重視",
+            "speech": "みなみは規約から確認する",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Valsの模擬試験が軍事利用の安全策に警鐘。実戦での攻撃判断を実証した研究ではない"
+        "telop_text": "Citiなど米銀行が外部AI利用時の顧客責任を明示、口座アクセスのリスクに注意"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-11-18】Google、履歴オフのGemini会話も約2カ月保存へ",
-      "summary": "Googleは一時チャットなどの保存期間を72時間から約2カ月へ延長。履歴保存とAI学習の設定は分離し、一時会話は学習に使わないと説明した。",
+      "title": "【2026-11-19】アルトマン氏、AIへの意思決定権の移譲に反対",
+      "summary": "OpenAIのアルトマン氏はDealBook Summitで、人間が未来の主導権を保つべきだと発言。ブロックマン氏は高度なAIの監視技術の課題を述べた。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-      "published_date": "2026-11-18",
+      "source_url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "published_date": "2026-11-19",
       "script": {
         "panels": [
           {
-            "speech": "スマホに保存期間の速報！",
+            "speech": "スマホに速報！ＡＩが決定？",
             "narration": ""
           },
           {
-            "speech": "履歴オフでも２カ月！？",
+            "speech": "主導権まで渡しちゃだめ！",
             "narration": ""
           },
           {
-            "speech": "学習設定とは別なんだね",
-            "narration": "Geminiの一時会話などの保存を約2カ月へ延長。Googleは安全対策が目的とし、一時会話は学習に使わないと説明。"
+            "speech": "人間が決め続けるためには？",
+            "narration": "アルトマン氏はAIへの段階的な権限移譲に反対。ブロックマン氏は、モデルの高度化に伴い新しい監視技術が必要になると述べた。"
           },
           {
-            "speech": "みなみは設定を見直す",
+            "speech": "みなみは監視の進展も追う",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Geminiの一時会話などを約2カ月保存へ。履歴とAI学習の設定は分離"
+        "telop_text": "OpenAI首脳が人間の主導権維持を強調、高度なAIの監視方法も課題に"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-11-18】NVIDIA創業者フアン氏、取締役会が求めればCEO復帰の意向",
-      "summary": "CEOを辞任したフアン氏が、取締役会の判断次第で復帰する意向を表明。一方、取締役会は復帰を検討していないと報じられている。",
+      "title": "【2026-11-19】【解説】最先端AIの開発減速懸念でも半導体需要は拡大",
+      "summary": "The VergeはNvidiaやAMDの業績と推論需要を分析。開発減速の影響には時間差があり、専用チップとの競争も重要だと解説した。",
       "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "published_date": "2026-11-18",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "published_date": "2026-11-19",
       "script": {
         "panels": [
           {
-            "speech": "スマホにフアン氏の声明！",
+            "speech": "スマホで解説！半導体が好調？",
             "narration": ""
           },
           {
-            "speech": "ＣＥＯに復帰の意向！？",
+            "speech": "開発減速でも需要が伸びる！",
             "narration": ""
           },
           {
-            "speech": "復帰決定ではないんだね",
-            "narration": "フアン氏は取締役会が求めれば復帰すると表明。一方、取締役会は復帰を検討していないとの報道もある。"
+            "speech": "推論にも計算資源が必要だね",
+            "narration": "The Vergeの解説は、AIを動かす推論需要が半導体市場を支えると分析。開発減速の影響の時間差や専用チップとの競争にも触れている。"
           },
           {
-            "speech": "みなみは正式判断を待つ",
+            "speech": "みなみは需要の中身も見る",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "フアン氏がNVIDIAのCEO復帰に意欲。復帰決定ではなく、取締役会の判断が焦点"
+        "telop_text": "【解説】AI半導体需要を支える推論利用、専用チップとの競争にも注目"
       }
     },
     {
       "rank": 5,
-      "title": "【2026-11-18】Proton、権限を細かく管理できるAI「Lumo」のデスクトップ版を公開",
-      "summary": "ProtonがWindows、macOS、Linux向けにLumoを公開。ファイルや外部サービスと連携し、操作ごとに自動実行・承認・禁止を設定できる。",
+      "title": "【2026-11-19】Snapchat、Claude CodeやCursorからARレンズを作れるCLIを発表",
+      "summary": "SnapchatがEasy Lens CLIを発表。Claude Code、Cursor、Codexなどから自然言語でARレンズを制作し、プレビューや公開まで進められる。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "published_date": "2026-11-18",
+      "source_url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "published_date": "2026-11-19",
       "script": {
         "panels": [
           {
-            "speech": "スマホにＬｕｍｏの新着！",
+            "speech": "スマホに速報！レンズ制作？",
             "narration": ""
           },
           {
-            "speech": "パソコン操作も任せる！？",
+            "speech": "いつものＡＩから作れるの！",
             "narration": ""
           },
           {
-            "speech": "権限を細かく選べるね",
-            "narration": "ProtonがLumoのデスクトップ版を公開。接続先ごとに操作の自動実行、承認要求、禁止を設定できる。"
+            "speech": "言葉で指示して公開まで",
+            "narration": "Easy Lens CLIはClaude CodeやCursorなどと連携。AIがARレンズの制作、プレビュー、テスト、公開を支援する。"
           },
           {
-            "speech": "みなみは最小権限から",
+            "speech": "みなみの案も形にできる？",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "ProtonのLumoがデスクトップへ。操作権限を細かく管理する設計"
+        "telop_text": "SnapchatのEasy Lens CLI、使い慣れたAIコーディング支援からAR制作へ"
       }
     },
     {
       "rank": 6,
-      "title": "【2026-11-18】金融業務を自動化するModel ML、2億5000万ドル調達",
-      "summary": "Model MLがシリーズBで2億5000万ドルを調達し、評価額は15億ドルに。Excelなどと連携するAIで金融モデルや提案資料の作成を支援する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "published_date": "2026-11-18",
+      "title": "【2026-11-19】Disney、AWSのAIで来場者に反応するスター・ウォーズのロボット試作機を公開",
+      "summary": "DisneyはAWS上のAIで来場者に反応するアニマトロニクス試作機を公開。動作とせりふは事前制作済みで、AIが選択する仕組みだ。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "published_date": "2026-11-19",
       "script": {
         "panels": [
           {
-            "speech": "スマホに金融ＡＩの速報！",
+            "speech": "スマホに速報！キャラが反応？",
             "narration": ""
           },
           {
-            "speech": "２億５千万ドル調達！？",
+            "speech": "操り手なしでやり取り！？",
             "narration": ""
           },
           {
-            "speech": "資料の更新も支援するのね",
-            "narration": "Model MLがシリーズBで2億5000万ドルを調達。ExcelやPowerPointと連携し、金融モデルや提案資料の作成を支援する。"
+            "speech": "せりふは自由生成じゃないよ",
+            "narration": "Disneyの試作機はカメラとマイクの情報をAWS上のAIで処理。事前制作した動作とせりふを選び、来場者に反応する。"
           },
           {
-            "speech": "みなみは数字を再確認",
+            "speech": "みなみも台本の工夫に注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Model MLが2億5000万ドル調達。金融モデルや提案資料をAIで自動化"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "【2026-11-18】【解説】選択肢を高速判定する「意思決定モデル」、独自データでの調整が競争軸に",
-      "summary": "TechCrunchが意思決定モデルの競争を解説。MicrosoftのAzure展開や、顧客データによる追加調整を売りにするSqwishの動向を紹介した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-      "published_date": "2026-11-18",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに新型ＡＩの解説！",
-            "narration": ""
-          },
-          {
-            "speech": "文章を出さずに判断！？",
-            "narration": ""
-          },
-          {
-            "speech": "選択肢から素早く選ぶのね",
-            "narration": "意思決定モデルの競争を扱う解説記事。速度や費用に加え、顧客の実データを使った追加調整が差別化の論点となる。"
-          },
-          {
-            "speech": "みなみは実務で見極める",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "解説：意思決定モデルの競争は速度・費用・信頼性と顧客別の調整へ"
-      }
-    },
-    {
-      "rank": 8,
-      "title": "【2026-11-18】Daydream、試着から購入まで支援するファッションAIエージェントを公開",
-      "summary": "Daydreamが好みや予算を記憶するAIエージェントを公開。写真を使った仮想試着や購入、値下げ監視に対応し、人間のスタイリストも助言を提供する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "published_date": "2026-11-18",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに服選びＡＩの速報！",
-            "narration": ""
-          },
-          {
-            "speech": "試着から購入まで！？",
-            "narration": ""
-          },
-          {
-            "speech": "好みも予算も覚えるのね",
-            "narration": "Daydreamの新エージェントは仮想試着や購入、値下げ監視に対応。人間のスタイリストの知見も取り入れる。"
-          },
-          {
-            "speech": "みなみは買いすぎ注意！",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "DaydreamがファッションAIを公開。好みの記憶、仮想試着、購入を支援"
-      }
-    },
-    {
-      "rank": 9,
-      "title": "【2026-11-18】Voyage Labs、旅行特化AI「Atlas」に向け1200万ドル調達",
-      "summary": "Voyage Labsが1200万ドルを調達。旅行計画から予約、旅程管理まで支援するAtlasを非公開ベータで提供し、提携先と開発体制を拡充する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "published_date": "2026-11-18",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに旅行ＡＩの新着！",
-            "narration": ""
-          },
-          {
-            "speech": "旅の計画を丸ごと支援！？",
-            "narration": ""
-          },
-          {
-            "speech": "今は非公開ベータなんだね",
-            "narration": "Voyage Labsが1200万ドルを調達。Atlasは長期の相談や価格変動の監視を通じ、旅行計画・予約・管理を支援する。"
-          },
-          {
-            "speech": "みなみは旅先から考える",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Voyage Labsが1200万ドル調達。旅行特化AIのAtlasは非公開ベータで提供"
-      }
-    },
-    {
-      "rank": 10,
-      "title": "【2026-11-18】Pedestal AI、配送業務向けエージェントで470万ドル調達",
-      "summary": "Pedestal AIが470万ドルのシード調達を発表。顧客への事前連絡などを自動化し、大手家具会社では配送失敗を20％削減したと説明する。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "published_date": "2026-11-18",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに配送ＡＩの速報！",
-            "narration": ""
-          },
-          {
-            "speech": "配送失敗が２割減！？",
-            "narration": ""
-          },
-          {
-            "speech": "会社が示した導入例だね",
-            "narration": "470万ドルを調達したPedestal AIは配送前の電話などを自動化。大手家具会社で配送失敗を20％減らしたと説明する。"
-          },
-          {
-            "speech": "みなみは受け取り準備！",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Pedestal AIが470万ドル調達。配送前連絡の自動化で配送失敗削減を目指す"
+        "telop_text": "Disneyの新試作機はAWSのAIで反応、動作とせりふは事前制作したものを選択"
       }
     }
   ]
