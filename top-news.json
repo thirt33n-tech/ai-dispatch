@@ -1,74 +1,66 @@
 {
-  "dispatchNo": "249",
-  "dateLabel": "2026.11.19",
+  "dispatchNo": "250",
+  "dateLabel": "2026.11.20",
   "top1": {
-    "title": "【2026-11-19】Google検索のAI Mode、一時的な会話機能を世界展開",
-    "lead1": "Googleは検索のAI Modeに、検索履歴や将来のパーソナライズに反映されない一時的な会話機能を導入する。",
-    "lead2": "設定変更は不要で、専用アイコンから利用できる。デスクトップとモバイルの対応する全言語で順次展開する。",
-    "manga_url": "news/top1_manga_2026-11-19.png",
+    "title": "【2026-11-20】AnthropicがNasdaq上場、公開価格を上回る水準で取引開始",
+    "lead1": "AnthropicがNasdaqで取引を開始し、公開価格83ドルを上回る水準で売買された。",
+    "lead2": "上場と既存の資金調達などを経て、現金準備は2200億ドルとなる見通し。AI開発を支える資金基盤が拡大する。",
+    "manga_url": "news/top1_manga_2026-11-20.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-19",
-        "manga_url": "news/top1_manga_2026-11-19_en.png",
-        "manga_sha256": "d013f77e44880d4c774d2728d402d7c6fe276a90a6aa6ccdc4959aa99bfe7eb1",
+        "date": "2026-11-20",
+        "manga_url": "news/top1_manga_2026-11-20_en.png",
+        "manga_sha256": "e5434c3efb08706d05686eea6c40c1e357fd4ead7789932a34dc1c23dd0563c9",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-19] Google Search rolls out temporary conversations in AI Mode worldwide",
-            "summary": "Google has introduced temporary conversations in AI Mode. These conversations will not be reflected in search history or future personalization, and the feature is rolling out gradually in all supported languages.",
+            "title": "[2026-11-20] Anthropic lists on Nasdaq, opens trading above its IPO price",
+            "summary": "Anthropic began trading on Nasdaq. Its IPO price was $83, and shares traded above that level shortly after trading began. Its cash reserves are expected to reach $220 billion following the listing and other transactions.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-            "published_date": "2026-11-19"
+            "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+            "published_date": "2026-11-20"
           },
           {
             "rank": 2,
-            "title": "[2026-11-19] Major US banks explicitly assign customers responsibility for account activity by external AI agents",
-            "summary": "Citi has changed its terms to explicitly state that customers are responsible for transactions made by external AI and losses following the exposure of authentication credentials. Similar moves have been reported at PNC and Citizens.",
+            "title": "[2026-11-20] Reports raise concerns over conversation mix-ups and exposure of personal information by Meta's AI agent Muse",
+            "summary": "According to Reuters, Meta employees expressed concerns about Muse mixing up conversations from different accounts and exposing personal information. Meta did not immediately respond to TechCrunch's request for comment.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-            "published_date": "2026-11-19"
+            "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+            "published_date": "2026-11-20"
           },
           {
             "rank": 3,
-            "title": "[2026-11-19] Altman opposes handing decision-making authority to AI",
-            "summary": "OpenAI's Altman said at the DealBook Summit that humans should retain control over the future. Brockman discussed challenges in technologies for monitoring advanced AI.",
+            "title": "[2026-11-20] Google introduces computer-use capabilities in Gemini for Mac",
+            "summary": "Gemini for Mac now supports tasks spanning local files, apps and the web. The feature is available on paid plans to English-speaking users in the United States, with options to pause actions and approve them.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-            "published_date": "2026-11-19"
+            "source_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+            "published_date": "2026-11-20"
           },
           {
             "rank": 4,
-            "title": "[2026-11-19] Analysis: Semiconductor demand grows despite concerns over a slowdown in frontier AI development",
-            "summary": "The Verge analyzed Nvidia's and AMD's financial performance and demand for inference. It explained that the effects of a development slowdown would take time to emerge and that competition with specialized chips is also important.",
+            "title": "[2026-11-20] ChatGPT rolls out Live Dictation to transcribe speech as users speak",
+            "summary": "ChatGPT now supports transcription as users speak. The feature is rolling out globally across all plans on the web, desktop and smartphones, and the 10-minute recording limit for voice input will also be removed.",
             "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-            "published_date": "2026-11-19"
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+            "published_date": "2026-11-20"
           },
           {
             "rank": 5,
-            "title": "[2026-11-19] Snapchat announces CLI for creating AR lenses from Claude Code and Cursor",
-            "summary": "Snapchat has announced Easy Lens CLI. It allows users to create AR lenses using natural language from tools including Claude Code, Cursor and Codex, and proceed through previewing and publishing.",
+            "title": "[2026-11-20] Everful raises $48.5 million to support factory sourcing with AI",
+            "summary": "Everful, which connects retailers with factories in China, raised $48.5 million in Series A funding. It is advancing the automation of sourcing operations using AI agents and its expansion into the United States and Europe.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-            "published_date": "2026-11-19"
-          },
-          {
-            "rank": 6,
-            "title": "[2026-11-19] Disney unveils prototype Star Wars robot that responds to visitors using AWS AI",
-            "summary": "Disney has unveiled an animatronic prototype that responds to visitors using AI running on AWS. Its movements and dialogue are created in advance, and the AI selects among them.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-            "published_date": "2026-11-19"
+            "source_url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+            "published_date": "2026-11-20"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "fc09e3c08ccc7f9f96ba36726d1985be07dd3d00025ecc0d33f92a9ee58c2538"
+        "source_manga_sha256": "e085445083cb053b9f8b23e3f8871e66c1d1c92f47d5fa3a87ff380b3686e191"
       }
     },
-    "media_updated_at": "2026-11-19"
+    "media_updated_at": "2026-11-20"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -80,24 +72,23 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-19】米大手銀行、外部AIエージェントによる口座操作の責任を顧客に明示",
-    "【2026-11-19】アルトマン氏、AIへの意思決定権の移譲に反対",
-    "【2026-11-19】【解説】最先端AIの開発減速懸念でも半導体需要は拡大",
-    "【2026-11-19】Snapchat、Claude CodeやCursorからARレンズを作れるCLIを発表",
-    "【2026-11-19】Disney、AWSのAIで来場者に反応するスター・ウォーズのロボット試作機を公開"
+    "【2026-11-20】MetaのAIエージェントMuse、会話混同と個人情報露出の懸念が報道",
+    "【2026-11-20】Google、Mac版Geminiにパソコン操作機能を導入",
+    "【2026-11-20】ChatGPT、話しながら文字起こしするLive Dictationを展開",
+    "【2026-11-20】AIで工場調達を支援するEverful、4850万ドルを調達"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-19】米大手銀行、外部AIエージェントによる口座操作の責任を顧客に明示",
-      "summary": "Citiが規約を変更し、外部AIによる取引や認証情報流出後の被害は顧客の責任と明示。PNCやCitizensでも同様の動きが報じられた。",
+      "title": "【2026-11-20】MetaのAIエージェントMuse、会話混同と個人情報露出の懸念が報道",
+      "summary": "Reutersの報道によると、Meta社員がMuseによる別アカウントの会話混同や個人情報の露出を懸念。TechCrunchの取材にMetaは即時回答しなかった。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-11-19】アルトマン氏、AIへの意思決定権の移譲に反対",
-      "summary": "OpenAIのアルトマン氏はDealBook Summitで、人間が未来の主導権を保つべきだと発言。ブロックマン氏は高度なAIの監視技術の課題を述べた。",
+      "title": "【2026-11-20】Google、Mac版Geminiにパソコン操作機能を導入",
+      "summary": "Mac版Geminiがローカルファイル、アプリ、ウェブをまたぐ作業に対応。米国の英語利用者向けに有料プランで提供し、操作の一時停止や承認も可能。",
       "manga_url": "",
       "video_url": ""
     }
@@ -105,18 +96,22 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-11-19】【解説】最先端AIの開発減速懸念でも半導体需要は拡大"
+      "title": "【2026-11-20】ChatGPT、話しながら文字起こしするLive Dictationを展開"
     },
     {
       "rank": 5,
-      "title": "【2026-11-19】Snapchat、Claude CodeやCursorからARレンズを作れるCLIを発表"
-    },
-    {
-      "rank": 6,
-      "title": "【2026-11-19】Disney、AWSのAIで来場者に反応するスター・ウォーズのロボット試作機を公開"
+      "title": "【2026-11-20】AIで工場調達を支援するEverful、4850万ドルを調達"
     }
   ],
   "archive": [
+    {
+      "no": "249",
+      "kind": "✨ ラミッカ",
+      "date": "11.19",
+      "img": "news/top1_manga_2026-11-19.png",
+      "title": "【2026-11-19】Google検索のAI Mode、一時的な会話機能を世界展開",
+      "source_url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+    },
     {
       "no": "248",
       "kind": "✨ ラミッカ",

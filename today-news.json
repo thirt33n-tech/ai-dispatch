@@ -1,179 +1,150 @@
 {
-  "date": "2026.11.19",
+  "date": "2026.11.20",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-19】Google検索のAI Mode、一時的な会話機能を世界展開",
-      "summary": "GoogleはAI Modeに一時的な会話機能を導入。会話を検索履歴や将来のパーソナライズに反映させず、対応する全言語で順次提供する。",
+      "title": "【2026-11-20】AnthropicがNasdaq上場、公開価格を上回る水準で取引開始",
+      "summary": "AnthropicがNasdaqで取引を開始。公開価格は83ドルで、取引開始直後はこれを上回った。上場などを経た現金準備は2200億ドルとなる見通し。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-      "published_date": "2026-11-19",
+      "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "published_date": "2026-11-20",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！検索が変わる？",
+            "speech": "スマホに上場速報！",
             "narration": ""
           },
           {
-            "speech": "ええっ！履歴に反映しない！",
+            "speech": "公開価格を超えた！",
             "narration": ""
           },
           {
-            "speech": "一時的な会話を選ぶんだね",
-            "narration": "Google検索のAI Modeに一時的な会話機能。過去の好みを回答に使わず、会話は検索履歴や将来のパーソナライズにも反映されない。"
+            "speech": "開発資金にも注目だね",
+            "narration": "AnthropicがNasdaqで取引開始。公開価格83ドルを上回り、上場などを経た現金準備は2200億ドルとなる見通し。"
           },
           {
-            "speech": "みなみも話題で使い分けよう",
+            "speech": "みなみは資金の使途に注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Google検索のAI Modeに一時的な会話機能、対応する全言語で世界展開"
+        "telop_text": "AnthropicがNasdaq上場、公開価格を上回る水準で取引開始"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-19】米大手銀行、外部AIエージェントによる口座操作の責任を顧客に明示",
-      "summary": "Citiが規約を変更し、外部AIによる取引や認証情報流出後の被害は顧客の責任と明示。PNCやCitizensでも同様の動きが報じられた。",
+      "title": "【2026-11-20】MetaのAIエージェントMuse、会話混同と個人情報露出の懸念が報道",
+      "summary": "Reutersの報道によると、Meta社員がMuseによる別アカウントの会話混同や個人情報の露出を懸念。TechCrunchの取材にMetaは即時回答しなかった。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "published_date": "2026-11-19",
+      "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "published_date": "2026-11-20",
       "script": {
         "panels": [
           {
-            "speech": "スマホに銀行のＡＩ速報！？",
+            "speech": "スマホにミューズの報道！",
             "narration": ""
           },
           {
-            "speech": "被害まで顧客の責任なの！？",
+            "speech": "他人の情報が出たの！？",
             "narration": ""
           },
           {
-            "speech": "口座へのアクセスは慎重に",
-            "narration": "Citiは外部AIに口座アクセスを認めた顧客の責任を規約で明示。AI側の認証情報流出やハッキングによる被害も対象と報じられた。"
+            "speech": "社員が懸念を投稿したんだ",
+            "narration": "Reutersの報道によると、Meta社員がMuseの会話混同や個人情報露出を懸念。MetaはTechCrunchに即時回答せず。"
           },
           {
-            "speech": "みなみは規約から確認する",
+            "speech": "便利さより情報の境界だね",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Citiなど米銀行が外部AI利用時の顧客責任を明示、口座アクセスのリスクに注意"
+        "telop_text": "MetaのMuseに会話混同・個人情報露出の懸念、Reuters報道をTechCrunchが紹介"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-11-19】アルトマン氏、AIへの意思決定権の移譲に反対",
-      "summary": "OpenAIのアルトマン氏はDealBook Summitで、人間が未来の主導権を保つべきだと発言。ブロックマン氏は高度なAIの監視技術の課題を述べた。",
+      "title": "【2026-11-20】Google、Mac版Geminiにパソコン操作機能を導入",
+      "summary": "Mac版Geminiがローカルファイル、アプリ、ウェブをまたぐ作業に対応。米国の英語利用者向けに有料プランで提供し、操作の一時停止や承認も可能。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-      "published_date": "2026-11-19",
+      "source_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "published_date": "2026-11-20",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！ＡＩが決定？",
+            "speech": "スマホにジェミニの速報！",
             "narration": ""
           },
           {
-            "speech": "主導権まで渡しちゃだめ！",
+            "speech": "マックの操作まで！？",
             "narration": ""
           },
           {
-            "speech": "人間が決め続けるためには？",
-            "narration": "アルトマン氏はAIへの段階的な権限移譲に反対。ブロックマン氏は、モデルの高度化に伴い新しい監視技術が必要になると述べた。"
+            "speech": "作業中の様子も見えるんだ",
+            "narration": "Mac版Geminiがファイルやアプリ、ウェブをまたぐ作業に対応。米国・英語・対象有料プランで提供し、停止や承認も可能。"
           },
           {
-            "speech": "みなみは監視の進展も追う",
+            "speech": "任せる範囲は決めたいね",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "OpenAI首脳が人間の主導権維持を強調、高度なAIの監視方法も課題に"
+        "telop_text": "Mac版Geminiにパソコン操作機能、米国の英語利用者向けに提供開始"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-11-19】【解説】最先端AIの開発減速懸念でも半導体需要は拡大",
-      "summary": "The VergeはNvidiaやAMDの業績と推論需要を分析。開発減速の影響には時間差があり、専用チップとの競争も重要だと解説した。",
+      "title": "【2026-11-20】ChatGPT、話しながら文字起こしするLive Dictationを展開",
+      "summary": "ChatGPTが発話中の文字起こしに対応。全プランのウェブ・デスクトップ・スマホへ世界展開し、音声入力の10分間の録音制限も撤廃する。",
       "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "published_date": "2026-11-19",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "published_date": "2026-11-20",
       "script": {
         "panels": [
           {
-            "speech": "スマホで解説！半導体が好調？",
+            "speech": "スマホに音声入力の新機能！",
             "narration": ""
           },
           {
-            "speech": "開発減速でも需要が伸びる！",
+            "speech": "話すそばから文字になる！",
             "narration": ""
           },
           {
-            "speech": "推論にも計算資源が必要だね",
-            "narration": "The Vergeの解説は、AIを動かす推論需要が半導体市場を支えると分析。開発減速の影響の時間差や専用チップとの競争にも触れている。"
+            "speech": "入力後には編集もできるね",
+            "narration": "ChatGPTのLive Dictationを全プラン・主要端末へ世界展開。発話中の文字起こしに対応し、音声入力の10分制限も撤廃。"
           },
           {
-            "speech": "みなみは需要の中身も見る",
+            "speech": "送信前の確認は忘れずに",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "【解説】AI半導体需要を支える推論利用、専用チップとの競争にも注目"
+        "telop_text": "ChatGPTがLive Dictationを展開、発話中の文字起こしと録音制限撤廃"
       }
     },
     {
       "rank": 5,
-      "title": "【2026-11-19】Snapchat、Claude CodeやCursorからARレンズを作れるCLIを発表",
-      "summary": "SnapchatがEasy Lens CLIを発表。Claude Code、Cursor、Codexなどから自然言語でARレンズを制作し、プレビューや公開まで進められる。",
+      "title": "【2026-11-20】AIで工場調達を支援するEverful、4850万ドルを調達",
+      "summary": "小売業者と中国工場をつなぐEverfulがシリーズAで4850万ドルを調達。AIエージェントによる調達業務の自動化や米欧展開を進める。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "published_date": "2026-11-19",
+      "source_url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "published_date": "2026-11-20",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！レンズ制作？",
+            "speech": "スマホに調達支援の速報！",
             "narration": ""
           },
           {
-            "speech": "いつものＡＩから作れるの！",
+            "speech": "４８５０万ドル調達！？",
             "narration": ""
           },
           {
-            "speech": "言葉で指示して公開まで",
-            "narration": "Easy Lens CLIはClaude CodeやCursorなどと連携。AIがARレンズの制作、プレビュー、テスト、公開を支援する。"
+            "speech": "工場探しもＡＩが支援か",
+            "narration": "EverfulがシリーズA資金を調達。AIエージェントで供給元の特定や注文調整、物流管理を自動化し、米欧展開も進める。"
           },
           {
-            "speech": "みなみの案も形にできる？",
+            "speech": "現物の品質確認も大切だね",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "SnapchatのEasy Lens CLI、使い慣れたAIコーディング支援からAR制作へ"
-      }
-    },
-    {
-      "rank": 6,
-      "title": "【2026-11-19】Disney、AWSのAIで来場者に反応するスター・ウォーズのロボット試作機を公開",
-      "summary": "DisneyはAWS上のAIで来場者に反応するアニマトロニクス試作機を公開。動作とせりふは事前制作済みで、AIが選択する仕組みだ。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-      "published_date": "2026-11-19",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに速報！キャラが反応？",
-            "narration": ""
-          },
-          {
-            "speech": "操り手なしでやり取り！？",
-            "narration": ""
-          },
-          {
-            "speech": "せりふは自由生成じゃないよ",
-            "narration": "Disneyの試作機はカメラとマイクの情報をAWS上のAIで処理。事前制作した動作とせりふを選び、来場者に反応する。"
-          },
-          {
-            "speech": "みなみも台本の工夫に注目",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Disneyの新試作機はAWSのAIで反応、動作とせりふは事前制作したものを選択"
+        "telop_text": "Everfulが4850万ドル調達、AIによる工場調達の自動化と米欧展開へ"
       }
     }
   ]
