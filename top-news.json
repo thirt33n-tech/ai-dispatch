@@ -1,66 +1,50 @@
 {
-  "dispatchNo": "250",
-  "dateLabel": "2026.11.20",
+  "dispatchNo": "251",
+  "dateLabel": "2026.11.21",
   "top1": {
-    "title": "【2026-11-20】AnthropicがNasdaq上場、公開価格を上回る水準で取引開始",
-    "lead1": "AnthropicがNasdaqで取引を開始し、公開価格83ドルを上回る水準で売買された。",
-    "lead2": "上場と既存の資金調達などを経て、現金準備は2200億ドルとなる見通し。AI開発を支える資金基盤が拡大する。",
-    "manga_url": "news/top1_manga_2026-11-20.png",
+    "title": "【2026-11-21】Anthropicの数学者、Claudeとリーマン予想を証明したと主張　独立検証は未了",
+    "lead1": "AnthropicのLevent Alpöge氏が、Claudeとともにリーマン予想の証明を発見したと主張しました。",
+    "lead2": "証明はLeanで提示されていますが、独立検証や正式認定は未了です。解決が確定したわけではありません。",
+    "manga_url": "news/top1_manga_2026-11-21.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-20",
-        "manga_url": "news/top1_manga_2026-11-20_en.png",
-        "manga_sha256": "e5434c3efb08706d05686eea6c40c1e357fd4ead7789932a34dc1c23dd0563c9",
+        "date": "2026-11-21",
+        "manga_url": "news/top1_manga_2026-11-21_en.png",
+        "manga_sha256": "57f753b4bc826ef0fec034e79151bc5dc6109cfd24d0976bc0734cfd7f40cab8",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-20] Anthropic lists on Nasdaq, opens trading above its IPO price",
-            "summary": "Anthropic began trading on Nasdaq. Its IPO price was $83, and shares traded above that level shortly after trading began. Its cash reserves are expected to reach $220 billion following the listing and other transactions.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-            "published_date": "2026-11-20"
+            "title": "[2026-11-21] Anthropic mathematician claims to have proved the Riemann hypothesis with Claude; independent verification remains pending",
+            "summary": "Anthropic's Levent Alpöge claims to have discovered a proof of the Riemann hypothesis with Claude. He presented it in Lean, but it has not undergone independent verification or received formal recognition.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+            "published_date": "2026-11-21"
           },
           {
             "rank": 2,
-            "title": "[2026-11-20] Reports raise concerns over conversation mix-ups and exposure of personal information by Meta's AI agent Muse",
-            "summary": "According to Reuters, Meta employees expressed concerns about Muse mixing up conversations from different accounts and exposing personal information. Meta did not immediately respond to TechCrunch's request for comment.",
+            "title": "[2026-11-21] Analysis: Space data centers face a financing hurdle as chips cannot serve as collateral",
+            "summary": "Chips in space are difficult to repossess in the event of a loan default, posing a financing challenge. The analysis cites reporting that lenders to SpaceX sought restrictions on their use in space, but whether an agreement was reached is unclear.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-            "published_date": "2026-11-20"
+            "source_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+            "published_date": "2026-11-21"
           },
           {
             "rank": 3,
-            "title": "[2026-11-20] Google introduces computer-use capabilities in Gemini for Mac",
-            "summary": "Gemini for Mac now supports tasks spanning local files, apps and the web. The feature is available on paid plans to English-speaking users in the United States, with options to pause actions and approve them.",
+            "title": "[2026-11-21] Daniel Ek backs Europa Fusion, a nuclear fusion company founded by former DeepMind researchers",
+            "summary": "Spotify's founder is backing Europa Fusion, established by AI researchers. According to people familiar with the matter, the company plans to emphasize simulations and data. Commercial electricity generation from nuclear fusion has not yet been achieved.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-            "published_date": "2026-11-20"
-          },
-          {
-            "rank": 4,
-            "title": "[2026-11-20] ChatGPT rolls out Live Dictation to transcribe speech as users speak",
-            "summary": "ChatGPT now supports transcription as users speak. The feature is rolling out globally across all plans on the web, desktop and smartphones, and the 10-minute recording limit for voice input will also be removed.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-            "published_date": "2026-11-20"
-          },
-          {
-            "rank": 5,
-            "title": "[2026-11-20] Everful raises $48.5 million to support factory sourcing with AI",
-            "summary": "Everful, which connects retailers with factories in China, raised $48.5 million in Series A funding. It is advancing the automation of sourcing operations using AI agents and its expansion into the United States and Europe.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-            "published_date": "2026-11-20"
+            "source_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+            "published_date": "2026-11-21"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "e085445083cb053b9f8b23e3f8871e66c1d1c92f47d5fa3a87ff380b3686e191"
+        "source_manga_sha256": "aa3769b9186da0ddf6e26c1bd751cf8a0330afaef0f282fc6dc1efd4c2a4758a"
       }
     },
-    "media_updated_at": "2026-11-20"
+    "media_updated_at": "2026-11-21"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -72,38 +56,35 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-20】MetaのAIエージェントMuse、会話混同と個人情報露出の懸念が報道",
-    "【2026-11-20】Google、Mac版Geminiにパソコン操作機能を導入",
-    "【2026-11-20】ChatGPT、話しながら文字起こしするLive Dictationを展開",
-    "【2026-11-20】AIで工場調達を支援するEverful、4850万ドルを調達"
+    "【2026-11-21】【解説】宇宙データセンター、チップを担保にできない資金調達の壁",
+    "【2026-11-21】ダニエル・エク氏、元DeepMind研究者の核融合企業Europa Fusionを支援"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-20】MetaのAIエージェントMuse、会話混同と個人情報露出の懸念が報道",
-      "summary": "Reutersの報道によると、Meta社員がMuseによる別アカウントの会話混同や個人情報の露出を懸念。TechCrunchの取材にMetaは即時回答しなかった。",
+      "title": "【2026-11-21】【解説】宇宙データセンター、チップを担保にできない資金調達の壁",
+      "summary": "宇宙のチップは融資不履行時に回収しにくく、資金調達が課題に。SpaceXへの融資側が宇宙での使用制限を求めたとの報道を紹介するが、合意は不明。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-11-20】Google、Mac版Geminiにパソコン操作機能を導入",
-      "summary": "Mac版Geminiがローカルファイル、アプリ、ウェブをまたぐ作業に対応。米国の英語利用者向けに有料プランで提供し、操作の一時停止や承認も可能。",
+      "title": "【2026-11-21】ダニエル・エク氏、元DeepMind研究者の核融合企業Europa Fusionを支援",
+      "summary": "Spotify創業者がAI研究者設立のEuropa Fusionを支援。関係者によるとシミュレーションとデータを重視する方針で、核融合の商用発電は未実現。",
       "manga_url": "",
       "video_url": ""
     }
   ],
-  "topList": [
-    {
-      "rank": 4,
-      "title": "【2026-11-20】ChatGPT、話しながら文字起こしするLive Dictationを展開"
-    },
-    {
-      "rank": 5,
-      "title": "【2026-11-20】AIで工場調達を支援するEverful、4850万ドルを調達"
-    }
-  ],
+  "topList": [],
   "archive": [
+    {
+      "no": "250",
+      "kind": "✨ ラミッカ",
+      "date": "11.20",
+      "img": "news/top1_manga_2026-11-20.png",
+      "title": "【2026-11-20】AnthropicがNasdaq上場、公開価格を上回る水準で取引開始",
+      "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+    },
     {
       "no": "249",
       "kind": "✨ ラミッカ",

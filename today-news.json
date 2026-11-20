@@ -1,150 +1,92 @@
 {
-  "date": "2026.11.20",
+  "date": "2026.11.21",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-20】AnthropicがNasdaq上場、公開価格を上回る水準で取引開始",
-      "summary": "AnthropicがNasdaqで取引を開始。公開価格は83ドルで、取引開始直後はこれを上回った。上場などを経た現金準備は2200億ドルとなる見通し。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "published_date": "2026-11-20",
+      "title": "【2026-11-21】Anthropicの数学者、Claudeとリーマン予想を証明したと主張　独立検証は未了",
+      "summary": "AnthropicのLevent Alpöge氏が、Claudeとリーマン予想の証明を発見したと主張。Leanで提示したが、独立検証や正式な認定には至っていない。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "published_date": "2026-11-21",
       "script": {
         "panels": [
           {
-            "speech": "スマホに上場速報！",
+            "speech": "スマホにリーマン予想の速報！？",
             "narration": ""
           },
           {
-            "speech": "公開価格を超えた！",
+            "speech": "えっ、クロードと証明！？",
             "narration": ""
           },
           {
-            "speech": "開発資金にも注目だね",
-            "narration": "AnthropicがNasdaqで取引開始。公開価格83ドルを上回り、上場などを経た現金準備は2200億ドルとなる見通し。"
+            "speech": "まだ検証が必要なんだ",
+            "narration": "Anthropicの数学者がClaudeと証明を発見したと主張。Leanで提示されたが、独立検証や正式認定は未了。"
           },
           {
-            "speech": "みなみは資金の使途に注目",
+            "speech": "みなみは検証の続報を待つ",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "AnthropicがNasdaq上場、公開価格を上回る水準で取引開始"
+        "telop_text": "Claudeとリーマン予想を証明したとの主張、独立検証・正式認定はまだ"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-20】MetaのAIエージェントMuse、会話混同と個人情報露出の懸念が報道",
-      "summary": "Reutersの報道によると、Meta社員がMuseによる別アカウントの会話混同や個人情報の露出を懸念。TechCrunchの取材にMetaは即時回答しなかった。",
+      "title": "【2026-11-21】【解説】宇宙データセンター、チップを担保にできない資金調達の壁",
+      "summary": "宇宙のチップは融資不履行時に回収しにくく、資金調達が課題に。SpaceXへの融資側が宇宙での使用制限を求めたとの報道を紹介するが、合意は不明。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "published_date": "2026-11-20",
+      "source_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "published_date": "2026-11-21",
       "script": {
         "panels": [
           {
-            "speech": "スマホにミューズの報道！",
+            "speech": "スマホに宇宙チップの難題！？",
             "narration": ""
           },
           {
-            "speech": "他人の情報が出たの！？",
+            "speech": "担保を回収できない！？",
             "narration": ""
           },
           {
-            "speech": "社員が懸念を投稿したんだ",
-            "narration": "Reutersの報道によると、Meta社員がMuseの会話混同や個人情報露出を懸念。MetaはTechCrunchに即時回答せず。"
+            "speech": "融資にも宇宙の壁がある",
+            "narration": "解説記事は、軌道上のチップを担保として回収する難しさを指摘。SpaceXへの融資側が宇宙利用の制限を求めたとの報道も紹介。合意の有無は不明。"
           },
           {
-            "speech": "便利さより情報の境界だね",
+            "speech": "宇宙でも資金は地に足を",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "MetaのMuseに会話混同・個人情報露出の懸念、Reuters報道をTechCrunchが紹介"
+        "telop_text": "宇宙データセンターの課題は技術だけでなく、チップ担保と資金調達にも"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-11-20】Google、Mac版Geminiにパソコン操作機能を導入",
-      "summary": "Mac版Geminiがローカルファイル、アプリ、ウェブをまたぐ作業に対応。米国の英語利用者向けに有料プランで提供し、操作の一時停止や承認も可能。",
+      "title": "【2026-11-21】ダニエル・エク氏、元DeepMind研究者の核融合企業Europa Fusionを支援",
+      "summary": "Spotify創業者がAI研究者設立のEuropa Fusionを支援。関係者によるとシミュレーションとデータを重視する方針で、核融合の商用発電は未実現。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "published_date": "2026-11-20",
+      "source_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "published_date": "2026-11-21",
       "script": {
         "panels": [
           {
-            "speech": "スマホにジェミニの速報！",
+            "speech": "スマホに核融合支援の速報！？",
             "narration": ""
           },
           {
-            "speech": "マックの操作まで！？",
+            "speech": "エク氏が元ＡＩ研究者を支援！",
             "narration": ""
           },
           {
-            "speech": "作業中の様子も見えるんだ",
-            "narration": "Mac版Geminiがファイルやアプリ、ウェブをまたぐ作業に対応。米国・英語・対象有料プランで提供し、停止や承認も可能。"
+            "speech": "データ重視で挑むんだ",
+            "narration": "元DeepMind研究者が設立したEuropa Fusionをエク氏が支援。関係者はシミュレーションとデータを重視する方針と説明。核融合の商用発電は未実現。"
           },
           {
-            "speech": "任せる範囲は決めたいね",
-            "narration": "次回に続く"
+            "speech": "電力の未来、実証に注目",
+            "narration": "次回おたのしみに"
           }
         ],
-        "telop_text": "Mac版Geminiにパソコン操作機能、米国の英語利用者向けに提供開始"
-      }
-    },
-    {
-      "rank": 4,
-      "title": "【2026-11-20】ChatGPT、話しながら文字起こしするLive Dictationを展開",
-      "summary": "ChatGPTが発話中の文字起こしに対応。全プランのウェブ・デスクトップ・スマホへ世界展開し、音声入力の10分間の録音制限も撤廃する。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "published_date": "2026-11-20",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに音声入力の新機能！",
-            "narration": ""
-          },
-          {
-            "speech": "話すそばから文字になる！",
-            "narration": ""
-          },
-          {
-            "speech": "入力後には編集もできるね",
-            "narration": "ChatGPTのLive Dictationを全プラン・主要端末へ世界展開。発話中の文字起こしに対応し、音声入力の10分制限も撤廃。"
-          },
-          {
-            "speech": "送信前の確認は忘れずに",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "ChatGPTがLive Dictationを展開、発話中の文字起こしと録音制限撤廃"
-      }
-    },
-    {
-      "rank": 5,
-      "title": "【2026-11-20】AIで工場調達を支援するEverful、4850万ドルを調達",
-      "summary": "小売業者と中国工場をつなぐEverfulがシリーズAで4850万ドルを調達。AIエージェントによる調達業務の自動化や米欧展開を進める。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "published_date": "2026-11-20",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに調達支援の速報！",
-            "narration": ""
-          },
-          {
-            "speech": "４８５０万ドル調達！？",
-            "narration": ""
-          },
-          {
-            "speech": "工場探しもＡＩが支援か",
-            "narration": "EverfulがシリーズA資金を調達。AIエージェントで供給元の特定や注文調整、物流管理を自動化し、米欧展開も進める。"
-          },
-          {
-            "speech": "現物の品質確認も大切だね",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Everfulが4850万ドル調達、AIによる工場調達の自動化と米欧展開へ"
+        "telop_text": "エク氏がEuropa Fusionを支援、元AI研究者がデータ重視の核融合開発へ"
       }
     }
   ]
