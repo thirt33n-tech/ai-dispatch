@@ -1,92 +1,63 @@
 {
-  "date": "2026.11.21",
+  "date": "2026.11.22",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-21】Anthropicの数学者、Claudeとリーマン予想を証明したと主張　独立検証は未了",
-      "summary": "AnthropicのLevent Alpöge氏が、Claudeとリーマン予想の証明を発見したと主張。Leanで提示したが、独立検証や正式な認定には至っていない。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "published_date": "2026-11-21",
+      "title": "【2026-11-22】Shortical、俳優の顔を許諾利用した全編AIドラマ　報酬と同意が論点に",
+      "summary": "TechCrunchがShorticalのAIドラマを取材。俳優アキ・アヴニの顔を契約で利用した一方、一般向けの顔ライセンス募集は契約実績がなく、報酬や雇用への影響も課題だ。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "published_date": "2026-11-22",
       "script": {
         "panels": [
           {
-            "speech": "スマホにリーマン予想の速報！？",
+            "speech": "スマホに速報！顔がＡＩ俳優に？",
             "narration": ""
           },
           {
-            "speech": "えっ、クロードと証明！？",
+            "speech": "えっ！本人が演じないドラマ！？",
             "narration": ""
           },
           {
-            "speech": "まだ検証が必要なんだ",
-            "narration": "Anthropicの数学者がClaudeと証明を発見したと主張。Leanで提示されたが、独立検証や正式認定は未了。"
+            "speech": "顔の利用には契約があるんだね",
+            "narration": "Shorticalはアキ・アヴニとの直接契約で、その顔を使った全編AIドラマを制作。一般向けの顔ライセンス募集では、まだ契約が成立していないという。"
           },
           {
-            "speech": "みなみは検証の続報を待つ",
+            "speech": "みなみは同意と報酬が気になる",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Claudeとリーマン予想を証明したとの主張、独立検証・正式認定はまだ"
+        "telop_text": "Shorticalの顔ライセンス活用を取材　AIドラマの可能性と、同意・報酬・雇用の課題"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-21】【解説】宇宙データセンター、チップを担保にできない資金調達の壁",
-      "summary": "宇宙のチップは融資不履行時に回収しにくく、資金調達が課題に。SpaceXへの融資側が宇宙での使用制限を求めたとの報道を紹介するが、合意は不明。",
+      "title": "【2026-11-22】【解説】メッセージで頼めるAIエージェントをTechCrunchが整理",
+      "summary": "TechCrunchが、SMSやメッセージアプリで使えるAIエージェントを紹介。予定管理や予約などの用途、料金、提供状況を整理し、自律的な操作に伴うプライバシー・安全面にも触れた。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "published_date": "2026-11-21",
+      "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published_date": "2026-11-22",
       "script": {
         "panels": [
           {
-            "speech": "スマホに宇宙チップの難題！？",
+            "speech": "スマホに速報！メッセージでＡＩ？",
             "narration": ""
           },
           {
-            "speech": "担保を回収できない！？",
+            "speech": "予約まで頼めるの！？",
             "narration": ""
           },
           {
-            "speech": "融資にも宇宙の壁がある",
-            "narration": "解説記事は、軌道上のチップを担保として回収する難しさを指摘。SpaceXへの融資側が宇宙利用の制限を求めたとの報道も紹介。合意の有無は不明。"
+            "speech": "使える機能はサービス次第だね",
+            "narration": "TechCrunchの解説記事は、メッセージ経由で予定管理や予約などを頼めるAIエージェントを整理。料金や対応機能、ベータ提供の有無はサービスごとに異なる。"
           },
           {
-            "speech": "宇宙でも資金は地に足を",
+            "speech": "みなみは任せる権限から確認！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "宇宙データセンターの課題は技術だけでなく、チップ担保と資金調達にも"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "【2026-11-21】ダニエル・エク氏、元DeepMind研究者の核融合企業Europa Fusionを支援",
-      "summary": "Spotify創業者がAI研究者設立のEuropa Fusionを支援。関係者によるとシミュレーションとデータを重視する方針で、核融合の商用発電は未実現。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "published_date": "2026-11-21",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに核融合支援の速報！？",
-            "narration": ""
-          },
-          {
-            "speech": "エク氏が元ＡＩ研究者を支援！",
-            "narration": ""
-          },
-          {
-            "speech": "データ重視で挑むんだ",
-            "narration": "元DeepMind研究者が設立したEuropa Fusionをエク氏が支援。関係者はシミュレーションとデータを重視する方針と説明。核融合の商用発電は未実現。"
-          },
-          {
-            "speech": "電力の未来、実証に注目",
-            "narration": "次回おたのしみに"
-          }
-        ],
-        "telop_text": "エク氏がEuropa Fusionを支援、元AI研究者がデータ重視の核融合開発へ"
+        "telop_text": "メッセージで使えるAIエージェントを比較解説　機能・提供状況・権限の確認が重要"
       }
     }
   ]

@@ -1,50 +1,42 @@
 {
-  "dispatchNo": "251",
-  "dateLabel": "2026.11.21",
+  "dispatchNo": "252",
+  "dateLabel": "2026.11.22",
   "top1": {
-    "title": "【2026-11-21】Anthropicの数学者、Claudeとリーマン予想を証明したと主張　独立検証は未了",
-    "lead1": "AnthropicのLevent Alpöge氏が、Claudeとともにリーマン予想の証明を発見したと主張しました。",
-    "lead2": "証明はLeanで提示されていますが、独立検証や正式認定は未了です。解決が確定したわけではありません。",
-    "manga_url": "news/top1_manga_2026-11-21.png",
+    "title": "【2026-11-22】Shortical、俳優の顔を許諾利用した全編AIドラマ　報酬と同意が論点に",
+    "lead1": "TechCrunchは、Shorticalが俳優アキ・アヴニとの直接契約で、その顔を使った全編AIドラマを制作したと報じた。",
+    "lead2": "一般向けの顔ライセンス募集は契約実績がまだないという。制作の可能性とともに、同意や報酬、俳優の仕事への影響が問われている。",
+    "manga_url": "news/top1_manga_2026-11-22.png",
     "video_url": "",
-    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-21",
-        "manga_url": "news/top1_manga_2026-11-21_en.png",
-        "manga_sha256": "57f753b4bc826ef0fec034e79151bc5dc6109cfd24d0976bc0734cfd7f40cab8",
+        "date": "2026-11-22",
+        "manga_url": "news/top1_manga_2026-11-22_en.png",
+        "manga_sha256": "f83124598a836b2e9a57d84a7de407427351ae9c6dce26ad77de4b75e652b3a0",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-21] Anthropic mathematician claims to have proved the Riemann hypothesis with Claude; independent verification remains pending",
-            "summary": "Anthropic's Levent Alpöge claims to have discovered a proof of the Riemann hypothesis with Claude. He presented it in Lean, but it has not undergone independent verification or received formal recognition.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-            "published_date": "2026-11-21"
+            "title": "[2026-11-22] Shortical's fully AI-generated drama uses an actor's face with permission; compensation and consent emerge as issues",
+            "summary": "TechCrunch reported on Shortical's AI drama. While the company used actor Aki Avni's face under contract, its public call for face licensing has yet to result in any contracts. Compensation and the impact on employment also remain concerns.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+            "published_date": "2026-11-22"
           },
           {
             "rank": 2,
-            "title": "[2026-11-21] Analysis: Space data centers face a financing hurdle as chips cannot serve as collateral",
-            "summary": "Chips in space are difficult to repossess in the event of a loan default, posing a financing challenge. The analysis cites reporting that lenders to SpaceX sought restrictions on their use in space, but whether an agreement was reached is unclear.",
+            "title": "[2026-11-22] [Explainer] TechCrunch surveys AI agents you can ask for help via messaging",
+            "summary": "TechCrunch introduced AI agents available via SMS and messaging apps. It outlined uses such as schedule management and reservations, pricing and availability, and also addressed privacy and safety concerns associated with autonomous actions.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-            "published_date": "2026-11-21"
-          },
-          {
-            "rank": 3,
-            "title": "[2026-11-21] Daniel Ek backs Europa Fusion, a nuclear fusion company founded by former DeepMind researchers",
-            "summary": "Spotify's founder is backing Europa Fusion, established by AI researchers. According to people familiar with the matter, the company plans to emphasize simulations and data. Commercial electricity generation from nuclear fusion has not yet been achieved.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-            "published_date": "2026-11-21"
+            "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+            "published_date": "2026-11-22"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "aa3769b9186da0ddf6e26c1bd751cf8a0330afaef0f282fc6dc1efd4c2a4758a"
+        "source_manga_sha256": "c903f8b54957fc375684859620d974e0f08e9c280f179dce2df47c89946c8c60"
       }
     },
-    "media_updated_at": "2026-11-21"
+    "media_updated_at": "2026-11-22"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -56,27 +48,27 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-21】【解説】宇宙データセンター、チップを担保にできない資金調達の壁",
-    "【2026-11-21】ダニエル・エク氏、元DeepMind研究者の核融合企業Europa Fusionを支援"
+    "【2026-11-22】【解説】メッセージで頼めるAIエージェントをTechCrunchが整理"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-21】【解説】宇宙データセンター、チップを担保にできない資金調達の壁",
-      "summary": "宇宙のチップは融資不履行時に回収しにくく、資金調達が課題に。SpaceXへの融資側が宇宙での使用制限を求めたとの報道を紹介するが、合意は不明。",
-      "manga_url": "",
-      "video_url": ""
-    },
-    {
-      "rank": 3,
-      "title": "【2026-11-21】ダニエル・エク氏、元DeepMind研究者の核融合企業Europa Fusionを支援",
-      "summary": "Spotify創業者がAI研究者設立のEuropa Fusionを支援。関係者によるとシミュレーションとデータを重視する方針で、核融合の商用発電は未実現。",
+      "title": "【2026-11-22】【解説】メッセージで頼めるAIエージェントをTechCrunchが整理",
+      "summary": "TechCrunchが、SMSやメッセージアプリで使えるAIエージェントを紹介。予定管理や予約などの用途、料金、提供状況を整理し、自律的な操作に伴うプライバシー・安全面にも触れた。",
       "manga_url": "",
       "video_url": ""
     }
   ],
   "topList": [],
   "archive": [
+    {
+      "no": "251",
+      "kind": "✨ ラミッカ",
+      "date": "11.21",
+      "img": "news/top1_manga_2026-11-21.png",
+      "title": "【2026-11-21】Anthropicの数学者、Claudeとリーマン予想を証明したと主張　独立検証は未了",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
     {
       "no": "250",
       "kind": "✨ ラミッカ",
