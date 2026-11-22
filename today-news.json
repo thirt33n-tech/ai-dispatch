@@ -1,63 +1,34 @@
 {
-  "date": "2026.11.22",
+  "date": "2026.11.23",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-22】Shortical、俳優の顔を許諾利用した全編AIドラマ　報酬と同意が論点に",
-      "summary": "TechCrunchがShorticalのAIドラマを取材。俳優アキ・アヴニの顔を契約で利用した一方、一般向けの顔ライセンス募集は契約実績がなく、報酬や雇用への影響も課題だ。",
+      "title": "【2026-11-23】【インタビュー・解説】AIデータセンターが巨大テックへの反発の焦点になる理由",
+      "summary": "TechCrunchが著書『Hyperscale』の著者に取材。生成AI向けデータセンターの電力・水・騒音負担と、地域住民の反発を論じた。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "published_date": "2026-11-22",
+      "source_url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "published_date": "2026-11-23",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！顔がＡＩ俳優に？",
+            "speech": "スマホに記事！ＡＩ施設に反発？",
             "narration": ""
           },
           {
-            "speech": "えっ！本人が演じないドラマ！？",
+            "speech": "えっ！電気も水も暮らし直結！",
             "narration": ""
           },
           {
-            "speech": "顔の利用には契約があるんだね",
-            "narration": "Shorticalはアキ・アヴニとの直接契約で、その顔を使った全編AIドラマを制作。一般向けの顔ライセンス募集では、まだ契約が成立していないという。"
+            "speech": "施設の規模が争点なんだね",
+            "narration": "著者パリス・マルクスは取材に対し、生成AI向け巨大データセンターの電力・水需要や騒音が、地域の反発につながると論じた。"
           },
           {
-            "speech": "みなみは同意と報酬が気になる",
+            "speech": "みなみは便利さと負担を見たい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Shorticalの顔ライセンス活用を取材　AIドラマの可能性と、同意・報酬・雇用の課題"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "【2026-11-22】【解説】メッセージで頼めるAIエージェントをTechCrunchが整理",
-      "summary": "TechCrunchが、SMSやメッセージアプリで使えるAIエージェントを紹介。予定管理や予約などの用途、料金、提供状況を整理し、自律的な操作に伴うプライバシー・安全面にも触れた。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "published_date": "2026-11-22",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに速報！メッセージでＡＩ？",
-            "narration": ""
-          },
-          {
-            "speech": "予約まで頼めるの！？",
-            "narration": ""
-          },
-          {
-            "speech": "使える機能はサービス次第だね",
-            "narration": "TechCrunchの解説記事は、メッセージ経由で予定管理や予約などを頼めるAIエージェントを整理。料金や対応機能、ベータ提供の有無はサービスごとに異なる。"
-          },
-          {
-            "speech": "みなみは任せる権限から確認！",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "メッセージで使えるAIエージェントを比較解説　機能・提供状況・権限の確認が重要"
+        "telop_text": "TechCrunchの著者インタビュー：生成AIの巨大データセンター、地域の負担と反発を考える"
       }
     }
   ]
