@@ -1,34 +1,74 @@
 {
-  "dispatchNo": "253",
-  "dateLabel": "2026.11.23",
+  "dispatchNo": "254",
+  "dateLabel": "2026.11.24",
   "top1": {
-    "title": "【2026-11-23】【インタビュー・解説】AIデータセンターが巨大テックへの反発の焦点になる理由",
-    "lead1": "TechCrunchが『Hyperscale』の著者パリス・マルクスに、AIインフラと地域社会の摩擦を聞いた。",
-    "lead2": "著者は電力・水需要や騒音などの生活への影響を指摘。新製品発表ではなく、施設の巨大化と社会的負担を論じる記事だ。",
-    "manga_url": "news/top1_manga_2026-11-23.png",
+    "title": "【2026-11-24】Amazon、DecartのAI最適化技術と開発チームを取得へ",
+    "lead1": "AmazonがDecartのAI最適化技術と創業・開発チームの取得で合意。Bloombergは対価を75億ドルと報じた。",
+    "lead2": "複数社の半導体でAIを効率よく動かす技術を取り込み、Trainiumの利用拡大と競争力強化につなげる可能性がある。",
+    "manga_url": "news/top1_manga_2026-11-24.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-23",
-        "manga_url": "news/top1_manga_2026-11-23_en.png",
-        "manga_sha256": "daf471ed8671680776d1ae3a548119319007d132b9bc134f79698435e9e051af",
+        "date": "2026-11-24",
+        "manga_url": "news/top1_manga_2026-11-24_en.png",
+        "manga_sha256": "73ea0254c951859ac16ee402bf075269fa84114b766b788776904611af3dd06d",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-23] [Interview and Analysis] Why AI Data Centers Are Becoming a Focal Point of the Backlash Against Big Tech",
-            "summary": "TechCrunch interviewed the author of “Hyperscale,” discussing the burdens that data centers for generative AI impose through electricity and water use and noise, as well as opposition from local residents.",
+            "title": "[2026-11-24] Amazon agrees to acquire Decart's AI optimization technology and development team",
+            "summary": "Amazon has agreed to acquire Decart's AI optimization technology and its founding and development team. According to Bloomberg, the price is $7.5 billion. The deal could strengthen Trainium's competitiveness.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-            "published_date": "2026-11-23"
+            "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+            "published_date": "2026-11-24"
+          },
+          {
+            "rank": 2,
+            "title": "[2026-11-24] Anthropic announces Claude Ship to help with code fixes and conditional approvals",
+            "summary": "Anthropic is making Claude Ship available to Team and Enterprise customers. The new agent, released in beta, handles CI failures, conflicts and other issues on GitHub and approves routine changes permitted by an organization's policies.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+            "published_date": "2026-11-24"
+          },
+          {
+            "rank": 3,
+            "title": "[2026-11-24] Google Search's AI Mode expands integration with Drive, Wallet and the Gemini app",
+            "summary": "Google is enhancing personalized answers in AI Mode using information from Drive and Wallet and context from the Gemini app. The integrations are optional, and funds cannot be transferred through Wallet.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+            "published_date": "2026-11-24"
+          },
+          {
+            "rank": 4,
+            "title": "[2026-11-24] Oregon and Virginia sue SpaceX over Grok's sexual deepfakes",
+            "summary": "The attorneys general of the two U.S. states filed suit, alleging that safety measures and disclosures concerning X and Grok violate state consumer protection laws. They are seeking damages, while X said it is strengthening safeguards.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+            "published_date": "2026-11-24"
+          },
+          {
+            "rank": 5,
+            "title": "[2026-11-24] CrowdStrike to acquire Zscaler for $43.9 billion, also aiming to improve the safety of AI use",
+            "summary": "The companies have agreed to an all-stock acquisition. They will combine endpoint protection with zero-trust infrastructure to help businesses adopt AI securely. Completion requires regulatory approval.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+            "published_date": "2026-11-24"
+          },
+          {
+            "rank": 6,
+            "title": "[2026-11-24] Nvidia CEO Huang to testify before U.S. Senate Banking Committee on December 3",
+            "summary": "According to a notice from the U.S. Senate Banking Committee, Huang is scheduled to testify on December 3. Congressional scrutiny continues over export controls on AI chips and allegations of their diversion to China.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+            "published_date": "2026-11-24"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "3a3492e0e78cdc0a7c67f67f677a09d24cde0f303fa31cca004f52fc05651bc9"
+        "source_manga_sha256": "4648869da1b2886530fe7b235c5025ed5b8d5a0326e023c8897cfa6ebb0cc42c"
       }
     },
-    "media_updated_at": "2026-11-23"
+    "media_updated_at": "2026-11-24"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -39,10 +79,52 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [],
-  "topCards": [],
-  "topList": [],
+  "breaking": [
+    "【2026-11-24】AnthropicがClaude Shipを発表、コード修正と条件付き承認を支援",
+    "【2026-11-24】Google検索のAI Mode、Drive・Wallet・Geminiアプリとの連携を拡大",
+    "【2026-11-24】米オレゴン・バージニア両州、Grokの性的ディープフェイク問題でSpaceXを提訴",
+    "【2026-11-24】CrowdStrike、Zscalerを439億ドルで買収へ　AI活用の安全性強化も狙う",
+    "【2026-11-24】NvidiaのフアンCEO、12月3日に米上院銀行委員会で証言へ"
+  ],
+  "topCards": [
+    {
+      "rank": 2,
+      "title": "【2026-11-24】AnthropicがClaude Shipを発表、コード修正と条件付き承認を支援",
+      "summary": "Claude ShipをTeam・Enterprise向けに提供。GitHub上でCI失敗や競合などに対応し、組織の方針が許す定型変更を承認する新エージェントをベータ公開。",
+      "manga_url": "",
+      "video_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "【2026-11-24】Google検索のAI Mode、Drive・Wallet・Geminiアプリとの連携を拡大",
+      "summary": "GoogleがAI Modeの個人向け回答を強化。DriveやWalletの情報、Geminiアプリの文脈を活用する。連携は任意で、Wallet経由の資金移動はできない。",
+      "manga_url": "",
+      "video_url": ""
+    }
+  ],
+  "topList": [
+    {
+      "rank": 4,
+      "title": "【2026-11-24】米オレゴン・バージニア両州、Grokの性的ディープフェイク問題でSpaceXを提訴"
+    },
+    {
+      "rank": 5,
+      "title": "【2026-11-24】CrowdStrike、Zscalerを439億ドルで買収へ　AI活用の安全性強化も狙う"
+    },
+    {
+      "rank": 6,
+      "title": "【2026-11-24】NvidiaのフアンCEO、12月3日に米上院銀行委員会で証言へ"
+    }
+  ],
   "archive": [
+    {
+      "no": "253",
+      "kind": "✨ ラミッカ",
+      "date": "11.23",
+      "img": "news/top1_manga_2026-11-23.png",
+      "title": "【2026-11-23】【インタビュー・解説】AIデータセンターが巨大テックへの反発の焦点になる理由",
+      "source_url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    },
     {
       "no": "252",
       "kind": "✨ ラミッカ",

@@ -1,34 +1,179 @@
 {
-  "date": "2026.11.23",
+  "date": "2026.11.24",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-23】【インタビュー・解説】AIデータセンターが巨大テックへの反発の焦点になる理由",
-      "summary": "TechCrunchが著書『Hyperscale』の著者に取材。生成AI向けデータセンターの電力・水・騒音負担と、地域住民の反発を論じた。",
+      "title": "【2026-11-24】Amazon、DecartのAI最適化技術と開発チームを取得へ",
+      "summary": "AmazonがDecartのAI最適化技術と創業・開発チームの取得で合意。Bloombergによると対価は75億ドル。Trainiumの競争力強化につながる可能性がある。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "published_date": "2026-11-23",
+      "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "published_date": "2026-11-24",
       "script": {
         "panels": [
           {
-            "speech": "スマホに記事！ＡＩ施設に反発？",
+            "speech": "スマホに速報！技術取得？",
             "narration": ""
           },
           {
-            "speech": "えっ！電気も水も暮らし直結！",
+            "speech": "ＡＩ半導体競争が動く！",
             "narration": ""
           },
           {
-            "speech": "施設の規模が争点なんだね",
-            "narration": "著者パリス・マルクスは取材に対し、生成AI向け巨大データセンターの電力・水需要や騒音が、地域の反発につながると論じた。"
+            "speech": "計算効率が勝負なんだね",
+            "narration": "AmazonはDecartの最適化技術と創業・開発チームを取得する。対価はBloomberg報道で75億ドル。Trainiumへの移行を容易にする可能性がある。"
           },
           {
-            "speech": "みなみは便利さと負担を見たい",
+            "speech": "みなみは使いやすさに注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "TechCrunchの著者インタビュー：生成AIの巨大データセンター、地域の負担と反発を考える"
+        "telop_text": "AmazonがDecartのAI最適化技術を取得へ。Trainiumの競争力強化に注目"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "【2026-11-24】AnthropicがClaude Shipを発表、コード修正と条件付き承認を支援",
+      "summary": "Claude ShipをTeam・Enterprise向けに提供。GitHub上でCI失敗や競合などに対応し、組織の方針が許す定型変更を承認する新エージェントをベータ公開。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "published_date": "2026-11-24",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！コード承認？",
+            "narration": ""
+          },
+          {
+            "speech": "修正まで任せられるの！？",
+            "narration": ""
+          },
+          {
+            "speech": "承認は組織の方針次第",
+            "narration": "Claude ShipはGitHubに対応。新エージェントがCI失敗やマージ競合、レビュー指摘に対応し、許可された定型変更の承認も支援する。"
+          },
+          {
+            "speech": "みなみは承認ルールを確認",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Claude Ship登場。修正支援と組織方針に基づく承認を新エージェントが担う"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "【2026-11-24】Google検索のAI Mode、Drive・Wallet・Geminiアプリとの連携を拡大",
+      "summary": "GoogleがAI Modeの個人向け回答を強化。DriveやWalletの情報、Geminiアプリの文脈を活用する。連携は任意で、Wallet経由の資金移動はできない。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "published_date": "2026-11-24",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！検索が連携？",
+            "narration": ""
+          },
+          {
+            "speech": "財布の情報まで使うの！？",
+            "narration": ""
+          },
+          {
+            "speech": "連携するかは選べるよ",
+            "narration": "AI ModeのPersonal IntelligenceがDrive、Wallet、Geminiアプリへ拡大。連携は任意で、Walletの情報を読めても資金移動や管理はできない。"
+          },
+          {
+            "speech": "みなみは共有範囲を確認",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Google検索の個人向けAI連携が拡大。利便性と共有範囲の確認がポイント"
+      }
+    },
+    {
+      "rank": 4,
+      "title": "【2026-11-24】米オレゴン・バージニア両州、Grokの性的ディープフェイク問題でSpaceXを提訴",
+      "summary": "両州の司法長官が、XとGrokの安全対策や説明が州の消費者保護法に違反するとして提訴。損害賠償を求める一方、X側は保護策を強化していると説明した。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "published_date": "2026-11-24",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！州が提訴？",
+            "narration": ""
+          },
+          {
+            "speech": "同意なしの画像は深刻！",
+            "narration": ""
+          },
+          {
+            "speech": "安全対策の説明も争点",
+            "narration": "オレゴン州とバージニア州はGrokの性的ディープフェイクを巡りSpaceXを提訴。安全対策と消費者への説明を問題視し、X側は保護策の強化を主張する。"
+          },
+          {
+            "speech": "みなみは被害防止を重視",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Grokの性的ディープフェイクを巡り米２州が提訴。安全対策と説明が争点"
+      }
+    },
+    {
+      "rank": 5,
+      "title": "【2026-11-24】CrowdStrike、Zscalerを439億ドルで買収へ　AI活用の安全性強化も狙う",
+      "summary": "両社が全株式交換による買収で合意。端末保護とゼロトラスト基盤を組み合わせ、企業の安全なAI導入を支援する。完了には規制当局の承認が必要。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "published_date": "2026-11-24",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！大型買収？",
+            "narration": ""
+          },
+          {
+            "speech": "防御の仕組みが一つに！？",
+            "narration": ""
+          },
+          {
+            "speech": "ＡＩ導入の安全も狙う",
+            "narration": "CrowdStrikeがZscalerを439億ドルの全株式交換で買収することで合意。端末保護とゼロトラストを統合する計画で、規制当局の承認が条件となる。"
+          },
+          {
+            "speech": "みなみは統合の実効性に注目",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "CrowdStrikeがZscaler買収で合意。端末とアクセスの防御を統合へ"
+      }
+    },
+    {
+      "rank": 6,
+      "title": "【2026-11-24】NvidiaのフアンCEO、12月3日に米上院銀行委員会で証言へ",
+      "summary": "米上院銀行委員会の告知によると、フアン氏が12月3日に証言する予定。AI半導体の輸出管理や中国への流出疑惑を巡り、議会の監視が続く。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "published_date": "2026-11-24",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに速報！上院で証言？",
+            "narration": ""
+          },
+          {
+            "speech": "ＡＩ半導体に議会の目！",
+            "narration": ""
+          },
+          {
+            "speech": "輸出管理の説明に注目",
+            "narration": "NvidiaのフアンCEOは12月3日に米上院銀行委員会で証言する予定。同委員会はAI半導体などの輸出管理を所管し、中国への流出疑惑が焦点となる。"
+          },
+          {
+            "speech": "みなみは証言内容を見守る",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "NvidiaのフアンCEOが米上院で証言へ。AI半導体の輸出管理が焦点"
       }
     }
   ]
