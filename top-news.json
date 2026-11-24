@@ -1,74 +1,90 @@
 {
-  "dispatchNo": "254",
-  "dateLabel": "2026.11.24",
+  "dispatchNo": "255",
+  "dateLabel": "2026.11.25",
   "top1": {
-    "title": "【2026-11-24】Amazon、DecartのAI最適化技術と開発チームを取得へ",
-    "lead1": "AmazonがDecartのAI最適化技術と創業・開発チームの取得で合意。Bloombergは対価を75億ドルと報じた。",
-    "lead2": "複数社の半導体でAIを効率よく動かす技術を取り込み、Trainiumの利用拡大と競争力強化につなげる可能性がある。",
-    "manga_url": "news/top1_manga_2026-11-24.png",
+    "title": "【2026-11-25】Anthropic株が公開価格割れ、AI企業の評価に警戒感",
+    "lead1": "Anthropic株が公開価格83ドルを下回り、一時76ドルまで下落した。",
+    "lead2": "株価低迷が続けば、未上場AI企業の評価や他社のIPO計画にも圧力が及ぶ可能性がある。",
+    "manga_url": "news/top1_manga_2026-11-25.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-24",
-        "manga_url": "news/top1_manga_2026-11-24_en.png",
-        "manga_sha256": "73ea0254c951859ac16ee402bf075269fa84114b766b788776904611af3dd06d",
+        "date": "2026-11-25",
+        "manga_url": "news/top1_manga_2026-11-25_en.png",
+        "manga_sha256": "f7ea4f818487cafb08c70aad9570bea31355a3b5ec73c809fe6ac058c16fe8e2",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-24] Amazon agrees to acquire Decart's AI optimization technology and development team",
-            "summary": "Amazon has agreed to acquire Decart's AI optimization technology and its founding and development team. According to Bloomberg, the price is $7.5 billion. The deal could strengthen Trainium's competitiveness.",
+            "title": "[2026-11-25] Anthropic shares fall below IPO price, raising concerns over AI company valuations",
+            "summary": "Anthropic shares fell below their $83 IPO price, briefly dropping to $76. If the slump persists, it could affect valuations and IPO plans for privately held AI companies.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-            "published_date": "2026-11-24"
+            "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+            "published_date": "2026-11-25"
           },
           {
             "rank": 2,
-            "title": "[2026-11-24] Anthropic announces Claude Ship to help with code fixes and conditional approvals",
-            "summary": "Anthropic is making Claude Ship available to Team and Enterprise customers. The new agent, released in beta, handles CI failures, conflicts and other issues on GitHub and approves routine changes permitted by an organization's policies.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-            "published_date": "2026-11-24"
+            "title": "[2026-11-25] UK's NCSC warns of rising AI-driven cyberattacks",
+            "summary": "The UK's NCSC reported an increase in intrusions using autonomous tools. It pointed to the rapid exploitation of long-neglected weaknesses, such as weak passwords, rather than new types of vulnerabilities, as the problem.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+            "published_date": "2026-11-25"
           },
           {
             "rank": 3,
-            "title": "[2026-11-24] Google Search's AI Mode expands integration with Drive, Wallet and the Gemini app",
-            "summary": "Google is enhancing personalized answers in AI Mode using information from Drive and Wallet and context from the Gemini app. The integrations are optional, and funds cannot be transferred through Wallet.",
+            "title": "[2026-11-25] Meta's Muse AI integrated into Instagram DMs, with Japan included in rollout",
+            "summary": "Users can now ask Muse to explain posts, plan trips and more through Instagram DMs. The rollout has begun in five countries, including Japan, while a feature for organizing saved posts will be offered in the US and Canada.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-            "published_date": "2026-11-24"
+            "source_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+            "published_date": "2026-11-25"
           },
           {
             "rank": 4,
-            "title": "[2026-11-24] Oregon and Virginia sue SpaceX over Grok's sexual deepfakes",
-            "summary": "The attorneys general of the two U.S. states filed suit, alleging that safety measures and disclosures concerning X and Grok violate state consumer protection laws. They are seeking damages, while X said it is strengthening safeguards.",
-            "source": "The Verge",
-            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-            "published_date": "2026-11-24"
+            "title": "[2026-11-25] Tidal to ban fully AI-generated songs, with large-scale removals starting in December",
+            "summary": "Tidal will ban fully AI-generated songs and begin removing them on December 9. It plans to remove more than 29 million tracks by the end of the year, while continuing to allow music made with AI assistance.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+            "published_date": "2026-11-25"
           },
           {
             "rank": 5,
-            "title": "[2026-11-24] CrowdStrike to acquire Zscaler for $43.9 billion, also aiming to improve the safety of AI use",
-            "summary": "The companies have agreed to an all-stock acquisition. They will combine endpoint protection with zero-trust infrastructure to help businesses adopt AI securely. Completion requires regulatory approval.",
+            "title": "[2026-11-25] Analysis: Amazon's Decart acquisition aims to strengthen Trainium through software",
+            "summary": "TechCrunch examined Amazon's acquisition of Decart's technology and team. It analyzed the aim of incorporating optimization technology into Trainium to narrow the performance gap with Nvidia.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-            "published_date": "2026-11-24"
+            "source_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+            "published_date": "2026-11-25"
           },
           {
             "rank": 6,
-            "title": "[2026-11-24] Nvidia CEO Huang to testify before U.S. Senate Banking Committee on December 3",
-            "summary": "According to a notice from the U.S. Senate Banking Committee, Huang is scheduled to testify on December 3. Congressional scrutiny continues over export controls on AI chips and allegations of their diversion to China.",
+            "title": "[2026-11-25] NYT asks contributing photographers to avoid latest Photoshop over AI feature concerns",
+            "summary": "The NYT asked contributing photographers not to use Photoshop 2027 for assignments. There are concerns that metadata indicating AI generation could be attached unintentionally; details of the features involved are unclear.",
+            "source": "The Verge",
+            "source_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+            "published_date": "2026-11-25"
+          },
+          {
+            "rank": 7,
+            "title": "[2026-11-25] Pinterest lets parents limit children's exposure to AI-generated content",
+            "summary": "Pinterest expanded its parental controls. Parents can now adjust the amount of AI-generated content shown to their children, as well as video autoplay, notifications and other settings.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-            "published_date": "2026-11-24"
+            "source_url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+            "published_date": "2026-11-25"
+          },
+          {
+            "rank": 8,
+            "title": "[2026-11-25] Analysis: Investors eye solar and long-duration storage to power AI data centers",
+            "summary": "A representative of G2VP, an investor in Crusoe, advocated securing power through solar energy and long-duration energy storage. While highlighting advantages in deployment speed and scale, the representative said widespread adoption would take time.",
+            "source": "TechCrunch",
+            "source_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+            "published_date": "2026-11-25"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "4648869da1b2886530fe7b235c5025ed5b8d5a0326e023c8897cfa6ebb0cc42c"
+        "source_manga_sha256": "7ee45b3a2c06d4a300e7c614bf59f4bb87615bc825b10c7d8a1ad56b2f01e9b4"
       }
     },
-    "media_updated_at": "2026-11-24"
+    "media_updated_at": "2026-11-25"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -80,24 +96,26 @@
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
   "breaking": [
-    "【2026-11-24】AnthropicがClaude Shipを発表、コード修正と条件付き承認を支援",
-    "【2026-11-24】Google検索のAI Mode、Drive・Wallet・Geminiアプリとの連携を拡大",
-    "【2026-11-24】米オレゴン・バージニア両州、Grokの性的ディープフェイク問題でSpaceXを提訴",
-    "【2026-11-24】CrowdStrike、Zscalerを439億ドルで買収へ　AI活用の安全性強化も狙う",
-    "【2026-11-24】NvidiaのフアンCEO、12月3日に米上院銀行委員会で証言へ"
+    "【2026-11-25】英国NCSC、AIによるサイバー攻撃増加を警告",
+    "【2026-11-25】MetaのAI「Muse」がInstagramのDMに統合、日本も展開対象",
+    "【2026-11-25】Tidal、完全AI生成楽曲を禁止へ、12月から大規模削除",
+    "【2026-11-25】【解説】AmazonのDecart買収、ソフトでTrainium強化を狙う",
+    "【2026-11-25】NYT、AI機能への懸念から寄稿写真家にPhotoshop最新版の使用回避を要請",
+    "【2026-11-25】Pinterest、保護者が子どものAI生成コンテンツ表示を制限可能に",
+    "【2026-11-25】【解説】AIデータセンターの電力確保、投資家が太陽光と長時間蓄電に注目"
   ],
   "topCards": [
     {
       "rank": 2,
-      "title": "【2026-11-24】AnthropicがClaude Shipを発表、コード修正と条件付き承認を支援",
-      "summary": "Claude ShipをTeam・Enterprise向けに提供。GitHub上でCI失敗や競合などに対応し、組織の方針が許す定型変更を承認する新エージェントをベータ公開。",
+      "title": "【2026-11-25】英国NCSC、AIによるサイバー攻撃増加を警告",
+      "summary": "英国NCSCは自律型ツールを使った侵入増加を報告。新種の脆弱性より、弱いパスワードなど長年放置された弱点の高速悪用が問題だと指摘した。",
       "manga_url": "",
       "video_url": ""
     },
     {
       "rank": 3,
-      "title": "【2026-11-24】Google検索のAI Mode、Drive・Wallet・Geminiアプリとの連携を拡大",
-      "summary": "GoogleがAI Modeの個人向け回答を強化。DriveやWalletの情報、Geminiアプリの文脈を活用する。連携は任意で、Wallet経由の資金移動はできない。",
+      "title": "【2026-11-25】MetaのAI「Muse」がInstagramのDMに統合、日本も展開対象",
+      "summary": "InstagramのDMからMuseに投稿の説明や旅行計画などを依頼可能に。日本など5カ国で展開を開始し、保存投稿の整理機能は米加で提供する。",
       "manga_url": "",
       "video_url": ""
     }
@@ -105,18 +123,34 @@
   "topList": [
     {
       "rank": 4,
-      "title": "【2026-11-24】米オレゴン・バージニア両州、Grokの性的ディープフェイク問題でSpaceXを提訴"
+      "title": "【2026-11-25】Tidal、完全AI生成楽曲を禁止へ、12月から大規模削除"
     },
     {
       "rank": 5,
-      "title": "【2026-11-24】CrowdStrike、Zscalerを439億ドルで買収へ　AI活用の安全性強化も狙う"
+      "title": "【2026-11-25】【解説】AmazonのDecart買収、ソフトでTrainium強化を狙う"
     },
     {
       "rank": 6,
-      "title": "【2026-11-24】NvidiaのフアンCEO、12月3日に米上院銀行委員会で証言へ"
+      "title": "【2026-11-25】NYT、AI機能への懸念から寄稿写真家にPhotoshop最新版の使用回避を要請"
+    },
+    {
+      "rank": 7,
+      "title": "【2026-11-25】Pinterest、保護者が子どものAI生成コンテンツ表示を制限可能に"
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-25】【解説】AIデータセンターの電力確保、投資家が太陽光と長時間蓄電に注目"
     }
   ],
   "archive": [
+    {
+      "no": "254",
+      "kind": "✨ ラミッカ",
+      "date": "11.24",
+      "img": "news/top1_manga_2026-11-24.png",
+      "title": "【2026-11-24】Amazon、DecartのAI最適化技術と開発チームを取得へ",
+      "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
     {
       "no": "253",
       "kind": "✨ ラミッカ",

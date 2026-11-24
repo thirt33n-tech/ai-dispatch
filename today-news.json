@@ -1,179 +1,237 @@
 {
-  "date": "2026.11.24",
+  "date": "2026.11.25",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-24】Amazon、DecartのAI最適化技術と開発チームを取得へ",
-      "summary": "AmazonがDecartのAI最適化技術と創業・開発チームの取得で合意。Bloombergによると対価は75億ドル。Trainiumの競争力強化につながる可能性がある。",
+      "title": "【2026-11-25】Anthropic株が公開価格割れ、AI企業の評価に警戒感",
+      "summary": "Anthropic株が公開価格83ドルを下回り、一時76ドルに下落。低迷が続けば、未上場AI企業の評価やIPO計画に影響する可能性がある。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "published_date": "2026-11-24",
+      "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "published_date": "2026-11-25",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！技術取得？",
+            "speech": "スマホに株安速報！？",
             "narration": ""
           },
           {
-            "speech": "ＡＩ半導体競争が動く！",
+            "speech": "公開価格を割ったの！？",
             "narration": ""
           },
           {
-            "speech": "計算効率が勝負なんだね",
-            "narration": "AmazonはDecartの最適化技術と創業・開発チームを取得する。対価はBloomberg報道で75億ドル。Trainiumへの移行を容易にする可能性がある。"
+            "speech": "他のＡＩ企業にも影響？",
+            "narration": "Anthropic株は公開価格83ドルを下回り、一時76ドルに。低迷が続けば未上場AI企業の評価やIPOにも圧力となり得る。"
           },
           {
-            "speech": "みなみは使いやすさに注目",
+            "speech": "みなみは今後も注視する",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "AmazonがDecartのAI最適化技術を取得へ。Trainiumの競争力強化に注目"
+        "telop_text": "Anthropic株が公開価格割れ、AI企業の評価とIPOへの波及を警戒"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-24】AnthropicがClaude Shipを発表、コード修正と条件付き承認を支援",
-      "summary": "Claude ShipをTeam・Enterprise向けに提供。GitHub上でCI失敗や競合などに対応し、組織の方針が許す定型変更を承認する新エージェントをベータ公開。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "published_date": "2026-11-24",
+      "title": "【2026-11-25】英国NCSC、AIによるサイバー攻撃増加を警告",
+      "summary": "英国NCSCは自律型ツールを使った侵入増加を報告。新種の脆弱性より、弱いパスワードなど長年放置された弱点の高速悪用が問題だと指摘した。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "published_date": "2026-11-25",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！コード承認？",
+            "speech": "スマホにＡＩ攻撃の警告！",
             "narration": ""
           },
           {
-            "speech": "修正まで任せられるの！？",
+            "speech": "昔の弱点が狙われる！？",
             "narration": ""
           },
           {
-            "speech": "承認は組織の方針次第",
-            "narration": "Claude ShipはGitHubに対応。新エージェントがCI失敗やマージ競合、レビュー指摘に対応し、許可された定型変更の承認も支援する。"
+            "speech": "速さが変わったんだね",
+            "narration": "英国NCSCは自律型ツールによる侵入増加を報告。弱いパスワードや公開システムなど既存の弱点が素早く悪用されている。"
           },
           {
-            "speech": "みなみは承認ルールを確認",
+            "speech": "みなみも基本対策を確認",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Claude Ship登場。修正支援と組織方針に基づく承認を新エージェントが担う"
+        "telop_text": "英国NCSCがAI攻撃増加を警告、既存の弱点を防ぐ基本対策が重要"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-11-24】Google検索のAI Mode、Drive・Wallet・Geminiアプリとの連携を拡大",
-      "summary": "GoogleがAI Modeの個人向け回答を強化。DriveやWalletの情報、Geminiアプリの文脈を活用する。連携は任意で、Wallet経由の資金移動はできない。",
+      "title": "【2026-11-25】MetaのAI「Muse」がInstagramのDMに統合、日本も展開対象",
+      "summary": "InstagramのDMからMuseに投稿の説明や旅行計画などを依頼可能に。日本など5カ国で展開を開始し、保存投稿の整理機能は米加で提供する。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "published_date": "2026-11-24",
+      "source_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "published_date": "2026-11-25",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！検索が連携？",
+            "speech": "スマホ速報、ＤＭにＡＩ？",
             "narration": ""
           },
           {
-            "speech": "財布の情報まで使うの！？",
+            "speech": "日本も対象なの！？",
             "narration": ""
           },
           {
-            "speech": "連携するかは選べるよ",
-            "narration": "AI ModeのPersonal IntelligenceがDrive、Wallet、Geminiアプリへ拡大。連携は任意で、Walletの情報を読めても資金移動や管理はできない。"
+            "speech": "投稿から旅行の相談も",
+            "narration": "MetaはMuseをInstagramのDMに統合。日本など5カ国で展開し、投稿についての質問や旅行計画などを依頼できる。"
           },
           {
-            "speech": "みなみは共有範囲を確認",
+            "speech": "みなみは送信前に確認！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Google検索の個人向けAI連携が拡大。利便性と共有範囲の確認がポイント"
+        "telop_text": "MuseがInstagramのDMに登場、日本も対象で投稿からAIに相談可能"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-11-24】米オレゴン・バージニア両州、Grokの性的ディープフェイク問題でSpaceXを提訴",
-      "summary": "両州の司法長官が、XとGrokの安全対策や説明が州の消費者保護法に違反するとして提訴。損害賠償を求める一方、X側は保護策を強化していると説明した。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-      "published_date": "2026-11-24",
+      "title": "【2026-11-25】Tidal、完全AI生成楽曲を禁止へ、12月から大規模削除",
+      "summary": "Tidalは完全AI生成楽曲を禁止し、12月9日から削除を開始する。年末までに2900万曲超を削除する方針で、AI補助による制作曲は引き続き認める。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "published_date": "2026-11-25",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！州が提訴？",
+            "speech": "スマホに音楽配信の速報！",
             "narration": ""
           },
           {
-            "speech": "同意なしの画像は深刻！",
+            "speech": "ＡＩ曲を大量削除！？",
             "narration": ""
           },
           {
-            "speech": "安全対策の説明も争点",
-            "narration": "オレゴン州とバージニア州はGrokの性的ディープフェイクを巡りSpaceXを提訴。安全対策と消費者への説明を問題視し、X側は保護策の強化を主張する。"
+            "speech": "補助利用は認めるんだ",
+            "narration": "Tidalは完全AI生成楽曲を禁止し、12月9日から削除へ。年末までに2900万曲超の削除を予定するが、AI補助の制作曲は受け入れる。"
           },
           {
-            "speech": "みなみは被害防止を重視",
+            "speech": "みなみは線引きに注目",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Grokの性的ディープフェイクを巡り米２州が提訴。安全対策と説明が争点"
+        "telop_text": "Tidalが完全AI生成楽曲を禁止へ、AI補助の制作曲は引き続き容認"
       }
     },
     {
       "rank": 5,
-      "title": "【2026-11-24】CrowdStrike、Zscalerを439億ドルで買収へ　AI活用の安全性強化も狙う",
-      "summary": "両社が全株式交換による買収で合意。端末保護とゼロトラスト基盤を組み合わせ、企業の安全なAI導入を支援する。完了には規制当局の承認が必要。",
+      "title": "【2026-11-25】【解説】AmazonのDecart買収、ソフトでTrainium強化を狙う",
+      "summary": "TechCrunchはAmazonによるDecartの技術・チーム取得を解説。最適化技術をTrainiumに取り込み、Nvidiaとの性能差を縮める狙いを分析した。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-      "published_date": "2026-11-24",
+      "source_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "published_date": "2026-11-25",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！大型買収？",
+            "speech": "スマホで買収の解説発見！",
             "narration": ""
           },
           {
-            "speech": "防御の仕組みが一つに！？",
+            "speech": "ソフトでチップを強化！？",
             "narration": ""
           },
           {
-            "speech": "ＡＩ導入の安全も狙う",
-            "narration": "CrowdStrikeがZscalerを439億ドルの全株式交換で買収することで合意。端末保護とゼロトラストを統合する計画で、規制当局の承認が条件となる。"
+            "speech": "最適化技術が鍵なんだ",
+            "narration": "買収の狙いを扱う解説記事。AmazonはDecartの最適化技術を取り込み、独自AIチップTrainiumの性能向上を目指す。"
           },
           {
-            "speech": "みなみは統合の実効性に注目",
+            "speech": "みなみは実力差を見たい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "CrowdStrikeがZscaler買収で合意。端末とアクセスの防御を統合へ"
+        "telop_text": "解説：AmazonのDecart買収は最適化ソフトによるTrainium強化が焦点"
       }
     },
     {
       "rank": 6,
-      "title": "【2026-11-24】NvidiaのフアンCEO、12月3日に米上院銀行委員会で証言へ",
-      "summary": "米上院銀行委員会の告知によると、フアン氏が12月3日に証言する予定。AI半導体の輸出管理や中国への流出疑惑を巡り、議会の監視が続く。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "published_date": "2026-11-24",
+      "title": "【2026-11-25】NYT、AI機能への懸念から寄稿写真家にPhotoshop最新版の使用回避を要請",
+      "summary": "NYTは担当業務でPhotoshop 2027を使わないよう寄稿写真家に要請。意図せずAI生成を示すメタデータが付く懸念があり、対象機能の詳細は不明だ。",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "published_date": "2026-11-25",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！上院で証言？",
+            "speech": "スマホに写真編集の速報！",
             "narration": ""
           },
           {
-            "speech": "ＡＩ半導体に議会の目！",
+            "speech": "最新版を使わないで！？",
             "narration": ""
           },
           {
-            "speech": "輸出管理の説明に注目",
-            "narration": "NvidiaのフアンCEOは12月3日に米上院銀行委員会で証言する予定。同委員会はAI半導体などの輸出管理を所管し、中国への流出疑惑が焦点となる。"
+            "speech": "写真の信頼に関わるんだ",
+            "narration": "NYTは寄稿写真家にPhotoshop 2027の使用回避を要請。AI生成を示すメタデータの意図しない付与を懸念しており、具体的な対象機能は不明。"
           },
           {
-            "speech": "みなみは証言内容を見守る",
+            "speech": "みなみは編集履歴も確認",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "NvidiaのフアンCEOが米上院で証言へ。AI半導体の輸出管理が焦点"
+        "telop_text": "NYTがPhotoshop最新版の使用回避を要請、AI関連メタデータを懸念"
+      }
+    },
+    {
+      "rank": 7,
+      "title": "【2026-11-25】Pinterest、保護者が子どものAI生成コンテンツ表示を制限可能に",
+      "summary": "Pinterestが保護者向け管理機能を拡充。子どもに表示されるAI生成コンテンツの量に加え、動画の自動再生や通知なども調整できるようにした。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "published_date": "2026-11-25",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホ速報、保護者に新機能！",
+            "narration": ""
+          },
+          {
+            "speech": "ＡＩ投稿の量を調整！？",
+            "narration": ""
+          },
+          {
+            "speech": "表示内容を選べるんだ",
+            "narration": "Pinterestは保護者向け設定を拡充。子どもが見るAI生成コンテンツの量を調整でき、動画の自動再生や通知も管理できる。"
+          },
+          {
+            "speech": "みなみは設定の効果に注目",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "Pinterestが保護者向け管理を拡充、子どものAI生成コンテンツ表示を調整"
+      }
+    },
+    {
+      "rank": 8,
+      "title": "【2026-11-25】【解説】AIデータセンターの電力確保、投資家が太陽光と長時間蓄電に注目",
+      "summary": "Crusoeに投資するG2VPの担当者が、太陽光と長時間蓄電による電力確保を提唱。導入速度や規模の利点を説く一方、広範な採用には時間が必要とした。",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "published_date": "2026-11-25",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホでＡＩ電力の解説！",
+            "narration": ""
+          },
+          {
+            "speech": "送電網に頼らない案！？",
+            "narration": ""
+          },
+          {
+            "speech": "太陽光と蓄電を組むんだ",
+            "narration": "G2VPの投資家は太陽光と長時間蓄電の組み合わせを提唱。製造規模や建設速度の利点を挙げる一方、広範な採用にはなお時間がかかるとみる。"
+          },
+          {
+            "speech": "みなみは実用化を見守る",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "解説：AIデータセンター電力に太陽光と長時間蓄電を提唱、普及には時間も"
       }
     }
   ]
