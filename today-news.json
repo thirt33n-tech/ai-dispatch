@@ -1,237 +1,121 @@
 {
-  "date": "2026.11.25",
+  "date": "2026.11.26",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-25】Anthropic株が公開価格割れ、AI企業の評価に警戒感",
-      "summary": "Anthropic株が公開価格83ドルを下回り、一時76ドルに下落。低迷が続けば、未上場AI企業の評価やIPO計画に影響する可能性がある。",
+      "title": "【2026-11-26】Character.AIの非公開チャット売却計画に42州の司法長官らが異議",
+      "summary": "破産手続き中のCharacter.AIによる個人データ売却に司法長官らが反対。対象には米国の2100万超のアカウントの会話履歴が含まれるという。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "published_date": "2026-11-25",
+      "source_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "published_date": "2026-11-26",
       "script": {
         "panels": [
           {
-            "speech": "スマホに株安速報！？",
+            "speech": "スマホに速報！会話が競売に？",
             "narration": ""
           },
           {
-            "speech": "公開価格を割ったの！？",
+            "speech": "秘密のチャットまで売るの！？",
             "narration": ""
           },
           {
-            "speech": "他のＡＩ企業にも影響？",
-            "narration": "Anthropic株は公開価格83ドルを下回り、一時76ドルに。低迷が続けば未上場AI企業の評価やIPOにも圧力となり得る。"
+            "speech": "司法長官らが待った！",
+            "narration": "Character.AIの破産手続きで、42州の司法長官らが利用者データの売却に異議。未成年者の会話履歴も含まれると指摘している。"
           },
           {
-            "speech": "みなみは今後も注視する",
+            "speech": "会社が消えても秘密は守って",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Anthropic株が公開価格割れ、AI企業の評価とIPOへの波及を警戒"
+        "telop_text": "Character.AIの会話履歴売却計画に司法長官らが異議、破産時の個人情報保護が争点"
       }
     },
     {
       "rank": 2,
-      "title": "【2026-11-25】英国NCSC、AIによるサイバー攻撃増加を警告",
-      "summary": "英国NCSCは自律型ツールを使った侵入増加を報告。新種の脆弱性より、弱いパスワードなど長年放置された弱点の高速悪用が問題だと指摘した。",
+      "title": "【2026-11-26】ニューヨーク州、AIチャットボット搭載玩具を5年間禁止する法律が成立",
+      "summary": "ホークル知事がAIチャットボット搭載玩具の製造・流通・販売を5年間禁止する法案に署名。発効は署名から90日後で、子どもの安全やプライバシーが焦点。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "published_date": "2026-11-25",
+      "source_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "published_date": "2026-11-26",
       "script": {
         "panels": [
           {
-            "speech": "スマホにＡＩ攻撃の警告！",
+            "speech": "スマホに速報！ＡＩ玩具禁止？",
             "narration": ""
           },
           {
-            "speech": "昔の弱点が狙われる！？",
+            "speech": "ぬいぐるみも対象なの！？",
             "narration": ""
           },
           {
-            "speech": "速さが変わったんだね",
-            "narration": "英国NCSCは自律型ツールによる侵入増加を報告。弱いパスワードや公開システムなど既存の弱点が素早く悪用されている。"
+            "speech": "子どもの安全が争点だね",
+            "narration": "ニューヨーク州でAIチャットボット搭載玩具の製造・流通・販売を5年間禁じる法律が成立。署名から90日後に発効する。"
           },
           {
-            "speech": "みなみも基本対策を確認",
+            "speech": "贈り物は安全性も選ぼう",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "英国NCSCがAI攻撃増加を警告、既存の弱点を防ぐ基本対策が重要"
+        "telop_text": "ニューヨーク州がAIチャットボット搭載玩具を規制、禁止措置は署名から90日後に発効"
       }
     },
     {
       "rank": 3,
-      "title": "【2026-11-25】MetaのAI「Muse」がInstagramのDMに統合、日本も展開対象",
-      "summary": "InstagramのDMからMuseに投稿の説明や旅行計画などを依頼可能に。日本など5カ国で展開を開始し、保存投稿の整理機能は米加で提供する。",
+      "title": "【2026-11-26】AnthropicのアモデイCEO、AIへの統治権移譲を支持するとの批判に反論",
+      "summary": "アモデイCEOはAIに人間の統治を委ねる考えを否定し、民主的監督を重視すると説明。個別作業の自動化とは区別し、再帰的自己改善への制限にも言及した。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "published_date": "2026-11-25",
+      "source_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "published_date": "2026-11-26",
       "script": {
         "panels": [
           {
-            "speech": "スマホ速報、ＤＭにＡＩ？",
+            "speech": "スマホに声明！ＡＩが統治？",
             "narration": ""
           },
           {
-            "speech": "日本も対象なの！？",
+            "speech": "人間の決定権は渡せない！",
             "narration": ""
           },
           {
-            "speech": "投稿から旅行の相談も",
-            "narration": "MetaはMuseをInstagramのDMに統合。日本など5カ国で展開し、投稿についての質問や旅行計画などを依頼できる。"
+            "speech": "自動化と統治は別の話",
+            "narration": "AnthropicのアモデイCEOはAIへの統治権移譲を否定。民主的監督と人間の最終決定権を重視し、再帰的自己改善への制限にも言及した。"
           },
           {
-            "speech": "みなみは送信前に確認！",
+            "speech": "監督を仕組みにできるかな",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "MuseがInstagramのDMに登場、日本も対象で投稿からAIに相談可能"
+        "telop_text": "アモデイCEOがAI統治支持との批判に反論、人間の決定権と民主的監督を強調"
       }
     },
     {
       "rank": 4,
-      "title": "【2026-11-25】Tidal、完全AI生成楽曲を禁止へ、12月から大規模削除",
-      "summary": "Tidalは完全AI生成楽曲を禁止し、12月9日から削除を開始する。年末までに2900万曲超を削除する方針で、AI補助による制作曲は引き続き認める。",
+      "title": "【2026-11-26】【解説】NVIDIAのフアンCEOによる行動規範違反、社員の信頼への影響が焦点",
+      "summary": "復帰後の全社会議で行動規範違反を認めたフアンCEOについて、専門家が企業文化への影響を解説。経営者への例外扱いが社員の誇りを損なうリスクを指摘した。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "published_date": "2026-11-25",
+      "source_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "published_date": "2026-11-26",
       "script": {
         "panels": [
           {
-            "speech": "スマホに音楽配信の速報！",
+            "speech": "スマホで見た！規範違反？",
             "narration": ""
           },
           {
-            "speech": "ＡＩ曲を大量削除！？",
+            "speech": "トップも例外じゃないよね！",
             "narration": ""
           },
           {
-            "speech": "補助利用は認めるんだ",
-            "narration": "Tidalは完全AI生成楽曲を禁止し、12月9日から削除へ。年末までに2900万曲超の削除を予定するが、AI補助の制作曲は受け入れる。"
+            "speech": "社員の信頼が問われるね",
+            "narration": "解説記事は、行動規範違反を認めたNVIDIAのフアンCEOへの対応を検討。専門家は、例外扱いが企業文化や社員の誇りを損なうリスクを指摘した。"
           },
           {
-            "speech": "みなみは線引きに注目",
+            "speech": "信頼の再起動は難しいね",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Tidalが完全AI生成楽曲を禁止へ、AI補助の制作曲は引き続き容認"
-      }
-    },
-    {
-      "rank": 5,
-      "title": "【2026-11-25】【解説】AmazonのDecart買収、ソフトでTrainium強化を狙う",
-      "summary": "TechCrunchはAmazonによるDecartの技術・チーム取得を解説。最適化技術をTrainiumに取り込み、Nvidiaとの性能差を縮める狙いを分析した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "published_date": "2026-11-25",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホで買収の解説発見！",
-            "narration": ""
-          },
-          {
-            "speech": "ソフトでチップを強化！？",
-            "narration": ""
-          },
-          {
-            "speech": "最適化技術が鍵なんだ",
-            "narration": "買収の狙いを扱う解説記事。AmazonはDecartの最適化技術を取り込み、独自AIチップTrainiumの性能向上を目指す。"
-          },
-          {
-            "speech": "みなみは実力差を見たい",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "解説：AmazonのDecart買収は最適化ソフトによるTrainium強化が焦点"
-      }
-    },
-    {
-      "rank": 6,
-      "title": "【2026-11-25】NYT、AI機能への懸念から寄稿写真家にPhotoshop最新版の使用回避を要請",
-      "summary": "NYTは担当業務でPhotoshop 2027を使わないよう寄稿写真家に要請。意図せずAI生成を示すメタデータが付く懸念があり、対象機能の詳細は不明だ。",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "published_date": "2026-11-25",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに写真編集の速報！",
-            "narration": ""
-          },
-          {
-            "speech": "最新版を使わないで！？",
-            "narration": ""
-          },
-          {
-            "speech": "写真の信頼に関わるんだ",
-            "narration": "NYTは寄稿写真家にPhotoshop 2027の使用回避を要請。AI生成を示すメタデータの意図しない付与を懸念しており、具体的な対象機能は不明。"
-          },
-          {
-            "speech": "みなみは編集履歴も確認",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "NYTがPhotoshop最新版の使用回避を要請、AI関連メタデータを懸念"
-      }
-    },
-    {
-      "rank": 7,
-      "title": "【2026-11-25】Pinterest、保護者が子どものAI生成コンテンツ表示を制限可能に",
-      "summary": "Pinterestが保護者向け管理機能を拡充。子どもに表示されるAI生成コンテンツの量に加え、動画の自動再生や通知なども調整できるようにした。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-      "published_date": "2026-11-25",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホ速報、保護者に新機能！",
-            "narration": ""
-          },
-          {
-            "speech": "ＡＩ投稿の量を調整！？",
-            "narration": ""
-          },
-          {
-            "speech": "表示内容を選べるんだ",
-            "narration": "Pinterestは保護者向け設定を拡充。子どもが見るAI生成コンテンツの量を調整でき、動画の自動再生や通知も管理できる。"
-          },
-          {
-            "speech": "みなみは設定の効果に注目",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "Pinterestが保護者向け管理を拡充、子どものAI生成コンテンツ表示を調整"
-      }
-    },
-    {
-      "rank": 8,
-      "title": "【2026-11-25】【解説】AIデータセンターの電力確保、投資家が太陽光と長時間蓄電に注目",
-      "summary": "Crusoeに投資するG2VPの担当者が、太陽光と長時間蓄電による電力確保を提唱。導入速度や規模の利点を説く一方、広範な採用には時間が必要とした。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "published_date": "2026-11-25",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホでＡＩ電力の解説！",
-            "narration": ""
-          },
-          {
-            "speech": "送電網に頼らない案！？",
-            "narration": ""
-          },
-          {
-            "speech": "太陽光と蓄電を組むんだ",
-            "narration": "G2VPの投資家は太陽光と長時間蓄電の組み合わせを提唱。製造規模や建設速度の利点を挙げる一方、広範な採用にはなお時間がかかるとみる。"
-          },
-          {
-            "speech": "みなみは実用化を見守る",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "解説：AIデータセンター電力に太陽光と長時間蓄電を提唱、普及には時間も"
+        "telop_text": "解説：NVIDIAトップの行動規範違反への対応、企業文化と社員の信頼が焦点"
       }
     }
   ]
