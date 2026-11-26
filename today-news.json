@@ -1,121 +1,34 @@
 {
-  "date": "2026.11.26",
+  "date": "2026.11.27",
   "fetched_via": "publisher_direct",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-26】Character.AIの非公開チャット売却計画に42州の司法長官らが異議",
-      "summary": "破産手続き中のCharacter.AIによる個人データ売却に司法長官らが反対。対象には米国の2100万超のアカウントの会話履歴が含まれるという。",
+      "title": "【2026-11-27】【解説】生成AI時代に問う創作の効率化、GTA VIが示す時間をかける価値",
+      "summary": "TechCrunchは、生成AIを使わず制作されたGTA VIを題材に、試行錯誤や作り直しが生む創作の価値と、AIによる効率化との緊張関係を論じた。",
       "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "published_date": "2026-11-26",
+      "source_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "published_date": "2026-11-27",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！会話が競売に？",
+            "speech": "スマホに速報！ＡＩなしの大作？",
             "narration": ""
           },
           {
-            "speech": "秘密のチャットまで売るの！？",
+            "speech": "ええっ！効率だけが正義じゃない！",
             "narration": ""
           },
           {
-            "speech": "司法長官らが待った！",
-            "narration": "Character.AIの破産手続きで、42州の司法長官らが利用者データの売却に異議。未成年者の会話履歴も含まれると指摘している。"
+            "speech": "作り直す時間にも価値がある",
+            "narration": "TechCrunchの解説は、生成AIを使わず制作されたGTA VIを題材に、試行錯誤や細部への作り込みの価値を論じている。"
           },
           {
-            "speech": "会社が消えても秘密は守って",
+            "speech": "みなみも速さより中身を見たい",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "Character.AIの会話履歴売却計画に司法長官らが異議、破産時の個人情報保護が争点"
-      }
-    },
-    {
-      "rank": 2,
-      "title": "【2026-11-26】ニューヨーク州、AIチャットボット搭載玩具を5年間禁止する法律が成立",
-      "summary": "ホークル知事がAIチャットボット搭載玩具の製造・流通・販売を5年間禁止する法案に署名。発効は署名から90日後で、子どもの安全やプライバシーが焦点。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "published_date": "2026-11-26",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに速報！ＡＩ玩具禁止？",
-            "narration": ""
-          },
-          {
-            "speech": "ぬいぐるみも対象なの！？",
-            "narration": ""
-          },
-          {
-            "speech": "子どもの安全が争点だね",
-            "narration": "ニューヨーク州でAIチャットボット搭載玩具の製造・流通・販売を5年間禁じる法律が成立。署名から90日後に発効する。"
-          },
-          {
-            "speech": "贈り物は安全性も選ぼう",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "ニューヨーク州がAIチャットボット搭載玩具を規制、禁止措置は署名から90日後に発効"
-      }
-    },
-    {
-      "rank": 3,
-      "title": "【2026-11-26】AnthropicのアモデイCEO、AIへの統治権移譲を支持するとの批判に反論",
-      "summary": "アモデイCEOはAIに人間の統治を委ねる考えを否定し、民主的監督を重視すると説明。個別作業の自動化とは区別し、再帰的自己改善への制限にも言及した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "published_date": "2026-11-26",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホに声明！ＡＩが統治？",
-            "narration": ""
-          },
-          {
-            "speech": "人間の決定権は渡せない！",
-            "narration": ""
-          },
-          {
-            "speech": "自動化と統治は別の話",
-            "narration": "AnthropicのアモデイCEOはAIへの統治権移譲を否定。民主的監督と人間の最終決定権を重視し、再帰的自己改善への制限にも言及した。"
-          },
-          {
-            "speech": "監督を仕組みにできるかな",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "アモデイCEOがAI統治支持との批判に反論、人間の決定権と民主的監督を強調"
-      }
-    },
-    {
-      "rank": 4,
-      "title": "【2026-11-26】【解説】NVIDIAのフアンCEOによる行動規範違反、社員の信頼への影響が焦点",
-      "summary": "復帰後の全社会議で行動規範違反を認めたフアンCEOについて、専門家が企業文化への影響を解説。経営者への例外扱いが社員の誇りを損なうリスクを指摘した。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "published_date": "2026-11-26",
-      "script": {
-        "panels": [
-          {
-            "speech": "スマホで見た！規範違反？",
-            "narration": ""
-          },
-          {
-            "speech": "トップも例外じゃないよね！",
-            "narration": ""
-          },
-          {
-            "speech": "社員の信頼が問われるね",
-            "narration": "解説記事は、行動規範違反を認めたNVIDIAのフアンCEOへの対応を検討。専門家は、例外扱いが企業文化や社員の誇りを損なうリスクを指摘した。"
-          },
-          {
-            "speech": "信頼の再起動は難しいね",
-            "narration": "次回に続く"
-          }
-        ],
-        "telop_text": "解説：NVIDIAトップの行動規範違反への対応、企業文化と社員の信頼が焦点"
+        "telop_text": "【解説】GTA VIを通じて考える、生成AI時代の効率化と創作に時間をかける価値"
       }
     }
   ]

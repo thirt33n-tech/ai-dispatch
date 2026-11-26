@@ -1,58 +1,34 @@
 {
-  "dispatchNo": "256",
-  "dateLabel": "2026.11.26",
+  "dispatchNo": "257",
+  "dateLabel": "2026.11.27",
   "top1": {
-    "title": "【2026-11-26】Character.AIの非公開チャット売却計画に42州の司法長官らが異議",
-    "lead1": "Character.AIの破産手続きで、利用者の非公開チャットを含む個人データの売却計画に司法長官らが異議を唱えた。",
-    "lead2": "対象には未成年者の会話履歴も含まれるという。会社の破産後もプライバシー保護の約束が守られるかが争点となる。",
-    "manga_url": "news/top1_manga_2026-11-26.png",
+    "title": "【2026-11-27】【解説】生成AI時代に問う創作の効率化、GTA VIが示す時間をかける価値",
+    "lead1": "TechCrunchが、生成AIを使わず制作されたGTA VIを題材に、創作と効率化の関係を論じた。",
+    "lead2": "試行錯誤や作り直しは単なる無駄なのか。AIによる効率化が進むなか、時間をかけて作る価値を問い直す解説だ。",
+    "manga_url": "news/top1_manga_2026-11-27.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "source_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-26",
-        "manga_url": "news/top1_manga_2026-11-26_en.png",
-        "manga_sha256": "145dbc0ef424c4184efab98d5b8c4e7649f5d4661e1a463282b2086646c4ae57",
+        "date": "2026-11-27",
+        "manga_url": "news/top1_manga_2026-11-27_en.png",
+        "manga_sha256": "e1aef067112dc2f97b792bc430dcce9a87a6cdc4a18159a664f1bb7ee18c49f9",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-26] Attorneys general from 42 states object to Character.AI's plan to sell private chats",
-            "summary": "Attorneys general oppose the sale of personal data by Character.AI, which is undergoing bankruptcy proceedings. The data reportedly includes conversation histories from more than 21 million U.S. accounts.",
+            "title": "[2026-11-27] [Analysis] Rethinking Creative Efficiency in the Generative AI Era: GTA VI Shows the Value of Taking Time",
+            "summary": "TechCrunch discussed the tension between the creative value of trial and error and reworking, and AI-driven efficiency, using GTA VI, which was developed without generative AI, as its example.",
             "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-            "published_date": "2026-11-26"
-          },
-          {
-            "rank": 2,
-            "title": "[2026-11-26] New York enacts five-year ban on toys equipped with AI chatbots",
-            "summary": "Governor Hochul signed a bill banning the manufacture, distribution and sale of toys equipped with AI chatbots for five years. The law takes effect 90 days after signing, with children's safety and privacy central concerns.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-            "published_date": "2026-11-26"
-          },
-          {
-            "rank": 3,
-            "title": "[2026-11-26] Anthropic CEO Amodei rebuts criticism that he supports transferring governing authority to AI",
-            "summary": "CEO Amodei rejected the idea of entrusting human governance to AI, explaining that he prioritizes democratic oversight. He distinguished this from automating individual tasks and also discussed restrictions on recursive self-improvement.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-            "published_date": "2026-11-26"
-          },
-          {
-            "rank": 4,
-            "title": "[2026-11-26] [Analysis] NVIDIA CEO Huang's code-of-conduct violation puts impact on employee trust in focus",
-            "summary": "Experts explain the implications for corporate culture after CEO Huang admitted to a code-of-conduct violation at an all-hands meeting following his return. They highlighted the risk that making exceptions for executives could undermine employees' pride.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-            "published_date": "2026-11-26"
+            "source_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+            "published_date": "2026-11-27"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "80f2883f68de84aa4d8a6bcf9d4b394c4668cc81ecb330efbd874fb8fa5ca1e2"
+        "source_manga_sha256": "7b29385e2fe3fb0b455153e68d2899bbf32a27b4988ae4b156b3154dc12afacc"
       }
     },
-    "media_updated_at": "2026-11-26"
+    "media_updated_at": "2026-11-27"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -63,34 +39,18 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [
-    "【2026-11-26】ニューヨーク州、AIチャットボット搭載玩具を5年間禁止する法律が成立",
-    "【2026-11-26】AnthropicのアモデイCEO、AIへの統治権移譲を支持するとの批判に反論",
-    "【2026-11-26】【解説】NVIDIAのフアンCEOによる行動規範違反、社員の信頼への影響が焦点"
-  ],
-  "topCards": [
-    {
-      "rank": 2,
-      "title": "【2026-11-26】ニューヨーク州、AIチャットボット搭載玩具を5年間禁止する法律が成立",
-      "summary": "ホークル知事がAIチャットボット搭載玩具の製造・流通・販売を5年間禁止する法案に署名。発効は署名から90日後で、子どもの安全やプライバシーが焦点。",
-      "manga_url": "",
-      "video_url": ""
-    },
-    {
-      "rank": 3,
-      "title": "【2026-11-26】AnthropicのアモデイCEO、AIへの統治権移譲を支持するとの批判に反論",
-      "summary": "アモデイCEOはAIに人間の統治を委ねる考えを否定し、民主的監督を重視すると説明。個別作業の自動化とは区別し、再帰的自己改善への制限にも言及した。",
-      "manga_url": "",
-      "video_url": ""
-    }
-  ],
-  "topList": [
-    {
-      "rank": 4,
-      "title": "【2026-11-26】【解説】NVIDIAのフアンCEOによる行動規範違反、社員の信頼への影響が焦点"
-    }
-  ],
+  "breaking": [],
+  "topCards": [],
+  "topList": [],
   "archive": [
+    {
+      "no": "256",
+      "kind": "✨ ラミッカ",
+      "date": "11.26",
+      "img": "news/top1_manga_2026-11-26.png",
+      "title": "【2026-11-26】Character.AIの非公開チャット売却計画に42州の司法長官らが異議",
+      "source_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    },
     {
       "no": "255",
       "kind": "✨ ラミッカ",
