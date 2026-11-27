@@ -1,34 +1,50 @@
 {
-  "dispatchNo": "257",
-  "dateLabel": "2026.11.27",
+  "dispatchNo": "258",
+  "dateLabel": "2026.11.28",
   "top1": {
-    "title": "【2026-11-27】【解説】生成AI時代に問う創作の効率化、GTA VIが示す時間をかける価値",
-    "lead1": "TechCrunchが、生成AIを使わず制作されたGTA VIを題材に、創作と効率化の関係を論じた。",
-    "lead2": "試行錯誤や作り直しは単なる無駄なのか。AIによる効率化が進むなか、時間をかけて作る価値を問い直す解説だ。",
-    "manga_url": "news/top1_manga_2026-11-27.png",
+    "title": "【2026-11-28】政府、高性能AIの安全確保義務と違反時の罰則を盛り込む法改正案概要",
+    "lead1": "政府は高性能AIの提供事業者に安全確保措置と報告を義務づけ、違反時の罰則を設けるAI法改正案の概要を示した。",
+    "lead2": "AIによるサイバー攻撃などのリスク増大に対応する。成長戦略との調整を経て、2027年通常国会への提出を目指す。",
+    "manga_url": "news/top1_manga_2026-11-28.png",
     "video_url": "",
-    "source_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "source_url": "https://mainichi.jp/articles/20261128/ddm/002/010/069000c",
     "editions": {
       "en": {
         "language": "en",
-        "date": "2026-11-27",
-        "manga_url": "news/top1_manga_2026-11-27_en.png",
-        "manga_sha256": "e1aef067112dc2f97b792bc430dcce9a87a6cdc4a18159a664f1bb7ee18c49f9",
+        "date": "2026-11-28",
+        "manga_url": "news/top1_manga_2026-11-28_en.png",
+        "manga_sha256": "918dbdcaa7a2ddd9ed18329c31ded2b458a4fd7d1f6d2e7ee4775fe02a2d743e",
         "top10": [
           {
             "rank": 1,
-            "title": "[2026-11-27] [Analysis] Rethinking Creative Efficiency in the Generative AI Era: GTA VI Shows the Value of Taking Time",
-            "summary": "TechCrunch discussed the tension between the creative value of trial and error and reworking, and AI-driven efficiency, using GTA VI, which was developed without generative AI, as its example.",
-            "source": "TechCrunch",
-            "source_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-            "published_date": "2026-11-27"
+            "title": "[2026-11-28] Government outlines legal amendment requiring safety measures for advanced AI and penalties for violations",
+            "summary": "The government presented an outline of a bill to amend the AI Act. It would require providers of advanced AI to implement safety measures and submit reports, and introduce penalties for violations. The government aims to submit the bill to the regular Diet session in 2027.",
+            "source": "毎日新聞",
+            "source_url": "https://mainichi.jp/articles/20261128/ddm/002/010/069000c",
+            "published_date": "2026-11-28"
+          },
+          {
+            "rank": 2,
+            "title": "[2026-11-28] Defense Ministry adopts \"Defense AI Vision,\" leaving ultimate command and responsibility with humans",
+            "summary": "The Defense Ministry adopted new guidelines for AI use. They explicitly state that \"humans bear ultimate command and responsibility,\" clarifying accountability more clearly than the previous policy.",
+            "source": "毎日新聞",
+            "source_url": "https://mainichi.jp/articles/20261128/ddm/012/010/085000c",
+            "published_date": "2026-11-28"
+          },
+          {
+            "rank": 3,
+            "title": "[2026-11-28] Japan Fact-check Center corrects fact-check article quoting AI-generated, fabricated remarks by a party leader",
+            "summary": "The Japan Fact-check Center corrected a fact-check article published during the House of Representatives election campaign. It had quoted AI-generated content attributing remarks to Akiko Oishi that she had not actually made.",
+            "source": "毎日新聞",
+            "source_url": "https://mainichi.jp/articles/20261128/ddm/041/010/060000c",
+            "published_date": "2026-11-28"
           }
         ],
         "manga_mode": "text-localization-v1",
-        "source_manga_sha256": "7b29385e2fe3fb0b455153e68d2899bbf32a27b4988ae4b156b3154dc12afacc"
+        "source_manga_sha256": "c03366e23b42068a0853a68df6115ec088babf8a2b748420c4108241f03600cc"
       }
     },
-    "media_updated_at": "2026-11-27"
+    "media_updated_at": "2026-11-28"
   },
   "heroVideoUrl": "",
   "editorsDesk": {
@@ -39,10 +55,36 @@
     "bonusTitle": "今日のおまけアニメ",
     "bonusNote": "今日のおまけアニメ。クリックで再生。"
   },
-  "breaking": [],
-  "topCards": [],
+  "breaking": [
+    "【2026-11-28】防衛省が「ディフェンスAIビジョン」策定、最終的な指揮と責任は人間に",
+    "【2026-11-28】日本ファクトチェックセンター、AI生成の架空党首発言を引用した検証記事を訂正"
+  ],
+  "topCards": [
+    {
+      "rank": 2,
+      "title": "【2026-11-28】防衛省が「ディフェンスAIビジョン」策定、最終的な指揮と責任は人間に",
+      "summary": "防衛省がAI活用の新指針を策定。「最終的な指揮と責任は人間が負う」と明記し、従来方針より責任の所在を明確にした。",
+      "manga_url": "",
+      "video_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "【2026-11-28】日本ファクトチェックセンター、AI生成の架空党首発言を引用した検証記事を訂正",
+      "summary": "日本ファクトチェックセンターが、衆院選期間中の検証記事を訂正。大石晃子氏の実在しない発言を、AI生成の内容から引用していた。",
+      "manga_url": "",
+      "video_url": ""
+    }
+  ],
   "topList": [],
   "archive": [
+    {
+      "no": "257",
+      "kind": "✨ ラミッカ",
+      "date": "11.27",
+      "img": "news/top1_manga_2026-11-27.png",
+      "title": "【2026-11-27】【解説】生成AI時代に問う創作の効率化、GTA VIが示す時間をかける価値",
+      "source_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
     {
       "no": "256",
       "kind": "✨ ラミッカ",

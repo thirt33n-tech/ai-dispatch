@@ -1,34 +1,92 @@
 {
-  "date": "2026.11.27",
-  "fetched_via": "publisher_direct",
+  "date": "2026.11.28",
+  "fetched_via": "web_search",
   "top10": [
     {
       "rank": 1,
-      "title": "【2026-11-27】【解説】生成AI時代に問う創作の効率化、GTA VIが示す時間をかける価値",
-      "summary": "TechCrunchは、生成AIを使わず制作されたGTA VIを題材に、試行錯誤や作り直しが生む創作の価値と、AIによる効率化との緊張関係を論じた。",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-      "published_date": "2026-11-27",
+      "title": "【2026-11-28】政府、高性能AIの安全確保義務と違反時の罰則を盛り込む法改正案概要",
+      "summary": "政府がAI法改正案の概要を提示。高性能AIの提供事業者に安全確保措置と報告を義務づけ、違反時の罰則を設ける。2027年通常国会への提出を目指す。",
+      "source": "毎日新聞",
+      "source_url": "https://mainichi.jp/articles/20261128/ddm/002/010/069000c",
+      "published_date": "2026-11-28",
       "script": {
         "panels": [
           {
-            "speech": "スマホに速報！ＡＩなしの大作？",
+            "speech": "スマホに速報！ＡＩ法改正案？",
             "narration": ""
           },
           {
-            "speech": "ええっ！効率だけが正義じゃない！",
+            "speech": "安全対策に罰則も！？",
             "narration": ""
           },
           {
-            "speech": "作り直す時間にも価値がある",
-            "narration": "TechCrunchの解説は、生成AIを使わず制作されたGTA VIを題材に、試行錯誤や細部への作り込みの価値を論じている。"
+            "speech": "まだ成立ではないんだね",
+            "narration": "政府は高性能AIの提供事業者に安全確保措置と報告を義務づける改正案概要を提示。2027年通常国会への提出を目指す。"
           },
           {
-            "speech": "みなみも速さより中身を見たい",
+            "speech": "みなみは実効性に注目！",
             "narration": "次回に続く"
           }
         ],
-        "telop_text": "【解説】GTA VIを通じて考える、生成AI時代の効率化と創作に時間をかける価値"
+        "telop_text": "政府がAI法改正案概要を提示　高性能AIの安全確保義務・報告・違反時の罰則を検討"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "【2026-11-28】防衛省が「ディフェンスAIビジョン」策定、最終的な指揮と責任は人間に",
+      "summary": "防衛省がAI活用の新指針を策定。「最終的な指揮と責任は人間が負う」と明記し、従来方針より責任の所在を明確にした。",
+      "source": "毎日新聞",
+      "source_url": "https://mainichi.jp/articles/20261128/ddm/012/010/085000c",
+      "published_date": "2026-11-28",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに防衛ＡＩの新指針！",
+            "narration": ""
+          },
+          {
+            "speech": "最終責任は人間なんだ！",
+            "narration": ""
+          },
+          {
+            "speech": "関与から責任の明確化へ",
+            "narration": "防衛省は「ディフェンスAIビジョン」を策定。軍事分野を含む組織利用で、最終的な指揮と責任を人間が負う原則を強調した。"
+          },
+          {
+            "speech": "速さと安全、両立できる？",
+            "narration": "次回に続く"
+          }
+        ],
+        "telop_text": "防衛省の新AI指針　最終的な指揮と責任は人間が負う原則を明確化"
+      }
+    },
+    {
+      "rank": 3,
+      "title": "【2026-11-28】日本ファクトチェックセンター、AI生成の架空党首発言を引用した検証記事を訂正",
+      "summary": "日本ファクトチェックセンターが、衆院選期間中の検証記事を訂正。大石晃子氏の実在しない発言を、AI生成の内容から引用していた。",
+      "source": "毎日新聞",
+      "source_url": "https://mainichi.jp/articles/20261128/ddm/041/010/060000c",
+      "published_date": "2026-11-28",
+      "script": {
+        "panels": [
+          {
+            "speech": "スマホに検証記事の訂正！",
+            "narration": ""
+          },
+          {
+            "speech": "検証に架空の発言！？",
+            "narration": ""
+          },
+          {
+            "speech": "引用元の確認が大事だね",
+            "narration": "日本ファクトチェックセンターは衆院選中の検証記事を訂正。大石晃子氏の実在しない発言を、AI生成の内容から引用していた。"
+          },
+          {
+            "speech": "みなみも原文まで確認！",
+            "narration": "次回おたのしみに"
+          }
+        ],
+        "telop_text": "JFCが検証記事を訂正　AI生成の架空発言を引用、原資料確認の重要性が浮き彫りに"
       }
     }
   ]
